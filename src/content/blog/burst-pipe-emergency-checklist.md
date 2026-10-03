@@ -17,6 +17,7 @@ breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Blog", "url": "/blog/"}, {"
 faq: []
 published_at: "2026-09-15"
 services: ["water-damage-restoration", "appliance-leak-cleanup"]
+author: "Jason Pacheco"
 ---
 <!-- Page body not yet generated. Run `build_site.py render --slug dry1-out-restoration-and-construction` to populate. The frontmatter above is the source-of-truth metadata from the plan. -->
 

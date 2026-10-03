@@ -17,6 +17,7 @@ faq: [{"question": "Does homeowners insurance cover water damage from a leaking 
 published_at: "2026-10-02"
 services: ["water-damage-restoration", "burst-pipe-repair"]
 rendered: true
+author: "Jason Pacheco"
 ---
 **TL;DR:** Homeowners insurance typically covers water damage that happens suddenly and accidentally, such as a burst pipe, a failed water heater, or an overflowing washing machine. It typically denies damage from gradual leaks, poor maintenance, or flooding, which requires separate flood insurance. The deciding factor is almost always how long the water was leaking and whether a reasonable homeowner could have caught it sooner.
 
