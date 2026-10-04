@@ -19,6 +19,8 @@
 // brand.response_minutes (the claims_lint gate) and is absent on older sites.
 // The 24/7 test is the same regex as TrustStrip / Header / claims_lint.
 //
+// LIGHT-THEME VARIANT (astro-starter-light overlay): same logic as the
+// starter file, light surfaces only. Keep the two in sync.
 // On the homepage this replaces ReviewsStrip (same rating + snippets job, plus
 // the credentials), so review quotes are not stacked three times.
 // AggregateRating schema is NOT emitted here: schema.ts already embeds it in
@@ -118,16 +120,16 @@ const show = Boolean(city && name) && (tiles.length > 0 || reviews.length > 0);
 ---
 
 {show && (
-  <section class="bg-dark py-20 border-y border-white/10 text-white" aria-labelledby="home-proof-heading">
+  <section class="bg-dark-50 py-20 border-y border-dark/10 text-dark-900" aria-labelledby="home-proof-heading">
     <div class="container-wide">
       <div class="max-w-3xl mx-auto text-center">
         <div class="eyebrow">Proof, not promises</div>
-        <h2 id="home-proof-heading" class="text-3xl md:text-5xl font-black uppercase tracking-tighter text-white mb-4">
+        <h2 id="home-proof-heading" class="text-3xl md:text-5xl font-black uppercase tracking-tight text-dark-900 mb-4">
           Why {city} homeowners choose {name}
         </h2>
-        <p class="text-lg text-white/80 m-0">{lead}</p>
+        <p class="text-lg text-dark-700 m-0">{lead}</p>
         {stars > 0 && (
-          <div class="flex justify-center gap-1 text-amber-400 mt-4" aria-hidden="true">
+          <div class="flex justify-center gap-1 text-amber-500 mt-4" aria-hidden="true">
             {Array.from({ length: stars }).map(() => <Star size={22} class="fill-current" />)}
           </div>
         )}
@@ -138,14 +140,14 @@ const show = Boolean(city && name) && (tiles.length > 0 || reviews.length > 0);
           {tiles.map((t) => {
             const Icon = t.icon;
             return (
-              <li class="m-0 p-6 rounded-lg border border-white/10 bg-white/5 flex gap-4 items-start">
-                <span class="text-primary-400 shrink-0 mt-1"><Icon size={26} /></span>
+              <li class="m-0 p-6 rounded-lg border border-dark/10 bg-white flex gap-4 items-start">
+                <span class="text-primary-700 shrink-0 mt-1"><Icon size={26} /></span>
                 <div class="min-w-0">
-                  <p class="m-0 text-xl font-black uppercase tracking-tight text-white">{t.value}</p>
-                  {t.label && <p class="m-0 mt-1 text-sm text-white/70 break-words">{t.label}</p>}
+                  <p class="m-0 text-xl font-black uppercase tracking-tight text-dark-900">{t.value}</p>
+                  {t.label && <p class="m-0 mt-1 text-sm text-dark-600 break-words">{t.label}</p>}
                   {t.href && (
                     <a href={t.href} target="_blank" rel="noopener"
-                       class="inline-block mt-2 text-xs font-bold uppercase tracking-widest text-primary-400 no-underline hover:underline">
+                       class="inline-block mt-2 text-xs font-bold uppercase tracking-widest text-primary-700 no-underline hover:underline">
                       {t.linkText}
                     </a>
                   )}
@@ -159,12 +161,12 @@ const show = Boolean(city && name) && (tiles.length > 0 || reviews.length > 0);
       {reviews.length > 0 && (
         <div class="grid gap-6 md:grid-cols-3 max-w-6xl mx-auto mt-10">
           {reviews.map((r) => (
-            <figure class="m-0 p-6 rounded-lg border border-white/10 bg-white/5 flex flex-col gap-3">
-              <div class="flex gap-1 text-amber-400" role="img" aria-label={`${r.rating} out of 5 stars`}>
+            <figure class="m-0 p-6 rounded-lg border border-dark/10 bg-white flex flex-col gap-3">
+              <div class="flex gap-1 text-amber-500" role="img" aria-label={`${r.rating} out of 5 stars`}>
                 {Array.from({ length: Math.min(5, r.rating) }).map(() => <Star size={14} class="fill-current" />)}
               </div>
-              <blockquote class="m-0 p-0 border-0 text-white/85 text-sm leading-relaxed">“{r.quote}”</blockquote>
-              <figcaption class="text-white/60 text-xs font-bold uppercase tracking-widest mt-auto">
+              <blockquote class="m-0 p-0 border-0 text-dark-700 text-sm leading-relaxed">“{r.quote}”</blockquote>
+              <figcaption class="text-dark-500 text-xs font-bold uppercase tracking-widest mt-auto">
                 {r.author}, Google review{r.when ? ` · ${r.when}` : ""}
               </figcaption>
             </figure>
