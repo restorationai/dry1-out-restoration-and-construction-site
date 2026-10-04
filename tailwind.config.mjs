@@ -13,7 +13,7 @@ export default {
     extend: {
       colors: {
         dark: {
-          DEFAULT: "#161618",
+          DEFAULT: "#0b0c10",
           50: "#f9fafb",
           100: "#f3f4f6",
           200: "#e5e7eb",
@@ -52,8 +52,8 @@ export default {
            2026-08-05: "Action to call on the website need to match golds as
            the logo" — the fill is the logo gold now, the label moved instead. */
         cta: {
-          DEFAULT: "#1b2e6d",
-          hover: "#13204c",
+          DEFAULT: "#3356cc",
+          hover: "#2a47a8",
           fg: "#ffffff",
         },
         accent: {
