@@ -5,7 +5,7 @@
 export const brand = {
   slug: "dry1-out-restoration-and-construction",
   displayName: "Dry1 Out Restoration and Construction",
-  shortName: "Dry1",
+  shortName: "Dry1Out",
   legalName: "Dry1 Out Restoration and Construction",
   // Registered DBA / trade name — filled by rename_site_sync.py the moment
   // the state approves the client's DBA filing (empty until then). When set,

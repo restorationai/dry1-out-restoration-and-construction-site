@@ -71,7 +71,7 @@ Beyond the rating on a review page, a few things separate a company that dries y
 
 Call a restoration company, not your insurance company, the moment you find standing water, because most policies require you to mitigate damage promptly and a delay can complicate the claim.
 
-Stop the water source first if it's safe to do so (shut the supply valve at a burst pipe or fixture). Then call a local crew that can be on-site quickly and start extraction before the drywall, subfloor, and baseboards absorb more than they can shed. Dry1, based in Vista, is one option built for exactly this: an IICRC Certified Firm with 24/7 emergency service and a licensed, insured crew that documents the loss as they work.
+Stop the water source first if it's safe to do so (shut the supply valve at a burst pipe or fixture). Then call a local crew that can be on-site quickly and start extraction before the drywall, subfloor, and baseboards absorb more than they can shed. Dry1Out, based in Vista, is one option built for exactly this: an IICRC Certified Firm with 24/7 emergency service and a licensed, insured crew that documents the loss as they work.
 
 Once mitigation is underway, that's when you call your insurer to open the claim, ideally with photos and a preliminary scope already in hand. Our [24-hour water damage checklist](/blog/what-to-do-first-24-hours-water-damage/) covers the order of operations in more detail, and if you're weighing multiple bids, [how to choose a restoration company](/blog/choosing-a-restoration-company/) has the questions worth asking before you sign anything.
 
