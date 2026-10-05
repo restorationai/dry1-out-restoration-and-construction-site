@@ -27,7 +27,7 @@ The category of water matters more than most homeowners expect. Clean water from
 
 ## Our process
 
-1. **Water extraction.** We pull standing and surface water first, because every hour it sits is an hour it's wicking further into drywall, baseboards, and subfloor.
+1. **Water extraction.** We pull [standing and surface water](/services/emergency-water-removal/) first, because every hour it sits is an hour it's wicking further into drywall, baseboards, and subfloor.
 2. **Assessment and moisture mapping.** Moisture meters and thermal imaging show where water traveled that isn't visible yet, including inside wall cavities and under flooring.
 3. **Containment for Category 2 or 3 water.** When the source is gray or black water, we isolate the affected area to keep contaminated water and airborne particulates from spreading to dry parts of the structure.
 4. **Structural drying.** Air movers and dehumidifiers are placed based on the moisture map, not evenly spaced around the room, and adjusted daily as readings change.
@@ -35,7 +35,7 @@ The category of water matters more than most homeowners expect. Clean water from
 
 ## What separates a good water damage response from a bad one
 
-The most common mistake is treating drying as a one-time setup instead of a monitored process. Equipment placed on day one and left unchecked for a week often means wet material underneath flooring or behind baseboards that reads dry at the surface while trapped moisture keeps feeding mold growth, which can start within 24 to 48 hours in the right conditions.
+The most common mistake is treating drying as a one-time setup instead of a monitored process. Equipment placed on day one and left unchecked for a week often means wet material underneath flooring or behind baseboards that reads dry at the surface while trapped moisture keeps feeding [mold growth](/services/mold-remediation/), which can start within 24 to 48 hours in the right conditions.
 
 Another gap: skipping documentation. Insurance adjusters want moisture readings, photos, and a drying log that shows the structure was brought to an industry-recognized dry standard, not just a technician's word that it's fine. Missing or thin documentation is one of the more common reasons a claim gets questioned later.
 
@@ -59,6 +59,6 @@ Vista's rainy season generally runs from December through March, and that's when
 
 ## Service area
 
-Dry1 Out Restoration and Construction serves Vista and the surrounding North San Diego County communities. If you're searching from a nearby city, our location pages cover water damage response details specific to that area.
+Dry1 Out Restoration and Construction serves [Vista](/service-areas/vista-ca/) and the surrounding North San Diego County communities. If you're searching from a nearby city, our location pages for [Oceanside](/service-areas/oceanside-ca/water-damage-restoration/), [Carlsbad](/service-areas/carlsbad-ca/water-damage-restoration/), [San Marcos](/service-areas/san-marcos-ca/water-damage-restoration/) and [Escondido](/service-areas/escondido-ca/water-damage-restoration/) cover water damage response details specific to each area.
 
 If water is actively spreading through your home or business right now, don't wait for it to find its way into the next wall cavity. Call (888) 379-1688 to schedule your moisture assessment and get extraction equipment on site.

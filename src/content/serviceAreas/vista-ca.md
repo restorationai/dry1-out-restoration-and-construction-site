@@ -27,15 +27,15 @@ Vista's mix of coastal-influenced dry heat and the occasional heavy winter storm
 
 ## Services we provide in Vista
 
-Water damage in Vista often starts small: a supply line behind a dishwasher, a slab leak under tile, a washing machine hose that finally gives out. Because so much of the housing stock here sits on slab foundations, water tends to travel sideways under flooring before it ever shows as a stain, which is why we check moisture levels in adjoining rooms, not just the room where the leak was found.
+[Water damage](/services/water-damage-restoration/) in Vista often starts small: a supply line behind a dishwasher, a slab leak under tile, a washing machine hose that finally gives out. Because so much of the housing stock here sits on slab foundations, water tends to travel sideways under flooring before it ever shows as a stain, which is why we check moisture levels in adjoining rooms, not just the room where the leak was found.
 
-Fire and smoke damage calls in Vista range from kitchen fires in older Shadowridge ranch homes to smoke infiltration from regional wildfire events that settles into HVAC systems and soft furnishings even when the home itself was never touched by flame.
+[Fire and smoke damage](/services/fire-damage-restoration/) calls in Vista range from kitchen fires in older Shadowridge ranch homes to smoke infiltration from regional wildfire events that settles into HVAC systems and soft furnishings even when the home itself was never touched by flame.
 
-Mold remediation work here usually traces back to one of two sources: a water intrusion that wasn't fully dried, or a crawlspace with poor ventilation trapping humidity against floor joists. Coastal humidity swings mean mold can establish on damp drywall within a couple of days, so timing matters more than most homeowners expect.
+[Mold remediation](/services/mold-remediation/) work here usually traces back to one of two sources: a water intrusion that wasn't fully dried, or a crawlspace with poor ventilation trapping humidity against floor joists. Coastal humidity swings mean mold can establish on damp drywall within a couple of days, so timing matters more than most homeowners expect.
 
-Biohazard cleanup, including trauma and sewage-related situations, is handled with the same documentation and containment protocols regardless of the property type, residential or commercial.
+[Biohazard cleanup](/services/biohazard-cleanup/), including trauma and sewage-related situations, is handled with the same documentation and containment protocols regardless of the property type, residential or commercial.
 
-Reconstruction follows naturally from the mitigation work: once materials are dried or removed, our crews rebuild drywall, flooring, and framing so the property owner isn't managing a second contractor relationship on top of the original loss.
+[Reconstruction](/services/reconstruction/) follows naturally from the mitigation work: once materials are dried or removed, our crews rebuild drywall, flooring, and framing so the property owner isn't managing a second contractor relationship on top of the original loss.
 
 ## Coverage and how fast we can get there
 

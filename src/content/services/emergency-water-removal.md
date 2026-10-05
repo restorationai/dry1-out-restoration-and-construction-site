@@ -23,7 +23,7 @@ A burst supply line, an overflowing washing machine, or a failed sump pump doesn
 
 ## What Emergency Water Removal & Cleanup actually involves
 
-This is the extraction phase, distinct from the drying and reconstruction that may follow. It starts with pulling standing water off floors and out of carpet, padding, and sometimes subfloor using truck-mounted or portable extraction units, followed by targeted pumping if water has pooled in a crawlspace, basement, or beneath engineered flooring. Technicians use moisture meters and thermal imaging to find water that's migrated into wall cavities or under cabinetry, because what looks dry on the surface often isn't a few inches down. The goal of this phase isn't total dryness, that comes next with structural drying equipment, it's removing the bulk water fast enough that materials have a chance to be saved rather than demoed.
+This is the extraction phase, distinct from the [structural drying](/services/water-damage-restoration/) and [reconstruction](/services/reconstruction/) that may follow. It starts with pulling standing water off floors and out of carpet, padding, and sometimes subfloor using truck-mounted or portable extraction units, followed by targeted pumping if water has pooled in a crawlspace, basement, or beneath engineered flooring. Technicians use moisture meters and thermal imaging to find water that's migrated into wall cavities or under cabinetry, because what looks dry on the surface often isn't a few inches down. The goal of this phase isn't total dryness, that comes next with structural drying equipment, it's removing the bulk water fast enough that materials have a chance to be saved rather than demoed.
 
 ## Our process
 
@@ -59,6 +59,6 @@ Vista doesn't deal with freeze-thaw pipe bursts the way colder climates do, but 
 
 ## Service area
 
-Dry1 Out Restoration and Construction responds to emergency water removal calls throughout Vista and nearby North County communities including Oceanside, Carlsbad, San Marcos, and Escondido.
+Dry1 Out Restoration and Construction responds to emergency water removal calls throughout Vista and nearby North County communities including [Oceanside](/service-areas/oceanside-ca/water-damage-restoration/), [Carlsbad](/service-areas/carlsbad-ca/water-damage-restoration/), [San Marcos](/service-areas/san-marcos-ca/water-damage-restoration/), and [Escondido](/service-areas/escondido-ca/water-damage-restoration/).
 
 If water is actively spreading through your home, every hour changes what can be saved. Call (888) 379-1688 now to get extraction equipment moving and stop the damage from spreading further.

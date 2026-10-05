@@ -33,7 +33,7 @@ Most residential jobs run anywhere from a single day for a small, contained bath
 
 ## What separates a good mold remediation response from a bad one
 
-The most common failure isn't the remediation itself, it's skipping the moisture source. Killing surface mold on a wall that's still wet from an active leak just buys a few weeks before it comes back. A close second is inadequate containment: cutting into moldy drywall without sealing the room first can push spores into the HVAC system and cross-contaminate rooms that were never affected.
+The most common failure isn't the remediation itself, it's skipping the moisture source. Killing surface mold on a wall that's still [wet from an active leak](/services/water-damage-restoration/) just buys a few weeks before it comes back. A close second is inadequate containment: cutting into moldy drywall without sealing the room first can push spores into the HVAC system and cross-contaminate rooms that were never affected.
 
 Insurance adjusters reviewing a mold claim generally want to see a documented moisture source, dated photos of the affected area before demolition, and some form of clearance confirmation after the work. Jobs that skip photo documentation or don't test before closing containment tend to run into disputes later, especially if a homeowner tries to sell the property and a buyer's inspector finds evidence the work happened.
 
@@ -57,6 +57,6 @@ Vista sits far enough inland from the coast that it doesn't get San Diego's heav
 
 ## Service area
 
-Dry1 Out Restoration and Construction handles mold remediation for homeowners and property managers throughout Vista and nearby North San Diego County communities, including Oceanside, Carlsbad, San Marcos, Escondido, and Fallbrook.
+Dry1 Out Restoration and Construction handles mold remediation for homeowners and property managers throughout Vista and nearby North San Diego County communities, including [Oceanside](/service-areas/oceanside-ca/mold-remediation/), [Carlsbad](/service-areas/carlsbad-ca/mold-remediation/), [San Marcos](/service-areas/san-marcos-ca/mold-remediation/), [Escondido](/service-areas/escondido-ca/mold-remediation/), and Fallbrook.
 
 If you're smelling something musty that wasn't there before, or you've found spotting after a leak that took a while to notice, call (888) 379-1688 to request an air quality test and get a written scope before anything comes off your walls.
