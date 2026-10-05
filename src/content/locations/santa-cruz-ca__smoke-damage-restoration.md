@@ -17,7 +17,7 @@ area_slug: "santa-cruz-ca"
 service_slug: "smoke-damage-restoration"
 city: "Santa Cruz"
 state: "CA"
-service_display: "smoke-damage-restoration"
+service_display: "Smoke Damage Restoration"
 rendered: true
 ---
 **Smoke damage emergency in Santa Cruz?** We answer 24/7 and send an IICRC-trained crew to assess soot penetration before it sets permanently into plaster, redwood trim, and the coastal humidity makes residue cleanup harder by the hour. Wildfire smoke drifting in from the surrounding hills behaves differently than a kitchen fire or chimney flare-up, and homes from Westside to Seabright each hold odor and soot in their own way depending on construction era and how long windows stayed open during the event.

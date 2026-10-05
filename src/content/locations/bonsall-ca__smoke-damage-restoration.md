@@ -17,7 +17,7 @@ area_slug: "bonsall-ca"
 service_slug: "smoke-damage-restoration"
 city: "Bonsall"
 state: "CA"
-service_display: "smoke-damage-restoration"
+service_display: "Smoke Damage Restoration"
 rendered: true
 ---
 **Smoke damage after a wildfire or structure fire in Bonsall doesn't behave the same way it does in a dense suburban tract.** Acreage lots, open-air barns, and stucco-and-stone construction common throughout Bonsall's avocado and citrus groves trap smoke differently than a tightly sealed tract home, and soot can travel farther on the Santa Ana winds that push through this stretch of inland North County every fall. We answer 24/7, and our crews come trained in both structural smoke mitigation and the odor chemistry that lingers in rural outbuildings as much as in the main house.

@@ -17,7 +17,7 @@ area_slug: "hidden-meadows-ca"
 service_slug: "smoke-damage-restoration"
 city: "Hidden Meadows"
 state: "CA"
-service_display: "smoke-damage-restoration"
+service_display: "Smoke Damage Restoration"
 rendered: true
 ---
 **Smoke damage emergency in Hidden Meadows?** We answer 24/7, and our FSRT-trained crew can begin documentation, air scrubbing, and containment the same day you call (888) 379-1688. In this stretch of San Diego County backcountry, smoke doesn't need a structure fire next door to ruin a house, a wildfire burning ridgelines away can push soot and odor into attics, ductwork, and fabric for days before anyone realizes the damage is permanent.

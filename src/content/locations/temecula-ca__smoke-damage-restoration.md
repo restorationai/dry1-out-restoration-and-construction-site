@@ -17,7 +17,7 @@ area_slug: "temecula-ca"
 service_slug: "smoke-damage-restoration"
 city: "Temecula"
 state: "CA"
-service_display: "smoke-damage-restoration"
+service_display: "Smoke Damage Restoration"
 rendered: true
 ---
 **Smoke damage emergency in Temecula?** We answer 24/7 and send an IICRC-trained crew to assess the damage and start containment before smoke residue sets permanently into drywall, cabinetry, and HVAC systems. Whether the source is a kitchen fire in a Paloma del Sol kitchen or ash drift from a wildfire burning in the hills above Wine Country, the longer soot sits, the harder it is to remove without repainting or replacing materials.

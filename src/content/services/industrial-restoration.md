@@ -14,7 +14,7 @@ internal_links: ["/services/", "/contact/", "/service-areas/berkeley-ca/", "/ser
 breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Services", "url": "/services/"}, {"name": "industrial-restoration"}]
 faq: []
 service_slug: "industrial-restoration"
-service_display: "industrial-restoration"
+service_display: "Industrial Restoration"
 ---
 <!-- Page body not yet generated. Run `build_site.py render --slug dry1-out-restoration-and-construction` to populate. The frontmatter above is the source-of-truth metadata from the plan. -->
 

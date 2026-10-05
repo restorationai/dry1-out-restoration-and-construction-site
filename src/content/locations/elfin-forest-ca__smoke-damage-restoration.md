@@ -17,7 +17,7 @@ area_slug: "elfin-forest-ca"
 service_slug: "smoke-damage-restoration"
 city: "Elfin Forest"
 state: "CA"
-service_display: "smoke-damage-restoration"
+service_display: "Smoke Damage Restoration"
 ---
 <!-- Page body not yet generated. Run `build_site.py render --slug dry1-out-restoration-and-construction` to populate. The frontmatter above is the source-of-truth metadata from the plan. -->
 

@@ -17,7 +17,7 @@ area_slug: "escondido-ca"
 service_slug: "smoke-damage-restoration"
 city: "Escondido"
 state: "CA"
-service_display: "smoke-damage-restoration"
+service_display: "Smoke Damage Restoration"
 rendered: true
 ---
 **Smoke damage emergency in Escondido?** We answer 24/7, and our trucks run SR-78 from the Vista shop into San Pasqual Valley, Old Escondido, and the Grand Avenue corridor daily. Wildfire smoke behaves differently than a kitchen fire or a structure fire next door: it settles as a fine, acidic film across every horizontal surface, works into HVAC returns, and keeps off-gassing for weeks if it isn't pulled out of porous materials fast. Call before you start wiping soot yourself, because the wrong cleaning method can drive residue deeper into drywall, grout, and old plaster.

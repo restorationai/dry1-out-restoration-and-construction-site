@@ -27,21 +27,21 @@ export default {
           950: "#030712",
         },
         primary: {
-          DEFAULT: "#182b6b",
-          50: "#f3f5fc",
-          100: "#dee4f8",
-          200: "#bcc8f0",
-          300: "#8a9fe5",
-          400: "#5d79db",
-          500: "#2f54d0",
+          DEFAULT: "#bd312d",
+          50: "#fcf3f3",
+          100: "#f7dfde",
+          200: "#efbebd",
+          300: "#e48e8c",
+          400: "#d9625e",
+          500: "#ce3531",
           // 600/700 are the DARKENED rungs — brand-tinted TEXT on a white or
           // light surface (Hero's outline button, ProcessSection icons). They
           // are NOT the button fill; that is `cta` below.
-          600: "#182b6b",
-          700: "#111e4a",
-          800: "#0c1638",
-          900: "#080f25",
-          950: "#040712",
+          600: "#bd312d",
+          700: "#8c2421",
+          800: "#6f1d1a",
+          900: "#571615",
+          950: "#310d0c",
         },
         /* cta — the SOLID-FILL pair: `bg-cta` is every call-to-action's
            background and `text-cta-fg` is the label that sits on it. They are

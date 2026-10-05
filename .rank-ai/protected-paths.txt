@@ -1,0 +1,3 @@
+# Per-site design edits a --refresh-design must not flatten
+# Santino 2026-10-04: solid red insurance banner
+src/components/ui/InsuranceBanner.astro

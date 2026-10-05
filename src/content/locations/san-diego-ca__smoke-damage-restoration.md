@@ -17,7 +17,7 @@ area_slug: "san-diego-ca"
 service_slug: "smoke-damage-restoration"
 city: "San Diego"
 state: "CA"
-service_display: "smoke-damage-restoration"
+service_display: "Smoke Damage Restoration"
 rendered: true
 ---
 **Smoke damage emergency in San Diego?** We answer 24/7. Whether a wildfire pushed smoke through the canyons into Mira Mesa or a kitchen fire left soot clinging to plaster walls in a North Park Craftsman, smoke residue keeps working on your home long after the flames are out. Acidic soot etches metal fixtures, odor molecules work into stucco pores, and every hour of delay lets that damage set deeper into the materials your house is actually made of.

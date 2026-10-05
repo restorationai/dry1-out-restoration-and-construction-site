@@ -17,7 +17,7 @@ area_slug: "san-jose-ca"
 service_slug: "smoke-damage-restoration"
 city: "San Jose"
 state: "CA"
-service_display: "smoke-damage-restoration"
+service_display: "Smoke Damage Restoration"
 rendered: true
 ---
 **Smoke damage emergency in San Jose?** We answer 24/7, whether the loss is a kitchen fire, an electrical fire in the attic, or a wildfire smoke event that rolled through the South Bay and settled into your HVAC system overnight. Smoke residue is acidic and keeps etching glass, metal, and painted surfaces the longer it sits, so the clock matters as much as the source of the smoke.

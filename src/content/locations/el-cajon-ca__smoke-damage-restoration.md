@@ -17,7 +17,7 @@ area_slug: "el-cajon-ca"
 service_slug: "smoke-damage-restoration"
 city: "El Cajon"
 state: "CA"
-service_display: "smoke-damage-restoration"
+service_display: "Smoke Damage Restoration"
 rendered: true
 ---
 **Smoke damage emergency in El Cajon?** Call (888) 379-1688 and we answer 24/7, whether the loss is a kitchen fire that filled the house with acrid soot or wildfire smoke that settled into your attic after a East County brush fire pushed through on Santa Ana winds. El Cajon's valley floor traps heat and smoke differently than the coast, which means odor and residue often sit heavier and longer in homes here before anyone notices the full extent of the damage.
