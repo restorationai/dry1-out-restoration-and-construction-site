@@ -69,14 +69,14 @@ export const brand = {
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "5.0",
-  gbpReviewCount: "21",
+  gbpReviewCount: "18",
   gbpReviews: [
     { author: "Doug", rating: 5, text: "As good as it gets… fast, friendly put my mind to ease…", when: "September 2026" },
     { author: "Iris", rating: 5, text: "I had a great experience with Dry1Out after a fire damaged my home. The entire situation was overwhelming, but their team made the process much easier from the moment they arrived. They were professional, responsive, and compassionate. They explained what needed to be done, helped me understand the…", when: "September 2026" },
     { author: "Christopher", rating: 5, text: "I've had the pleasure of working with the team at Dry 1 Out, and their professionalism stands out every step of the way. They're responsive, reliable, and thorough in everything they do. You can tell they hold themselves to a high standard and genuinely care about doing quality work. It's been a…", when: "September 2026" },
-    { author: "Yowan", rating: 5, text: "Excellent service after a small kitchen fire. Highly recommend.", when: "September 2026" },
-    { author: "Sumit", rating: 5, text: "The crew was here super fast after our water heater exploded. They really know their stuff about water extraction and getting things dried out properly. Huge relief.", when: "September 2026" },
     { author: "Christopher", rating: 5, text: "Dry1Out Flood and Fire did an amazing job handling a water damage project at one of my rental properties in Carlsbad, California. They were professional, responsive, and did excellent-quality work from start to finish. I highly recommend Dry1Out Flood and Fire to anyone needing water damage…", when: "September 2026" },
+    { author: "Jacob", rating: 5, text: "We had a small fire at our house and honestly didn’t know what to do next. Dry1Out showed up quickly, explained everything clearly, and helped us deal with the fire and smoke damage. The whole team was respectful, easy to work with, and kept us updated throughout the job. They made a terrible…", when: "September 2026" },
+    { author: "Jake", rating: 5, text: "I had a flood in my bathroom and got in touch with Bobby, who responded quickly and was very polite and professional when he came out to assess the damage. Chase and Mike then came out to begin the restoration process, and they were both kind, efficient, and thorough. They made a stressful…", when: "September 2026" },
   ] as { author: string; rating: number; text: string; when: string }[],
   tagline: "24/7 restoration services in Vista, CA.",
   // optional custom insurance positioning line (Hero renders only when set)
