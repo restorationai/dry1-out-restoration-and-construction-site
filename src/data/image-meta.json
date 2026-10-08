@@ -242,6 +242,15 @@
       1200
     ]
   },
+  "/images/services/trauma-scene-cleanup.webp": {
+    "width": 1376,
+    "height": 768,
+    "variants": [
+      480,
+      768,
+      1200
+    ]
+  },
   "/images/services/vandalism-damage-cleanup-and-repair.webp": {
     "width": 1376,
     "height": 768,
