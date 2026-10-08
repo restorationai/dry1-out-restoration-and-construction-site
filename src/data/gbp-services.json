@@ -37,7 +37,8 @@
     "Flood Restoration"
   ],
   "general-contracting": [
-    "General Contracting (Reconstruction & Renovation)"
+    "General Contracting (Reconstruction & Renovation)",
+    "General Contractor"
   ],
   "mold-inspection-testing": [
     "Mold Inspection",
@@ -70,6 +71,7 @@
   ],
   "smoke-damage-restoration": [
     "Smoke Damage Cleanup",
+    "Soot Cleanup",
     "Soot Removal"
   ],
   "storm-damage-restoration": [
