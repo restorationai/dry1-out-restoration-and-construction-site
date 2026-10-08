@@ -7,10 +7,10 @@ primary_keyword: "vehicle impact damage repair vista"
 secondary_keywords: []
 search_intent: "local_specialty"
 priority: 4.5
-plan_hash: "ea99d9eb1c1ff92e"
-generated_at: "2026-09-30T19:28:33.682785+00:00"
+plan_hash: "3e61a33351e9a887"
+generated_at: "2026-10-08T14:17:05.498805+00:00"
 manual_override: false
-internal_links: ["/services/", "/contact/", "/service-areas/berkeley-ca/", "/service-areas/carlsbad-ca/", "/service-areas/chula-vista-ca/", "/service-areas/concord-ca/", "/service-areas/el-cajon-ca/", "/service-areas/encinitas-ca/", "/service-areas/escondido-ca/", "/service-areas/fremont-ca/", "/service-areas/hayward-ca/", "/service-areas/oakland-ca/", "/service-areas/oceanside-ca/", "/service-areas/san-diego-ca/"]
+internal_links: ["/services/", "/contact/"]
 breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Services", "url": "/services/"}, {"name": "Vehicle Impact Damage Repair"}]
 faq: []
 service_slug: "vehicle-impact-damage-repair"

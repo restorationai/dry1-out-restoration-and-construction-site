@@ -7,10 +7,10 @@ primary_keyword: "crime scene cleanup carlsbad"
 secondary_keywords: ["crime scene cleaning", "forensic cleanup", "post-crime cleanup", "homicide cleanup", "suicide scene cleanup"]
 search_intent: "local_sensitive"
 priority: 4.2
-plan_hash: "baf3337ab366718c"
-generated_at: "2026-10-02T05:01:25.404764+00:00"
+plan_hash: "94fe9d2613be4adf"
+generated_at: "2026-10-08T14:17:05.517424+00:00"
 manual_override: false
-internal_links: ["/services/crime-scene-cleanup/", "/service-areas/carlsbad-ca/", "/service-areas/carlsbad-ca/fire-damage-restoration/", "/service-areas/carlsbad-ca/mold-remediation/", "/service-areas/fremont-ca/crime-scene-cleanup/", "/service-areas/oakland-ca/crime-scene-cleanup/", "/contact/"]
+internal_links: ["/services/crime-scene-cleanup/", "/service-areas/carlsbad-ca/", "/service-areas/carlsbad-ca/fire-damage-restoration/", "/service-areas/carlsbad-ca/mold-remediation/", "/service-areas/fremont-ca/crime-scene-cleanup/", "/service-areas/san-diego-ca/crime-scene-cleanup/", "/contact/"]
 breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Service Areas", "url": "/service-areas/"}, {"name": "Carlsbad", "url": "/service-areas/carlsbad-ca/"}, {"name": "Crime Scene Cleanup"}]
 faq: []
 area_slug: "carlsbad-ca"

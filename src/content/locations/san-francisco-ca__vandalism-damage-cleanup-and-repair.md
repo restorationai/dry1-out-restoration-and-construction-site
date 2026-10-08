@@ -7,10 +7,10 @@ primary_keyword: "vandalism damage cleanup and repair san francisco"
 secondary_keywords: []
 search_intent: "local_specialty"
 priority: 3.5
-plan_hash: "5689382495278558"
-generated_at: "2026-10-02T05:01:25.403048+00:00"
+plan_hash: "8e74aced0157ce17"
+generated_at: "2026-10-08T14:17:05.511374+00:00"
 manual_override: false
-internal_links: ["/services/vandalism-damage-cleanup-and-repair/", "/service-areas/san-francisco-ca/", "/service-areas/san-francisco-ca/fire-damage-restoration/", "/service-areas/san-francisco-ca/mold-remediation/", "/service-areas/oakland-ca/vandalism-damage-cleanup-and-repair/", "/contact/"]
+internal_links: ["/services/vandalism-damage-cleanup-and-repair/", "/service-areas/san-francisco-ca/", "/service-areas/san-francisco-ca/fire-damage-restoration/", "/service-areas/san-francisco-ca/mold-remediation/", "/service-areas/oakland-ca/vandalism-damage-cleanup-and-repair/", "/service-areas/san-jose-ca/vandalism-damage-cleanup-and-repair/", "/contact/"]
 breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Service Areas", "url": "/service-areas/"}, {"name": "San Francisco", "url": "/service-areas/san-francisco-ca/"}, {"name": "Vandalism Damage Cleanup and Repair"}]
 faq: []
 area_slug: "san-francisco-ca"

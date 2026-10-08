@@ -8,7 +8,7 @@ secondary_keywords: []
 search_intent: "local_specialty"
 priority: 3.5
 plan_hash: "96a246ab7a305d0c"
-generated_at: "2026-10-02T05:01:25.403204+00:00"
+generated_at: "2026-10-08T14:17:05.511799+00:00"
 manual_override: false
 internal_links: ["/services/emergency-board-up/", "/service-areas/oakland-ca/", "/service-areas/oakland-ca/fire-damage-restoration/", "/service-areas/oakland-ca/mold-remediation/", "/service-areas/san-francisco-ca/emergency-board-up/", "/service-areas/san-jose-ca/emergency-board-up/", "/contact/"]
 breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Service Areas", "url": "/service-areas/"}, {"name": "Oakland", "url": "/service-areas/oakland-ca/"}, {"name": "Emergency Board Up"}]

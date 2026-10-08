@@ -7,10 +7,10 @@ primary_keyword: "crime scene cleanup fremont"
 secondary_keywords: ["crime scene cleaning", "forensic cleanup", "post-crime cleanup", "homicide cleanup", "suicide scene cleanup"]
 search_intent: "local_sensitive"
 priority: 4.2
-plan_hash: "bac3bacd37ea5c20"
-generated_at: "2026-10-02T05:01:25.403901+00:00"
+plan_hash: "95f10bc8c1fa6fab"
+generated_at: "2026-10-08T14:17:05.514773+00:00"
 manual_override: false
-internal_links: ["/services/crime-scene-cleanup/", "/service-areas/fremont-ca/", "/service-areas/fremont-ca/fire-damage-restoration/", "/service-areas/fremont-ca/mold-remediation/", "/service-areas/carlsbad-ca/crime-scene-cleanup/", "/service-areas/oakland-ca/crime-scene-cleanup/", "/contact/"]
+internal_links: ["/services/crime-scene-cleanup/", "/service-areas/fremont-ca/", "/service-areas/fremont-ca/fire-damage-restoration/", "/service-areas/fremont-ca/mold-remediation/", "/service-areas/carlsbad-ca/crime-scene-cleanup/", "/service-areas/san-diego-ca/crime-scene-cleanup/", "/contact/"]
 breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Service Areas", "url": "/service-areas/"}, {"name": "Fremont", "url": "/service-areas/fremont-ca/"}, {"name": "Crime Scene Cleanup"}]
 faq: []
 area_slug: "fremont-ca"

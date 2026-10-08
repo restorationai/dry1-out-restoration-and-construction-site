@@ -7,10 +7,10 @@ primary_keyword: "post-construction and specialty cleaning vista"
 secondary_keywords: ["post construction cleanup", "construction debris cleaning", "final clean", "deep cleaning after renovation"]
 search_intent: "local_service"
 priority: 3.6
-plan_hash: "4f9eef6d447497df"
-generated_at: "2026-09-30T19:28:33.681442+00:00"
+plan_hash: "2b648bbd0fedff4a"
+generated_at: "2026-10-08T14:17:05.497372+00:00"
 manual_override: false
-internal_links: ["/services/", "/contact/", "/service-areas/berkeley-ca/", "/service-areas/carlsbad-ca/", "/service-areas/chula-vista-ca/", "/service-areas/concord-ca/", "/service-areas/el-cajon-ca/", "/service-areas/encinitas-ca/", "/service-areas/escondido-ca/", "/service-areas/fremont-ca/", "/service-areas/hayward-ca/", "/service-areas/oakland-ca/", "/service-areas/oceanside-ca/", "/service-areas/san-diego-ca/"]
+internal_links: ["/services/", "/contact/", "/service-areas/berkeley-ca/post-construction-cleaning/", "/service-areas/oakland-ca/post-construction-cleaning/", "/service-areas/san-diego-ca/post-construction-cleaning/", "/service-areas/san-francisco-ca/post-construction-cleaning/", "/service-areas/san-jose-ca/post-construction-cleaning/"]
 breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Services", "url": "/services/"}, {"name": "Post-Construction and Specialty Cleaning"}]
 faq: []
 service_slug: "post-construction-cleaning"

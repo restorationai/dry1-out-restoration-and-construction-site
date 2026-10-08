@@ -8,7 +8,7 @@ secondary_keywords: ["post construction cleanup", "construction debris cleaning"
 search_intent: "local_service"
 priority: 2.8
 plan_hash: "1464d3bd1f2f7145"
-generated_at: "2026-10-02T05:01:25.403437+00:00"
+generated_at: "2026-10-08T14:17:05.512754+00:00"
 manual_override: false
 internal_links: ["/services/post-construction-cleaning/", "/service-areas/oakland-ca/", "/service-areas/oakland-ca/fire-damage-restoration/", "/service-areas/oakland-ca/mold-remediation/", "/service-areas/berkeley-ca/post-construction-cleaning/", "/service-areas/san-diego-ca/post-construction-cleaning/", "/contact/"]
 breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Service Areas", "url": "/service-areas/"}, {"name": "Oakland", "url": "/service-areas/oakland-ca/"}, {"name": "Post-Construction and Specialty Cleaning"}]

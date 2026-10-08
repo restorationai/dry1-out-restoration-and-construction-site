@@ -8,7 +8,7 @@ secondary_keywords: ["crime scene cleaning", "forensic cleanup", "post-crime cle
 search_intent: "local_sensitive"
 priority: 4.2
 plan_hash: "656b83ea46c9fa57"
-generated_at: "2026-10-02T05:01:25.401713+00:00"
+generated_at: "2026-10-08T14:17:05.506345+00:00"
 manual_override: false
 internal_links: ["/services/crime-scene-cleanup/", "/service-areas/san-jose-ca/", "/service-areas/san-jose-ca/fire-damage-restoration/", "/service-areas/san-jose-ca/mold-remediation/", "/service-areas/carlsbad-ca/crime-scene-cleanup/", "/service-areas/fremont-ca/crime-scene-cleanup/", "/contact/"]
 breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Service Areas", "url": "/service-areas/"}, {"name": "San Jose", "url": "/service-areas/san-jose-ca/"}, {"name": "Crime Scene Cleanup"}]
