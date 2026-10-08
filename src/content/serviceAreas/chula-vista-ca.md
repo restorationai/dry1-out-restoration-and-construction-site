@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Chula Vista, CA | Dry1 Out Restoration and Construction"
+title: "Restoration Services in Chula Vista, CA | Dry 1 Out Restoration and Construction"
 h1: "Restoration Services in Chula Vista"
 meta_description: "Serving Chula Vista, CA with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (888) 379-1688."
 primary_keyword: "restoration services chula vista"
@@ -19,7 +19,7 @@ state: "CA"
 primary: false
 rendered: true
 ---
-Dry1 Out Restoration and Construction handles water damage, fire and smoke damage, mold remediation, and biohazard cleanup for homeowners and property managers across Chula Vista, from the older grid streets near Third Avenue Village to newer master-planned communities in Eastlake and Otay Ranch. We answer 24/7 and coordinate directly with most major insurance carriers so you're not managing the paperwork alone while a crew is drying out your home.
+Dry 1 Out Restoration and Construction handles water damage, fire and smoke damage, mold remediation, and biohazard cleanup for homeowners and property managers across Chula Vista, from the older grid streets near Third Avenue Village to newer master-planned communities in Eastlake and Otay Ranch. We answer 24/7 and coordinate directly with most major insurance carriers so you're not managing the paperwork alone while a crew is drying out your home.
 
 ## Restoration emergencies common in Chula Vista
 
@@ -39,4 +39,4 @@ Western Chula Vista's housing stock is largely mid-century, slab-on-grade constr
 
 Soils across the city vary from sandy coastal terrace to heavier clay further inland, and expansive clay can shift slab foundations enough to crack tile and stress plumbing joints over time. Structural repair and rebuild work requiring a permit goes through the City of Chula Vista's Building Division, and the region's seismic design requirements under the California Building Code factor into how we scope reconstruction, particularly for older homes being opened up for the first time in decades.
 
-If water, fire, smoke, or a biohazard situation has hit your Chula Vista property, call Dry1 Out Restoration and Construction at (888) 379-1688. We're available 24/7 to start the assessment and get documentation moving for your insurance claim.
+If water, fire, smoke, or a biohazard situation has hit your Chula Vista property, call Dry 1 Out Restoration and Construction at (888) 379-1688. We're available 24/7 to start the assessment and get documentation moving for your insurance claim.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in Carlsbad, CA | Dry1 Out Restoration and Construction"
+title: "Mold Remediation in Carlsbad, CA | Dry 1 Out Restoration and Construction"
 h1: "Mold Remediation in Carlsbad"
 meta_description: "24/7 mold remediation in Carlsbad, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "mold remediation carlsbad"
@@ -38,4 +38,4 @@ Many of the attached and planned communities around Aviara and Bressi Ranch have
 
 Homes within a few blocks of Batiquitos Lagoon or the lower sections of Carlsbad Village often sit on slightly higher water tables than properties further up the mesa, which means crawlspace soil can stay damp for days after even a modest rain event. We've learned to check those crawlspaces for ambient humidity, not just standing water, since a crawlspace can read "dry" on the surface and still be feeding moisture into subfloor insulation for weeks.
 
-If you're noticing a musty smell, discoloration along a baseboard, or a bathroom ceiling that won't stay clean no matter how often you bleach it, that's worth a look before it spreads further into the structure. Dry1 Out Restoration and Construction is based just up the road in Vista and works mold jobs throughout Carlsbad, from Village bungalows near zip 92008 to the newer builds out in 92009 and 92010. Call (888) 379-1688 to get a moisture inspection scheduled.
+If you're noticing a musty smell, discoloration along a baseboard, or a bathroom ceiling that won't stay clean no matter how often you bleach it, that's worth a look before it spreads further into the structure. Dry 1 Out Restoration and Construction is based just up the road in Vista and works mold jobs throughout Carlsbad, from Village bungalows near zip 92008 to the newer builds out in 92009 and 92010. Call (888) 379-1688 to get a moisture inspection scheduled.

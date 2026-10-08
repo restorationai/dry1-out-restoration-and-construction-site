@@ -51,7 +51,7 @@ Document the source, the timeline, and the damage, in that order, because insure
 4. **Keep damaged materials** (a section of wet drywall, the failed hose) until the adjuster or your restoration company has documented them. Don't throw evidence away before it's been seen.
 5. **Write down the discovery time and date** while it's fresh, along with anything you remember about when you last used or checked that area.
 
-This is also the point where calling a restoration company before you call your insurer often works in your favor. Our crews at Dry1 Out Restoration and Construction document moisture readings room by room with a penetrating moisture meter, which creates a dated, third-party record that supports your claim regardless of who ends up paying for it. If the loss happened in California, the [California Department of Insurance consumer guide](https://www.insurance.ca.gov/01-consumers/105-type/95-guides/03-res/) is a useful reference for your rights as a policyholder and what your insurer is required to do once you've filed.
+This is also the point where calling a restoration company before you call your insurer often works in your favor. Our crews at Dry 1 Out Restoration and Construction document moisture readings room by room with a penetrating moisture meter, which creates a dated, third-party record that supports your claim regardless of who ends up paying for it. If the loss happened in California, the [California Department of Insurance consumer guide](https://www.insurance.ca.gov/01-consumers/105-type/95-guides/03-res/) is a useful reference for your rights as a policyholder and what your insurer is required to do once you've filed.
 
 ## What Should You Do Right After Water Damage in Your House?
 
@@ -65,6 +65,6 @@ Water damage claims get decided on specifics: when it started, how fast you resp
 
 ---
 
-**About Dry1 Out Restoration and Construction**
+**About Dry 1 Out Restoration and Construction**
 
-Dry1 Out Restoration and Construction is an IICRC Certified Firm serving Vista, CA and surrounding Southern and Northern California communities, licensed (#993442) and insured, with 24/7 emergency response. Their technicians hold IICRC certifications in water restoration (WRT) and structural drying (ASD), and their crews handle water damage restoration, mold remediation, fire damage restoration, storm damage restoration, and related cleanup and reconstruction services across the areas they serve.
+Dry 1 Out Restoration and Construction is an IICRC Certified Firm serving Vista, CA and surrounding Southern and Northern California communities, licensed (#993442) and insured, with 24/7 emergency response. Their technicians hold IICRC certifications in water restoration (WRT) and structural drying (ASD), and their crews handle water damage restoration, mold remediation, fire damage restoration, storm damage restoration, and related cleanup and reconstruction services across the areas they serve.

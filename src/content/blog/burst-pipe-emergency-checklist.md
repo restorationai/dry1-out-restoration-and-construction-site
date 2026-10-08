@@ -29,7 +29,7 @@ A burst pipe doesn't always announce itself with a dramatic spray. Sometimes it'
 ## Immediate Steps: First 30 Minutes
 
 1. **Shut off the main water valve.** It's usually near the water meter, in a garage, basement, or utility closet. Turn it clockwise until it stops.
-2. **Cut power to the area if water is near anything electrical.** Don't step into standing water to reach a breaker panel, call an electrician or Dry1 Out if you're not sure it's safe.
+2. **Cut power to the area if water is near anything electrical.** Don't step into standing water to reach a breaker panel, call an electrician or Dry 1 Out if you're not sure it's safe.
 3. **Contain what you can.** Towels, buckets, and a wet/dry shop vac buy you time before professional extraction equipment arrives.
 4. **Move furniture and belongings off wet flooring.** Even a short soak can wick moisture into wood legs and upholstery.
 5. **Open cabinets and closets near the leak** so air can start circulating around wet surfaces.
@@ -46,7 +46,7 @@ A burst pipe doesn't always announce itself with a dramatic spray. Sometimes it'
 
 ## When to Call a Professional
 
-If the water has touched drywall, flooring, cabinetry, or insulation, that's generally the point where a homeowner's shop vac and box fans stop being enough. Water migrates sideways under flooring and up inside wall cavities far beyond where it's visible, which is why professional water damage restoration relies on moisture meters and thermal imaging to find out how far the damage actually spread before drying equipment gets placed. A professional response also typically includes industrial air movers and dehumidifiers set up to dry the structure per the IICRC S500 standard, which governs how water losses should be assessed and dried. If your situation involves a failed appliance line rather than a wall or slab leak, appliance leak cleanup follows a similar extraction and drying process but usually involves a smaller, more contained area. Either way, call Dry1 Out Restoration and Construction at (888) 379-1688 to get a technician scheduled and start the process while you're still working through the shutoff and containment steps.
+If the water has touched drywall, flooring, cabinetry, or insulation, that's generally the point where a homeowner's shop vac and box fans stop being enough. Water migrates sideways under flooring and up inside wall cavities far beyond where it's visible, which is why professional water damage restoration relies on moisture meters and thermal imaging to find out how far the damage actually spread before drying equipment gets placed. A professional response also typically includes industrial air movers and dehumidifiers set up to dry the structure per the IICRC S500 standard, which governs how water losses should be assessed and dried. If your situation involves a failed appliance line rather than a wall or slab leak, appliance leak cleanup follows a similar extraction and drying process but usually involves a smaller, more contained area. Either way, call Dry 1 Out Restoration and Construction at (888) 379-1688 to get a technician scheduled and start the process while you're still working through the shutoff and containment steps.
 
 ## The Recovery Process After the Water Stops
 

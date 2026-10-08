@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Inspection and Testing in San Francisco, CA | Dry1 Out Restoration and Construction"
+title: "Mold Inspection and Testing in San Francisco, CA | Dry 1 Out Restoration and Construction"
 h1: "Mold Inspection and Testing in San Francisco"
 meta_description: "24/7 mold inspection and testing in San Francisco, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "mold inspection and testing san francisco"
@@ -40,4 +40,4 @@ A fair number of our inspection calls in this city come from condo owners and HO
 
 In Sunset District and Richmond District homes built before the 1960s, we frequently see mold concentrated at the base of exterior walls facing the ocean side of the house, not because of a leak, but because that orientation catches the heaviest fog-driven moisture over the course of a year. When we test one of these properties, we make it a point to sample that ocean-facing wall separately from the rest of the house rather than relying on a single average reading, because the two can tell very different stories.
 
-If you're noticing a musty smell near a window in Noe Valley, water stains in a Mission District basement, or just want a clear answer before closing on a home near Golden Gate Park, mold inspection and testing gives you facts instead of guesswork. Call Dry1 Out Restoration and Construction at (888) 379-1688 to schedule an assessment, and bring your questions about ZIP codes like 94122 or 94118, where fog-belt conditions tend to shape what we find.
+If you're noticing a musty smell near a window in Noe Valley, water stains in a Mission District basement, or just want a clear answer before closing on a home near Golden Gate Park, mold inspection and testing gives you facts instead of guesswork. Call Dry 1 Out Restoration and Construction at (888) 379-1688 to schedule an assessment, and bring your questions about ZIP codes like 94122 or 94118, where fog-belt conditions tend to shape what we find.

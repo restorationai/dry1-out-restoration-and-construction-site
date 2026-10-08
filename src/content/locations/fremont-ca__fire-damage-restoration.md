@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Fire Damage Restoration in Fremont, CA | Dry1 Out Restoration and Construction"
+title: "24/7 Emergency Fire Damage Restoration in Fremont, CA | Dry 1 Out Restoration and Construction"
 h1: "24/7 Emergency Fire Damage Restoration in Fremont"
 meta_description: "24/7 emergency fire damage restoration in Fremont, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "fire damage restoration fremont"
@@ -44,4 +44,4 @@ Smoke odor is the part homeowners underestimate. We use HEPA air scrubbers to pu
 
 Homes built in the Mission San Jose hillside area before updated ember-resistant vent screening became standard are more exposed to exterior ignition during Fremont's dry-season winds, which is why we check attic and crawlspace vent conditions as part of the initial inspection on any hillside property, even when the visible fire damage is limited to one room.
 
-Fire damage does not wait for a convenient time, and neither does smoke odor working its way deeper into drywall and flooring the longer it sits. If you're dealing with fire or smoke damage anywhere from Irvington to Ardenwood, including the 94536, 94538, 94539, and 94555 ZIP codes, call Dry1 Out Restoration and Construction at (888) 379-1688 and we'll get a crew assessing the damage and started on a plan.
+Fire damage does not wait for a convenient time, and neither does smoke odor working its way deeper into drywall and flooring the longer it sits. If you're dealing with fire or smoke damage anywhere from Irvington to Ardenwood, including the 94536, 94538, 94539, and 94555 ZIP codes, call Dry 1 Out Restoration and Construction at (888) 379-1688 and we'll get a crew assessing the damage and started on a plan.

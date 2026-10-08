@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Fire Damage Restoration in Escondido, CA | Dry1 Out Restoration and Construction"
+title: "24/7 Emergency Fire Damage Restoration in Escondido, CA | Dry 1 Out Restoration and Construction"
 h1: "24/7 Emergency Fire Damage Restoration in Escondido"
 meta_description: "24/7 emergency fire damage restoration in Escondido, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "fire damage restoration escondido"
@@ -20,7 +20,7 @@ state: "CA"
 service_display: "Fire Damage Restoration"
 rendered: true
 ---
-**Fire damage in Escondido rarely stays contained to the room where it started.** Between Santa Ana wind events that push embers and ash across the San Pasqual Valley hillsides and the dense, older wood-frame construction found throughout Old Escondido, a kitchen fire or an electrical fault in the attic can leave soot migrating through HVAC returns long before the flames are out. Dry1 Out Restoration and Construction works these calls as IICRC FSRT-certified technicians, and because we answer 24/7, a fire at 2 a.m. doesn't wait until business hours for a board-up and a plan.
+**Fire damage in Escondido rarely stays contained to the room where it started.** Between Santa Ana wind events that push embers and ash across the San Pasqual Valley hillsides and the dense, older wood-frame construction found throughout Old Escondido, a kitchen fire or an electrical fault in the attic can leave soot migrating through HVAC returns long before the flames are out. Dry 1 Out Restoration and Construction works these calls as IICRC FSRT-certified technicians, and because we answer 24/7, a fire at 2 a.m. doesn't wait until business hours for a board-up and a plan.
 
 ## Why Escondido Properties See Fire Damage Issues
 
@@ -42,4 +42,4 @@ Most fire claims in Escondido move through the same carrier process we see acros
 
 In San Pasqual Valley, a number of properties still run on private well systems rather than municipal water, which changes how we plan water use during fire suppression cleanup and structural drying. We confirm well capacity and recovery time before running extended extraction or drying equipment on-site, since pulling too much water too fast can temporarily strain a well that's also supplying the household.
 
-If a fire has gone out but the smell, soot, or standing water hasn't, call Dry1 Out Restoration and Construction at (888) 379-1688. We're licensed (#993442) and staffed around the clock to get an Escondido property boarded, assessed, and into a documented restoration plan before further damage sets in.
+If a fire has gone out but the smell, soot, or standing water hasn't, call Dry 1 Out Restoration and Construction at (888) 379-1688. We're licensed (#993442) and staffed around the clock to get an Escondido property boarded, assessed, and into a documented restoration plan before further damage sets in.

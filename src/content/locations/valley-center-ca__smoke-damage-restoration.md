@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Smoke Damage Restoration in Valley Center, CA | Dry1 Out Restoration and Construction"
+title: "24/7 Emergency Smoke Damage Restoration in Valley Center, CA | Dry 1 Out Restoration and Construction"
 h1: "24/7 Emergency Smoke Damage Restoration in Valley Center"
 meta_description: "24/7 emergency smoke damage restoration in Valley Center, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "smoke damage restoration valley center"
@@ -42,4 +42,4 @@ Most of the properties we work on in Valley Center are on larger acreage lots ou
 
 A detail that catches a lot of Valley Center homeowners off guard: properties on private wells with exposed above-ground pressure tanks or open wellhead housings can end up with ash and soot inside the tank enclosure during a wildfire smoke event, even when the house itself smells clear. We check well equipment and outbuilding HVAC intakes as part of the walkthrough, not just the main residence, because skipping that step is how odor complaints come back a few weeks later.
 
-If smoke or ash has worked its way into your home, barn, or outbuilding in Valley Center, call Dry1 Out Restoration and Construction at (888) 379-1688. We're IICRC Fire & Smoke Restoration certified, available 24/7, and we'll walk the property with you before we touch anything so you know exactly what the plan is.
+If smoke or ash has worked its way into your home, barn, or outbuilding in Valley Center, call Dry 1 Out Restoration and Construction at (888) 379-1688. We're IICRC Fire & Smoke Restoration certified, available 24/7, and we'll walk the property with you before we touch anything so you know exactly what the plan is.

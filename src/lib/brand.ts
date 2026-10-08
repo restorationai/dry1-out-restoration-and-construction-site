@@ -4,9 +4,9 @@
 
 export const brand = {
   slug: "dry1-out-restoration-and-construction",
-  displayName: "Dry1 Out Restoration and Construction",
-  shortName: "Dry1Out",
-  legalName: "Dry1 Out Restoration and Construction",
+  displayName: "Dry 1 Out Restoration and Construction",
+  shortName: "Dry 1 Out",
+  legalName: "Dry 1 Out Restoration and Construction",
   // Registered DBA / trade name — filled by rename_site_sync.py the moment
   // the state approves the client's DBA filing (empty until then). When set,
   // the footer carries the "[legal] doing business as [DBA]" line and schema
@@ -91,7 +91,7 @@ export const brand = {
   tradeNoun: "restoration",
   specialistPhrase: "Damage Restoration Specialists",
   announcementSuffix: "24/7 Emergency Response",
-  homeAboutBlurb: "Dry1 Out Restoration and Construction serves Vista and the surrounding CA area with professional damage restoration for homes and businesses. From the first emergency call to the final walkthrough, our team manages the entire recovery — and we answer the phone 24/7, so help is on the way the moment something goes wrong.",
+  homeAboutBlurb: "Dry 1 Out Restoration and Construction serves Vista and the surrounding CA area with professional damage restoration for homes and businesses. From the first emergency call to the final walkthrough, our team manages the entire recovery — and we answer the phone 24/7, so help is on the way the moment something goes wrong.",
 } as const;
 
 export const entityId = `${brand.canonicalUrl}/#identity`;

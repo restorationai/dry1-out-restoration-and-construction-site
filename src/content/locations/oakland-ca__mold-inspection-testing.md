@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Inspection and Testing in Oakland, CA | Dry1 Out Restoration and Construction"
+title: "Mold Inspection and Testing in Oakland, CA | Dry 1 Out Restoration and Construction"
 h1: "Mold Inspection and Testing in Oakland"
 meta_description: "24/7 mold inspection and testing in Oakland, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "mold inspection and testing oakland"
@@ -42,4 +42,4 @@ Condo and townhome associations near Jack London Square and other multi-unit dev
 
 Homes near Lake Merritt and the Grand Lake district often sit on fill soil from early lake-edge development, and crawl spaces on these blocks tend to read higher on our moisture meters even during dry months. Because of that, we test subfloor humidity on every inspection in this area regardless of whether anyone has reported a symptom upstairs, since surface dryness in these homes doesn't always reflect what's happening underneath.
 
-If you've noticed a musty smell near the Paramount Theatre corridor, staining after the last rainy season, or you're buying a home in the 94610 or 94618 area and want documentation before closing, Dry1 Out Restoration and Construction can schedule a mold inspection and testing visit. We're available 24/7 to set up a time that works, and our team holds California contractor license #993442. Call (888) 379-1688 to get a visual assessment and lab-backed results on the calendar.
+If you've noticed a musty smell near the Paramount Theatre corridor, staining after the last rainy season, or you're buying a home in the 94610 or 94618 area and want documentation before closing, Dry 1 Out Restoration and Construction can schedule a mold inspection and testing visit. We're available 24/7 to set up a time that works, and our team holds California contractor license #993442. Call (888) 379-1688 to get a visual assessment and lab-backed results on the calendar.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Renovations, Remodels and General Contracting in Escondido, CA | Dry1 Out Restoration and Construction"
+title: "Renovations, Remodels and General Contracting in Escondido, CA | Dry 1 Out Restoration and Construction"
 h1: "Renovations, Remodels and General Contracting in Escondido"
 meta_description: "24/7 renovations, remodels and general contracting in Escondido, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "renovations, remodels and general contracting escondido"
@@ -20,7 +20,7 @@ state: "CA"
 service_display: "Renovations, Remodels and General Contracting"
 rendered: true
 ---
-Escondido's housing stock spans nearly a century, from the bungalows lining the Old Escondido Historic District to newer tract construction near Felicita and the HOA communities that have grown up along the valley floor. That range means a kitchen remodel downtown off Grand Avenue runs into different permitting and structural questions than a bathroom gut-and-rebuild out near San Pasqual Valley. Dry1 Out Restoration and Construction handles both ends of that spectrum, from standalone renovations to the rebuild phase after a covered loss.
+Escondido's housing stock spans nearly a century, from the bungalows lining the Old Escondido Historic District to newer tract construction near Felicita and the HOA communities that have grown up along the valley floor. That range means a kitchen remodel downtown off Grand Avenue runs into different permitting and structural questions than a bathroom gut-and-rebuild out near San Pasqual Valley. Dry 1 Out Restoration and Construction handles both ends of that spectrum, from standalone renovations to the rebuild phase after a covered loss.
 
 ## Why Escondido Properties See Renovation Challenges
 
@@ -38,4 +38,4 @@ HOA-governed properties near Felicita and some of the newer developments around 
 
 Homes within a few blocks of Kit Carson Park and the older sections near Downtown Grand Avenue frequently carry cast iron or clay sewer laterals that are original to the house. When a remodel opens up a kitchen or bath, we scope the drain line while the walls are already open rather than waiting for it to back up mid-project, since replacing those lines after finishes are installed means tearing out new work to get at old pipe.
 
-Whether you're planning a kitchen remodel in a Downtown Grand Avenue bungalow, a bathroom update out past Dixon Lake, or rebuilding a room after storm or fire damage, Dry1 Out Restoration and Construction is a short drive east on SR-78 from our Vista shop and licensed to carry the project from demolition through final inspection. Call (888) 379-1688 to schedule a walkthrough and get a written scope before any work starts.
+Whether you're planning a kitchen remodel in a Downtown Grand Avenue bungalow, a bathroom update out past Dixon Lake, or rebuilding a room after storm or fire damage, Dry 1 Out Restoration and Construction is a short drive east on SR-78 from our Vista shop and licensed to carry the project from demolition through final inspection. Call (888) 379-1688 to schedule a walkthrough and get a written scope before any work starts.

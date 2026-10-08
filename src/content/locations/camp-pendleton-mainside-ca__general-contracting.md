@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Renovations, Remodels and General Contracting in Camp Pendleton Mainside, CA | Dry1 Out Restoration and Construction"
+title: "Renovations, Remodels and General Contracting in Camp Pendleton Mainside, CA | Dry 1 Out Restoration and Construction"
 h1: "Renovations, Remodels and General Contracting in Camp Pendleton Mainside"
 meta_description: "24/7 renovations, remodels and general contracting in Camp Pendleton Mainside, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "renovations, remodels and general contracting camp pendleton mainside"
@@ -44,4 +44,4 @@ When a remodel is tied to an insurance claim, whether it's a post-damage rebuild
 
 One detail that catches contractors unfamiliar with base work off guard: material and crew access windows on an active military installation can be tighter and less flexible than a typical residential job site, since deliveries and personnel movement are subject to base security scheduling rather than just a homeowner's preference. We coordinate delivery and crew arrival times around those windows rather than assuming a standard 7 a.m. start is guaranteed, which keeps projects from stalling at the gate on day one.
 
-If you're planning a kitchen remodel, bathroom update, or a rebuild following covered damage on a Camp Pendleton Mainside property, Dry1 Out Restoration and Construction handles the general contracting scope and the access coordination that comes with it. Call (888) 379-1688 to talk through your project and get a realistic timeline before work starts.
+If you're planning a kitchen remodel, bathroom update, or a rebuild following covered damage on a Camp Pendleton Mainside property, Dry 1 Out Restoration and Construction handles the general contracting scope and the access coordination that comes with it. Call (888) 379-1688 to talk through your project and get a realistic timeline before work starts.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Renovations, Remodels and General Contracting in Hidden Meadows, CA | Dry1 Out Restoration and Construction"
+title: "Renovations, Remodels and General Contracting in Hidden Meadows, CA | Dry 1 Out Restoration and Construction"
 h1: "Renovations, Remodels and General Contracting in Hidden Meadows"
 meta_description: "24/7 renovations, remodels and general contracting in Hidden Meadows, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "renovations, remodels and general contracting hidden meadows"
@@ -20,7 +20,7 @@ state: "CA"
 service_display: "Renovations, Remodels and General Contracting"
 rendered: true
 ---
-A kitchen gutted by a slab leak or a bathroom stripped down to the studs after a roof failure is only half the job in Hidden Meadows. The other half is putting the house back together in a way that fits its lot, its septic system, and the wildfire-conscious building codes that come with living in an unincorporated pocket of San Diego County. Dry1 Out Restoration and Construction handles both ends, from the original damage assessment through the finished remodel, so homeowners aren't coordinating two separate contractors mid-project.
+A kitchen gutted by a slab leak or a bathroom stripped down to the studs after a roof failure is only half the job in Hidden Meadows. The other half is putting the house back together in a way that fits its lot, its septic system, and the wildfire-conscious building codes that come with living in an unincorporated pocket of San Diego County. Dry 1 Out Restoration and Construction handles both ends, from the original damage assessment through the finished remodel, so homeowners aren't coordinating two separate contractors mid-project.
 
 ## Why Hidden Meadows Properties See Renovation Needs
 
@@ -38,4 +38,4 @@ When a remodel follows a covered loss, documentation matters as much as the rebu
 
 Properties on well water in this part of the county tend to run harder water than municipal supply, which accelerates scale buildup in dishwashers, water heaters, and fixture valves faster than a typical remodel timeline would predict. We factor that into material and appliance selection on kitchen and bathroom jobs out here, since a fixture rated for city water can show premature wear within a few years on a private well system.
 
-If a prior water or fire loss, deferred maintenance, or just an outdated kitchen or bathroom has you weighing a remodel in Hidden Meadows, Dry1 Out Restoration and Construction can scope the work, pull the permits, and manage the rebuild as a licensed general contractor (CA License ##993442). Call (888) 379-1688 to walk through what the project actually needs before committing to a plan.
+If a prior water or fire loss, deferred maintenance, or just an outdated kitchen or bathroom has you weighing a remodel in Hidden Meadows, Dry 1 Out Restoration and Construction can scope the work, pull the permits, and manage the rebuild as a licensed general contractor (CA License ##993442). Call (888) 379-1688 to walk through what the project actually needs before committing to a plan.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Fremont, CA | Dry1 Out Restoration and Construction"
+title: "Restoration Services in Fremont, CA | Dry 1 Out Restoration and Construction"
 h1: "Restoration Services in Fremont"
 meta_description: "Serving Fremont, CA with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (888) 379-1688."
 primary_keyword: "restoration services fremont"
@@ -19,7 +19,7 @@ state: "CA"
 primary: false
 rendered: true
 ---
-Dry1 Out Restoration and Construction provides water damage restoration, fire and smoke cleanup, mold remediation, and biohazard cleanup for homes and commercial buildings across Fremont, from the hillside neighborhoods near Mission San Jose down to the flatlands around Warm Springs. Our crews document the loss, stabilize the structure, and work directly with most major insurance carriers so property owners and managers aren't left guessing about next steps during a flood, fire, or sewage backup.
+Dry 1 Out Restoration and Construction provides water damage restoration, fire and smoke cleanup, mold remediation, and biohazard cleanup for homes and commercial buildings across Fremont, from the hillside neighborhoods near Mission San Jose down to the flatlands around Warm Springs. Our crews document the loss, stabilize the structure, and work directly with most major insurance carriers so property owners and managers aren't left guessing about next steps during a flood, fire, or sewage backup.
 
 ## Restoration emergencies common in Fremont
 
@@ -43,4 +43,4 @@ Fremont sits along the I-880 and I-680 corridors, with CA-84 and the Dumbarton B
 
 Fremont was consolidated from five older towns in 1956, and that history shows up in the building stock: early-1900s homes and commercial buildings around historic Niles, mid-century slab-on-grade ranch houses through Centerville and Irvington, and newer stucco-and-frame construction in Warm Springs and Ardenwood built from the 1980s onward. Older sections carry galvanized or cast-iron drain lines and, in some cases, materials that require asbestos or lead-paint precautions before demolition begins. Soil near the bay, close to Coyote Hills Regional Park and the 94555 ZIP, tends to hold water longer against foundations than the better-draining ground near the hills by Mission San Jose. The Hayward Fault runs directly through Fremont, so structural repairs and rebuilds go through the City of Fremont Building Division, which reviews work against the current California Building Code with the seismic considerations that fault line demands.
 
-If water, fire, smoke, or biohazard material is affecting a property in Fremont, call Dry1 Out Restoration and Construction at (888) 379-1688. We're available 24/7 to start the documentation and mitigation process, whether the property sits near Central Park and Lake Elizabeth or out toward Ardenwood Historic Farm.
+If water, fire, smoke, or biohazard material is affecting a property in Fremont, call Dry 1 Out Restoration and Construction at (888) 379-1688. We're available 24/7 to start the documentation and mitigation process, whether the property sits near Central Park and Lake Elizabeth or out toward Ardenwood Historic Farm.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Renovations, Remodels and General Contracting in Camp Pendleton South, CA | Dry1 Out Restoration and Construction"
+title: "Renovations, Remodels and General Contracting in Camp Pendleton South, CA | Dry 1 Out Restoration and Construction"
 h1: "Renovations, Remodels and General Contracting in Camp Pendleton South"
 meta_description: "24/7 renovations, remodels and general contracting in Camp Pendleton South, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "renovations, remodels and general contracting camp pendleton south"
@@ -38,4 +38,4 @@ A fair amount of the remodel and rebuild work we take on in this area starts as 
 
 One thing that catches homeowners off guard in Camp Pendleton South: the marine layer that sits over this stretch of coastal San Diego County most mornings keeps ambient humidity higher than people expect for Southern California, which slows paint and adhesive cure times during a remodel. We build extra dry time into finish schedules here rather than assuming the same cure windows that work in drier inland zip codes.
 
-If you're weighing a kitchen remodel, a bathroom renovation, or a full post-damage rebuild in Camp Pendleton South, Dry1 Out Restoration and Construction can walk the property, explain what's driving the scope, and put together a plan that accounts for the base-area building stock and coastal conditions you're actually dealing with. Call (888) 379-1688 to set up a walkthrough.
+If you're weighing a kitchen remodel, a bathroom renovation, or a full post-damage rebuild in Camp Pendleton South, Dry 1 Out Restoration and Construction can walk the property, explain what's driving the scope, and put together a plan that accounts for the base-area building stock and coastal conditions you're actually dealing with. Call (888) 379-1688 to set up a walkthrough.

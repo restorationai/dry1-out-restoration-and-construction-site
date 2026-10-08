@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in San Marcos, CA | Dry1 Out Restoration and Construction"
+title: "Mold Remediation in San Marcos, CA | Dry 1 Out Restoration and Construction"
 h1: "Mold Remediation in San Marcos"
 meta_description: "24/7 mold remediation in San Marcos, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "mold remediation san marcos"
@@ -38,4 +38,4 @@ A good share of San Marcos mold calls come from HOA-governed communities, and Sa
 
 One thing we watch closely in San Marcos: homes in the lower basin near Lake San Marcos hold higher ambient humidity through the morning hours than hillside properties up toward Double Peak Park, even on the same calendar day. That gap changes how long a crawlspace or slab stays wet after a leak, and it's part of why we pull humidity readings at the start of a job instead of relying on general county averages.
 
-If you're seeing a musty smell, a soft spot in drywall, or discoloration anywhere from a San Elijo Hills townhome to a Twin Oaks Valley barn, Dry1 Out Restoration and Construction is licensed (#993442) and answers 24/7 for mold remediation across San Marcos, including the 92069 and 92078 ZIPs. Call (888) 379-1688 to get a technician assessing the moisture source before it spreads further.
+If you're seeing a musty smell, a soft spot in drywall, or discoloration anywhere from a San Elijo Hills townhome to a Twin Oaks Valley barn, Dry 1 Out Restoration and Construction is licensed (#993442) and answers 24/7 for mold remediation across San Marcos, including the 92069 and 92078 ZIPs. Call (888) 379-1688 to get a technician assessing the moisture source before it spreads further.

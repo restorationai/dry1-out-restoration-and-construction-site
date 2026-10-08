@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Fire Damage Restoration in San Francisco, CA | Dry1 Out Restoration and Construction"
+title: "24/7 Emergency Fire Damage Restoration in San Francisco, CA | Dry 1 Out Restoration and Construction"
 h1: "24/7 Emergency Fire Damage Restoration in San Francisco"
 meta_description: "24/7 emergency fire damage restoration in San Francisco, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "fire damage restoration san francisco"
@@ -38,4 +38,4 @@ Condo buildings in SoMa and Pacific Heights frequently carry HOA bylaws that req
 
 Homes within a few blocks of Golden Gate Park and through the Richmond and Sunset corridors sit squarely in the fog belt, and that persistent moisture does something specific to fire-damaged lath and plaster: it slows drying enough that mold risk becomes a real second problem layered on top of the original fire, usually inside wall cavities that look fine from the room side. We factor that into how long we run drying equipment on these jobs rather than pulling it the moment surface moisture readings look acceptable.
 
-If fire or smoke has touched your San Francisco home or building, from a rowhouse near Bernal Heights to a condo tower in SoMa, call (888) 379-1688. Dry1 Out Restoration and Construction answers around the clock and can walk you through board-up, drying, and the permit and insurance steps specific to the city before the job even starts.
+If fire or smoke has touched your San Francisco home or building, from a rowhouse near Bernal Heights to a condo tower in SoMa, call (888) 379-1688. Dry 1 Out Restoration and Construction answers around the clock and can walk you through board-up, drying, and the permit and insurance steps specific to the city before the job even starts.

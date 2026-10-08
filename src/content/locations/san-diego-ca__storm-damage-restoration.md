@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Storm Damage Restoration in San Diego, CA | Dry1 Out Restoration and Construction"
+title: "24/7 Emergency Storm Damage Restoration in San Diego, CA | Dry 1 Out Restoration and Construction"
 h1: "24/7 Emergency Storm Damage Restoration in San Diego"
 meta_description: "24/7 emergency storm damage restoration in San Diego, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "storm damage restoration san diego"
@@ -42,4 +42,4 @@ Many of the coastal and inland communities we work in, including gated developme
 
 Homes on the canyon-rim lots common to Clairemont and parts of Mira Mesa sit on hillside soil that can shift noticeably after a heavy storm season, even without a visible slide. We check foundation and slab areas on these properties for new cracking or settling after major storms, not just water intrusion, because the two problems often show up together and get missed if the inspection only looks for wet drywall.
 
-If a storm has torn into your roof, flooded a lower level, or dropped a tree on your property anywhere from North Park to La Jolla, call Dry1 Out Restoration and Construction at (888) 379-1688. We're licensed (#993442), IICRC certified, and available around the clock to get the water out, the structure dry, and the paperwork started while the damage is still fresh.
+If a storm has torn into your roof, flooded a lower level, or dropped a tree on your property anywhere from North Park to La Jolla, call Dry 1 Out Restoration and Construction at (888) 379-1688. We're licensed (#993442), IICRC certified, and available around the clock to get the water out, the structure dry, and the paperwork started while the damage is still fresh.

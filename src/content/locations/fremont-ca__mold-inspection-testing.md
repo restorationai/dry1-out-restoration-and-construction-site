@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Inspection and Testing in Fremont, CA | Dry1 Out Restoration and Construction"
+title: "Mold Inspection and Testing in Fremont, CA | Dry 1 Out Restoration and Construction"
 h1: "Mold Inspection and Testing in Fremont"
 meta_description: "24/7 mold inspection and testing in Fremont, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "mold inspection and testing fremont"
@@ -38,4 +38,4 @@ The tools matter more in a city with Fremont's range of construction ages. Therm
 
 Homes in the Ardenwood and Warm Springs flats, including the 94555 area, sit on soil reclaimed from San Francisco Bay tidal marsh, and the water table there can run within a few feet of the slab. Vapor readings in those homes look different from what we see on the clay-soil hillsides near Mission San Jose, so we adjust where we sample and how we interpret humidity data depending on which part of the city we're in. Treating a Warm Springs slab the same way we'd treat a Centerville crawlspace would give you a misleading read.
 
-If you're seeing a musty smell, a water stain that keeps coming back, or you just want a baseline reading before closing on a Fremont property, call Dry1 Out Restoration and Construction at (888) 379-1688. We hold a California contractor's license (##993442) and our inspection team is IICRC AMRT certified, so you get lab-backed results and a report you can actually use, whether that's for an insurance claim, an HOA, or your own peace of mind.
+If you're seeing a musty smell, a water stain that keeps coming back, or you just want a baseline reading before closing on a Fremont property, call Dry 1 Out Restoration and Construction at (888) 379-1688. We hold a California contractor's license (##993442) and our inspection team is IICRC AMRT certified, so you get lab-backed results and a report you can actually use, whether that's for an insurance claim, an HOA, or your own peace of mind.

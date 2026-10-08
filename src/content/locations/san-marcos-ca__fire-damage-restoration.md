@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Fire Damage Restoration in San Marcos, CA | Dry1 Out Restoration and Construction"
+title: "24/7 Emergency Fire Damage Restoration in San Marcos, CA | Dry 1 Out Restoration and Construction"
 h1: "24/7 Emergency Fire Damage Restoration in San Marcos"
 meta_description: "24/7 emergency fire damage restoration in San Marcos, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "fire damage restoration san marcos"
@@ -38,4 +38,4 @@ Most San Marcos homeowners are working through a carrier claim at the same time 
 
 Hillside homes near Double Peak Park and the upper streets of San Elijo Hills are almost always stucco-and-tile construction, and that roofing style traps fine ash particulate in attic insulation and HVAC return ducts long after the visible fire is out. We've learned to inspect attic spaces and duct runs on every hillside call in this area even when the living space below shows only light surface staining, because the smell comes back within days if that layer gets missed.
 
-If your home or business near San Marcos, Lake San Marcos, or the Cal State San Marcos corridor has fire or smoke damage, call Dry1 Out Restoration and Construction at (888) 379-1688. We're licensed (##993442), IICRC FSRT certified for fire and smoke restoration, and ready to start securing your property and documenting the loss as soon as you call.
+If your home or business near San Marcos, Lake San Marcos, or the Cal State San Marcos corridor has fire or smoke damage, call Dry 1 Out Restoration and Construction at (888) 379-1688. We're licensed (##993442), IICRC FSRT certified for fire and smoke restoration, and ready to start securing your property and documenting the loss as soon as you call.

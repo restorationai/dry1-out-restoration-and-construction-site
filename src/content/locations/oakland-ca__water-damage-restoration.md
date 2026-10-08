@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Water Damage Restoration in Oakland, CA | Dry1 Out Restoration and Construction"
+title: "24/7 Emergency Water Damage Restoration in Oakland, CA | Dry 1 Out Restoration and Construction"
 h1: "24/7 Emergency Water Damage Restoration in Oakland"
 meta_description: "24/7 emergency water damage restoration in Oakland, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "water damage restoration oakland"
@@ -42,4 +42,4 @@ Plaster walls and original fir subfloors don't respond well to the same blunt ap
 
 In Oakland's flatland neighborhoods, including much of the 94601 area around Fruitvale, the water table sits close enough to the surface that a slab leak can wick moisture upward through concrete for weeks before it ever shows as a stain on flooring or baseboards. We check moisture content at the slab itself on these calls, not just the visible surface, because by the time carpet looks damp here, the concrete underneath has often been wet far longer.
 
-Whether it's a burst supply line in a Temescal duplex, a storm-driven backup near Lake Merritt, or a slow leak behind plaster in a Montclair hillside home, getting water out fast and drying the structure correctly matters more than a quick-looking cleanup. Dry1 Out Restoration and Construction is licensed under #993442 and available around the clock for water damage restoration across Oakland, call (888) 379-1688 to get a crew started.
+Whether it's a burst supply line in a Temescal duplex, a storm-driven backup near Lake Merritt, or a slow leak behind plaster in a Montclair hillside home, getting water out fast and drying the structure correctly matters more than a quick-looking cleanup. Dry 1 Out Restoration and Construction is licensed under #993442 and available around the clock for water damage restoration across Oakland, call (888) 379-1688 to get a crew started.

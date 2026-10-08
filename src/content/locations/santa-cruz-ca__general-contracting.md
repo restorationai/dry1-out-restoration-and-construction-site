@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Renovations, Remodels and General Contracting in Santa Cruz, CA | Dry1 Out Restoration and Construction"
+title: "Renovations, Remodels and General Contracting in Santa Cruz, CA | Dry 1 Out Restoration and Construction"
 h1: "Renovations, Remodels and General Contracting in Santa Cruz"
 meta_description: "24/7 renovations, remodels and general contracting in Santa Cruz, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "renovations, remodels and general contracting santa cruz"
@@ -20,7 +20,7 @@ state: "CA"
 service_display: "Renovations, Remodels and General Contracting"
 rendered: true
 ---
-Renovating a home near the coast means working around salt air, shifting fog patterns, and a housing stock that ranges from turn-of-the-century bungalows in Beach Flats to mid-century ranch homes on the Eastside. Whether you're planning a kitchen remodel, finishing a bathroom, or rebuilding a section of your home after water or fire damage, the work has to account for conditions that inland contractors rarely think about. Dry1 Out Restoration and Construction handles renovations, remodels, and general contracting throughout Santa Cruz with that reality built into the plan from day one.
+Renovating a home near the coast means working around salt air, shifting fog patterns, and a housing stock that ranges from turn-of-the-century bungalows in Beach Flats to mid-century ranch homes on the Eastside. Whether you're planning a kitchen remodel, finishing a bathroom, or rebuilding a section of your home after water or fire damage, the work has to account for conditions that inland contractors rarely think about. Dry 1 Out Restoration and Construction handles renovations, remodels, and general contracting throughout Santa Cruz with that reality built into the plan from day one.
 
 ## Why Santa Cruz Homes Need a Different Renovation Approach
 
@@ -38,4 +38,4 @@ Much of the city falls within the California Coastal Zone, which means projects 
 
 Homes near UC Santa Cruz and the surrounding Westside canyons often sit on lots with mature redwood and eucalyptus root systems close to the foundation, which can shift slab grading over time and complicate bathroom or kitchen remodels that involve relocating plumbing lines. We check root intrusion and grade before finalizing any plumbing rerouting plan in those areas, since a line that tests clear in January can shift after a wet winter.
 
-If you're planning a remodel in Santa Cruz, whether it's a straightforward kitchen update, a bathroom overhaul, or a full rebuild after water or fire damage, Dry1 Out Restoration and Construction can walk the property, scope the permitting path, and manage the build from demo to final inspection. Call (888) 379-1688 to set up a walkthrough for a property in 95060, 95062, or anywhere else around Santa Cruz.
+If you're planning a remodel in Santa Cruz, whether it's a straightforward kitchen update, a bathroom overhaul, or a full rebuild after water or fire damage, Dry 1 Out Restoration and Construction can walk the property, scope the permitting path, and manage the build from demo to final inspection. Call (888) 379-1688 to set up a walkthrough for a property in 95060, 95062, or anywhere else around Santa Cruz.

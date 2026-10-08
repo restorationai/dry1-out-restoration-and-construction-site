@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Renovations, Remodels and General Contracting in Encinitas, CA | Dry1 Out Restoration and Construction"
+title: "Renovations, Remodels and General Contracting in Encinitas, CA | Dry 1 Out Restoration and Construction"
 h1: "Renovations, Remodels and General Contracting in Encinitas"
 meta_description: "24/7 renovations, remodels and general contracting in Encinitas, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "renovations, remodels and general contracting encinitas"
@@ -38,4 +38,4 @@ Properties close to the bluffs in Old Encinitas and parts of Leucadia can fall u
 
 A detail that trips up a lot of out-of-town contractors: homes within view of the San Diego Botanic Garden and the bluff corridor often sit on lots with expansive clay soil that shifts seasonally with rain. We've seen remodels where new tile or cabinetry was installed before the slab was checked for movement, and the finish work cracked within a year. On any Encinitas remodel touching flooring or cabinetry, we check for slab movement first, because the fix is cheap before the finishes go in and expensive after.
 
-If you're planning a kitchen or bathroom remodel, a larger renovation, or a rebuild after water or fire damage anywhere from Cardiff-by-the-Sea to Olivenhain, call Dry1 Out Restoration and Construction at (888) 379-1688. We're based a quick trip away in Vista and handle the permitting, trade coordination, and finish work needed to get an Encinitas property back to a livable, well-built condition.
+If you're planning a kitchen or bathroom remodel, a larger renovation, or a rebuild after water or fire damage anywhere from Cardiff-by-the-Sea to Olivenhain, call Dry 1 Out Restoration and Construction at (888) 379-1688. We're based a quick trip away in Vista and handle the permitting, trade coordination, and finish work needed to get an Encinitas property back to a livable, well-built condition.

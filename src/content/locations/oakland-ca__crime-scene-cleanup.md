@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Crime Scene Cleanup in Oakland, CA | Dry1 Out Restoration and Construction"
+title: "24/7 Emergency Crime Scene Cleanup in Oakland, CA | Dry 1 Out Restoration and Construction"
 h1: "24/7 Emergency Crime Scene Cleanup in Oakland"
 meta_description: "24/7 emergency crime scene cleanup in Oakland, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "crime scene cleanup oakland"

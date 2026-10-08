@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Fire Damage Restoration in Oakland, CA | Dry1 Out Restoration and Construction"
+title: "24/7 Emergency Fire Damage Restoration in Oakland, CA | Dry 1 Out Restoration and Construction"
 h1: "24/7 Emergency Fire Damage Restoration in Oakland"
 meta_description: "24/7 emergency fire damage restoration in Oakland, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "fire damage restoration oakland"
@@ -20,7 +20,7 @@ state: "CA"
 service_display: "Fire Damage Restoration"
 rendered: true
 ---
-**Fire damage emergency in Oakland?** We answer 24/7, and the clock matters here more than most places: soot is acidic, and on the plaster walls and old-growth fir trim common in Oakland's early-1900s bungalows, that acid etching can set into the finish within hours. Dry1 Out Restoration and Construction (license #993442) handles fire cleanup, structural fire damage, and smoke restoration for homes and businesses from the Rockridge flats to the Montclair hills.
+**Fire damage emergency in Oakland?** We answer 24/7, and the clock matters here more than most places: soot is acidic, and on the plaster walls and old-growth fir trim common in Oakland's early-1900s bungalows, that acid etching can set into the finish within hours. Dry 1 Out Restoration and Construction (license #993442) handles fire cleanup, structural fire damage, and smoke restoration for homes and businesses from the Rockridge flats to the Montclair hills.
 
 ## Why Oakland Properties See Fire Damage Issues
 

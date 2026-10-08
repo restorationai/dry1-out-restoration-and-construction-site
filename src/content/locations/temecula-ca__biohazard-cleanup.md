@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Biohazard Cleanup in Temecula, CA | Dry1 Out Restoration and Construction"
+title: "24/7 Emergency Biohazard Cleanup in Temecula, CA | Dry 1 Out Restoration and Construction"
 h1: "24/7 Emergency Biohazard Cleanup in Temecula"
 meta_description: "24/7 emergency biohazard cleanup in Temecula, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "biohazard cleanup temecula"
@@ -41,4 +41,4 @@ Most of Temecula's master-planned communities, Redhawk, Harveston, Paloma del So
 
 Wine Country estates and some of the larger lots east of Old Town Temecula sit on septic systems rather than city sewer, which changes our disposal protocol: wastewater from decontamination can't simply go down the drain the way it would on a standard municipal connection, so we haul and dispose of it per state guidelines instead. It's a small detail, but it's the kind of thing that only shows up when you've worked these properties before, and skipping it is how cleanup jobs end up causing a second problem for the homeowner.
 
-If you're dealing with a biohazard situation anywhere from Old Town Temecula to Redhawk or out past the Duck Pond toward Wine Country, you don't have to manage it alone. Dry1 Out Restoration and Construction is licensed, IICRC certified, and available around the clock to handle the cleanup with the discretion and care it deserves. Call (888) 379-1688 and we'll walk you through what happens next.
+If you're dealing with a biohazard situation anywhere from Old Town Temecula to Redhawk or out past the Duck Pond toward Wine Country, you don't have to manage it alone. Dry 1 Out Restoration and Construction is licensed, IICRC certified, and available around the clock to handle the cleanup with the discretion and care it deserves. Call (888) 379-1688 and we'll walk you through what happens next.

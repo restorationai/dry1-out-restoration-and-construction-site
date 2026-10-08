@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Crime Scene Cleanup in Temecula, CA | Dry1 Out Restoration and Construction"
+title: "24/7 Emergency Crime Scene Cleanup in Temecula, CA | Dry 1 Out Restoration and Construction"
 h1: "24/7 Emergency Crime Scene Cleanup in Temecula"
 meta_description: "24/7 emergency crime scene cleanup in Temecula, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "crime scene cleanup temecula"
@@ -43,4 +43,4 @@ Most homeowner's and renter's policies in Riverside County include some provisio
 
 A detail that matters more in Temecula than in most nearby cities: several of the larger developments, including sections of Harveston and Paloma del Sol, use private streets maintained by the HOA rather than the city, which means our crew sometimes needs a gate code or a resident escort before we can even bring in equipment. We confirm access details before dispatch whenever the address falls inside a gated or HOA-restricted community, so the first trip isn't wasted idling at a closed gate.
 
-If you're facing a crime scene cleanup anywhere in Temecula, from a Wine Country property to a condo near the Temecula Duck Pond, call Dry1 Out Restoration and Construction. We're licensed (CA #993442) and available around the clock to handle the cleanup with the discretion and documentation this kind of loss requires.
+If you're facing a crime scene cleanup anywhere in Temecula, from a Wine Country property to a condo near the Temecula Duck Pond, call Dry 1 Out Restoration and Construction. We're licensed (CA #993442) and available around the clock to handle the cleanup with the discretion and documentation this kind of loss requires.

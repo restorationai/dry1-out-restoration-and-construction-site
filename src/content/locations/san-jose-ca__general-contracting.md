@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Renovations, Remodels and General Contracting in San Jose, CA | Dry1 Out Restoration and Construction"
+title: "Renovations, Remodels and General Contracting in San Jose, CA | Dry 1 Out Restoration and Construction"
 h1: "Renovations, Remodels and General Contracting in San Jose"
 meta_description: "24/7 renovations, remodels and general contracting in San Jose, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "renovations, remodels and general contracting san jose"

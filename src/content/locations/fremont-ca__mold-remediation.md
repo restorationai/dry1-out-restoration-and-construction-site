@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in Fremont, CA | Dry1 Out Restoration and Construction"
+title: "Mold Remediation in Fremont, CA | Dry 1 Out Restoration and Construction"
 h1: "Mold Remediation in Fremont"
 meta_description: "24/7 mold remediation in Fremont, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "mold remediation fremont"
@@ -38,4 +38,4 @@ Most Fremont homeowners' insurance policies treat mold differently depending on 
 
 Older homes in the Niles and Centerville areas, particularly those built before 1960, often have crawlspace vents that were partially sealed or covered during past remodels to cut down on drafts. That change was good for heating bills but bad for moisture control, and it's one of the more common reasons we find sustained mold growth on floor joists in homes where the owner never had a visible leak. Checking that crawlspace vents are actually open and unobstructed is a five-minute task that can prevent a much bigger remediation bill down the line.
 
-If you're dealing with suspected mold in a Fremont home, from a hillside property near Mission San Jose to a crawlspace ranch in Centerville or Niles, Dry1 Out Restoration and Construction can assess the scope and walk you through what remediation actually involves before any work starts. Call (888) 379-1688 to schedule an inspection.
+If you're dealing with suspected mold in a Fremont home, from a hillside property near Mission San Jose to a crawlspace ranch in Centerville or Niles, Dry 1 Out Restoration and Construction can assess the scope and walk you through what remediation actually involves before any work starts. Call (888) 379-1688 to schedule an inspection.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Camp Pendleton Mainside, CA | Dry1 Out Restoration and Construction"
+title: "Restoration Services in Camp Pendleton Mainside, CA | Dry 1 Out Restoration and Construction"
 h1: "Restoration Services in Camp Pendleton Mainside"
 meta_description: "Serving Camp Pendleton Mainside, CA with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (888) 379-1688."
 primary_keyword: "restoration services camp pendleton mainside"
@@ -19,7 +19,7 @@ state: "CA"
 primary: false
 rendered: true
 ---
-Dry1 Out Restoration and Construction handles water damage, fire and smoke damage, mold remediation, and reconstruction work for homes and facilities in and around Camp Pendleton Mainside. Whether it's a barracks building with a failed supply line, a family housing unit with smoke damage from a kitchen fire, or a structure that needs rebuilding after water intrusion, we document the loss, work the drying or cleanup plan, and handle the insurance paperwork so property managers and residents aren't left guessing what happens next.
+Dry 1 Out Restoration and Construction handles water damage, fire and smoke damage, mold remediation, and reconstruction work for homes and facilities in and around Camp Pendleton Mainside. Whether it's a barracks building with a failed supply line, a family housing unit with smoke damage from a kitchen fire, or a structure that needs rebuilding after water intrusion, we document the loss, work the drying or cleanup plan, and handle the insurance paperwork so property managers and residents aren't left guessing what happens next.
 
 ## Restoration emergencies common in Camp Pendleton Mainside
 
@@ -45,4 +45,4 @@ Much of the Mainside cantonment was built in waves from the 1940s through the la
 
 Because Camp Pendleton Mainside sits on federal land, permitting and inspection for structural repair or rebuild work typically runs through the base's facilities and public works offices rather than a county or city building department, which adds a coordination step that civilian jobs in Vista or Oceanside don't require. Any restoration scope that touches structural elements needs to account for that chain of approval up front.
 
-If water, fire, smoke, or mold has you looking at a damaged structure on or near Camp Pendleton Mainside, call Dry1 Out Restoration and Construction at (888) 379-1688. We're available 24/7, and we'll walk the property, document what we find, and get a drying or cleanup plan moving the same day.
+If water, fire, smoke, or mold has you looking at a damaged structure on or near Camp Pendleton Mainside, call Dry 1 Out Restoration and Construction at (888) 379-1688. We're available 24/7, and we'll walk the property, document what we find, and get a drying or cleanup plan moving the same day.

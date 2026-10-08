@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Smoke Damage Restoration in Concord, CA | Dry1 Out Restoration and Construction"
+title: "24/7 Emergency Smoke Damage Restoration in Concord, CA | Dry 1 Out Restoration and Construction"
 h1: "24/7 Emergency Smoke Damage Restoration in Concord"
 meta_description: "24/7 emergency smoke damage restoration in Concord, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "smoke damage restoration concord"

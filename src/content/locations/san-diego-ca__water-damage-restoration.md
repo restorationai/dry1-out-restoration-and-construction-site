@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Water Damage Restoration in San Diego, CA | Dry1 Out Restoration and Construction"
+title: "24/7 Emergency Water Damage Restoration in San Diego, CA | Dry 1 Out Restoration and Construction"
 h1: "24/7 Emergency Water Damage Restoration in San Diego"
 meta_description: "24/7 emergency water damage restoration in San Diego, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "water damage restoration san diego"
@@ -20,7 +20,7 @@ state: "CA"
 service_display: "Water Damage Restoration"
 rendered: true
 ---
-**Water damage in San Diego rarely looks like a flood.** More often it's a slow slab leak under a North Park Craftsman's original hardwood, or a washing machine supply line that fails in a Clairemont condo while the owners are at work. Dry1 Out Restoration and Construction answers 24/7 and gets extraction equipment moving the moment you call, because the longer water sits against lath, subfloor, or baseboard, the more of the structure has to come out instead of just drying in place.
+**Water damage in San Diego rarely looks like a flood.** More often it's a slow slab leak under a North Park Craftsman's original hardwood, or a washing machine supply line that fails in a Clairemont condo while the owners are at work. Dry 1 Out Restoration and Construction answers 24/7 and gets extraction equipment moving the moment you call, because the longer water sits against lath, subfloor, or baseboard, the more of the structure has to come out instead of just drying in place.
 
 ## Why San Diego Properties See Water Damage Issues
 
@@ -38,4 +38,4 @@ A large share of San Diego's water damage calls come from condos and attached ho
 
 In North Park's original Craftsman homes, we regularly find that plaster walls read dry on a surface moisture meter within a day or two, but the lath behind them stays wet for considerably longer because plaster releases moisture slowly compared to drywall. Pulling drying equipment too early on these homes is a common mistake that leads to hidden mold growth months later, so we run extended monitoring on pre-1950 construction even when the surface numbers look good early.
 
-If water is actively spreading under flooring or down a wall in San Diego, from a Balboa Park-adjacent bungalow to a high-rise near Petco Park, call Dry1 Out Restoration and Construction now. We answer 24/7, extract first, and build the drying plan around how your specific property, and your specific neighborhood, actually holds and releases moisture.
+If water is actively spreading under flooring or down a wall in San Diego, from a Balboa Park-adjacent bungalow to a high-rise near Petco Park, call Dry 1 Out Restoration and Construction now. We answer 24/7, extract first, and build the drying plan around how your specific property, and your specific neighborhood, actually holds and releases moisture.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Storm Damage Restoration in Camp Pendleton Mainside | Dry1 Out Restoration and Construction"
+title: "Emergency Storm Damage Restoration in Camp Pendleton Mainside | Dry 1 Out Restoration and Construction"
 h1: "24/7 Emergency Storm Damage Restoration in Camp Pendleton Mainside"
 meta_description: "24/7 emergency storm damage restoration in Camp Pendleton Mainside, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "storm damage restoration camp pendleton mainside"
@@ -38,4 +38,4 @@ Because Camp Pendleton Mainside includes privatized military family housing alon
 
 Because Camp Pendleton Mainside is an active military installation, every storm call there starts with gate clearance, not a doorbell. Crews need valid ID and vehicle registration ready at the checkpoint, and depending on the storm's severity, gate traffic can back up faster than it would on a civilian street a few miles south in Oceanside. We call ahead to coordinate escort and access before rolling a truck, which is a step that simply does not exist on most of our other storm calls in San Diego County, but skipping it is the single biggest reason a restoration crew ends up sitting at a checkpoint instead of pulling water out of a living room.
 
-If wind or rain has already gotten into your home or the roof deck is exposed, do not wait on repairs to sort themselves out. Dry1 Out Restoration and Construction, license #993442, handles storm damage restoration in Camp Pendleton Mainside from emergency tarping through full reconstruction, and we coordinate directly with base housing management or your insurance carrier so the process moves while you focus on your family. Call (888) 379-1688 for 24/7 response.
+If wind or rain has already gotten into your home or the roof deck is exposed, do not wait on repairs to sort themselves out. Dry 1 Out Restoration and Construction, license #993442, handles storm damage restoration in Camp Pendleton Mainside from emergency tarping through full reconstruction, and we coordinate directly with base housing management or your insurance carrier so the process moves while you focus on your family. Call (888) 379-1688 for 24/7 response.

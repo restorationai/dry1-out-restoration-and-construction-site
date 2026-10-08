@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Inspection and Testing in San Jose, CA | Dry1 Out Restoration and Construction"
+title: "Mold Inspection and Testing in San Jose, CA | Dry 1 Out Restoration and Construction"
 h1: "Mold Inspection and Testing in San Jose"
 meta_description: "24/7 mold inspection and testing in San Jose, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "mold inspection and testing san jose"
@@ -42,4 +42,4 @@ Beyond moisture meters and thermal imaging, we use calibrated air pumps for spor
 
 Homes built near the old Rose Garden and Japantown areas, many dating to the 1920s and 1930s, often have original redwood subflooring that can look structurally sound while holding moisture well above safe levels. Moisture meters calibrated for modern plywood sometimes under-read on old-growth redwood, so we cross-check with a pin meter and visual inspection rather than relying on a single tool, which matters if you're trying to catch a problem before it spreads past the original floor joists.
 
-If you're noticing a musty smell in a Willow Glen bungalow, a stain spreading across a ceiling in 95125, or you just want a baseline air quality test before listing a home in Almaden Valley, call Dry1 Out Restoration and Construction at (888) 379-1688. We're IICRC-certified for mold assessment and we'll walk you through what the lab results actually mean before you spend a dollar on remediation you might not need.
+If you're noticing a musty smell in a Willow Glen bungalow, a stain spreading across a ceiling in 95125, or you just want a baseline air quality test before listing a home in Almaden Valley, call Dry 1 Out Restoration and Construction at (888) 379-1688. We're IICRC-certified for mold assessment and we'll walk you through what the lab results actually mean before you spend a dollar on remediation you might not need.

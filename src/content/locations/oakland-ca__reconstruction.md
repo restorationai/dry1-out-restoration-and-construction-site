@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Reconstruction Services in Oakland, CA | Dry1 Out Restoration and Construction"
+title: "Reconstruction Services in Oakland, CA | Dry 1 Out Restoration and Construction"
 h1: "Reconstruction Services in Oakland"
 meta_description: "24/7 reconstruction services in Oakland, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "reconstruction services oakland"
@@ -20,7 +20,7 @@ state: "CA"
 service_display: "Reconstruction Services"
 rendered: true
 ---
-Rebuilding after fire, water, or storm damage in Oakland means working inside a housing stock that spans 1906 cottages in Fruitvale to mid-century ranch homes in the Montclair hills, each with its own structural quirks and permit history. Reconstruction Services from Dry1 Out picks up where demolition and drying end, framing, finishing, and restoring a property to a livable, insurable condition, matched to the construction era and code requirements of the specific address.
+Rebuilding after fire, water, or storm damage in Oakland means working inside a housing stock that spans 1906 cottages in Fruitvale to mid-century ranch homes in the Montclair hills, each with its own structural quirks and permit history. Reconstruction Services from Dry 1 Out picks up where demolition and drying end, framing, finishing, and restoring a property to a livable, insurable condition, matched to the construction era and code requirements of the specific address.
 
 ## Why Oakland Properties Need Reconstruction Services
 
@@ -38,4 +38,4 @@ Multi-unit buildings near Jack London Square and the condo stock around Grand La
 
 Homes built before the 1940s in neighborhoods like Rockridge and Temescal frequently have transite or tar-paper sheathing under the exterior siding, material that needs careful handling once walls are opened for reconstruction. It's not something you'd plan for on a newer build in the flats near Fruitvale, but it changes how we sequence demo and disposal on hillside and older-flats properties alike. Knowing which blocks are more likely to have it before swinging a hammer saves a homeowner a change order mid-project.
 
-If a fire, flood, or storm has left your Oakland property needing more than cleanup, reconstruction is the stage that gets it back to a finished, livable, and insurable condition. Dry1 Out Restoration and Construction is licensed under #993442 and available 24/7 to start that process, from the first structural assessment through final permit sign-off anywhere from the Lake Merritt shoreline to the Montclair hills.
+If a fire, flood, or storm has left your Oakland property needing more than cleanup, reconstruction is the stage that gets it back to a finished, livable, and insurable condition. Dry 1 Out Restoration and Construction is licensed under #993442 and available 24/7 to start that process, from the first structural assessment through final permit sign-off anywhere from the Lake Merritt shoreline to the Montclair hills.

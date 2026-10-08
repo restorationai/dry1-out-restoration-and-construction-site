@@ -1,9 +1,9 @@
 ---
 archetype: "legal"
-title: "Terms of Service | Dry1 Out Restoration and Construction"
+title: "Terms of Service | Dry 1 Out Restoration and Construction"
 h1: "Terms of Service"
 meta_description: "Terms of Service | {brand.display_name}."
-primary_keyword: "dry1 out restoration and construction terms"
+primary_keyword: "dry 1 out restoration and construction terms"
 secondary_keywords: []
 search_intent: "navigational_legal"
 priority: 1.0
@@ -18,7 +18,7 @@ rendered: true
 ---
 ## Privacy Policy
 
-Dry1 Out Restoration and Construction collects only the information needed to respond to your request: name, phone number, email, property address, and any details you share through our contact form. We also use basic website analytics to understand which pages are useful to visitors; this data is aggregated and not tied to your identity.
+Dry 1 Out Restoration and Construction collects only the information needed to respond to your request: name, phone number, email, property address, and any details you share through our contact form. We also use basic website analytics to understand which pages are useful to visitors; this data is aggregated and not tied to your identity.
 
 We use your information to respond to inquiries, schedule estimates, and prepare documentation for insurance coordination when you ask us to work with your carrier. We do not sell or rent your information. We share details with third parties only when you authorize us to, such as forwarding photos and scope notes to your insurance adjuster, or when required by law.
 
@@ -26,7 +26,7 @@ We retain project-related records for as long as reasonably necessary to support
 
 ## Terms of Service
 
-Dry1 Out Restoration and Construction provides restoration and reconstruction services within our defined service area in and around Vista, California. Availability outside that area is evaluated case by case and is not guaranteed.
+Dry 1 Out Restoration and Construction provides restoration and reconstruction services within our defined service area in and around Vista, California. Availability outside that area is evaluated case by case and is not guaranteed.
 
 Estimates, whether provided verbally, in writing, or through this website, are informational only and do not constitute a binding contract. The actual service relationship, including scope of work, pricing, and timeline, is governed by a signed work-authorization form executed before work begins. If conditions on-site differ from what was initially assessed, such as hidden moisture or structural damage discovered once materials are opened, the scope and price may be revised and documented in writing.
 

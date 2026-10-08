@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Water Damage Restoration in Lake San Marcos, CA | Dry1 Out Restoration and Construction"
+title: "Emergency Water Damage Restoration in Lake San Marcos, CA | Dry 1 Out Restoration and Construction"
 h1: "24/7 Emergency Water Damage Restoration in Lake San Marcos"
 meta_description: "24/7 emergency water damage restoration in Lake San Marcos, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "water damage restoration lake san marcos"
@@ -42,4 +42,4 @@ A large share of homes around the lake fall under HOA or community association r
 
 Homes built directly along the Lake San Marcos shoreline often have crawlspaces or lower patios sitting close to grade, and because the lake maintains a fairly constant water table nearby, ambient humidity in those lower spaces runs higher than you'd expect compared to homes just a short distance uphill. We factor that baseline humidity into our drying targets so a space actually reaches dry standard instead of just looking dry on a single reading.
 
-If water is spreading under flooring or behind a wall right now, every hour changes what can be saved. Dry1 Out Restoration and Construction is licensed (#993442), IICRC-certified in water and structural drying, and ready to get extraction equipment into your Lake San Marcos home as soon as you call.
+If water is spreading under flooring or behind a wall right now, every hour changes what can be saved. Dry 1 Out Restoration and Construction is licensed (#993442), IICRC-certified in water and structural drying, and ready to get extraction equipment into your Lake San Marcos home as soon as you call.

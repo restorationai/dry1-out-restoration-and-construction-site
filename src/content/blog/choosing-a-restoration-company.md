@@ -60,4 +60,4 @@ A sound process follows a sequence, not a rush. First comes assessment: moisture
 
 Throughout that process, you should be getting documentation you can hand to your insurance adjuster: photos, moisture logs, material inventories. If a company can't produce that paperwork when asked, that's a signal worth paying attention to before the job is finished, not after.
 
-If you're dealing with an active leak, fire damage, or a mold concern in Vista right now, it's worth getting a second set of eyes on it before you commit to anyone. Dry1 Out Restoration and Construction can walk through the assessment step with you and explain what the scope should look like before any demolition starts. Call (888) 379-1688 to talk through what you're seeing.
+If you're dealing with an active leak, fire damage, or a mold concern in Vista right now, it's worth getting a second set of eyes on it before you commit to anyone. Dry 1 Out Restoration and Construction can walk through the assessment step with you and explain what the scope should look like before any demolition starts. Call (888) 379-1688 to talk through what you're seeing.

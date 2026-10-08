@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in Encinitas, CA | Dry1 Out Restoration and Construction"
+title: "Mold Remediation in Encinitas, CA | Dry 1 Out Restoration and Construction"
 h1: "Mold Remediation in Encinitas"
 meta_description: "24/7 mold remediation in Encinitas, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "mold remediation encinitas"
@@ -38,4 +38,4 @@ Many of the planned communities in New Encinitas and parts of Olivenhain operate
 
 Older Old Encinitas homes built before the 1970s frequently have cellulose or newspaper-based insulation in wall cavities instead of modern fiberglass or foam. That material holds moisture far longer than current code-compliant insulation and can harbor mold well behind a wall that tests dry at the surface. On these jobs we probe deeper into the cavity than a standard moisture check would call for, because stopping at the drywall surface on a pre-1970s Encinitas house misses where the problem usually lives.
 
-If you're dealing with a musty smell, visible spotting, or a recent leak in Leucadia, Cardiff, or anywhere else in Encinitas, don't wait for it to spread to the next stud bay. Dry1 Out Restoration and Construction is IICRC AMRT certified for mold remediation and reachable 24/7 from our Vista location for Encinitas calls. Reach us at (888) 379-1688 to get a moisture assessment scheduled.
+If you're dealing with a musty smell, visible spotting, or a recent leak in Leucadia, Cardiff, or anywhere else in Encinitas, don't wait for it to spread to the next stud bay. Dry 1 Out Restoration and Construction is IICRC AMRT certified for mold remediation and reachable 24/7 from our Vista location for Encinitas calls. Reach us at (888) 379-1688 to get a moisture assessment scheduled.

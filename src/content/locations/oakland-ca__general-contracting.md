@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Renovations, Remodels and General Contracting in Oakland, CA | Dry1 Out Restoration and Construction"
+title: "Renovations, Remodels and General Contracting in Oakland, CA | Dry 1 Out Restoration and Construction"
 h1: "Renovations, Remodels and General Contracting in Oakland"
 meta_description: "24/7 renovations, remodels and general contracting in Oakland, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "renovations, remodels and general contracting oakland"

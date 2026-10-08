@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Renovations, Remodels and General Contracting in Fremont, CA | Dry1 Out Restoration and Construction"
+title: "Renovations, Remodels and General Contracting in Fremont, CA | Dry 1 Out Restoration and Construction"
 h1: "Renovations, Remodels and General Contracting in Fremont"
 meta_description: "24/7 renovations, remodels and general contracting in Fremont, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "renovations, remodels and general contracting fremont"
@@ -20,7 +20,7 @@ state: "CA"
 service_display: "Renovations, Remodels and General Contracting"
 rendered: true
 ---
-Renovating a kitchen in a 1960s Centerville ranch is a different job than rebuilding a water-damaged bathroom in a newer Warm Springs townhome, and a general contractor working across Fremont needs to plan for both. Dry1 Out Restoration and Construction handles renovations, remodels and general contracting for homeowners throughout Fremont, from straightforward kitchen and bathroom updates to full post-damage rebuilds after a covered loss.
+Renovating a kitchen in a 1960s Centerville ranch is a different job than rebuilding a water-damaged bathroom in a newer Warm Springs townhome, and a general contractor working across Fremont needs to plan for both. Dry 1 Out Restoration and Construction handles renovations, remodels and general contracting for homeowners throughout Fremont, from straightforward kitchen and bathroom updates to full post-damage rebuilds after a covered loss.
 
 ## Why Fremont Properties Need Renovation Plans Built Around Local Conditions
 
@@ -38,4 +38,4 @@ A lot of remodel delays in Fremont have nothing to do with the contractor and ev
 
 Homes near Mission San Jose and the hills above it sit on expansive clay soils that shift seasonally with Fremont's wet winters and dry summers. That movement is minor but constant, and it shows up as hairline drywall cracking and door misalignment that homeowners sometimes mistake for foundation failure. Part of a sound remodel scope in that area is distinguishing cosmetic settling cracks from an actual structural issue before cabinetry or tile goes in over a wall that's still moving.
 
-Whether you're planning a kitchen remodel near Central Park and Lake Elizabeth, updating a bathroom in a Niles cottage, or rebuilding a room after a covered loss anywhere from 94536 to 94555, Dry1 Out Restoration and Construction can scope the work, handle the permitting, and manage the build start to finish. Licensed general contractor (##993442), call (888) 379-1688 to set up a walkthrough.
+Whether you're planning a kitchen remodel near Central Park and Lake Elizabeth, updating a bathroom in a Niles cottage, or rebuilding a room after a covered loss anywhere from 94536 to 94555, Dry 1 Out Restoration and Construction can scope the work, handle the permitting, and manage the build start to finish. Licensed general contractor (##993442), call (888) 379-1688 to set up a walkthrough.

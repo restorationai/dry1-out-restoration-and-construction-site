@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Water Damage Restoration in Encinitas, CA | Dry1 Out Restoration and Construction"
+title: "24/7 Emergency Water Damage Restoration in Encinitas, CA | Dry 1 Out Restoration and Construction"
 h1: "24/7 Emergency Water Damage Restoration in Encinitas"
 meta_description: "24/7 emergency water damage restoration in Encinitas, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "water damage restoration encinitas"
@@ -20,7 +20,7 @@ state: "CA"
 service_display: "Water Damage Restoration"
 rendered: true
 ---
-**Water damage emergency in Encinitas?** Call now, we answer 24/7. Salt air off Moonlight Beach does more than corrode patio furniture, it works into stucco, window flashing, and copper plumbing along the bluff-top blocks of Old Encinitas, and when a supply line or slab leak finally gives way, that same humidity slows everything down on the drying side. Dry1 Out handles the extraction and structural drying start to finish, with crews who already know which streets flood first after a west swell.
+**Water damage emergency in Encinitas?** Call now, we answer 24/7. Salt air off Moonlight Beach does more than corrode patio furniture, it works into stucco, window flashing, and copper plumbing along the bluff-top blocks of Old Encinitas, and when a supply line or slab leak finally gives way, that same humidity slows everything down on the drying side. Dry 1 Out handles the extraction and structural drying start to finish, with crews who already know which streets flood first after a west swell.
 
 ## Why Encinitas Properties See Water Damage Issues
 
@@ -38,4 +38,4 @@ Several of the newer attached communities in New Encinitas run through an HOA fo
 
 Homes within a few blocks of Swami's Beach and the bluffs often have copper plumbing that's already pitted from decades of salt air exposure, even in houses that look well-maintained from the street. On these jobs we check adjacent fittings and shutoff valves while we're on-site for an active leak, because a second failure six months later on the same line isn't unusual once corrosion has started.
 
-If water is spreading through a kitchen in Leucadia, a slab leak is surfacing near the Self-Realization Fellowship grounds, or a storm has pushed runoff into a garage in Olivenhain, call Dry1 Out at (888) 379-1688. We're a short run down from Vista and set up extraction and drying equipment the same visit, under license #993442.
+If water is spreading through a kitchen in Leucadia, a slab leak is surfacing near the Self-Realization Fellowship grounds, or a storm has pushed runoff into a garage in Olivenhain, call Dry 1 Out at (888) 379-1688. We're a short run down from Vista and set up extraction and drying equipment the same visit, under license #993442.

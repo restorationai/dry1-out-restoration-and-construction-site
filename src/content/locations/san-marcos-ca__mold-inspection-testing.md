@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Inspection and Testing in San Marcos, CA | Dry1 Out Restoration and Construction"
+title: "Mold Inspection and Testing in San Marcos, CA | Dry 1 Out Restoration and Construction"
 h1: "Mold Inspection and Testing in San Marcos"
 meta_description: "24/7 mold inspection and testing in San Marcos, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "mold inspection and testing san marcos"

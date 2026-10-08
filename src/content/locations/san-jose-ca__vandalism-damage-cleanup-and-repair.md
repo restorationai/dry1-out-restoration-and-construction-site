@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Vandalism Damage Cleanup and Repair in San Jose, CA | Dry1 Out Restoration and Construction"
+title: "Vandalism Damage Cleanup and Repair in San Jose, CA | Dry 1 Out Restoration and Construction"
 h1: "Vandalism Damage Cleanup and Repair in San Jose"
 meta_description: "24/7 vandalism damage cleanup and repair in San Jose, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "vandalism damage cleanup and repair san jose"
@@ -20,7 +20,7 @@ state: "CA"
 service_display: "Vandalism Damage Cleanup and Repair"
 rendered: true
 ---
-Vandalism in San Jose rarely looks the same twice: spray paint across a stucco wall in Willow Glen, a shattered storefront window near Japantown's business strip, or a kicked-in side door on a vacant rental in Berryessa. Dry1 Out Restoration and Construction handles the cleanup and the repair, matching San Jose's stucco, hardcoat plaster, and tract-home siding so the damage disappears rather than just getting painted over.
+Vandalism in San Jose rarely looks the same twice: spray paint across a stucco wall in Willow Glen, a shattered storefront window near Japantown's business strip, or a kicked-in side door on a vacant rental in Berryessa. Dry 1 Out Restoration and Construction handles the cleanup and the repair, matching San Jose's stucco, hardcoat plaster, and tract-home siding so the damage disappears rather than just getting painted over.
 
 ## Why San Jose Properties See Vandalism Damage
 
@@ -45,4 +45,4 @@ Most homeowners' and commercial property policies cover vandalism as a named per
 
 One thing that trips up out-of-town crews: San Jose's light rail corridor and the stretch of commercial buildings near SAP Center see a disproportionate share of after-hours window breakage and tagging tied to event nights. Property owners in that zone often ask for board-up and cleanup scheduled before the next scheduled event, not just whenever a crew is free, and we plan around that calendar when we can.
 
-If vandalism has left your home or business in San Jose with broken glass, spray paint, or forced-entry damage, call Dry1 Out Restoration and Construction at (888) 379-1688. We're IICRC-certified for the structural and surface work this kind of repair calls for, and because our hours are 24/7, you can reach us whether the damage happened last night near Japantown or this afternoon in Almaden Valley.
+If vandalism has left your home or business in San Jose with broken glass, spray paint, or forced-entry damage, call Dry 1 Out Restoration and Construction at (888) 379-1688. We're IICRC-certified for the structural and surface work this kind of repair calls for, and because our hours are 24/7, you can reach us whether the damage happened last night near Japantown or this afternoon in Almaden Valley.

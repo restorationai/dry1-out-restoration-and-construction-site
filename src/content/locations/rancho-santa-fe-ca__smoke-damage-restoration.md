@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Smoke Damage Restoration in Rancho Santa Fe, CA | Dry1 Out Restoration and Construction"
+title: "Emergency Smoke Damage Restoration in Rancho Santa Fe, CA | Dry 1 Out Restoration and Construction"
 h1: "24/7 Emergency Smoke Damage Restoration in Rancho Santa Fe"
 meta_description: "24/7 emergency smoke damage restoration in Rancho Santa Fe, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "smoke damage restoration rancho santa fe"

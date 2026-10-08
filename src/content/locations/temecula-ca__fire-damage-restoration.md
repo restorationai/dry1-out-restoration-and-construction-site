@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Fire Damage Restoration in Temecula, CA | Dry1 Out Restoration and Construction"
+title: "24/7 Emergency Fire Damage Restoration in Temecula, CA | Dry 1 Out Restoration and Construction"
 h1: "24/7 Emergency Fire Damage Restoration in Temecula"
 meta_description: "24/7 emergency fire damage restoration in Temecula, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "fire damage restoration temecula"

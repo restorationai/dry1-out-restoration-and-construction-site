@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Water Damage Restoration in Berkeley, CA | Dry1 Out Restoration and Construction"
+title: "24/7 Emergency Water Damage Restoration in Berkeley, CA | Dry 1 Out Restoration and Construction"
 h1: "24/7 Emergency Water Damage Restoration in Berkeley"
 meta_description: "24/7 emergency water damage restoration in Berkeley, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "water damage restoration berkeley"
@@ -38,4 +38,4 @@ A lot of Berkeley housing is rented or managed, from Southside student apartment
 
 In Berkeley Hills homes built into the slope, we've learned to check the uphill crawlspace vents before assuming a leak is plumbing-related: clay soil saturated by winter rain can push groundwater against foundation walls near Tilden Regional Park and into vented crawlspaces, mimicking a plumbing leak when the actual source is exterior drainage. Catching that early changes the whole scope of the job, because drying a crawlspace against an ongoing groundwater source is a different problem than drying one after a single pipe failure.
 
-Water sitting under flooring or inside a pre-war wall assembly doesn't wait for a convenient time, and neither should the response. If you're dealing with a leak, a failed appliance line, or storm water intrusion anywhere from North Berkeley to West Berkeley or the 94708 zip up in the hills, call Dry1 Out Restoration and Construction at (888) 379-1688 for water extraction and structural drying handled with the care Berkeley's older buildings actually require.
+Water sitting under flooring or inside a pre-war wall assembly doesn't wait for a convenient time, and neither should the response. If you're dealing with a leak, a failed appliance line, or storm water intrusion anywhere from North Berkeley to West Berkeley or the 94708 zip up in the hills, call Dry 1 Out Restoration and Construction at (888) 379-1688 for water extraction and structural drying handled with the care Berkeley's older buildings actually require.

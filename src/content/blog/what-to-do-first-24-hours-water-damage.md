@@ -72,7 +72,7 @@ Call a restoration company rather than handling it solo if any of these apply:
 - You can't identify or stop the source yourself.
 - It's been more than a day since the water event and you're still smelling mustiness or seeing discoloration.
 
-Dry1 Out Restoration and Construction works with Vista homeowners on water damage restoration, including moisture mapping, extraction, and structural drying handled to the IICRC S500 standard that governs how water losses are supposed to be dried. If you're filing an insurance claim, a professional inspection also gives you documented moisture readings that carry more weight with an adjuster than your own photos alone.
+Dry 1 Out Restoration and Construction works with Vista homeowners on water damage restoration, including moisture mapping, extraction, and structural drying handled to the IICRC S500 standard that governs how water losses are supposed to be dried. If you're filing an insurance claim, a professional inspection also gives you documented moisture readings that carry more weight with an adjuster than your own photos alone.
 
 ## What Recovery Actually Looks Like After Day One
 
@@ -80,4 +80,4 @@ Once the immediate crisis is handled, drying out a structure properly usually ta
 
 The first 24 hours determine how much of this longer process you can avoid. Fast, correct action now is the single biggest factor in whether your materials get salvaged or replaced.
 
-If you're standing in water right now and trying to figure out next steps, a call to a local restoration company costs you nothing but a few minutes, and it gives you a clearer read on whether this is a do-it-yourself situation or one that needs equipment and expertise you don't have in your garage. Dry1 Out Restoration and Construction can be reached at (888) 379-1688 to talk through what you're seeing and what to do next.
+If you're standing in water right now and trying to figure out next steps, a call to a local restoration company costs you nothing but a few minutes, and it gives you a clearer read on whether this is a do-it-yourself situation or one that needs equipment and expertise you don't have in your garage. Dry 1 Out Restoration and Construction can be reached at (888) 379-1688 to talk through what you're seeing and what to do next.

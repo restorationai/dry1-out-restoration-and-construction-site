@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in Sunnyvale, CA | Dry1 Out Restoration and Construction"
+title: "Mold Remediation in Sunnyvale, CA | Dry 1 Out Restoration and Construction"
 h1: "Mold Remediation in Sunnyvale"
 meta_description: "24/7 mold remediation in Sunnyvale, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "mold remediation sunnyvale"
@@ -38,4 +38,4 @@ Many of the condo and townhome complexes built since the early 2000s, including 
 
 One thing we watch for specifically in Sunnyvale's older Eichler tracts: the original built-in planter boxes some of these homes have along interior walls, a mid-century design feature, were often never fully waterproofed from the slab below. Decades later those planter boxes are a near-guaranteed moisture reservoir if they're still irrigated, and we've learned to check behind the adjacent drywall even when the visible mold is nowhere near the planter itself.
 
-If you're dealing with a musty smell or visible growth in a Sunnyvale home, whether it's a flat-roof Eichler near Las Palmas Park or a newer unit off Murphy Avenue, Dry1 Out Restoration and Construction can assess the source and scope the remediation properly the first time. Call (888) 379-1688 to get an inspection scheduled.
+If you're dealing with a musty smell or visible growth in a Sunnyvale home, whether it's a flat-roof Eichler near Las Palmas Park or a newer unit off Murphy Avenue, Dry 1 Out Restoration and Construction can assess the source and scope the remediation properly the first time. Call (888) 379-1688 to get an inspection scheduled.

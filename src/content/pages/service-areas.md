@@ -1,9 +1,9 @@
 ---
 archetype: "service-areas-hub"
-title: "Service Areas | Dry1 Out Restoration and Construction Restoration"
+title: "Service Areas | Dry 1 Out Restoration and Construction Restoration"
 h1: "Areas We Serve"
-meta_description: "Dry1 Out Restoration and Construction provides 24/7 restoration services across Vista and the surrounding region. Find your city."
-primary_keyword: "dry1 out restoration and construction service areas"
+meta_description: "Dry 1 Out Restoration and Construction provides 24/7 restoration services across Vista and the surrounding region. Find your city."
+primary_keyword: "dry 1 out restoration and construction service areas"
 secondary_keywords: ["restoration service area", "cities we serve", "local restoration coverage"]
 search_intent: "navigational_local"
 priority: 3.5
@@ -15,7 +15,7 @@ breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Service Areas"}]
 faq: [{"question": "How far outside Vista will you travel for a job?", "answer": "We regularly cover North San Diego County and will consider jobs beyond that radius, particularly for large losses or commercial properties. Call us with your address and we'll tell you directly whether it's within range."}, {"question": "Will response be slower if I'm further from Vista?", "answer": "Distance does affect arrival order since closer properties are quicker to reach, but every call is logged and dispatched based on severity, not just proximity. Active water or fire damage is prioritized no matter where it falls on the map."}, {"question": "Do you charge extra for mileage to outer cities?", "answer": "Pricing depends on the scope of the loss and is discussed when you call, so ask directly about your specific address and job type. We'd rather give you a straight answer on the phone than have you guess from a general policy."}]
 rendered: true
 ---
-Dry1 Out Restoration and Construction is based in Vista and dispatches crews throughout North San Diego County. Because our phones are answered 24/7, a call placed at 2 a.m. gets the same attention as one placed at noon: we log the details, assess the loss, and get a crew moving. Response order depends on loss severity and distance from our Vista base, not on who calls first.
+Dry 1 Out Restoration and Construction is based in Vista and dispatches crews throughout North San Diego County. Because our phones are answered 24/7, a call placed at 2 a.m. gets the same attention as one placed at noon: we log the details, assess the loss, and get a crew moving. Response order depends on loss severity and distance from our Vista base, not on who calls first.
 
 ## Where we work
 

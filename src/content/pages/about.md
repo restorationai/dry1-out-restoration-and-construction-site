@@ -1,9 +1,9 @@
 ---
 archetype: "about"
-title: "About Dry1 Out Restoration and Construction | Vista Restoration Company"
-h1: "About Dry1 Out Restoration and Construction"
-meta_description: "Dry1 Out Restoration and Construction has served Vista since 2026. Meet our IICRC-certified restoration team. Licensed, insured, locally owned."
-primary_keyword: "dry1 out restoration and construction vista"
+title: "About Dry 1 Out Restoration and Construction | Vista Restoration Company"
+h1: "About Dry 1 Out Restoration and Construction"
+meta_description: "Dry 1 Out Restoration and Construction has served Vista since 2026. Meet our IICRC-certified restoration team. Licensed, insured, locally owned."
+primary_keyword: "dry 1 out restoration and construction vista"
 secondary_keywords: ["local restoration company", "iicrc certified restoration", "licensed restoration contractor"]
 search_intent: "navigational_trust"
 priority: 2.5
@@ -12,10 +12,10 @@ generated_at: "2026-10-08T19:26:52.054505+00:00"
 manual_override: false
 internal_links: ["/", "/services/", "/contact/"]
 breadcrumb: [{"name": "Home", "url": "/"}, {"name": "About"}]
-faq: [{"question": "How long has Dry1 Out Restoration and Construction been in business?", "answer": "We were founded in 2026 as a dedicated restoration and reconstruction company. We focus specifically on water, fire, storm, and biohazard losses rather than treating restoration as a side service."}, {"question": "What areas do you serve?", "answer": "We're based in Vista, CA and serve the surrounding North County San Diego communities. That includes both residential neighborhoods and commercial properties across a range of building ages and construction types."}, {"question": "What certifications does your team hold?", "answer": "Dry1 Out Restoration and Construction is an IICRC Certified Firm, with technicians certified in water restoration (WRT), structural drying (ASD), mold remediation (AMRT), and fire and smoke restoration (FSRT). These certifications set the technical standards we follow on every job, from moisture monitoring to containment procedures."}, {"question": "Who runs Dry1 Out Restoration and Construction?", "answer": "We're a licensed restoration and general contracting company built around IICRC-certified technicians rather than a single public-facing figurehead. Our license number is #993442, and our team is structured around certified specialists in water, fire, mold, and structural drying."}, {"question": "Are you available after hours?", "answer": "Yes, we operate 24/7, since losses like burst pipes, fire damage, and sewage backups don't wait for business hours. Call (888) 379-1688 any time and a member of our team will respond."}]
+faq: [{"question": "How long has Dry 1 Out Restoration and Construction been in business?", "answer": "We were founded in 2026 as a dedicated restoration and reconstruction company. We focus specifically on water, fire, storm, and biohazard losses rather than treating restoration as a side service."}, {"question": "What areas do you serve?", "answer": "We're based in Vista, CA and serve the surrounding North County San Diego communities. That includes both residential neighborhoods and commercial properties across a range of building ages and construction types."}, {"question": "What certifications does your team hold?", "answer": "Dry 1 Out Restoration and Construction is an IICRC Certified Firm, with technicians certified in water restoration (WRT), structural drying (ASD), mold remediation (AMRT), and fire and smoke restoration (FSRT). These certifications set the technical standards we follow on every job, from moisture monitoring to containment procedures."}, {"question": "Who runs Dry 1 Out Restoration and Construction?", "answer": "We're a licensed restoration and general contracting company built around IICRC-certified technicians rather than a single public-facing figurehead. Our license number is #993442, and our team is structured around certified specialists in water, fire, mold, and structural drying."}, {"question": "Are you available after hours?", "answer": "Yes, we operate 24/7, since losses like burst pipes, fire damage, and sewage backups don't wait for business hours. Call (888) 379-1688 any time and a member of our team will respond."}]
 rendered: true
 ---
-Dry1 Out Restoration and Construction was founded in 2026 with a narrow focus: water, fire, storm, and biohazard losses are different from other contracting work, and they deserve a crew that treats them that way. Restoration isn't renovation on a deadline. It's showing up while a homeowner is still figuring out where the water came from, or while an insurance adjuster is asking questions nobody prepared them for. That's the work we built the company around.
+Dry 1 Out Restoration and Construction was founded in 2026 with a narrow focus: water, fire, storm, and biohazard losses are different from other contracting work, and they deserve a crew that treats them that way. Restoration isn't renovation on a deadline. It's showing up while a homeowner is still figuring out where the water came from, or while an insurance adjuster is asking questions nobody prepared them for. That's the work we built the company around.
 
 ## What we do
 
@@ -25,7 +25,7 @@ A good share of what we do runs through insurance claims, which means documentat
 
 ## Our certifications and licensure
 
-Dry1 Out Restoration and Construction is an IICRC Certified Firm, and our technicians carry IICRC credentials in water restoration (WRT), structural drying (ASD), mold remediation (AMRT), and fire and smoke restoration (FSRT). These aren't marketing badges. The IICRC sets the technical standards the restoration industry actually follows, things like how long a structure needs to dry before it's safe to close back up, or how to contain a mold-affected area so remediation doesn't just spread spores to the next room. When we say a job was dried to standard, that standard has a name and a number behind it.
+Dry 1 Out Restoration and Construction is an IICRC Certified Firm, and our technicians carry IICRC credentials in water restoration (WRT), structural drying (ASD), mold remediation (AMRT), and fire and smoke restoration (FSRT). These aren't marketing badges. The IICRC sets the technical standards the restoration industry actually follows, things like how long a structure needs to dry before it's safe to close back up, or how to contain a mold-affected area so remediation doesn't just spread spores to the next room. When we say a job was dried to standard, that standard has a name and a number behind it.
 
 We hold license #993442, and we carry insurance to work on both residential and commercial properties, which matters when you're letting a crew into your home or business during the worst week of the year.
 

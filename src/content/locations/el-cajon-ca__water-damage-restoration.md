@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Water Damage Restoration in El Cajon, CA | Dry1 Out Restoration and Construction"
+title: "24/7 Emergency Water Damage Restoration in El Cajon, CA | Dry 1 Out Restoration and Construction"
 h1: "24/7 Emergency Water Damage Restoration in El Cajon"
 meta_description: "24/7 emergency water damage restoration in El Cajon, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "water damage restoration el cajon"
@@ -38,4 +38,4 @@ Many of the condo and townhome communities near Parkway Plaza and along the Flet
 
 Homes in the Bostonia area and near Gillespie Field often sit on parcels large enough that the water supply line runs a long distance from the street to the house, which means a leak can be underground for a surprising stretch before it surfaces in a yard or under a slab. We've learned to check irrigation and supply line routing on these properties early in an inspection, since a wet spot in a side yard isn't always what it looks like at first glance.
 
-If water is spreading through your El Cajon home right now, from Fletcher Hills to the streets near Grossmont College, don't wait for it to find its own stopping point. Dry1 Out Restoration and Construction is licensed (#993442) and answers around the clock, so a call today means extraction and drying can start today, not after more flooring and drywall are lost.
+If water is spreading through your El Cajon home right now, from Fletcher Hills to the streets near Grossmont College, don't wait for it to find its own stopping point. Dry 1 Out Restoration and Construction is licensed (#993442) and answers around the clock, so a call today means extraction and drying can start today, not after more flooring and drywall are lost.

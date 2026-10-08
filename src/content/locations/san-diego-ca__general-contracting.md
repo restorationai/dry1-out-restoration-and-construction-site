@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Renovations, Remodels and General Contracting in San Diego, CA | Dry1 Out Restoration and Construction"
+title: "Renovations, Remodels and General Contracting in San Diego, CA | Dry 1 Out Restoration and Construction"
 h1: "Renovations, Remodels and General Contracting in San Diego"
 meta_description: "24/7 renovations, remodels and general contracting in San Diego, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "renovations, remodels and general contracting san diego"
@@ -20,7 +20,7 @@ state: "CA"
 service_display: "Renovations, Remodels and General Contracting"
 rendered: true
 ---
-San Diego's housing stock runs the gamut from 1920s Craftsman bungalows in North Park to mid-century ranches in Clairemont and newer planned communities in Rancho Bernardo, and each one asks something different of a remodel. Dry1 Out Restoration and Construction handles kitchen and bathroom remodels, whole-room rebuilds, and general contracting work across the county, whether the project starts with a homeowner's wish list or with a water or fire loss that needs to be rebuilt correctly the first time.
+San Diego's housing stock runs the gamut from 1920s Craftsman bungalows in North Park to mid-century ranches in Clairemont and newer planned communities in Rancho Bernardo, and each one asks something different of a remodel. Dry 1 Out Restoration and Construction handles kitchen and bathroom remodels, whole-room rebuilds, and general contracting work across the county, whether the project starts with a homeowner's wish list or with a water or fire loss that needs to be rebuilt correctly the first time.
 
 ## Why San Diego Properties Need Renovation Plans Built Around Local Conditions
 
@@ -38,4 +38,4 @@ Most remodel and rebuild permits in the city run through the City of San Diego's
 
 In Hillcrest and parts of North Park, a lot of lots are narrow with limited side-yard access, which affects how we stage material deliveries and dumpsters for a remodel; we usually plan drop-off timing around street parking restrictions rather than assuming a driveway will fit a full-size roll-off. It's a small logistics detail, but it's the difference between a smooth first week and a project that stalls before demo even starts.
 
-Whether you're updating a kitchen in a Clairemont ranch, rebuilding a bathroom in a La Jolla condo after a plumbing failure, or taking on a fuller renovation in a North Park Craftsman, Dry1 Out Restoration and Construction can scope the work, handle the permitting, and see the rebuild through to a finished space. Call (888) 379-1688 to set up a walkthrough for your San Diego property.
+Whether you're updating a kitchen in a Clairemont ranch, rebuilding a bathroom in a La Jolla condo after a plumbing failure, or taking on a fuller renovation in a North Park Craftsman, Dry 1 Out Restoration and Construction can scope the work, handle the permitting, and see the rebuild through to a finished space. Call (888) 379-1688 to set up a walkthrough for your San Diego property.

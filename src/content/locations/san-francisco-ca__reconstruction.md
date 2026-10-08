@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Reconstruction Services in San Francisco, CA | Dry1 Out Restoration and Construction"
+title: "Reconstruction Services in San Francisco, CA | Dry 1 Out Restoration and Construction"
 h1: "Reconstruction Services in San Francisco"
 meta_description: "24/7 reconstruction services in San Francisco, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "reconstruction services san francisco"
@@ -20,7 +20,7 @@ state: "CA"
 service_display: "Reconstruction Services"
 rendered: true
 ---
-San Francisco's housing stock runs the gamut from Edwardian flats stacked shoulder-to-shoulder in the Mission District to mid-century stucco boxes out in the Sunset, and a fire, storm, or major water loss in any of them creates a rebuild problem that looks nothing like a suburban tract-home job. Reconstruction Services from Dry1 Out Restoration and Construction picks up where mitigation ends, framing, drywall, flooring, and finish work brought back to a condition that passes inspection and matches what was there before the damage.
+San Francisco's housing stock runs the gamut from Edwardian flats stacked shoulder-to-shoulder in the Mission District to mid-century stucco boxes out in the Sunset, and a fire, storm, or major water loss in any of them creates a rebuild problem that looks nothing like a suburban tract-home job. Reconstruction Services from Dry 1 Out Restoration and Construction picks up where mitigation ends, framing, drywall, flooring, and finish work brought back to a condition that passes inspection and matches what was there before the damage.
 
 ## Why San Francisco Properties See Reconstruction Issues
 
@@ -38,4 +38,4 @@ A good share of the reconstruction work we handle in the city involves condo and
 
 A fair number of the multi-unit wood-frame buildings we work in around the Mission and SoMa fall under San Francisco's mandatory soft-story retrofit program, which applies to older buildings with specific ground-floor framing. When a fire or water loss forces structural work in one of these buildings, we check whether the retrofit status affects what we're allowed to rebuild and how, since reframing a wall that's part of a required seismic upgrade is a different scope than a standard repair. It's a detail that's easy to miss if you're not used to working in the city's older multi-unit stock.
 
-If a fire, storm, or major leak has left part of your San Francisco property down to studs and subfloor, Dry1 Out Restoration and Construction can take the Reconstruction Services scope from framing through final finish, coordinated with your insurance carrier and, where it applies, your building's HOA. Call (888) 379-1688 to get a licensed (#993442) crew scoped and scheduled.
+If a fire, storm, or major leak has left part of your San Francisco property down to studs and subfloor, Dry 1 Out Restoration and Construction can take the Reconstruction Services scope from framing through final finish, coordinated with your insurance carrier and, where it applies, your building's HOA. Call (888) 379-1688 to get a licensed (#993442) crew scoped and scheduled.

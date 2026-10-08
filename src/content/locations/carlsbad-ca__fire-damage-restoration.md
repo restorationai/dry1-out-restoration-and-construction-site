@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Fire Damage Restoration in Carlsbad, CA | Dry1 Out Restoration and Construction"
+title: "24/7 Emergency Fire Damage Restoration in Carlsbad, CA | Dry 1 Out Restoration and Construction"
 h1: "24/7 Emergency Fire Damage Restoration in Carlsbad"
 meta_description: "24/7 emergency fire damage restoration in Carlsbad, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "fire damage restoration carlsbad"
@@ -38,4 +38,4 @@ Many La Costa and Aviara properties sit inside HOA developments with architectur
 
 Homes within a few blocks of The Flower Fields and the Village corridor often have older attic ventilation, gable vents without ember-resistant mesh, which were standard before California's more recent wildfire building codes. On a brush-driven fire call in that area, we check those vents first, since embers collect there even when the rest of the structure looks untouched. It's a five-minute check that can catch hidden smoke intrusion before it spreads into living space.
 
-If you're dealing with fire or smoke damage anywhere from Carlsbad Village to La Costa, Aviara, or the Bressi Ranch area, Dry1 Out Restoration and Construction is licensed (##993442) and staffed around the clock to start the assessment and board-up before conditions get worse. Call (888) 379-1688 and we'll walk you through what happens next.
+If you're dealing with fire or smoke damage anywhere from Carlsbad Village to La Costa, Aviara, or the Bressi Ranch area, Dry 1 Out Restoration and Construction is licensed (##993442) and staffed around the clock to start the assessment and board-up before conditions get worse. Call (888) 379-1688 and we'll walk you through what happens next.

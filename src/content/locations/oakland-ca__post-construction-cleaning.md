@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Post-Construction and Specialty Cleaning in Oakland, CA | Dry1 Out Restoration and Construction"
+title: "Post-Construction and Specialty Cleaning in Oakland, CA | Dry 1 Out Restoration and Construction"
 h1: "Post-Construction and Specialty Cleaning in Oakland"
 meta_description: "24/7 post-construction and specialty cleaning in Oakland, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "post-construction and specialty cleaning oakland"
@@ -32,10 +32,10 @@ We start with a walkthrough to flag problem areas: window tracks packed with saw
 
 ## Oakland Permits, HOA, and Final Walkthroughs
 
-A lot of our post-construction cleaning calls come right after a final building inspection, since many Oakland permits (issued through the city's Planning & Building Department) require the space to be move-in ready before close-out. Condo and townhome associations in areas like Grand Lake and parts of Temescal often have their own move-in cleaning standards written into CC&Rs, particularly around shared hallway protection and debris disposal timing. We coordinate scheduling around those requirements and around general contractors' timelines so the cleaning doesn't become the bottleneck holding up a certificate of occupancy or a property handoff. Dry1 Out Restoration and Construction carries California contractor license #993442, which matters when a post-construction job overlaps with punch-list repairs or touch-up work that falls outside a pure cleaning scope.
+A lot of our post-construction cleaning calls come right after a final building inspection, since many Oakland permits (issued through the city's Planning & Building Department) require the space to be move-in ready before close-out. Condo and townhome associations in areas like Grand Lake and parts of Temescal often have their own move-in cleaning standards written into CC&Rs, particularly around shared hallway protection and debris disposal timing. We coordinate scheduling around those requirements and around general contractors' timelines so the cleaning doesn't become the bottleneck holding up a certificate of occupancy or a property handoff. Dry 1 Out Restoration and Construction carries California contractor license #993442, which matters when a post-construction job overlaps with punch-list repairs or touch-up work that falls outside a pure cleaning scope.
 
 ## Local note
 
 Homes within a few blocks of Lake Merritt and the Grand Avenue corridor tend to get more fine dust infiltration during renovations because older single-pane windows don't seal job sites as tightly as newer construction does. We've found it's worth doing a second HEPA pass on window sills and interior shutters in these homes a day or two after the main clean, since dust from an adjacent unit's work, common in Oakland's older duplex and triplex stock, can resettle even after the initial detail is finished.
 
-If you've got a renovation wrapping up anywhere from Rockridge to the Montclair hills, or a commercial buildout near Jack London Square that needs to be spotless before opening day, call Dry1 Out Restoration and Construction at (888) 379-1688. We'll scope the job, work around your contractor's finish schedule, and leave the space ready for move-in, not just swept.
+If you've got a renovation wrapping up anywhere from Rockridge to the Montclair hills, or a commercial buildout near Jack London Square that needs to be spotless before opening day, call Dry 1 Out Restoration and Construction at (888) 379-1688. We'll scope the job, work around your contractor's finish schedule, and leave the space ready for move-in, not just swept.

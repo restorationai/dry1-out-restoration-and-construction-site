@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Renovations, Remodels and General Contracting in Del Mar, CA | Dry1 Out Restoration and Construction"
+title: "Renovations, Remodels and General Contracting in Del Mar, CA | Dry 1 Out Restoration and Construction"
 h1: "Renovations, Remodels and General Contracting in Del Mar"
 meta_description: "24/7 renovations, remodels and general contracting in Del Mar, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "renovations, remodels and general contracting del mar"
@@ -38,4 +38,4 @@ A fair number of Del Mar properties sit inside HOA-governed communities, particu
 
 On properties within walking distance of the bluffs, we've found that standard interior-grade fasteners and hinges show visible corrosion within a couple of years, even on newer construction, so we spec stainless or coated hardware on any exterior-facing work by default rather than waiting for a homeowner to ask. It's a small line-item difference on a remodel budget, but it's the detail that keeps a cabinet door or exterior fixture from needing replacement again before the rest of the house does.
 
-If you're weighing a kitchen remodel, a full bathroom renovation, or a rebuild that followed water or fire damage, Dry1 Out Restoration and Construction can scope the project with Del Mar's coastal conditions already factored in, not added as an afterthought. Call (888) 379-1688 to set up a walkthrough and get a realistic project plan before anything gets opened up.
+If you're weighing a kitchen remodel, a full bathroom renovation, or a rebuild that followed water or fire damage, Dry 1 Out Restoration and Construction can scope the project with Del Mar's coastal conditions already factored in, not added as an afterthought. Call (888) 379-1688 to set up a walkthrough and get a realistic project plan before anything gets opened up.

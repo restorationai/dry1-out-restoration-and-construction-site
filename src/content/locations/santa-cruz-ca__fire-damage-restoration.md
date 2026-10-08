@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Fire Damage Restoration in Santa Cruz, CA | Dry1 Out Restoration and Construction"
+title: "24/7 Emergency Fire Damage Restoration in Santa Cruz, CA | Dry 1 Out Restoration and Construction"
 h1: "24/7 Emergency Fire Damage Restoration in Santa Cruz"
 meta_description: "24/7 emergency fire damage restoration in Santa Cruz, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "fire damage restoration santa cruz"
@@ -42,4 +42,4 @@ Fire jobs in Santa Cruz almost always involve a secondary moisture problem, eith
 
 Homes in Beach Flats and parts of the Eastside sit close enough to the water that fire-damaged drywall and insulation often arrive at a job already carrying ambient moisture from marine air, which throws off the assumption that char equals dry. We test moisture content before we tear out anything, because material that looks fire-dried can still be wet enough underneath to grow mold within 48 hours if it's left in place, a detail that matters more here than it would a few miles inland.
 
-If fire or smoke has touched your Santa Cruz home or rental property, don't wait on odor or soot to spread further into the structure. Dry1 Out Restoration and Construction is licensed in California (#993442) and IICRC-certified for fire and smoke restoration, and we're reachable around the clock at (888) 379-1688 to get mitigation moving before the damage compounds.
+If fire or smoke has touched your Santa Cruz home or rental property, don't wait on odor or soot to spread further into the structure. Dry 1 Out Restoration and Construction is licensed in California (#993442) and IICRC-certified for fire and smoke restoration, and we're reachable around the clock at (888) 379-1688 to get mitigation moving before the damage compounds.

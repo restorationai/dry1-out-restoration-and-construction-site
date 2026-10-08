@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Odor Removal and Deodorization in Temecula, CA | Dry1 Out Restoration and Construction"
+title: "Odor Removal and Deodorization in Temecula, CA | Dry 1 Out Restoration and Construction"
 h1: "Odor Removal and Deodorization in Temecula"
 meta_description: "24/7 odor removal and deodorization in Temecula, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "odor removal and deodorization temecula"
@@ -42,4 +42,4 @@ Many of Temecula's planned communities, Redhawk and Harveston among them, have H
 
 Homes built after 2000 in Redhawk and Harveston often use closed-cell spray foam in attic spaces, which is excellent for energy efficiency but means smoke odor that gets past the roofline tends to sit against the foam rather than ventilating out, so attic treatment there usually takes longer than it would in an older Old Town Temecula home with open rafter venting.
 
-If smoke, pet odor, or a lingering musty smell has settled into your Temecula home, whether you're near the Duck Pond downtown or up in Wine Country, call Dry1 Out Restoration and Construction at (888) 379-1688 to talk through the right deodorization approach for your property.
+If smoke, pet odor, or a lingering musty smell has settled into your Temecula home, whether you're near the Duck Pond downtown or up in Wine Country, call Dry 1 Out Restoration and Construction at (888) 379-1688 to talk through the right deodorization approach for your property.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Reconstruction Services in San Jose, CA | Dry1 Out Restoration and Construction"
+title: "Reconstruction Services in San Jose, CA | Dry 1 Out Restoration and Construction"
 h1: "Reconstruction Services in San Jose"
 meta_description: "24/7 reconstruction services in San Jose, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "reconstruction services san jose"
@@ -20,7 +20,7 @@ state: "CA"
 service_display: "Reconstruction Services"
 rendered: true
 ---
-Rebuilding after a fire, flood, or storm in San Jose means working around more than the damage itself. Permit review through the city's Building Division, HOA design guidelines in planned communities like Evergreen, and the mixed housing stock from Willow Glen bungalows to newer Almaden Valley builds all shape how a reconstruction project gets scoped and scheduled. Dry1 Out Restoration and Construction handles the structural rebuild after water, fire, or storm loss, coordinating demolition, framing, drywall, and finish work so the property comes back code-compliant and livable.
+Rebuilding after a fire, flood, or storm in San Jose means working around more than the damage itself. Permit review through the city's Building Division, HOA design guidelines in planned communities like Evergreen, and the mixed housing stock from Willow Glen bungalows to newer Almaden Valley builds all shape how a reconstruction project gets scoped and scheduled. Dry 1 Out Restoration and Construction handles the structural rebuild after water, fire, or storm loss, coordinating demolition, framing, drywall, and finish work so the property comes back code-compliant and livable.
 
 ## Why San Jose Properties See Reconstruction Issues
 
@@ -38,4 +38,4 @@ Most reconstruction work in San Jose follows an insurance claim for fire, water,
 
 In the older sections of Willow Glen and near the Rose Garden, original fir and redwood framing is common, and matching new lumber to those species for structural repairs takes more sourcing time than a standard big-box lumber order. We account for that lead time in the project schedule rather than letting it surprise a homeowner mid-job, especially on fire rebuilds where char damage often extends further into the framing than it first appears.
 
-If your San Jose property needs reconstruction after fire, water, or storm damage, from a Japantown multi-unit building to a single-family home near SAP Center, Dry1 Out Restoration and Construction can scope the rebuild, coordinate permits and insurance, and get the work done to code. Call (888) 379-1688 to start the conversation.
+If your San Jose property needs reconstruction after fire, water, or storm damage, from a Japantown multi-unit building to a single-family home near SAP Center, Dry 1 Out Restoration and Construction can scope the rebuild, coordinate permits and insurance, and get the work done to code. Call (888) 379-1688 to start the conversation.

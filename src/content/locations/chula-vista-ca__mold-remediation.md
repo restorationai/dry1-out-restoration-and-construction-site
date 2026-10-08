@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in Chula Vista, CA | Dry1 Out Restoration and Construction"
+title: "Mold Remediation in Chula Vista, CA | Dry 1 Out Restoration and Construction"
 h1: "Mold Remediation in Chula Vista"
 meta_description: "24/7 mold remediation in Chula Vista, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "mold remediation chula vista"
@@ -42,4 +42,4 @@ Many of the planned communities in Eastlake and Otay Ranch operate under active 
 
 One thing we watch for specifically in Chula Vista: homes near the Lower Otay Reservoir and the eastern bluffs tend to run a few points higher on ambient humidity than homes closer to the bay, which sounds backwards until you account for the overnight temperature drop out there. That swing between daytime heat and overnight cool creates condensation inside wall cavities and attic spaces that homeowners rarely notice until a musty smell shows up in a closet or garage. If your property sits east of Otay Ranch, we usually bring a hygrometer reading from day one rather than assuming the humidity profile matches a coastal address.
 
-If you're smelling something musty in a closet, seeing discoloration along a baseboard, or you've had a slow leak that finally got traced back to a wall, Dry1 Out Restoration and Construction can assess the Chula Vista property and lay out what remediation actually involves before any work starts. Call (888) 379-1688 to schedule an inspection.
+If you're smelling something musty in a closet, seeing discoloration along a baseboard, or you've had a slow leak that finally got traced back to a wall, Dry 1 Out Restoration and Construction can assess the Chula Vista property and lay out what remediation actually involves before any work starts. Call (888) 379-1688 to schedule an inspection.

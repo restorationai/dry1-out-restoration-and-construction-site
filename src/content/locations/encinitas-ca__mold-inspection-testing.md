@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Inspection and Testing in Encinitas, CA | Dry1 Out Restoration and Construction"
+title: "Mold Inspection and Testing in Encinitas, CA | Dry 1 Out Restoration and Construction"
 h1: "Mold Inspection and Testing in Encinitas"
 meta_description: "24/7 mold inspection and testing in Encinitas, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "mold inspection and testing encinitas"
@@ -42,4 +42,4 @@ Beyond the spore trap air sampling and moisture meters already mentioned, inspec
 
 Homes within a few blocks of Moonlight Beach and the bluffs above Swami's Beach run north-facing crawlspaces that stay damp well into late summer, independent of any leak, simply because the fog sits there longest before the afternoon sun clears it. We factor that seasonal baseline into every spore count comparison so a homeowner in 92024 isn't alarmed by a reading that's typical for a foggy week in that pocket of Encinitas rather than evidence of a new problem.
 
-If a musty smell, a water stain, or a recent leak near the San Diego Botanic Garden corridor or anywhere else in Encinitas has you wondering what's actually growing behind the drywall, a straightforward mold inspection and testing visit answers that question with lab data instead of guesswork. Dry1 Out Restoration and Construction, IICRC AMRT certified for mold, is a short trip down from our Vista base and can get a crew out to coastal or inland Encinitas addresses alike. Call (888) 379-1688 to schedule.
+If a musty smell, a water stain, or a recent leak near the San Diego Botanic Garden corridor or anywhere else in Encinitas has you wondering what's actually growing behind the drywall, a straightforward mold inspection and testing visit answers that question with lab data instead of guesswork. Dry 1 Out Restoration and Construction, IICRC AMRT certified for mold, is a short trip down from our Vista base and can get a crew out to coastal or inland Encinitas addresses alike. Call (888) 379-1688 to schedule.

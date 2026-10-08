@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Water Damage Restoration in Concord, CA | Dry1 Out Restoration and Construction"
+title: "24/7 Emergency Water Damage Restoration in Concord, CA | Dry 1 Out Restoration and Construction"
 h1: "24/7 Emergency Water Damage Restoration in Concord"
 meta_description: "24/7 emergency water damage restoration in Concord, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "water damage restoration concord"
@@ -38,4 +38,4 @@ HOA communities around Crystyl Ranch and Dana Estates typically have their own n
 
 Homes built in Concord before the mid-1970s, especially around the Sun Terrace area, were often plumbed with galvanized steel that's now 50+ years old. When one of those lines fails inside a slab, the leak frequently travels along the pipe trench before surfacing somewhere several feet away, which can mislead a homeowner about where the actual source is. We've learned to check the full run of the trench with moisture meters rather than assuming the wet spot marks the leak.
 
-If water is spreading through your home right now, don't wait on it to decide for you. Dry1 Out Restoration and Construction is licensed and available around the clock for water damage restoration in Concord, from Downtown Concord to the neighborhoods out toward Ygnacio Valley, and the faster extraction starts, the less of your home ends up needing to be rebuilt instead of dried.
+If water is spreading through your home right now, don't wait on it to decide for you. Dry 1 Out Restoration and Construction is licensed and available around the clock for water damage restoration in Concord, from Downtown Concord to the neighborhoods out toward Ygnacio Valley, and the faster extraction starts, the less of your home ends up needing to be rebuilt instead of dried.

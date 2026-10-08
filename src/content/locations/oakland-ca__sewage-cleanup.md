@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Sewage Cleanup and Sanitization in Oakland, CA | Dry1 Out Restoration and Construction"
+title: "Emergency Sewage Cleanup and Sanitization in Oakland, CA | Dry 1 Out Restoration and Construction"
 h1: "24/7 Emergency Sewage Cleanup and Sanitization in Oakland"
 meta_description: "24/7 emergency sewage cleanup and sanitization in Oakland, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "sewage cleanup and sanitization oakland"
@@ -42,4 +42,4 @@ Sewage backup coverage varies a lot by policy, and Oakland's older multi-unit bu
 
 One thing that trips up a lot of Oakland homeowners: a clean-out cap that looks accessible in the yard sometimes connects to a private lateral under a shared driveway easement, common on older Rockridge and Temescal lots that were subdivided decades ago. If the backup is coming from that shared line, the fix and the liability can involve a neighbor, so we flag it early rather than assuming it's a straightforward single-property repair.
 
-If sewage has backed up into your Oakland home or building, the longer it sits, the more it spreads into subfloor, wall cavities, and anything porous nearby. Call Dry1 Out Restoration and Construction at (888) 379-1688 and we'll get a licensed, certified crew started on extraction and sanitization before it becomes a bigger rebuild.
+If sewage has backed up into your Oakland home or building, the longer it sits, the more it spreads into subfloor, wall cavities, and anything porous nearby. Call Dry 1 Out Restoration and Construction at (888) 379-1688 and we'll get a licensed, certified crew started on extraction and sanitization before it becomes a bigger rebuild.

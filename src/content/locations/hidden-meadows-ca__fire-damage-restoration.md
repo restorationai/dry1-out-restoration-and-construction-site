@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Fire Damage Restoration in Hidden Meadows, CA | Dry1 Out Restoration and Construction"
+title: "24/7 Emergency Fire Damage Restoration in Hidden Meadows, CA | Dry 1 Out Restoration and Construction"
 h1: "24/7 Emergency Fire Damage Restoration in Hidden Meadows"
 meta_description: "24/7 emergency fire damage restoration in Hidden Meadows, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "fire damage restoration hidden meadows"
@@ -42,4 +42,4 @@ Fire claims in this area often involve both structure damage and separate smoke-
 
 Because Hidden Meadows properties often sit on well water or septic rather than municipal utilities, we test and confirm water source function before running extraction or air scrubbing equipment that depends on steady water pressure. It's a small step that gets skipped by crews unfamiliar with the area, and it can add hours to a job if the well pump trips offline mid-cleanup.
 
-If your Hidden Meadows home or outbuilding has fire or smoke damage, don't wait for odor to settle deeper into the walls. Call Dry1 Out Restoration and Construction at (888) 379-1688 for 24/7 fire damage restoration built around the terrain, housing stock, and utility setups specific to this part of San Diego County.
+If your Hidden Meadows home or outbuilding has fire or smoke damage, don't wait for odor to settle deeper into the walls. Call Dry 1 Out Restoration and Construction at (888) 379-1688 for 24/7 fire damage restoration built around the terrain, housing stock, and utility setups specific to this part of San Diego County.

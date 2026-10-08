@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Inspection and Testing in Santa Cruz, CA | Dry1 Out Restoration and Construction"
+title: "Mold Inspection and Testing in Santa Cruz, CA | Dry 1 Out Restoration and Construction"
 h1: "Mold Inspection and Testing in Santa Cruz"
 meta_description: "24/7 mold inspection and testing in Santa Cruz, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "mold inspection and testing santa cruz"
@@ -42,4 +42,4 @@ Inspections rely on a combination of moisture meters, thermal imaging to spot te
 
 Homes within a few blocks of Natural Bridges State Beach and other west-facing properties catch the brunt of the marine layer, and we've found that exterior stucco walls on these homes often read dry on the surface while the sheathing behind them stays damp for days. A spot moisture reading alone can miss this, which is why we check multiple depths and multiple points along a wall rather than relying on a single reading near a visible stain.
 
-If fog, an old leak, or a musty smell has you wondering what's really going on inside your walls, a documented mold inspection gives you facts instead of speculation. Dry1 Out Restoration and Construction is licensed in California (#993442) and available to schedule inspection and testing appointments across Santa Cruz, from Westside bungalows to units near the Boardwalk. Call (888) 379-1688 to set up a visit.
+If fog, an old leak, or a musty smell has you wondering what's really going on inside your walls, a documented mold inspection gives you facts instead of speculation. Dry 1 Out Restoration and Construction is licensed in California (#993442) and available to schedule inspection and testing appointments across Santa Cruz, from Westside bungalows to units near the Boardwalk. Call (888) 379-1688 to set up a visit.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Biohazard Cleanup in Oceanside, CA | Dry1 Out Restoration and Construction"
+title: "24/7 Emergency Biohazard Cleanup in Oceanside, CA | Dry 1 Out Restoration and Construction"
 h1: "24/7 Emergency Biohazard Cleanup in Oceanside"
 meta_description: "24/7 emergency biohazard cleanup in Oceanside, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "biohazard cleanup oceanside"
@@ -43,4 +43,4 @@ Many Oceanside properties, particularly condo and townhome communities in Rancho
 
 In South Oceanside and other neighborhoods close to the Buena Vista Lagoon, slab-on-grade homes built in the 1950s and 60s commonly have original flooring that was never meant to be pulled up in sections, which changes how we approach containment and material removal compared to a newer build with modular subfloor. Crews working this part of the county know to check flooring age before starting so disposal and restoration steps are planned correctly the first time.
 
-If you're dealing with a biohazard situation anywhere in Oceanside, from a Downtown apartment to a home off Rancho del Oro, call Dry1 Out Restoration and Construction at (888) 379-1688. We handle the cleanup with discretion and the proper documentation so you can focus on your family, not the logistics.
+If you're dealing with a biohazard situation anywhere in Oceanside, from a Downtown apartment to a home off Rancho del Oro, call Dry 1 Out Restoration and Construction at (888) 379-1688. We handle the cleanup with discretion and the proper documentation so you can focus on your family, not the logistics.

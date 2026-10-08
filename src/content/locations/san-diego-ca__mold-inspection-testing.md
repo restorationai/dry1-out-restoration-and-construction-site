@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Inspection and Testing in San Diego, CA | Dry1 Out Restoration and Construction"
+title: "Mold Inspection and Testing in San Diego, CA | Dry 1 Out Restoration and Construction"
 h1: "Mold Inspection and Testing in San Diego"
 meta_description: "24/7 mold inspection and testing in San Diego, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "mold inspection and testing san diego"
@@ -38,4 +38,4 @@ Mold claims in San Diego often get complicated by HOA rules before insurance eve
 
 One thing that trips up out-of-town inspectors: San Diego's dry season can mask an active moisture problem. A crawlspace under a North Park Craftsman might read dry on a 95-degree August afternoon and still be feeding mold growth that started during the previous winter's rain. We cross-reference current readings against the property's irrigation and plumbing history where we can, rather than treating a single dry-day reading as the final word.
 
-If you're noticing a musty smell in a Pacific Beach rental near 92109, a discolored ceiling corner in a Hillcrest duplex, or unexplained allergy symptoms in a Rancho Bernardo home, a documented inspection is the first real step, not a guess from a home inspection checklist. Dry1 Out Restoration and Construction's AMRT-certified team covers San Diego County from our Vista base, and we can schedule an inspection with lab-based air and surface sampling so you have an answer backed by data, not an opinion.
+If you're noticing a musty smell in a Pacific Beach rental near 92109, a discolored ceiling corner in a Hillcrest duplex, or unexplained allergy symptoms in a Rancho Bernardo home, a documented inspection is the first real step, not a guess from a home inspection checklist. Dry 1 Out Restoration and Construction's AMRT-certified team covers San Diego County from our Vista base, and we can schedule an inspection with lab-based air and surface sampling so you have an answer backed by data, not an opinion.

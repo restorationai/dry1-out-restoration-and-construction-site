@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Post-Construction and Specialty Cleaning in San Diego, CA | Dry1 Out Restoration and Construction"
+title: "Post-Construction and Specialty Cleaning in San Diego, CA | Dry 1 Out Restoration and Construction"
 h1: "Post-Construction and Specialty Cleaning in San Diego"
 meta_description: "24/7 post-construction and specialty cleaning in San Diego, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "post-construction and specialty cleaning san diego"
@@ -38,4 +38,4 @@ A good share of the remodel work in Rancho Bernardo and newer Mira Mesa developm
 
 One thing crews learn working in this market: decomposed granite dust from grading work in the inland neighborhoods is finer and more static-charged than typical construction dust, which means it clings to drywall texture and baseboards instead of settling flat. Standard dusting tools push it around without lifting it, so we rely on HEPA vacuum attachments and microfiber rather than dry rags on textured walls, particularly on jobs near Mira Mesa and Rancho Bernardo where grading work often happens alongside the build.
 
-If your renovation near Balboa Park, Mission Bay, or anywhere else in San Diego County is wrapping up and needs a final clean before handoff, call Dry1 Out Restoration and Construction at (888) 379-1688. We handle the detail work so the space is ready to show, not just swept.
+If your renovation near Balboa Park, Mission Bay, or anywhere else in San Diego County is wrapping up and needs a final clean before handoff, call Dry 1 Out Restoration and Construction at (888) 379-1688. We handle the detail work so the space is ready to show, not just swept.

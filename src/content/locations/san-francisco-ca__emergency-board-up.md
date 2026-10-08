@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Board Up in San Francisco, CA | Dry1 Out Restoration and Construction"
+title: "24/7 Emergency Board Up in San Francisco, CA | Dry 1 Out Restoration and Construction"
 h1: "24/7 Emergency Board Up in San Francisco"
 meta_description: "24/7 emergency board up in San Francisco, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "emergency board up san francisco"
@@ -38,4 +38,4 @@ A fair number of San Francisco neighborhoods, including parts of Noe Valley and 
 
 Fog-belt dampness in the Sunset and Richmond Districts does something specific to a board-up: the plywood itself can swell slightly within the first day or two if it isn't sealed on the exposed face, which loosens the fastener seat faster than it would in a drier part of the city. We seal the exterior face of the board on jobs out that way as a matter of course, since a board that's still tight a week later saves a callback and keeps the opening genuinely secure, not just temporarily covered.
 
-A broken window or door left open overnight in this city rarely stays a small problem, between the fog, the wind, and the foot traffic in denser neighborhoods. Call Dry1 Out Restoration and Construction for emergency board up anywhere in San Francisco, from the Richmond District to Bernal Heights, and we'll get the opening secured and documented so you can move on to repairs on your own timeline.
+A broken window or door left open overnight in this city rarely stays a small problem, between the fog, the wind, and the foot traffic in denser neighborhoods. Call Dry 1 Out Restoration and Construction for emergency board up anywhere in San Francisco, from the Richmond District to Bernal Heights, and we'll get the opening secured and documented so you can move on to repairs on your own timeline.

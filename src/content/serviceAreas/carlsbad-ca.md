@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Carlsbad, CA | Dry1 Out Restoration and Construction"
+title: "Restoration Services in Carlsbad, CA | Dry 1 Out Restoration and Construction"
 h1: "Restoration Services in Carlsbad"
 meta_description: "Serving Carlsbad, CA with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (888) 379-1688."
 primary_keyword: "restoration services carlsbad"
@@ -19,7 +19,7 @@ state: "CA"
 primary: false
 rendered: true
 ---
-Dry1 Out Restoration and Construction handles water damage, fire and smoke damage, mold remediation, and biohazard cleanup for homes and businesses throughout Carlsbad, from the bluffs above Carlsbad Village down through the canyon-lot neighborhoods of La Costa and Aviara. Whether a pipe has let go in a condo near Carlsbad Premium Outlets or a kitchen fire has left smoke residue in a Bressi Ranch kitchen, we scope the loss, start mitigation, and document everything your insurance carrier will need.
+Dry 1 Out Restoration and Construction handles water damage, fire and smoke damage, mold remediation, and biohazard cleanup for homes and businesses throughout Carlsbad, from the bluffs above Carlsbad Village down through the canyon-lot neighborhoods of La Costa and Aviara. Whether a pipe has let go in a condo near Carlsbad Premium Outlets or a kitchen fire has left smoke residue in a Bressi Ranch kitchen, we scope the loss, start mitigation, and document everything your insurance carrier will need.
 
 ## Restoration emergencies common in Carlsbad
 
@@ -43,4 +43,4 @@ We're based in Vista, a short run down CA-78 and El Camino Real or over to I-5 f
 
 Much of Carlsbad's housing stock was built from the 1970s through the early 2000s, with slab-on-grade construction dominant in the flatter coastal neighborhoods and a mix of slab and raised foundations on the canyon and hillside lots around La Costa and Calavera Hills. Copper and PEX supply lines are common in newer construction, but homes from the earlier end of that build window can still carry galvanized or early plastic supply piping prone to age-related failure. Coastal sandy soils drain quickly near the beach, while inland pockets carry more clay content that shifts with seasonal moisture and stresses slab foundations over time. The City of Carlsbad Building Division issues permits for structural repair work, and properties within the coastal zone, including those near Batiquitos Lagoon, can trigger additional review before reconstruction begins. HOA approval is common in many of Carlsbad's planned communities and often runs parallel to the permit process.
 
-If water, fire, smoke, mold, or a biohazard situation has hit your Carlsbad property, call Dry1 Out Restoration and Construction at (888) 379-1688. We're available 24/7 and based close enough in Vista to respond without delay, from Carlsbad Village to Aviara.
+If water, fire, smoke, mold, or a biohazard situation has hit your Carlsbad property, call Dry 1 Out Restoration and Construction at (888) 379-1688. We're available 24/7 and based close enough in Vista to respond without delay, from Carlsbad Village to Aviara.

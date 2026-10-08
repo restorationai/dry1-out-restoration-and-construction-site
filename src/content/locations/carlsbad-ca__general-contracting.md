@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Renovations, Remodels and General Contracting in Carlsbad, CA | Dry1 Out Restoration and Construction"
+title: "Renovations, Remodels and General Contracting in Carlsbad, CA | Dry 1 Out Restoration and Construction"
 h1: "Renovations, Remodels and General Contracting in Carlsbad"
 meta_description: "24/7 renovations, remodels and general contracting in Carlsbad, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "renovations, remodels and general contracting carlsbad"
@@ -38,4 +38,4 @@ Properties in La Costa and Aviara are often governed by HOA architectural review
 
 Homes within a few blocks of the coast, particularly around Carlsbad Village and near Batiquitos Lagoon, deal with marine layer moisture working into stucco and wood trim even when there's no active leak. On remodel jobs in these areas we spec moisture-resistant backer board and corrosion-resistant fasteners as a default, not an upgrade, because standard interior-grade materials tend to show rust staining or swelling within a couple of seasons that far from the coast.
 
-If you're planning a kitchen remodel in Bressi Ranch, a bathroom update near 92008, or a full post-damage rebuild anywhere from Calavera Hills to La Costa, Dry1 Out Restoration and Construction can scope the work as a licensed general contractor (License #993442) and walk you through permitting, HOA review, and the build itself. Call (888) 379-1688 to set up a walkthrough.
+If you're planning a kitchen remodel in Bressi Ranch, a bathroom update near 92008, or a full post-damage rebuild anywhere from Calavera Hills to La Costa, Dry 1 Out Restoration and Construction can scope the work as a licensed general contractor (License #993442) and walk you through permitting, HOA review, and the build itself. Call (888) 379-1688 to set up a walkthrough.

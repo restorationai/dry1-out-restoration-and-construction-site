@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Vandalism Damage Cleanup and Repair in San Francisco, CA | Dry1 Out Restoration and Construction"
+title: "Vandalism Damage Cleanup and Repair in San Francisco, CA | Dry 1 Out Restoration and Construction"
 h1: "Vandalism Damage Cleanup and Repair in San Francisco"
 meta_description: "24/7 vandalism damage cleanup and repair in San Francisco, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "vandalism damage cleanup and repair san francisco"
@@ -20,7 +20,7 @@ state: "CA"
 service_display: "Vandalism Damage Cleanup and Repair"
 rendered: true
 ---
-Storefront glass broken overnight on Valencia Street, spray paint across a garage door in Bernal Heights, a kicked-in security gate on a SoMa loading dock: vandalism in San Francisco tends to hit the same dense, mixed-use blocks over and over, and the repair work has to account for building stock that's often a century old. Dry1 Out documents the damage, secures the property, and restores the surface or structure without guessing at materials that no longer match what's sold at the hardware store.
+Storefront glass broken overnight on Valencia Street, spray paint across a garage door in Bernal Heights, a kicked-in security gate on a SoMa loading dock: vandalism in San Francisco tends to hit the same dense, mixed-use blocks over and over, and the repair work has to account for building stock that's often a century old. Dry 1 Out documents the damage, secures the property, and restores the surface or structure without guessing at materials that no longer match what's sold at the hardware store.
 
 ## Why San Francisco Properties See Vandalism Damage
 

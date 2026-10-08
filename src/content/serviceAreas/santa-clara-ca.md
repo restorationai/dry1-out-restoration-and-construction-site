@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Santa Clara, CA | Dry1 Out Restoration and Construction"
+title: "Restoration Services in Santa Clara, CA | Dry 1 Out Restoration and Construction"
 h1: "Restoration Services in Santa Clara"
 meta_description: "Serving Santa Clara, CA with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (888) 379-1688."
 primary_keyword: "restoration services santa clara"
@@ -19,7 +19,7 @@ state: "CA"
 primary: false
 rendered: true
 ---
-Dry1 Out Restoration and Construction handles water, fire, smoke, mold, and biohazard cleanup for homes and businesses throughout Santa Clara, along with the reconstruction work that follows once a structure is dried, cleaned, or stabilized. Property owners from the Old Quad to Rivermark call us when a pipe lets go, a kitchen fire scorches a wall, or a slow leak turns into a mold problem behind the drywall. We document everything for insurance and scope the repair, not just the cleanup.
+Dry 1 Out Restoration and Construction handles water, fire, smoke, mold, and biohazard cleanup for homes and businesses throughout Santa Clara, along with the reconstruction work that follows once a structure is dried, cleaned, or stabilized. Property owners from the Old Quad to Rivermark call us when a pipe lets go, a kitchen fire scorches a wall, or a slow leak turns into a mold problem behind the drywall. We document everything for insurance and scope the repair, not just the cleanup.
 
 ## Restoration emergencies common in Santa Clara
 
@@ -37,4 +37,4 @@ We're based in Vista, CA, and reach Santa Clara primarily via I-5 and US-101, wh
 
 Much of Santa Clara's housing stock dates from the postwar boom through the 1970s, with slab-on-grade ranch homes dominant in residential neighborhoods and a mix of garden apartments and newer multi-family construction near Rivermark and the tech corridor. Slab construction means water intrusion often travels sideways under flooring before it's visible, and older homes may still carry galvanized or early copper supply lines that are more prone to pinhole leaks than modern PEX. Homes built before the 1980s can also contain asbestos-containing materials in flooring, texture, or pipe insulation, which changes how a demolition scope is handled. The Santa Clara Valley has a naturally high water table in sections, which affects how crawlspaces and basements drain after heavy rain. Structural repairs and rebuilds typically require a permit through the City of Santa Clara's building division, and California's seismic design requirements shape how reconstruction work, especially anything touching load-bearing walls or foundations, gets engineered and inspected.
 
-If water, fire, smoke, or biohazard damage has hit your home or business near Levi's Stadium, Santa Clara Central Park, or anywhere else in the city, call Dry1 Out Restoration and Construction at (888) 379-1688. We're available 24/7 to start the assessment and get a drying or cleanup plan moving before the damage spreads further.
+If water, fire, smoke, or biohazard damage has hit your home or business near Levi's Stadium, Santa Clara Central Park, or anywhere else in the city, call Dry 1 Out Restoration and Construction at (888) 379-1688. We're available 24/7 to start the assessment and get a drying or cleanup plan moving before the damage spreads further.

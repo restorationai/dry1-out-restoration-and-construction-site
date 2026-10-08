@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Water Damage Restoration in Del Mar, CA | Dry1 Out Restoration and Construction"
+title: "24/7 Emergency Water Damage Restoration in Del Mar, CA | Dry 1 Out Restoration and Construction"
 h1: "24/7 Emergency Water Damage Restoration in Del Mar"
 meta_description: "24/7 emergency water damage restoration in Del Mar, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "water damage restoration del mar"
@@ -38,4 +38,4 @@ A good share of Del Mar's housing stock sits inside homeowners associations, par
 
 One thing that catches new homeowners off guard: Del Mar's marine layer typically burns off by midday, which can make a drying job look finished to the naked eye even though the subfloor and wall cavities are still holding moisture from the overnight humidity. We rely on moisture meters and not visual checks for that reason, and we usually run drying equipment a bit longer on coastal jobs than we would a few miles inland to account for it.
 
-Water sitting under flooring or inside a wall doesn't wait for a convenient time, and in a coastal climate like Del Mar's, every extra hour of dampness raises the odds of mold setting in. We're licensed under California contractor's license #993442 and carry the IICRC credentials for water and structural drying work, and we answer calls around the clock. If you're dealing with a leak, a burst pipe, or storm intrusion anywhere in Del Mar, call Dry1 Out Restoration and Construction at (888) 379-1688 and we'll get the extraction and drying process started.
+Water sitting under flooring or inside a wall doesn't wait for a convenient time, and in a coastal climate like Del Mar's, every extra hour of dampness raises the odds of mold setting in. We're licensed under California contractor's license #993442 and carry the IICRC credentials for water and structural drying work, and we answer calls around the clock. If you're dealing with a leak, a burst pipe, or storm intrusion anywhere in Del Mar, call Dry 1 Out Restoration and Construction at (888) 379-1688 and we'll get the extraction and drying process started.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Post-Construction and Specialty Cleaning in Berkeley, CA | Dry1 Out Restoration and Construction"
+title: "Post-Construction and Specialty Cleaning in Berkeley, CA | Dry 1 Out Restoration and Construction"
 h1: "Post-Construction and Specialty Cleaning in Berkeley"
 meta_description: "24/7 post-construction and specialty cleaning in Berkeley, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "post-construction and specialty cleaning berkeley"
@@ -20,7 +20,7 @@ state: "CA"
 service_display: "Post-Construction and Specialty Cleaning"
 rendered: true
 ---
-Post-construction cleanup in Berkeley rarely looks like a simple sweep-and-mop. Between plaster dust working into original fir floors in a North Berkeley bungalow and fine debris settling into century-old lath in a Claremont remodel, the final clean has to account for materials a 1920s contractor never imagined would need HEPA vacuuming. Dry1 Out handles the detailed, multi-pass cleaning that turns a construction zone back into a livable home, whether the job was a kitchen gut or a full addition.
+Post-construction cleanup in Berkeley rarely looks like a simple sweep-and-mop. Between plaster dust working into original fir floors in a North Berkeley bungalow and fine debris settling into century-old lath in a Claremont remodel, the final clean has to account for materials a 1920s contractor never imagined would need HEPA vacuuming. Dry 1 Out handles the detailed, multi-pass cleaning that turns a construction zone back into a livable home, whether the job was a kitchen gut or a full addition.
 
 ## Why Berkeley Properties See Heavier Post-Construction Cleanup
 
@@ -38,4 +38,4 @@ Most post-construction cleaning jobs we take on are billed directly to the homeo
 
 One detail that matters on Berkeley Hills jobs specifically: steep, narrow private driveways and shared access roads mean our debris removal and cleaning equipment sometimes has to stage on the street and get carried in by hand rather than pulled up to the garage. We confirm driveway grade and parking restrictions with the homeowner before the crew shows up so the final clean isn't delayed by a truck that can't make the turn.
 
-If you've just wrapped a renovation anywhere from Elmwood to West Berkeley and the space still smells like sawdust and fresh paint, Dry1 Out can run the final clean so it's actually move-in ready. Call (888) 379-1688 to schedule post-construction and specialty cleaning for your Berkeley property.
+If you've just wrapped a renovation anywhere from Elmwood to West Berkeley and the space still smells like sawdust and fresh paint, Dry 1 Out can run the final clean so it's actually move-in ready. Call (888) 379-1688 to schedule post-construction and specialty cleaning for your Berkeley property.

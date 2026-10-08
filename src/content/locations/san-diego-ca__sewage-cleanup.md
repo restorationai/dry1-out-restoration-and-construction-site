@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Sewage Cleanup and Sanitization in San Diego, CA | Dry1 Out Restoration and Construction"
+title: "Emergency Sewage Cleanup and Sanitization in San Diego, CA | Dry 1 Out Restoration and Construction"
 h1: "24/7 Emergency Sewage Cleanup and Sanitization in San Diego"
 meta_description: "24/7 emergency sewage cleanup and sanitization in San Diego, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "sewage cleanup and sanitization san diego"
@@ -20,7 +20,7 @@ state: "CA"
 service_display: "Sewage Cleanup and Sanitization"
 rendered: true
 ---
-**Raw sewage backing up through a drain in North Park or Pacific Beach?** Call Dry1 Out Restoration and Construction now at (888) 379-1688. We answer 24/7, and sewage exposure is not something to wait out overnight, the contamination risk grows the longer wastewater sits against flooring, drywall, or crawlspace framing.
+**Raw sewage backing up through a drain in North Park or Pacific Beach?** Call Dry 1 Out Restoration and Construction now at (888) 379-1688. We answer 24/7, and sewage exposure is not something to wait out overnight, the contamination risk grows the longer wastewater sits against flooring, drywall, or crawlspace framing.
 
 San Diego's housing stock plays directly into how sewage backups happen and how they're cleaned up. A lot of the city's older bungalows and Craftsman homes, especially through North Park and Hillcrest, still run on original clay or cast iron sewer laterals. Those pipes are decades past their design life, and tree root intrusion is a routine cause of blockages that send sewage back into tubs and floor drains instead of out to the city main. Closer to the coast, in Pacific Beach and La Jolla, a high water table and saltwater intrusion into older pipe joints can accelerate corrosion and contribute to slow drains that back up during heavy use or a sudden storm surge in the sewer system.
 

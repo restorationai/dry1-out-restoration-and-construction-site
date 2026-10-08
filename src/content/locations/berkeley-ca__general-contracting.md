@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Renovations, Remodels and General Contracting in Berkeley, CA | Dry1 Out Restoration and Construction"
+title: "Renovations, Remodels and General Contracting in Berkeley, CA | Dry 1 Out Restoration and Construction"
 h1: "Renovations, Remodels and General Contracting in Berkeley"
 meta_description: "24/7 renovations, remodels and general contracting in Berkeley, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "renovations, remodels and general contracting berkeley"
@@ -20,7 +20,7 @@ state: "CA"
 service_display: "Renovations, Remodels and General Contracting"
 rendered: true
 ---
-Berkeley's housing stock runs the gamut from 1905 brown-shingle craftsman homes near the Elmwood district to mid-century hillside builds in the Berkeley Hills with foundations that have settled unevenly over decades. A kitchen remodel or post-damage rebuild in one of these properties isn't a cookie-cutter job: the framing, the wiring, and even the window openings often don't match what a contractor expects from a standard 2x4 stud layout. Dry1 Out Restoration and Construction handles renovations, remodels, and general contracting work across Berkeley with that older-building reality built into how we plan and price every project.
+Berkeley's housing stock runs the gamut from 1905 brown-shingle craftsman homes near the Elmwood district to mid-century hillside builds in the Berkeley Hills with foundations that have settled unevenly over decades. A kitchen remodel or post-damage rebuild in one of these properties isn't a cookie-cutter job: the framing, the wiring, and even the window openings often don't match what a contractor expects from a standard 2x4 stud layout. Dry 1 Out Restoration and Construction handles renovations, remodels, and general contracting work across Berkeley with that older-building reality built into how we plan and price every project.
 
 ## Why Berkeley Properties Need a Different Remodeling Approach
 
@@ -28,7 +28,7 @@ A large share of homes in North Berkeley and Southside predate 1950, which means
 
 ## Our Renovations, Remodels and General Contracting Process in Berkeley
 
-We start with an in-person walkthrough that includes moisture and structural checks, not just a finish-selection conversation, because so many Berkeley properties carry some history of water intrusion from older roofing or grading that no longer directs runoff away from the foundation. From there we draft a scope that separates code-driven work (electrical panel upgrades, seismic bracing, lead-safe demolition where applicable) from the cosmetic remodel the homeowner actually called about. For kitchen and bathroom remodels specifically, we sequence plumbing and electrical rough-in before finish work so inspections happen at the right stage and the project doesn't stall waiting on a city sign-off. When a remodel follows water or fire damage, our IICRC-trained team handles the structural drying and smoke remediation first, then transitions directly into rebuild without handing the job to a second contractor.
+We start with an in-person walkthrough that includes moisture and structural checks, not just a finish-selection conversation, because so many Berkeley properties carry some history of water intrusion from older roofing or grading that no longer directs runoff away from the foundation. From there we draft a scope that separates code-driven work (electrical panel upgrades, seismic bracing) from the cosmetic remodel the homeowner actually called about. For kitchen and bathroom remodels specifically, we sequence plumbing and electrical rough-in before finish work so inspections happen at the right stage and the project doesn't stall waiting on a city sign-off. When a remodel follows water or fire damage, our IICRC-trained team handles the structural drying and smoke remediation first, then transitions directly into rebuild without handing the job to a second contractor.
 
 ## Berkeley Permitting and HOA Coordination
 

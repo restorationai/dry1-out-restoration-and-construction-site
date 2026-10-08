@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Sewage Cleanup and Sanitization in Temecula, CA | Dry1 Out Restoration and Construction"
+title: "Emergency Sewage Cleanup and Sanitization in Temecula, CA | Dry 1 Out Restoration and Construction"
 h1: "24/7 Emergency Sewage Cleanup and Sanitization in Temecula"
 meta_description: "24/7 emergency sewage cleanup and sanitization in Temecula, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "sewage cleanup and sanitization temecula"
@@ -20,7 +20,7 @@ state: "CA"
 service_display: "Sewage Cleanup and Sanitization"
 rendered: true
 ---
-**Sewage backup in Temecula?** Raw sewage and sanitation issues can't wait, call Dry1 Out Restoration and Construction now and we'll have a crew moving toward your address day or night. Temecula's mix of 1990s and 2000s tract construction, expansive clay soils, and a patchwork of municipal sewer and private septic service means a backup here rarely looks like a backup in a coastal city with older cast iron lines. Whether it's a sewer lateral failure under a Redhawk slab or a septic overflow on a Wine Country parcel, the sanitization work has to match the soil, the plumbing vintage, and the way the house was actually built.
+**Sewage backup in Temecula?** Raw sewage and sanitation issues can't wait, call Dry 1 Out Restoration and Construction now and we'll have a crew moving toward your address day or night. Temecula's mix of 1990s and 2000s tract construction, expansive clay soils, and a patchwork of municipal sewer and private septic service means a backup here rarely looks like a backup in a coastal city with older cast iron lines. Whether it's a sewer lateral failure under a Redhawk slab or a septic overflow on a Wine Country parcel, the sanitization work has to match the soil, the plumbing vintage, and the way the house was actually built.
 
 ## Why Temecula Properties See Sewage Backups
 
@@ -38,4 +38,4 @@ Most of the communities we work in around Temecula, Redhawk, Harveston, Temeku H
 
 A detail that catches a lot of Temecula homeowners off guard: because so much of the city was built in a single wave during the 1990s and 2000s boom, entire blocks in Redhawk or Harveston often have sewer laterals of the same age and material. When one house on a street has a root intrusion or joint failure, neighboring homes on the same line age are frequently not far behind, something we flag when we're already on site for a backup, so a homeowner can have their own lateral scoped before it becomes an emergency.
 
-A sewage backup doesn't get safer the longer it sits, and in Temecula's slab-built neighborhoods, wastewater can travel further under flooring than it looks from the surface. Dry1 Out Restoration and Construction is a licensed (#993442), IICRC Certified Firm answering calls 24/7 across Temecula, from Old Town to Redhawk to Wine Country, and we can start containment and sanitization the same day you call.
+A sewage backup doesn't get safer the longer it sits, and in Temecula's slab-built neighborhoods, wastewater can travel further under flooring than it looks from the surface. Dry 1 Out Restoration and Construction is a licensed (#993442), IICRC Certified Firm answering calls 24/7 across Temecula, from Old Town to Redhawk to Wine Country, and we can start containment and sanitization the same day you call.

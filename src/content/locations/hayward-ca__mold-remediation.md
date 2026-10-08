@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in Hayward, CA | Dry1 Out Restoration and Construction"
+title: "Mold Remediation in Hayward, CA | Dry 1 Out Restoration and Construction"
 h1: "Mold Remediation in Hayward"
 meta_description: "24/7 mold remediation in Hayward, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "mold remediation hayward"
@@ -38,4 +38,4 @@ Newer townhome and condo developments in the Hayward Highlands often fall under 
 
 Homes near the 94541 and 94544 ZIP codes, closer to the shoreline flats, tend to have slab foundations with less crawlspace access than the hillside properties up toward Hayward Highlands. That changes our containment setup: shoreline jobs often require us to cut and patch slab-adjacent drywall sections for access, while hillside homes let us work the problem from below through the crawlspace without opening interior walls at all. Knowing which pattern a property falls into before the crew arrives saves real time on-site.
 
-If you're seeing dark staining, a musty smell, or a recent leak that's had time to sit near Downtown Hayward, Mt. Eden, or anywhere in between, call Dry1 Out Restoration and Construction at (888) 379-1688. We're available 24/7 to get a technician scheduled and start containment before the problem spreads further through the house.
+If you're seeing dark staining, a musty smell, or a recent leak that's had time to sit near Downtown Hayward, Mt. Eden, or anywhere in between, call Dry 1 Out Restoration and Construction at (888) 379-1688. We're available 24/7 to get a technician scheduled and start containment before the problem spreads further through the house.

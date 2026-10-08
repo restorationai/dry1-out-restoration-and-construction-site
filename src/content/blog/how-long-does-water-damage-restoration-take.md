@@ -57,4 +57,4 @@ A small, contained spill you can mop up and fan-dry in an afternoon usually does
 
 ## Getting Through It
 
-The honest answer to "how long will this take" is that it depends on how fast the water gets out and how fast the drying starts, more than almost anything else. If you're dealing with standing water, a wet wall, or a smell that wasn't there last week, Dry1 Out Restoration and Construction in Vista can assess the extent of the water, start extraction, and lay out a realistic drying and repair timeline for your specific situation. Call (888) 379-1688 to talk through what you're seeing and figure out the right next step.
+The honest answer to "how long will this take" is that it depends on how fast the water gets out and how fast the drying starts, more than almost anything else. If you're dealing with standing water, a wet wall, or a smell that wasn't there last week, Dry 1 Out Restoration and Construction in Vista can assess the extent of the water, start extraction, and lay out a realistic drying and repair timeline for your specific situation. Call (888) 379-1688 to talk through what you're seeing and figure out the right next step.

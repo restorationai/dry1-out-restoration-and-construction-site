@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Inspection and Testing in Temecula, CA | Dry1 Out Restoration and Construction"
+title: "Mold Inspection and Testing in Temecula, CA | Dry 1 Out Restoration and Construction"
 h1: "Mold Inspection and Testing in Temecula"
 meta_description: "24/7 mold inspection and testing in Temecula, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "mold inspection and testing temecula"
@@ -42,4 +42,4 @@ We're based in Vista, and Temecula sits up I-15 through North County, past Fallb
 
 One pattern we watch for specifically in Temecula: homes within a mile or two of Temecula Valley Wine Country often run drip irrigation lines close to foundation walls to keep landscaping alive through the dry summer months. When those lines are misaligned or a timer sticks, the water doesn't pool visibly, it wicks straight into the stucco and framing below grade. By the time it shows as a bubble in interior paint, the moisture's often been active for a month or more, which is exactly the kind of concealed intrusion that air and surface testing catches before a full remediation job becomes necessary.
 
-If something in your Temecula home smells off, a closet, a hallway near the attic access, a room that always feels a little humid even in August, a proper inspection answers the question before you spend money guessing. Dry1 Out Restoration and Construction is licensed under contractor number 993442 and available around the clock to schedule mold inspection and testing anywhere from Old Town Temecula to the Redhawk and Harveston neighborhoods. Call (888) 379-1688 to get a sampling plan started.
+If something in your Temecula home smells off, a closet, a hallway near the attic access, a room that always feels a little humid even in August, a proper inspection answers the question before you spend money guessing. Dry 1 Out Restoration and Construction is licensed under contractor number 993442 and available around the clock to schedule mold inspection and testing anywhere from Old Town Temecula to the Redhawk and Harveston neighborhoods. Call (888) 379-1688 to get a sampling plan started.

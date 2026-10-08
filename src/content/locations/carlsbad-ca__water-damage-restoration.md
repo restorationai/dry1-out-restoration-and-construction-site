@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Water Damage Restoration in Carlsbad, CA | Dry1 Out Restoration and Construction"
+title: "24/7 Emergency Water Damage Restoration in Carlsbad, CA | Dry 1 Out Restoration and Construction"
 h1: "24/7 Emergency Water Damage Restoration in Carlsbad"
 meta_description: "24/7 emergency water damage restoration in Carlsbad, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "water damage restoration carlsbad"
@@ -42,4 +42,4 @@ Many La Costa and Aviara properties sit inside HOA-governed communities with the
 
 Homes built near Batiquitos Lagoon and other low-lying drainage areas in Carlsbad often have crawlspace vents positioned close to grade, which means storm runoff can push moist air back into the crawlspace even after surface water recedes. We check crawlspace humidity separately from the main living space on these properties, since a dry first floor doesn't always mean the structure underneath is dry too.
 
-Water doesn't wait for a convenient hour, and in Carlsbad's coastal climate it doesn't dry itself out quickly either. If you're dealing with standing water, a saturated subfloor, or storm intrusion anywhere from Carlsbad Village to La Costa, call Dry1 Out Restoration and Construction at (888) 379-1688 and we'll get extraction and drying underway.
+Water doesn't wait for a convenient hour, and in Carlsbad's coastal climate it doesn't dry itself out quickly either. If you're dealing with standing water, a saturated subfloor, or storm intrusion anywhere from Carlsbad Village to La Costa, call Dry 1 Out Restoration and Construction at (888) 379-1688 and we'll get extraction and drying underway.

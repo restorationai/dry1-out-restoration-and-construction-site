@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Sewage Cleanup and Sanitization in Concord, CA | Dry1 Out Restoration and Construction"
+title: "Emergency Sewage Cleanup and Sanitization in Concord, CA | Dry 1 Out Restoration and Construction"
 h1: "24/7 Emergency Sewage Cleanup and Sanitization in Concord"
 meta_description: "24/7 emergency sewage cleanup and sanitization in Concord, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "sewage cleanup and sanitization concord"
@@ -38,4 +38,4 @@ Sewer backup coverage is usually a separate endorsement on a homeowner's policy 
 
 In Concord, sewer laterals from the house to the city main are the homeowner's legal responsibility, not the city's or Central San's, even though the agency maintains the public line. That matters during cleanup because if the backup originated from root intrusion or a collapsed section on the private side of the connection, repair costs and sometimes part of the cleanup fall outside what a sewer agency will address, which is why we recommend a camera inspection of the lateral alongside the cleanup in neighborhoods with mature trees close to the house.
 
-If sewage has backed up into your home or a septic system has overflowed near a drain field, don't wait on scheduling a professional response. Dry1 Out Restoration and Construction handles sewage cleanup and sanitization across Concord, from Downtown Concord to Ygnacio Valley, with documentation built for insurance from the first visit. Call (888) 379-1688 to get a crew moving on the contamination before it spreads further into the structure.
+If sewage has backed up into your home or a septic system has overflowed near a drain field, don't wait on scheduling a professional response. Dry 1 Out Restoration and Construction handles sewage cleanup and sanitization across Concord, from Downtown Concord to Ygnacio Valley, with documentation built for insurance from the first visit. Call (888) 379-1688 to get a crew moving on the contamination before it spreads further into the structure.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Inspection and Testing in Carlsbad, CA | Dry1 Out Restoration and Construction"
+title: "Mold Inspection and Testing in Carlsbad, CA | Dry 1 Out Restoration and Construction"
 h1: "Mold Inspection and Testing in Carlsbad"
 meta_description: "24/7 mold inspection and testing in Carlsbad, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "mold inspection and testing carlsbad"
@@ -38,4 +38,4 @@ Many of the HOA communities in La Costa, Aviara, and Bressi Ranch require docume
 
 Homes within a few blocks of Batiquitos Lagoon or Agua Hedionda Lagoon consistently show higher ambient humidity on moisture meters, even on a dry, sunny day, which can make a reading look more alarming than it is if you don't also sample outdoor air for comparison. We factor that lagoon-adjacent baseline into how we read results for Aviara and south Carlsbad properties rather than applying the same threshold we'd use for a home near Palomar Airport Road or further inland.
 
-If you're dealing with a musty smell, a past leak you're not sure dried out completely, or you just want a clear answer before buying or selling a Carlsbad property, mold inspection and testing gives you documented facts instead of guesswork. Dry1 Out Restoration and Construction is IICRC AMRT certified for mold assessment work and serves Carlsbad properties from the Village to La Costa out of our Vista location. Call (888) 379-1688 to schedule an inspection.
+If you're dealing with a musty smell, a past leak you're not sure dried out completely, or you just want a clear answer before buying or selling a Carlsbad property, mold inspection and testing gives you documented facts instead of guesswork. Dry 1 Out Restoration and Construction is IICRC AMRT certified for mold assessment work and serves Carlsbad properties from the Village to La Costa out of our Vista location. Call (888) 379-1688 to schedule an inspection.

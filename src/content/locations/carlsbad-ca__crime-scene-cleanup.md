@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Crime Scene Cleanup in Carlsbad, CA | Dry1 Out Restoration and Construction"
+title: "24/7 Emergency Crime Scene Cleanup in Carlsbad, CA | Dry 1 Out Restoration and Construction"
 h1: "24/7 Emergency Crime Scene Cleanup in Carlsbad"
 meta_description: "24/7 emergency crime scene cleanup in Carlsbad, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "crime scene cleanup carlsbad"
@@ -39,4 +39,4 @@ Most Carlsbad homeowner policies treat crime scene cleanup as a covered biohazar
 
 Carlsbad Village bungalows built before 1960 often sit on raised foundations with original hardwood or fir subflooring, and that gap underneath is easy to overlook. Fluids can seep between the boards and settle into crawlspace insulation before it is visible from inside the room, which is why we check subfloor and crawlspace access on every pre-1960 Village call, not just the surface area where the incident occurred. Skipping that step is how odor and contamination complaints resurface weeks later.
 
-If your family or your property is facing a crime scene cleanup in Carlsbad, from Carlsbad Village to La Costa, Aviara, Bressi Ranch, or Calavera Hills, call Dry1 Out Restoration and Construction at (888) 379-1688. We answer 24/7, carry California license #993442, and handle the cleanup so you do not have to face it alone.
+If your family or your property is facing a crime scene cleanup in Carlsbad, from Carlsbad Village to La Costa, Aviara, Bressi Ranch, or Calavera Hills, call Dry 1 Out Restoration and Construction at (888) 379-1688. We answer 24/7, carry California license #993442, and handle the cleanup so you do not have to face it alone.

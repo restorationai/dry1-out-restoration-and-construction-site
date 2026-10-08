@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Reconstruction Services in Santa Clara, CA | Dry1 Out Restoration and Construction"
+title: "Reconstruction Services in Santa Clara, CA | Dry 1 Out Restoration and Construction"
 h1: "Reconstruction Services in Santa Clara"
 meta_description: "24/7 reconstruction services in Santa Clara, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "reconstruction services santa clara"
@@ -20,7 +20,7 @@ state: "CA"
 service_display: "Reconstruction Services"
 rendered: true
 ---
-Reconstruction after fire, water, or storm damage in Santa Clara means working within a city that mixes 1950s-60s ranch homes near the Old Quad with newer high-density construction in Rivermark and mixed-use buildings along the El Camino Real corridor. Dry1 Out Restoration and Construction handles the rebuild phase after a covered loss, from framing and drywall to flooring and finish work, matched to the structure's actual age and construction type rather than a one-size approach.
+Reconstruction after fire, water, or storm damage in Santa Clara means working within a city that mixes 1950s-60s ranch homes near the Old Quad with newer high-density construction in Rivermark and mixed-use buildings along the El Camino Real corridor. Dry 1 Out Restoration and Construction handles the rebuild phase after a covered loss, from framing and drywall to flooring and finish work, matched to the structure's actual age and construction type rather than a one-size approach.
 
 ## Why Santa Clara Properties Need Different Reconstruction Approaches
 
@@ -38,4 +38,4 @@ Most reconstruction jobs here run on an insurance claim, and we document scope, 
 
 Santa Clara's clay-heavy soil in older neighborhoods near Mission Santa Clara de Asís and Santa Clara Central Park tends to shift slightly with seasonal moisture changes, which can mean a slab or foundation looks fine right after a loss but develops minor settling cracks months into a rebuild. We note existing slab condition in our initial scope photos specifically so that any later settling isn't mistaken for reconstruction defect by an adjuster or future buyer. It's a small step, but it protects the homeowner if the property sells within a few years of the work.
 
-If you're rebuilding after fire, water, or storm damage anywhere from the Old Quad to Rivermark to the stretch near Levi's Stadium and California's Great America, call Dry1 Out Restoration and Construction at (888) 379-1688. We're a licensed contractor (#993442) and IICRC Certified Firm, available around the clock, and we'll walk the property, document what's there, and put together a reconstruction scope built for Santa Clara's building stock and permitting process, not a generic template.
+If you're rebuilding after fire, water, or storm damage anywhere from the Old Quad to Rivermark to the stretch near Levi's Stadium and California's Great America, call Dry 1 Out Restoration and Construction at (888) 379-1688. We're a licensed contractor (#993442) and IICRC Certified Firm, available around the clock, and we'll walk the property, document what's there, and put together a reconstruction scope built for Santa Clara's building stock and permitting process, not a generic template.

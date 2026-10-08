@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Berkeley, CA | Dry1 Out Restoration and Construction"
+title: "Restoration Services in Berkeley, CA | Dry 1 Out Restoration and Construction"
 h1: "Restoration Services in Berkeley"
 meta_description: "Serving Berkeley, CA with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (888) 379-1688."
 primary_keyword: "restoration services berkeley"
@@ -19,7 +19,7 @@ state: "CA"
 primary: false
 rendered: true
 ---
-Dry1 Out Restoration and Construction handles water damage, fire and smoke damage, mold remediation, biohazard cleanup, and reconstruction work for homes and businesses across Berkeley. From the shingle-style houses in the Berkeley Hills to the mixed commercial-residential blocks near the Fourth Street shopping district, we scope each loss around the building in front of us, not a generic checklist, and we bill most major insurance carriers directly.
+Dry 1 Out Restoration and Construction handles water damage, fire and smoke damage, mold remediation, biohazard cleanup, and reconstruction work for homes and businesses across Berkeley. From the shingle-style houses in the Berkeley Hills to the mixed commercial-residential blocks near the Fourth Street shopping district, we scope each loss around the building in front of us, not a generic checklist, and we bill most major insurance carriers directly.
 
 ## Restoration emergencies common in Berkeley
 

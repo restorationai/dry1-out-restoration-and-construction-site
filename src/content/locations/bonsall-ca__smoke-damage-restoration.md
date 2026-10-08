@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Smoke Damage Restoration in Bonsall, CA | Dry1 Out Restoration and Construction"
+title: "24/7 Emergency Smoke Damage Restoration in Bonsall, CA | Dry 1 Out Restoration and Construction"
 h1: "24/7 Emergency Smoke Damage Restoration in Bonsall"
 meta_description: "24/7 emergency smoke damage restoration in Bonsall, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "smoke damage restoration bonsall"
@@ -42,4 +42,4 @@ Wildfire-related smoke claims in this part of San Diego County often involve bot
 
 On Bonsall properties with well systems, we test for ash and particulate intrusion near the wellhead before running any exterior pressure washing or cleanup near the pump housing. Firefighting runoff and windblown ash can settle around unprotected wellheads during a nearby wildfire, and flushing the wrong direction can push contaminants toward the intake rather than away from it. It's a detail that doesn't come up on a typical suburban job, but it matters on almost every rural Bonsall property we work.
 
-If smoke has settled into your Bonsall home, barn, or outbuilding, don't wait for the odor to fade on its own, because smoke residue continues to etch into surfaces and corrode metal fixtures the longer it sits. Call Dry1 Out Restoration and Construction at (888) 379-1688 and we'll get a crew assessing the damage and started on air scrubbing and odor control right away.
+If smoke has settled into your Bonsall home, barn, or outbuilding, don't wait for the odor to fade on its own, because smoke residue continues to etch into surfaces and corrode metal fixtures the longer it sits. Call Dry 1 Out Restoration and Construction at (888) 379-1688 and we'll get a crew assessing the damage and started on air scrubbing and odor control right away.

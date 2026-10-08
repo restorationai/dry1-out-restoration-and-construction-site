@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in Escondido, CA | Dry1 Out Restoration and Construction"
+title: "Mold Remediation in Escondido, CA | Dry 1 Out Restoration and Construction"
 h1: "Mold Remediation in Escondido"
 meta_description: "24/7 mold remediation in Escondido, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "mold remediation escondido"
@@ -42,4 +42,4 @@ Most Escondido-area homeowner policies draw a hard line between mold caused by a
 
 San Pasqual Valley properties on well water sometimes show elevated moisture readings in slab areas that have nothing to do with mold risk and everything to do with mineral content throwing off certain meter readings; we cross-check with a secondary moisture method on those jobs so you're not paying to remediate a false positive.
 
-If you're dealing with a musty smell, visible spotting on drywall, or a crawlspace that's never quite dried out since last winter's rain, get it looked at before it spreads further into the structure. Dry1 Out Restoration and Construction is a short drive east on SR-78 from our Vista shop into Escondido, including the 92027 and 92025 ZIP codes, and we're licensed (contractor license ##993442) to handle both the remediation and the repair work that follows it.
+If you're dealing with a musty smell, visible spotting on drywall, or a crawlspace that's never quite dried out since last winter's rain, get it looked at before it spreads further into the structure. Dry 1 Out Restoration and Construction is a short drive east on SR-78 from our Vista shop into Escondido, including the 92027 and 92025 ZIP codes, and we're licensed (contractor license ##993442) to handle both the remediation and the repair work that follows it.

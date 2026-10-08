@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Renovations, Remodels and General Contracting in Del Dios, CA | Dry1 Out Restoration and Construction"
+title: "Renovations, Remodels and General Contracting in Del Dios, CA | Dry 1 Out Restoration and Construction"
 h1: "Renovations, Remodels and General Contracting in Del Dios"
 meta_description: "24/7 renovations, remodels and general contracting in Del Dios, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "renovations, remodels and general contracting del dios"
@@ -38,4 +38,4 @@ Because Del Dios is unincorporated, permitting and inspections run through San D
 
 A good number of Del Dios properties were built with septic systems sized for the original fixture count, and homeowners doing a kitchen or bath remodel are often surprised to learn that adding a second dishwasher line or expanding a bathroom can require a septic capacity letter from the county before permits are issued. We check this early in the scoping process rather than after demo starts, because redesigning a layout mid-project to avoid a septic upgrade is far more expensive than planning around it from day one.
 
-If you're planning a kitchen remodel, bathroom update, or a full post-damage rebuild on a Del Dios property, call Dry1 Out Restoration and Construction at (888) 379-1688. We scope the work around the realities of well water, septic capacity, and county permitting that come with this part of San Diego's backcountry, not a generic remodel checklist.
+If you're planning a kitchen remodel, bathroom update, or a full post-damage rebuild on a Del Dios property, call Dry 1 Out Restoration and Construction at (888) 379-1688. We scope the work around the realities of well water, septic capacity, and county permitting that come with this part of San Diego's backcountry, not a generic remodel checklist.

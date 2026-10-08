@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Escondido, CA | Dry1 Out Restoration and Construction"
+title: "Restoration Services in Escondido, CA | Dry 1 Out Restoration and Construction"
 h1: "Restoration Services in Escondido"
 meta_description: "Serving Escondido, CA with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (888) 379-1688."
 primary_keyword: "restoration services escondido"
@@ -19,7 +19,7 @@ state: "CA"
 primary: false
 rendered: true
 ---
-Dry1 Out Restoration and Construction handles water damage, fire and smoke damage, mold remediation, biohazard cleanup, and reconstruction for homes and commercial buildings throughout Escondido, from the historic bungalows near Downtown Grand Avenue to the newer tracts off Felicita. We document the loss for insurance, stabilize the property, and carry the job through to rebuild when materials have to come out, so owners aren't juggling a separate demo crew and a separate contractor.
+Dry 1 Out Restoration and Construction handles water damage, fire and smoke damage, mold remediation, biohazard cleanup, and reconstruction for homes and commercial buildings throughout Escondido, from the historic bungalows near Downtown Grand Avenue to the newer tracts off Felicita. We document the loss for insurance, stabilize the property, and carry the job through to rebuild when materials have to come out, so owners aren't juggling a separate demo crew and a separate contractor.
 
 ## Restoration emergencies common in Escondido
 
@@ -37,4 +37,4 @@ Escondido is a short drive east on SR-78 from our Vista shop, which puts us with
 
 Much of Old Escondido and the blocks around Downtown Grand Avenue date to the early-to-mid 1900s, with wood-frame construction, lath-and-plaster interior walls, and galvanized or early copper plumbing that's well past its service life in many homes. That vintage also means asbestos-containing materials and lead paint are a real possibility once walls or flooring open up, which changes how a scope is handled. Newer subdivisions toward Felicita and 92029 are largely slab-on-grade with copper or PEX supply lines. Inland San Diego County soil runs clay-heavy in places, which expands and contracts with moisture and can stress foundations and slab joints over time. Structural repairs and rebuild work typically require a permit through the City of Escondido's building division, and the region falls under California's seismic design requirements, so load-bearing repairs get reviewed accordingly.
 
-If water, fire, smoke, mold, or a biohazard situation has hit your Escondido property, call Dry1 Out Restoration and Construction at (888) 379-1688. We're close enough via SR-78 to respond quickly, and we handle the work from initial mitigation through the rebuild.
+If water, fire, smoke, mold, or a biohazard situation has hit your Escondido property, call Dry 1 Out Restoration and Construction at (888) 379-1688. We're close enough via SR-78 to respond quickly, and we handle the work from initial mitigation through the rebuild.

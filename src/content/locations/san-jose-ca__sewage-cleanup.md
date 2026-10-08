@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Sewage Cleanup and Sanitization in San Jose, CA | Dry1 Out Restoration and Construction"
+title: "Emergency Sewage Cleanup and Sanitization in San Jose, CA | Dry 1 Out Restoration and Construction"
 h1: "24/7 Emergency Sewage Cleanup and Sanitization in San Jose"
 meta_description: "24/7 emergency sewage cleanup and sanitization in San Jose, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "sewage cleanup and sanitization san jose"
@@ -38,4 +38,4 @@ Most homeowner policies treat sewage backup as a separate line item from general
 
 In Willow Glen and parts of the Rose Garden district, root intrusion into clay laterals is common enough that a backup which looks like a one-time clog often turns out to be a recurring problem tied to a specific tree on the property line. We check for this pattern on older-home calls in those ZIP codes (95125, 95126) before we close out a job, because sanitizing the space without flagging the root cause just means the same call six months later.
 
-Sewage in a home, whether it's a backed-up lateral in Willow Glen, a septic overflow in Almaden Valley, or storm-driven backup in Evergreen, isn't something to wait out. Call Dry1 Out Restoration and Construction at (888) 379-1688 for sewage cleanup and sanitization service across San Jose; we're licensed (#993442) and available around the clock.
+Sewage in a home, whether it's a backed-up lateral in Willow Glen, a septic overflow in Almaden Valley, or storm-driven backup in Evergreen, isn't something to wait out. Call Dry 1 Out Restoration and Construction at (888) 379-1688 for sewage cleanup and sanitization service across San Jose; we're licensed (#993442) and available around the clock.

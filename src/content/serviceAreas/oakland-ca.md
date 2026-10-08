@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Oakland, CA | Dry1 Out Restoration and Construction"
+title: "Restoration Services in Oakland, CA | Dry 1 Out Restoration and Construction"
 h1: "Restoration Services in Oakland"
 meta_description: "Serving Oakland, CA with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (888) 379-1688."
 primary_keyword: "restoration services oakland"
@@ -19,7 +19,7 @@ state: "CA"
 primary: false
 rendered: true
 ---
-Dry1 Out Restoration and Construction handles water damage, fire and smoke damage, mold remediation, biohazard cleanup, and the reconstruction work that follows once a loss has been dried out and demoed, for homeowners and property managers across Oakland. Whether it's a cracked supply line in a Rockridge bungalow or smoke damage from a kitchen fire near Grand Lake, we document the loss for insurance, remove what can't be saved, and put the property back together.
+Dry 1 Out Restoration and Construction handles water damage, fire and smoke damage, mold remediation, biohazard cleanup, and the reconstruction work that follows once a loss has been dried out and demoed, for homeowners and property managers across Oakland. Whether it's a cracked supply line in a Rockridge bungalow or smoke damage from a kitchen fire near Grand Lake, we document the loss for insurance, remove what can't be saved, and put the property back together.
 
 ## Restoration emergencies common in Oakland
 
@@ -45,4 +45,4 @@ We dispatch to Oakland from our Vista, CA base, routing north on I-5 and I-580 i
 
 We work on older Oakland homes from Rockridge to the Montclair hills, many built in the early-to-mid twentieth century with wood-frame construction, lath-and-plaster or early drywall interiors, and crawlspace foundations rather than slabs. That era of construction often still carries galvanized or early copper supply lines and cast iron drain stacks, both of which corrode and fail from the inside out long before a leak is visible. Homes built before the 1980s may also contain asbestos in old flooring, pipe wrap, or plaster, and lead paint under newer finishes, both of which change how a restoration crew can safely demo a wall. Hillside lots around Montclair deal with expansive soil movement and retaining structures that affect foundation drainage, while flatland parcels closer to the estuary sit on fill with a higher water table. Structural repairs and rebuild work in Oakland go through the city's building department, and anything touching electrical, plumbing, or structural framing typically requires a permit before work starts.
 
-If water, fire, smoke, mold, or biohazard damage has hit your Oakland property, near Lake Merritt, the Oakland Museum of California, the Paramount Theatre, Chabot Space & Science Center, or anywhere in between, call Dry1 Out Restoration and Construction at (888) 379-1688. We answer 24/7 and can walk you through what to do before we arrive.
+If water, fire, smoke, mold, or biohazard damage has hit your Oakland property, near Lake Merritt, the Oakland Museum of California, the Paramount Theatre, Chabot Space & Science Center, or anywhere in between, call Dry 1 Out Restoration and Construction at (888) 379-1688. We answer 24/7 and can walk you through what to do before we arrive.

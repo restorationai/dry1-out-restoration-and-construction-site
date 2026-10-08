@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Storm Damage Restoration in Oakland, CA | Dry1 Out Restoration and Construction"
+title: "24/7 Emergency Storm Damage Restoration in Oakland, CA | Dry 1 Out Restoration and Construction"
 h1: "24/7 Emergency Storm Damage Restoration in Oakland"
 meta_description: "24/7 emergency storm damage restoration in Oakland, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "storm damage restoration oakland"
@@ -20,7 +20,7 @@ state: "CA"
 service_display: "Storm Damage Restoration"
 rendered: true
 ---
-**Storm damage in Oakland doesn't wait for daylight.** When an atmospheric river rolls off the Pacific and a eucalyptus limb comes down on a Craftsman roof in Rockridge, or storm drains backfeed into a Fruitvale basement, the clock on secondary damage, mold growth, and structural softening starts immediately. Dry1 Out Restoration and Construction answers 24/7 and works directly with the materials and drainage patterns that make Oakland storm recovery different from a generic wind-and-rain job.
+**Storm damage in Oakland doesn't wait for daylight.** When an atmospheric river rolls off the Pacific and a eucalyptus limb comes down on a Craftsman roof in Rockridge, or storm drains backfeed into a Fruitvale basement, the clock on secondary damage, mold growth, and structural softening starts immediately. Dry 1 Out Restoration and Construction answers 24/7 and works directly with the materials and drainage patterns that make Oakland storm recovery different from a generic wind-and-rain job.
 
 ## Why Oakland Properties See Storm Damage Issues
 
@@ -42,4 +42,4 @@ We field calls from across Oakland, 94611 and 94618 in the hills, 94601 and 9460
 
 One thing that catches homeowners off guard in the Oakland hills: after a heavy atmospheric river event, expanding clay soil can tilt a foundation enough to stress a sewer lateral weeks after the storm has passed, even if the house itself looks fine. We check lateral lines and crawl space framing as a standard part of storm follow-up in Montclair and upper Rockridge, not just the visible roof or window damage, because that's where the second call usually comes from.
 
-If a storm has left standing water, a compromised roof, or downed tree damage on an Oakland property, from the Grand Lake flats to the Montclair hills, call Dry1 Out Restoration and Construction at (888) 379-1688. We're licensed in California under contractor license #993442, available around the clock, and ready to stabilize the property before the damage spreads further.
+If a storm has left standing water, a compromised roof, or downed tree damage on an Oakland property, from the Grand Lake flats to the Montclair hills, call Dry 1 Out Restoration and Construction at (888) 379-1688. We're licensed in California under contractor license #993442, available around the clock, and ready to stabilize the property before the damage spreads further.

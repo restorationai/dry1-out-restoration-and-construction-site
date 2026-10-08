@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Renovations, Remodels and General Contracting in Solana Beach, CA | Dry1 Out Restoration and Construction"
+title: "Renovations, Remodels and General Contracting in Solana Beach, CA | Dry 1 Out Restoration and Construction"
 h1: "Renovations, Remodels and General Contracting in Solana Beach"
 meta_description: "24/7 renovations, remodels and general contracting in Solana Beach, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "renovations, remodels and general contracting solana beach"
@@ -20,7 +20,7 @@ state: "CA"
 service_display: "Renovations, Remodels and General Contracting"
 rendered: true
 ---
-Solana Beach's housing stock runs the gamut from 1960s beach cottages near the bluffs to newer custom builds replacing them lot by lot, and that mix is exactly why a remodel here rarely looks like a remodel somewhere inland. Dry1 Out Restoration and Construction handles renovations, remodels, and general contracting for homeowners who are either upgrading a tired kitchen or bathroom or rebuilding after water, fire, or storm damage forced the issue. Either way, the scope of work in a coastal city like this one has to account for salt air, moisture, and a permitting process that treats the coastline differently than the rest of San Diego County.
+Solana Beach's housing stock runs the gamut from 1960s beach cottages near the bluffs to newer custom builds replacing them lot by lot, and that mix is exactly why a remodel here rarely looks like a remodel somewhere inland. Dry 1 Out Restoration and Construction handles renovations, remodels, and general contracting for homeowners who are either upgrading a tired kitchen or bathroom or rebuilding after water, fire, or storm damage forced the issue. Either way, the scope of work in a coastal city like this one has to account for salt air, moisture, and a permitting process that treats the coastline differently than the rest of San Diego County.
 
 ## Why Solana Beach Properties See Renovation & Rebuild Needs
 
@@ -38,4 +38,4 @@ A meaningful share of our renovation work in this city starts as an insurance cl
 
 Because Solana Beach sits within the California Coastal Zone, exterior work (new windows, additions, anything touching the building envelope on a bluff-adjacent lot) often triggers coastal development permit review on top of the standard city building permit. We factor that extra review window into the project timeline up front rather than discovering it mid-demo, which is the difference between a remodel that stays on schedule and one that stalls for months waiting on paperwork nobody budgeted for.
 
-If a kitchen, bathroom, or full home remodel in Solana Beach is on the horizon, or if a recent water or fire loss means rebuild work has to start before you can even think about finishes, Dry1 Out Restoration and Construction handles both the construction and the coordination that goes with it. Call (888) 379-1688 to get a scope and timeline specific to your property.
+If a kitchen, bathroom, or full home remodel in Solana Beach is on the horizon, or if a recent water or fire loss means rebuild work has to start before you can even think about finishes, Dry 1 Out Restoration and Construction handles both the construction and the coordination that goes with it. Call (888) 379-1688 to get a scope and timeline specific to your property.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Inspection and Testing in Poway, CA | Dry1 Out Restoration and Construction"
+title: "Mold Inspection and Testing in Poway, CA | Dry 1 Out Restoration and Construction"
 h1: "Mold Inspection and Testing in Poway"
 meta_description: "24/7 mold inspection and testing in Poway, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "mold inspection and testing poway"
@@ -42,4 +42,4 @@ A fair number of Poway neighborhoods are governed by HOAs with architectural and
 
 Homes on Poway's larger, horse-property-style lots sometimes have crawlspace vents that were sized for an older, drier building code and don't move enough air once landscaping or added structures block natural airflow. We check vent clearance and airflow patterns as part of the inspection on these properties, because a crawlspace that reads dry on a moisture meter can still be colonizing mold if air isn't actually circulating through it.
 
-If something in your Poway home smells off or you're staring at a water stain that won't go away, mold inspection and testing gives you a documented starting point instead of a guess. Call Dry1 Out Restoration and Construction to schedule a visit and get lab-backed answers before deciding on next steps.
+If something in your Poway home smells off or you're staring at a water stain that won't go away, mold inspection and testing gives you a documented starting point instead of a guess. Call Dry 1 Out Restoration and Construction to schedule a visit and get lab-backed answers before deciding on next steps.

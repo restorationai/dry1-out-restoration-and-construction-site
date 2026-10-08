@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Post-Construction and Specialty Cleaning in San Jose, CA | Dry1 Out Restoration and Construction"
+title: "Post-Construction and Specialty Cleaning in San Jose, CA | Dry 1 Out Restoration and Construction"
 h1: "Post-Construction and Specialty Cleaning in San Jose"
 meta_description: "24/7 post-construction and specialty cleaning in San Jose, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "post-construction and specialty cleaning san jose"
@@ -42,4 +42,4 @@ Several HOA communities in Almaden Valley and parts of Cambrian Park have rules 
 
 Homes built before the 1960s in neighborhoods like Willow Glen and around the Rose Garden often have galvanized or cast iron plumbing that gets disturbed during renovation work, and that disturbance can knock loose mineral scale that then shows up as fine rust-colored dust on nearby surfaces during the final clean. We check under-sink cabinets and around any exposed plumbing access points specifically for that residue before calling a job finished, since it's easy to mistake for construction dust and just as easy to miss.
 
-Whether the job is a kitchen remodel near SAP Center or a full ADU build in Evergreen, a construction site isn't finished until the dust, residue, and debris are actually gone, not just swept into a corner. Dry1 Out Restoration and Construction handles the post-construction and specialty cleaning piece so the rest of your renovation holds up. Call (888) 379-1688 to talk through the scope of your San Jose job.
+Whether the job is a kitchen remodel near SAP Center or a full ADU build in Evergreen, a construction site isn't finished until the dust, residue, and debris are actually gone, not just swept into a corner. Dry 1 Out Restoration and Construction handles the post-construction and specialty cleaning piece so the rest of your renovation holds up. Call (888) 379-1688 to talk through the scope of your San Jose job.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Renovations, Remodels and General Contracting in Concord, CA | Dry1 Out Restoration and Construction"
+title: "Renovations, Remodels and General Contracting in Concord, CA | Dry 1 Out Restoration and Construction"
 h1: "Renovations, Remodels and General Contracting in Concord"
 meta_description: "24/7 renovations, remodels and general contracting in Concord, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "renovations, remodels and general contracting concord"
@@ -38,4 +38,4 @@ City of Concord permitting for kitchen and bathroom remodels generally follows t
 
 Homes within a few blocks of Todos Santos Plaza and the older grid streets of Downtown Concord were largely built before 1960, which means plaster-and-lath walls instead of drywall in a surprising number of them. Demoing for a remodel in these homes takes longer and creates more dust than a typical drywall tear-out, so we adjust labor estimates and containment accordingly rather than quoting the job like a standard 1980s tract home.
 
-If you're planning a kitchen remodel, bathroom update, or a rebuild following a covered water or fire loss anywhere from Buchanan Field Airport down through Ygnacio Valley, call Dry1 Out Restoration and Construction at (888) 379-1688. We'll walk the property, talk through what the city and your HOA will require, and give you a scope you can actually plan around.
+If you're planning a kitchen remodel, bathroom update, or a rebuild following a covered water or fire loss anywhere from Buchanan Field Airport down through Ygnacio Valley, call Dry 1 Out Restoration and Construction at (888) 379-1688. We'll walk the property, talk through what the city and your HOA will require, and give you a scope you can actually plan around.

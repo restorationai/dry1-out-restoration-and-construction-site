@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Elfin Forest, CA | Dry1 Out Restoration and Construction"
+title: "Restoration Services in Elfin Forest, CA | Dry 1 Out Restoration and Construction"
 h1: "Restoration Services in Elfin Forest"
 meta_description: "Serving Elfin Forest, CA with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (888) 379-1688."
 primary_keyword: "restoration services elfin forest"
@@ -19,7 +19,7 @@ state: "CA"
 primary: false
 rendered: true
 ---
-Dry1 Out Restoration and Construction handles water intrusion, fire and smoke damage, mold growth, and biohazard cleanup for homes and properties throughout Elfin Forest, along with the reconstruction work that follows once a loss has been dried out or cleared. Many properties here sit on larger rural and semi-rural lots, which changes how a leak, a wildfire ember, or a storm event plays out compared to a tighter suburban block, and it changes how we scope the job.
+Dry 1 Out Restoration and Construction handles water intrusion, fire and smoke damage, mold growth, and biohazard cleanup for homes and properties throughout Elfin Forest, along with the reconstruction work that follows once a loss has been dried out or cleared. Many properties here sit on larger rural and semi-rural lots, which changes how a leak, a wildfire ember, or a storm event plays out compared to a tighter suburban block, and it changes how we scope the job.
 
 ## Restoration emergencies common in Elfin Forest
 
@@ -45,4 +45,4 @@ We run crews out of Vista and reach Elfin Forest via CA-78 and I-15, a route we 
 
 Much of Elfin Forest's housing stock reflects the ranch-style and custom estate construction common across inland North County San Diego from the 1970s through the 1990s, often built on raised foundations or crawlspaces rather than basements, which gives water an easy path to travel under a structure before anyone notices. Copper supply lines are typical of that era, though older sections of plumbing on long-held properties can still show galvanized pipe at the joints. Because Elfin Forest is an unincorporated community, permits for structural repair or rebuild work go through San Diego County rather than a city building department, and that process tends to apply to anything beyond cosmetic patching, particularly on properties with septic systems or well infrastructure where code review touches more than just the structure itself. Hillside lots and canyon-adjacent grading also mean drainage and erosion control often factor into a permitted repair, not just the structural scope.
 
-If water, fire, or mold has already gotten into your Elfin Forest property, the faster the affected materials get dried, cleaned, or removed, the less work (and cost) the repair becomes. Call Dry1 Out Restoration and Construction at (888) 379-1688 to get a crew scheduled and the damage documented correctly from the start.
+If water, fire, or mold has already gotten into your Elfin Forest property, the faster the affected materials get dried, cleaned, or removed, the less work (and cost) the repair becomes. Call Dry 1 Out Restoration and Construction at (888) 379-1688 to get a crew scheduled and the damage documented correctly from the start.

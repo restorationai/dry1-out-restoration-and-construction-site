@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Renovations, Remodels and General Contracting in El Cajon, CA | Dry1 Out Restoration and Construction"
+title: "Renovations, Remodels and General Contracting in El Cajon, CA | Dry 1 Out Restoration and Construction"
 h1: "Renovations, Remodels and General Contracting in El Cajon"
 meta_description: "24/7 renovations, remodels and general contracting in El Cajon, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "renovations, remodels and general contracting el cajon"
@@ -20,7 +20,7 @@ state: "CA"
 service_display: "Renovations, Remodels and General Contracting"
 rendered: true
 ---
-El Cajon's inland heat puts real stress on older homes, and that stress doesn't stop at the plumbing or the roof. A kitchen built in the 1960s in Fletcher Hills or a Bostonia bungalow with its original single-pane windows often needs more than a cosmetic refresh: it needs a contractor who understands how heat cycling, aging materials, and prior water intrusion interact before a wall ever gets opened. Dry1 Out Restoration and Construction handles renovations, remodels, and post-damage rebuilds across El Cajon with that full picture in mind.
+El Cajon's inland heat puts real stress on older homes, and that stress doesn't stop at the plumbing or the roof. A kitchen built in the 1960s in Fletcher Hills or a Bostonia bungalow with its original single-pane windows often needs more than a cosmetic refresh: it needs a contractor who understands how heat cycling, aging materials, and prior water intrusion interact before a wall ever gets opened. Dry 1 Out Restoration and Construction handles renovations, remodels, and post-damage rebuilds across El Cajon with that full picture in mind.
 
 ## Why El Cajon Homes Need Careful Renovation Planning
 
@@ -38,4 +38,4 @@ Most single-family remodels inside El Cajon city limits route through the city's
 
 Homes built close to Grossmont College and along the Fletcher Hills ridge often sit on decomposed granite soil, which drains fast but shifts with seasonal moisture changes, slab cracking and door frames that go out of square are common enough that we check foundation movement before framing any addition or load-bearing change in that part of town.
 
-Whether you're updating a dated kitchen in Bostonia, rebuilding a bathroom after a slow leak finally showed itself, or managing a larger renovation tied to a restoration claim anywhere in the 92019, 92020, or 92021 ZIP codes, Dry1 Out Restoration and Construction can scope the work and carry it through as a licensed general contractor (CA license #993442). Call (888) 379-1688 to set up a walkthrough.
+Whether you're updating a dated kitchen in Bostonia, rebuilding a bathroom after a slow leak finally showed itself, or managing a larger renovation tied to a restoration claim anywhere in the 92019, 92020, or 92021 ZIP codes, Dry 1 Out Restoration and Construction can scope the work and carry it through as a licensed general contractor (CA license #993442). Call (888) 379-1688 to set up a walkthrough.

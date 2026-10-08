@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Water Damage Restoration in Santa Clara, CA | Dry1 Out Restoration and Construction"
+title: "24/7 Emergency Water Damage Restoration in Santa Clara, CA | Dry 1 Out Restoration and Construction"
 h1: "24/7 Emergency Water Damage Restoration in Santa Clara"
 meta_description: "24/7 emergency water damage restoration in Santa Clara, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "water damage restoration santa clara"
@@ -38,4 +38,4 @@ Rivermark's condo associations commonly require unit owners to notify the HOA ma
 
 A number of Rivermark's early-2000s condo buildings share plumbing stacks between vertically stacked units, so a supply line failure on a third-floor unit can soak the ceiling and walls of the unit below before anyone upstairs even realizes there's a leak. When we get a call from that area, we check with the HOA for access to adjacent units early, since isolating the source often means getting into a neighboring unit rather than just the one where the damage is visible.
 
-Water sitting under flooring or inside a wall cavity near Levi's Stadium, Santa Clara Central Park, or anywhere between the Old Quad and the 95054 tech corridor doesn't wait for a convenient time to be dealt with, and neither should you. Dry1 Out Restoration and Construction is IICRC-certified and licensed (##993442), and we're set up to document the loss for your insurance company while we get extraction and drying underway. Call (888) 379-1688 for water damage restoration in Santa Clara, any hour, any day.
+Water sitting under flooring or inside a wall cavity near Levi's Stadium, Santa Clara Central Park, or anywhere between the Old Quad and the 95054 tech corridor doesn't wait for a convenient time to be dealt with, and neither should you. Dry 1 Out Restoration and Construction is IICRC-certified and licensed (##993442), and we're set up to document the loss for your insurance company while we get extraction and drying underway. Call (888) 379-1688 for water damage restoration in Santa Clara, any hour, any day.

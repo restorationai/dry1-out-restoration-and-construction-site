@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in Santa Cruz, CA | Dry1 Out Restoration and Construction"
+title: "Mold Remediation in Santa Cruz, CA | Dry 1 Out Restoration and Construction"
 h1: "Mold Remediation in Santa Cruz"
 meta_description: "24/7 mold remediation in Santa Cruz, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "mold remediation santa cruz"
@@ -20,7 +20,7 @@ state: "CA"
 service_display: "Mold Remediation"
 rendered: true
 ---
-Santa Cruz's marine layer rolls in most mornings and doesn't always burn off before noon, which means crawlspaces and north-facing walls in older Westside bungalows stay damp longer than homeowners realize. Mold remediation here has to account for that lingering moisture, not just the leak or flood that triggered the call. Dry1 Out Restoration and Construction handles the testing, containment, and removal with IICRC AMRT-trained technicians who understand how coastal humidity behaves differently than inland growth patterns.
+Santa Cruz's marine layer rolls in most mornings and doesn't always burn off before noon, which means crawlspaces and north-facing walls in older Westside bungalows stay damp longer than homeowners realize. Mold remediation here has to account for that lingering moisture, not just the leak or flood that triggered the call. Dry 1 Out Restoration and Construction handles the testing, containment, and removal with IICRC AMRT-trained technicians who understand how coastal humidity behaves differently than inland growth patterns.
 
 ## Why Santa Cruz Properties See Mold Issues
 
@@ -38,4 +38,4 @@ Mold claims in this area are frequently tied to a covered water event, a roof le
 
 Homes within a few blocks of Natural Bridges State Beach and the broader Westside tend to get more direct onshore wind, which dries exterior stucco faster than it dries interior wall cavities facing the same direction. We've learned not to judge a wall's moisture content by how it looks or feels from outside. A probe reading inside the cavity near a bathroom or kitchen plumbing wall is the only way to know if containment needs to extend further than the visible stain suggests.
 
-If you're smelling something musty near the Santa Cruz Beach Boardwalk corridor, in a rental near 95064, or in a Seabright cottage that's held onto winter dampness longer than usual, call Dry1 Out Restoration and Construction at (888) 379-1688. We're available 24/7 to schedule your inspection and start containment before the growth spreads to areas that were still dry last week.
+If you're smelling something musty near the Santa Cruz Beach Boardwalk corridor, in a rental near 95064, or in a Seabright cottage that's held onto winter dampness longer than usual, call Dry 1 Out Restoration and Construction at (888) 379-1688. We're available 24/7 to schedule your inspection and start containment before the growth spreads to areas that were still dry last week.

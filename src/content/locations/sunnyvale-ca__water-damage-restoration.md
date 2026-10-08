@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Water Damage Restoration in Sunnyvale, CA | Dry1 Out Restoration and Construction"
+title: "24/7 Emergency Water Damage Restoration in Sunnyvale, CA | Dry 1 Out Restoration and Construction"
 h1: "24/7 Emergency Water Damage Restoration in Sunnyvale"
 meta_description: "24/7 emergency water damage restoration in Sunnyvale, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "water damage restoration sunnyvale"
@@ -38,4 +38,4 @@ Slab drying in a mid-century home often calls for specialized mats or negative-p
 
 A detail that catches a lot of homeowners off guard: in Cherry Chase and Ponderosa Park Eichler homes, the original slab often has little to no vapor barrier beneath it, which was standard for the era. That means a leak can read "dry" at the surface within a day while moisture is still wicking up from below for a week or more, so we extend monitoring on these properties past the point where the floor looks and feels fine.
 
-If water is spreading across a slab floor near Murphy Avenue, Las Palmas Park, or anywhere in the 94085, 94086, 94087, or 94089 ZIP codes, the clock matters more on these older homes than on newer construction. Dry1 Out Restoration and Construction is licensed (#993442) and carries IICRC Certified Firm status across water, structural drying, mold, and fire disciplines, so the same crew that extracts the water can also flag secondary concerns before they become a second claim. Call (888) 379-1688 to get a technician scheduled for your Sunnyvale property.
+If water is spreading across a slab floor near Murphy Avenue, Las Palmas Park, or anywhere in the 94085, 94086, 94087, or 94089 ZIP codes, the clock matters more on these older homes than on newer construction. Dry 1 Out Restoration and Construction is licensed (#993442) and carries IICRC Certified Firm status across water, structural drying, mold, and fire disciplines, so the same crew that extracts the water can also flag secondary concerns before they become a second claim. Call (888) 379-1688 to get a technician scheduled for your Sunnyvale property.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Fire Damage Restoration in El Cajon, CA | Dry1 Out Restoration and Construction"
+title: "24/7 Emergency Fire Damage Restoration in El Cajon, CA | Dry 1 Out Restoration and Construction"
 h1: "24/7 Emergency Fire Damage Restoration in El Cajon"
 meta_description: "24/7 emergency fire damage restoration in El Cajon, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "fire damage restoration el cajon"
@@ -38,4 +38,4 @@ Most fire claims in El Cajon move through the same adjuster documentation proces
 
 Hillside and canyon-adjacent homes near Bostonia and the slopes above Parkway Plaza often use clay or concrete tile roofing, and during Santa Ana events we regularly find ember debris lodged under the tile eaves rather than on the roof surface itself, a spot a standard roof inspection can miss entirely. We check those eave cavities on every wildfire-adjacent job in that part of El Cajon, because smoldering debris there can reignite hours after the main fire is out.
 
-If your home or business near Gillespie Field, Magnolia Performing Arts Center, or anywhere else in El Cajon has fire or smoke damage, call Dry1 Out Restoration and Construction at (888) 379-1688. We're licensed under California contractor license #993442, available around the clock, and ready to start documentation and mitigation the same day you reach out.
+If your home or business near Gillespie Field, Magnolia Performing Arts Center, or anywhere else in El Cajon has fire or smoke damage, call Dry 1 Out Restoration and Construction at (888) 379-1688. We're licensed under California contractor license #993442, available around the clock, and ready to start documentation and mitigation the same day you reach out.

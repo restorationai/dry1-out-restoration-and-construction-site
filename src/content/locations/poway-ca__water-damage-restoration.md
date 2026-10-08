@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Water Damage Restoration in Poway, CA | Dry1 Out Restoration and Construction"
+title: "24/7 Emergency Water Damage Restoration in Poway, CA | Dry 1 Out Restoration and Construction"
 h1: "24/7 Emergency Water Damage Restoration in Poway"
 meta_description: "24/7 emergency water damage restoration in Poway, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "water damage restoration poway"
@@ -42,4 +42,4 @@ Several of Poway's newer planned communities carry HOA architectural guidelines 
 
 On Poway's older slab-foundation ranch homes, a slow leak under a kitchen or bathroom can sit undetected for weeks because the slab itself masks the moisture from above, so by the time flooring buckles or baseboards swell, the subfloor adhesive and sometimes the slab's vapor barrier have already been compromised; we test well beyond the visible stain line before calling a room dry.
 
-If water is spreading under flooring or along a wall in your Poway home right now, don't wait for it to show itself. Dry1 Out Restoration and Construction answers 24/7 and can start extraction and structural drying the same day, working directly with your insurance carrier so the paperwork doesn't slow down the part that actually matters.
+If water is spreading under flooring or along a wall in your Poway home right now, don't wait for it to show itself. Dry 1 Out Restoration and Construction answers 24/7 and can start extraction and structural drying the same day, working directly with your insurance carrier so the paperwork doesn't slow down the part that actually matters.

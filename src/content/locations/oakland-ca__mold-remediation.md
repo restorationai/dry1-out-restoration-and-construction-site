@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in Oakland, CA | Dry1 Out Restoration and Construction"
+title: "Mold Remediation in Oakland, CA | Dry 1 Out Restoration and Construction"
 h1: "Mold Remediation in Oakland"
 meta_description: "24/7 mold remediation in Oakland, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "mold remediation oakland"
@@ -38,4 +38,4 @@ Condo buildings near Jack London Square and the Grand Lake waterfront often carr
 
 In Rockridge and Temescal, a lot of the Craftsman bungalows built before 1930 still have their original horsehair plaster over wood lath beneath later stucco or shingle siding. That assembly holds moisture against the framing much longer than modern drywall does, and a stud can read dry at the surface while it's still saturated a few inches in. We've learned to recheck moisture content two or three days into drying rather than trusting an early reading that looks clean, because that layered older construction simply releases water on a slower timeline than anything built in the last few decades.
 
-If you're finding a musty smell, discoloration along a baseboard, or a bathroom ceiling that's been bubbling since the last rain, don't wait on it, mold colonies establish fast once moisture sets in. Dry1 Out Restoration and Construction works on mold remediation throughout Oakland, from Craftsman homes in the 94618 and 94609 zips to hillside properties above Montclair, and we're licensed under contractor number 993442. Call (888) 379-1688 to get a technician out to assess the scope before it spreads further into the structure.
+If you're finding a musty smell, discoloration along a baseboard, or a bathroom ceiling that's been bubbling since the last rain, don't wait on it, mold colonies establish fast once moisture sets in. Dry 1 Out Restoration and Construction works on mold remediation throughout Oakland, from Craftsman homes in the 94618 and 94609 zips to hillside properties above Montclair, and we're licensed under contractor number 993442. Call (888) 379-1688 to get a technician out to assess the scope before it spreads further into the structure.

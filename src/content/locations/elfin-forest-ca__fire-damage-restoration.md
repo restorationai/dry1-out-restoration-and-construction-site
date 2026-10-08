@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Fire Damage Restoration in Elfin Forest, CA | Dry1 Out Restoration and Construction"
+title: "24/7 Emergency Fire Damage Restoration in Elfin Forest, CA | Dry 1 Out Restoration and Construction"
 h1: "24/7 Emergency Fire Damage Restoration in Elfin Forest"
 meta_description: "24/7 emergency fire damage restoration in Elfin Forest, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "fire damage restoration elfin forest"
@@ -20,7 +20,7 @@ state: "CA"
 service_display: "Fire Damage Restoration"
 rendered: true
 ---
-**Fire damage in Elfin Forest?** Call Dry1 Out Restoration and Construction now for emergency service, we answer 24/7 and our crews are IICRC FSRT certified for fire and smoke damage.
+**Fire damage in Elfin Forest?** Call Dry 1 Out Restoration and Construction now for emergency service, we answer 24/7 and our crews are IICRC FSRT certified for fire and smoke damage.
 
 Fire damage restoration in Elfin Forest looks different from a job in a dense suburban grid. Most homes here sit on acreage, bordered by chaparral and dry brush, with long gravel or paved driveways separating the house from the nearest paved road. When a structure fire moves through one of these properties, soot and smoke travel through open rafters, barns, and detached garages that a typical suburban fire loss doesn't involve, and the surrounding dry vegetation means a kitchen or electrical fire can spread toward outbuildings faster than it would on a smaller, irrigated lot.
 
@@ -44,4 +44,4 @@ Most fire losses out here are covered under a standard homeowner's or rural prop
 
 On properties relying on well water, we're careful about how much water we introduce during fire suppression cleanup and soot removal, since runoff carrying ash and chemical residue can end up near a wellhead or septic leach field if it isn't contained. We also check attic and crawlspace ventilation early, since many Elfin Forest homes have open-beam or exposed-rafter construction that lets smoke travel further into the structure than a sealed, drywall-finished ceiling would allow, which changes how far our deodorization work has to extend beyond the room of origin.
 
-If fire has damaged your home or outbuildings anywhere in Elfin Forest, don't wait on smoke odor or soot to settle further into framing and insulation. Call Dry1 Out Restoration and Construction at (888) 379-1688 for fire damage restoration that accounts for the rural infrastructure and fire risk specific to this part of San Diego County.
+If fire has damaged your home or outbuildings anywhere in Elfin Forest, don't wait on smoke odor or soot to settle further into framing and insulation. Call Dry 1 Out Restoration and Construction at (888) 379-1688 for fire damage restoration that accounts for the rural infrastructure and fire risk specific to this part of San Diego County.

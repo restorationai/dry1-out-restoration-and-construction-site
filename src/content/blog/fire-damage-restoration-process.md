@@ -56,7 +56,7 @@ Small, contained incidents, like a scorched pot on the stove with minimal smoke 
 - The fire reached structural framing, electrical, or plumbing, which needs inspection before any rebuild.
 - Soot has coated hard surfaces, upholstery, or HVAC components, since specialized cleaning agents and equipment (thermal foggers, ozone or hydroxyl generators, HEPA vacuums) outperform retail products for lifting embedded residue and neutralizing odor at the source.
 
-Dry1 Out Restoration and Construction handles fire damage restoration and smoke damage restoration for homes throughout Vista, including the drying and odor-removal work that follows firefighting water and the structural cleanup that comes before any rebuild. A call early in the process, even just for an assessment, gives you a clearer picture of scope before the insurance claim moves forward.
+Dry 1 Out Restoration and Construction handles fire damage restoration and smoke damage restoration for homes throughout Vista, including the drying and odor-removal work that follows firefighting water and the structural cleanup that comes before any rebuild. A call early in the process, even just for an assessment, gives you a clearer picture of scope before the insurance claim moves forward.
 
 ## The Longer Recovery Process
 
@@ -70,4 +70,4 @@ Once the immediate hazards are handled, restoration generally moves through thes
 
 Timelines vary widely. A single-room kitchen fire with contained smoke might wrap up in a week or two. A fire that spread through an attic or multiple rooms, especially with significant water damage, can take several weeks to a few months between drying, cleaning, and rebuild.
 
-Fire damage is one of the few disasters where the visible damage and the actual damage rarely match. A single room may look like the whole story, while smoke and moisture have already moved into places you can't see. If you're standing in a home after a fire and trying to figure out what's next, a professional assessment early on, before cleanup decisions are made that can't be undone, is usually the most useful first call. Dry1 Out Restoration and Construction can walk the property with you and lay out what's involved before you commit to next steps. Reach the team at (888) 379-1688.
+Fire damage is one of the few disasters where the visible damage and the actual damage rarely match. A single room may look like the whole story, while smoke and moisture have already moved into places you can't see. If you're standing in a home after a fire and trying to figure out what's next, a professional assessment early on, before cleanup decisions are made that can't be undone, is usually the most useful first call. Dry 1 Out Restoration and Construction can walk the property with you and lay out what's involved before you commit to next steps. Reach the team at (888) 379-1688.

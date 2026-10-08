@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Inspection and Testing in Concord, CA | Dry1 Out Restoration and Construction"
+title: "Mold Inspection and Testing in Concord, CA | Dry 1 Out Restoration and Construction"
 h1: "Mold Inspection and Testing in Concord"
 meta_description: "24/7 mold inspection and testing in Concord, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "mold inspection and testing concord"
@@ -38,4 +38,4 @@ If you're in an HOA community like Crystyl Ranch or Dana Estates, architectural 
 
 A detail that catches a lot of Concord homeowners off guard: houses on the hillside lots near Crystyl Ranch and the north-facing slopes around Ygnacio Valley tend to hold shade and moisture on specific exterior walls for most of the morning, even during dry months, because the terrain blocks direct sun until midday. That consistent dampness against stucco or wood siding, combined with irrigation runoff from landscaped slopes, is one of the more common hidden moisture sources we find during inspections in that part of the city, even on homes with no interior leak history at all.
 
-If you're dealing with a musty smell, visible spotting, or just want a baseline air quality check before buying or selling a Concord property near Sunvalley Shopping Center, Buchanan Field, or anywhere else in the 94518 to 94521 ZIP codes, call Dry1 Out Restoration and Construction at (888) 379-1688 to schedule a mold inspection and testing visit.
+If you're dealing with a musty smell, visible spotting, or just want a baseline air quality check before buying or selling a Concord property near Sunvalley Shopping Center, Buchanan Field, or anywhere else in the 94518 to 94521 ZIP codes, call Dry 1 Out Restoration and Construction at (888) 379-1688 to schedule a mold inspection and testing visit.

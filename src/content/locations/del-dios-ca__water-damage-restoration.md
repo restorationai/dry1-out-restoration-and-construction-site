@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Water Damage Restoration in Del Dios, CA | Dry1 Out Restoration and Construction"
+title: "24/7 Emergency Water Damage Restoration in Del Dios, CA | Dry 1 Out Restoration and Construction"
 h1: "24/7 Emergency Water Damage Restoration in Del Dios"
 meta_description: "24/7 emergency water damage restoration in Del Dios, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "water damage restoration del dios"
@@ -20,7 +20,7 @@ state: "CA"
 service_display: "Water Damage Restoration"
 rendered: true
 ---
-Del Dios sits in the hills above Lake Hodges, a rural stretch of unincorporated San Diego County where a lot of homes still run on private wells and septic systems instead of municipal water and sewer lines. When a water heater fails or a supply line lets go on one of these properties, the water often has nowhere obvious to go: it pools against foundations, soaks into crawlspaces, and sits there until someone notices the smell or the warped flooring. Dry1 Out Restoration and Construction brings IICRC-trained water extraction and structural drying to these properties, answering calls 24/7 out of our Vista location.
+Del Dios sits in the hills above Lake Hodges, a rural stretch of unincorporated San Diego County where a lot of homes still run on private wells and septic systems instead of municipal water and sewer lines. When a water heater fails or a supply line lets go on one of these properties, the water often has nowhere obvious to go: it pools against foundations, soaks into crawlspaces, and sits there until someone notices the smell or the warped flooring. Dry 1 Out Restoration and Construction brings IICRC-trained water extraction and structural drying to these properties, answering calls 24/7 out of our Vista location.
 
 ## Why Del Dios Properties See Water Damage Issues
 
@@ -38,4 +38,4 @@ Del Dios is a bit removed from the main commercial corridors, reached mostly by 
 
 On properties with a private well, we check the pressure tank and well pump area early in the assessment, a flooded pump house or tripped breaker from water intrusion can leave a home without running water on top of the damage already done, and that's a detail that's easy to miss if you're not used to working rural systems. We also keep an eye on septic cleanout locations before setting up drying equipment, since running air movers near a saturated drain field doesn't help and can mask a second source of moisture.
 
-If water is actively spreading through a Del Dios home right now, from a burst supply line, a failed well pressure tank, or storm runoff finding its way in along the foundation, call Dry1 Out Restoration and Construction at (888) 379-1688. We answer 24/7, and getting a crew moving toward Lake Hodges and the surrounding hills sooner means less of the home ends up needing to be torn out and rebuilt.
+If water is actively spreading through a Del Dios home right now, from a burst supply line, a failed well pressure tank, or storm runoff finding its way in along the foundation, call Dry 1 Out Restoration and Construction at (888) 379-1688. We answer 24/7, and getting a crew moving toward Lake Hodges and the surrounding hills sooner means less of the home ends up needing to be torn out and rebuilt.

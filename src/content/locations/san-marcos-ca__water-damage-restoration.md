@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Water Damage Restoration in San Marcos, CA | Dry1 Out Restoration and Construction"
+title: "24/7 Emergency Water Damage Restoration in San Marcos, CA | Dry 1 Out Restoration and Construction"
 h1: "24/7 Emergency Water Damage Restoration in San Marcos"
 meta_description: "24/7 emergency water damage restoration in San Marcos, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "water damage restoration san marcos"
@@ -38,4 +38,4 @@ A fair number of San Marcos properties, particularly the newer developments arou
 
 Homes built close to Palomar College and in the older Richland pockets often still have cast iron or galvanized drain lines under the slab. When those lines fail, the leak can travel several feet before surfacing, which means the wet carpet you see in the hallway may not be anywhere near the actual source. We've learned to check under-slab plumbing age before assuming a leak location, especially on properties built before the 1980s copper transition.
 
-If water is spreading through your San Marcos home right now, from Twin Oaks Valley to the streets around Cal State San Marcos, don't wait on drywall to bubble before calling. Dry1 Out Restoration and Construction is licensed (CA #993442) and staffed around the clock to start extraction and drying before the damage compounds.
+If water is spreading through your San Marcos home right now, from Twin Oaks Valley to the streets around Cal State San Marcos, don't wait on drywall to bubble before calling. Dry 1 Out Restoration and Construction is licensed (CA #993442) and staffed around the clock to start extraction and drying before the damage compounds.

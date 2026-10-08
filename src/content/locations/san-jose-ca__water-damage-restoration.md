@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Water Damage Restoration in San Jose, CA | Dry1 Out Restoration and Construction"
+title: "24/7 Emergency Water Damage Restoration in San Jose, CA | Dry 1 Out Restoration and Construction"
 h1: "24/7 Emergency Water Damage Restoration in San Jose"
 meta_description: "24/7 emergency water damage restoration in San Jose, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "water damage restoration san jose"
@@ -41,4 +41,4 @@ A number of the HOA communities in Evergreen and Almaden Valley require document
 
 One thing that trips up a lot of homeowners in the 95125 and 95120 ZIP codes: a slow slab leak from clay soil movement can read as a damp patch of carpet for weeks before anyone connects it to the foundation. By the time the smell shows up, the subfloor and sometimes the baseboards have already been wicking moisture far longer than the visible stain suggests, which is why we check surrounding rooms and not just the spot someone points to.
 
-Water sitting under flooring near SAP Center or out past the Rose Garden behaves the same way physically, but the fix still depends on what's holding up the house. If you're dealing with a fresh leak or water that's been sitting for a few days in a San Jose home, Dry1 Out Restoration and Construction answers calls 24/7 and documents the loss the way your insurer or HOA expects. Call (888) 379-1688 and we'll walk through what to do before a crew arrives.
+Water sitting under flooring near SAP Center or out past the Rose Garden behaves the same way physically, but the fix still depends on what's holding up the house. If you're dealing with a fresh leak or water that's been sitting for a few days in a San Jose home, Dry 1 Out Restoration and Construction answers calls 24/7 and documents the loss the way your insurer or HOA expects. Call (888) 379-1688 and we'll walk through what to do before a crew arrives.

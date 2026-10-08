@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Smoke Damage Restoration in San Jose, CA | Dry1 Out Restoration and Construction"
+title: "24/7 Emergency Smoke Damage Restoration in San Jose, CA | Dry 1 Out Restoration and Construction"
 h1: "24/7 Emergency Smoke Damage Restoration in San Jose"
 meta_description: "24/7 emergency smoke damage restoration in San Jose, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "smoke damage restoration san jose"
@@ -42,4 +42,4 @@ Most San Jose homeowners' policies cover smoke and soot damage from a covered fi
 
 Homes within a few miles of SAP Center and the downtown core tend to have older HVAC returns that were never upgraded with MERV-rated filtration, which means wildfire smoke events hit those units harder than newer construction near Evergreen. On jobs in that downtown-adjacent band, we usually recommend a duct inspection even when the visible soot is minimal, because particulate settles in the return plenum and keeps re-circulating a faint smoke smell for weeks if it's not cleared.
 
-If smoke from a fire inside your home or drifting wildfire smoke has left a lingering odor or visible residue anywhere from Willow Glen to Evergreen, call Dry1 Out Restoration and Construction at (888) 379-1688. We're IICRC FSRT certified for fire and smoke restoration and available around the clock to start the assessment.
+If smoke from a fire inside your home or drifting wildfire smoke has left a lingering odor or visible residue anywhere from Willow Glen to Evergreen, call Dry 1 Out Restoration and Construction at (888) 379-1688. We're IICRC FSRT certified for fire and smoke restoration and available around the clock to start the assessment.

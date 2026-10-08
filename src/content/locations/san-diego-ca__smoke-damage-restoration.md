@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Smoke Damage Restoration in San Diego, CA | Dry1 Out Restoration and Construction"
+title: "24/7 Emergency Smoke Damage Restoration in San Diego, CA | Dry 1 Out Restoration and Construction"
 h1: "24/7 Emergency Smoke Damage Restoration in San Diego"
 meta_description: "24/7 emergency smoke damage restoration in San Diego, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "smoke damage restoration san diego"
@@ -42,4 +42,4 @@ Wildfire-related claims in San Diego County often move through carriers who've h
 
 Santa Ana wind events in San Diego tend to arrive in short, intense windows, often overnight, which means smoke can infiltrate a home through attic vents and window gaps before anyone's awake to smell it. By the time residents notice the odor the next morning, soot has already had several hours to settle into fabric, HVAC filters, and any unsealed wood trim. We treat these wind-driven wildfire calls differently from a kitchen or appliance fire: the smoke is thinner and more widely dispersed through the structure, so odor testing in attic and duct spaces becomes part of the initial assessment rather than an afterthought.
 
-Smoke doesn't sit still while you decide what to do next, and in a city where wildfire smoke, coastal humidity, and older plaster construction all complicate cleanup differently, the approach has to match the property. Call Dry1 Out Restoration and Construction at (888) 379-1688 for smoke damage restoration anywhere from North Park to the coast, we're licensed under California contractor's license #993442 and staffed around the clock to get a crew moving.
+Smoke doesn't sit still while you decide what to do next, and in a city where wildfire smoke, coastal humidity, and older plaster construction all complicate cleanup differently, the approach has to match the property. Call Dry 1 Out Restoration and Construction at (888) 379-1688 for smoke damage restoration anywhere from North Park to the coast, we're licensed under California contractor's license #993442 and staffed around the clock to get a crew moving.

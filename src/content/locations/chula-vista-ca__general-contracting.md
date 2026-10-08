@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Renovations, Remodels and General Contracting in Chula Vista, CA | Dry1 Out Restoration and Construction"
+title: "Renovations, Remodels and General Contracting in Chula Vista, CA | Dry 1 Out Restoration and Construction"
 h1: "Renovations, Remodels and General Contracting in Chula Vista"
 meta_description: "24/7 renovations, remodels and general contracting in Chula Vista, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "renovations, remodels and general contracting chula vista"
@@ -38,4 +38,4 @@ Eastlake and Otay Ranch HOAs typically require architectural review for any exte
 
 Homes in the 91910 and 91911 ZIP codes near the original Chula Vista townsite tend to have cast iron drain lines that are now 60 to 70 years old, and a bathroom remodel is often the first time anyone has looked at that plumbing since it was installed. We scope a camera inspection of the drain line before finalizing a bathroom remodel in these older homes so a corroded section doesn't turn into a mid-project surprise once new tile and fixtures are already in place.
 
-Whether you're updating a dated kitchen in a Rancho del Rey ranch home, navigating HOA approval for an Eastlake remodel, or rebuilding a section of your home after water or fire damage, Dry1 Out Restoration and Construction handles the renovation, remodeling, and general contracting work under one license, number 993442. Call (888) 379-1688 to talk through your project and get a written scope before any demo starts.
+Whether you're updating a dated kitchen in a Rancho del Rey ranch home, navigating HOA approval for an Eastlake remodel, or rebuilding a section of your home after water or fire damage, Dry 1 Out Restoration and Construction handles the renovation, remodeling, and general contracting work under one license, number 993442. Call (888) 379-1688 to talk through your project and get a written scope before any demo starts.

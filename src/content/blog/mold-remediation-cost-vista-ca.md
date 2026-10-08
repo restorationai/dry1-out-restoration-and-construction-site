@@ -40,7 +40,7 @@ Here's how typical ranges break down by scenario:
 | Whole-house or large-scale job, Level 3/4 containment | $8,000 to $15,000+ |
 | Mold inspection and testing only (no remediation) | $300 to $700 |
 
-These are typical industry ranges for San Diego County, not a quote. Every job gets a written scope from [Dry1 Out Restoration and Construction](/) before any work starts, so you know the number before you commit to it.
+These are typical industry ranges for San Diego County, not a quote. Every job gets a written scope from [Dry 1 Out Restoration and Construction](/) before any work starts, so you know the number before you commit to it.
 
 ## What Factors Actually Drive the Price?
 
@@ -91,8 +91,8 @@ Mold jobs rarely cost what a phone quote guesses, because the number depends on 
 
 ---
 
-**About Dry1 Out Restoration and Construction**
+**About Dry 1 Out Restoration and Construction**
 
-Dry1 Out Restoration and Construction is an IICRC Certified Firm serving Vista, CA and the surrounding San Diego and Bay Area markets, holding IICRC credentials in Water Restoration (WRT), Structural Drying (ASD), and Mold Remediation (AMRT), under California license #993442. This post was prepared with input from Jason Pacheco. The company's mold-related work covers [mold inspection and testing](/services/mold-inspection-testing/) and [mold remediation](/services/mold-remediation/), with 24/7 availability for water intrusion calls that often precede a mold job. Service details for the [Vista area](/service-areas/vista-ca/) are available directly.
+Dry 1 Out Restoration and Construction is an IICRC Certified Firm serving Vista, CA and the surrounding San Diego and Bay Area markets, holding IICRC credentials in Water Restoration (WRT), Structural Drying (ASD), and Mold Remediation (AMRT), under California license #993442. This post was prepared with input from Jason Pacheco. The company's mold-related work covers [mold inspection and testing](/services/mold-inspection-testing/) and [mold remediation](/services/mold-remediation/), with 24/7 availability for water intrusion calls that often precede a mold job. Service details for the [Vista area](/service-areas/vista-ca/) are available directly.
 
-Every job is different, and the ranges above are typical figures, not a quote. [Call Dry1 Out Restoration and Construction at (888) 379-1688](tel:+18883791688) for a written scope before any work starts.
+Every job is different, and the ranges above are typical figures, not a quote. [Call Dry 1 Out Restoration and Construction at (888) 379-1688](tel:+18883791688) for a written scope before any work starts.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Concord, CA | Dry1 Out Restoration and Construction"
+title: "Restoration Services in Concord, CA | Dry 1 Out Restoration and Construction"
 h1: "Restoration Services in Concord"
 meta_description: "Serving Concord, CA with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (888) 379-1688."
 primary_keyword: "restoration services concord"
@@ -19,7 +19,7 @@ state: "CA"
 primary: false
 rendered: true
 ---
-**Water, fire, or mold damage in Concord?** Call (888) 379-1688 and we answer 24/7. Dry1 Out Restoration and Construction handles water extraction, fire and smoke recovery, mold remediation, biohazard cleanup, and the rebuild work that follows, scoped for the ranch homes, stucco tract housing, and mixed-use buildings that make up Concord from Todos Santos Plaza to the Ygnacio Valley corridor.
+**Water, fire, or mold damage in Concord?** Call (888) 379-1688 and we answer 24/7. Dry 1 Out Restoration and Construction handles water extraction, fire and smoke recovery, mold remediation, biohazard cleanup, and the rebuild work that follows, scoped for the ranch homes, stucco tract housing, and mixed-use buildings that make up Concord from Todos Santos Plaza to the Ygnacio Valley corridor.
 
 ## Restoration emergencies common in Concord
 

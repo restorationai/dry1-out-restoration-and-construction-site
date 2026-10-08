@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in Santa Clara, CA | Dry1 Out Restoration and Construction"
+title: "Mold Remediation in Santa Clara, CA | Dry 1 Out Restoration and Construction"
 h1: "Mold Remediation in Santa Clara"
 meta_description: "24/7 mold remediation in Santa Clara, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "mold remediation santa clara"
@@ -38,4 +38,4 @@ Mold claims in Santa Clara often hinge on whether the source was sudden (a burst
 
 Units in Rivermark built in the early 2000s commonly share HVAC return chases between adjoining condos, which means a mold problem that starts in one unit's bathroom exhaust line can spread spore activity into a neighbor's hall closet long before anyone notices a smell. On these jobs we test the adjoining unit's return air even when the owner hasn't reported an issue, because skipping that step is the most common reason remediation in Rivermark has to be reopened months later.
 
-If you're smelling something musty near the Old Quad, finding soft drywall in a Rivermark unit, or just want a professional read on a damp spot along the El Camino Real corridor, call Dry1 Out Restoration and Construction at (888) 379-1688. We're set up to schedule inspections and remediation across Santa Clara, from 95050 to 95054, without guessing at what's behind the wall.
+If you're smelling something musty near the Old Quad, finding soft drywall in a Rivermark unit, or just want a professional read on a damp spot along the El Camino Real corridor, call Dry 1 Out Restoration and Construction at (888) 379-1688. We're set up to schedule inspections and remediation across Santa Clara, from 95050 to 95054, without guessing at what's behind the wall.

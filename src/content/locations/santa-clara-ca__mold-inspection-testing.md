@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Inspection and Testing in Santa Clara, CA | Dry1 Out Restoration and Construction"
+title: "Mold Inspection and Testing in Santa Clara, CA | Dry 1 Out Restoration and Construction"
 h1: "Mold Inspection and Testing in Santa Clara"
 meta_description: "24/7 mold inspection and testing in Santa Clara, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "mold inspection and testing santa clara"
@@ -38,4 +38,4 @@ Many Rivermark buildings and newer El Camino Real corridor developments are HOA-
 
 Homes within a few blocks of Mission Santa Clara de Asís and the surrounding Old Quad streets often still have their original cast iron or galvanized supply lines, and those pipes corrode from the inside out long before a visible leak appears outside the wall. We've learned to check under-sink cabinetry and crawlspace pipe runs in that area more closely during an inspection, even when a homeowner hasn't reported a specific complaint, because early pinhole leaks in those older lines are a frequent, quiet source of hidden moisture.
 
-If you're noticing a musty smell, unexplained allergy symptoms at home, or visible staining anywhere from a Rivermark condo near the Guadalupe River trail to an Old Quad property a few blocks from Santa Clara Central Park, a documented inspection gives you facts instead of a guess. Dry1 Out Restoration and Construction's AMRT-trained technicians serve Santa Clara addresses across the 95050, 95051, and 95054 ZIP codes with lab-backed testing and clear reporting. Call (888) 379-1688 to schedule a mold inspection and find out what's actually in the air before you decide what to do next.
+If you're noticing a musty smell, unexplained allergy symptoms at home, or visible staining anywhere from a Rivermark condo near the Guadalupe River trail to an Old Quad property a few blocks from Santa Clara Central Park, a documented inspection gives you facts instead of a guess. Dry 1 Out Restoration and Construction's AMRT-trained technicians serve Santa Clara addresses across the 95050, 95051, and 95054 ZIP codes with lab-backed testing and clear reporting. Call (888) 379-1688 to schedule a mold inspection and find out what's actually in the air before you decide what to do next.

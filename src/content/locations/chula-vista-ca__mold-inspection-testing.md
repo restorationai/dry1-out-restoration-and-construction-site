@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Inspection and Testing in Chula Vista, CA | Dry1 Out Restoration and Construction"
+title: "Mold Inspection and Testing in Chula Vista, CA | Dry 1 Out Restoration and Construction"
 h1: "Mold Inspection and Testing in Chula Vista"
 meta_description: "24/7 mold inspection and testing in Chula Vista, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "mold inspection and testing chula vista"
@@ -42,4 +42,4 @@ A lot of Eastlake and Otay Ranch properties sit inside HOA-governed communities,
 
 Homes within a few blocks of the Living Coast Discovery Center and the tidal basin tend to run a point or two higher on ambient relative humidity than properties further inland toward Rolling Hills Ranch, which is worth knowing if you're comparing air quality test results between two Chula Vista addresses. It's not a defect, just geography, and it's one more reason we always pull an outdoor control sample rather than relying on a generic baseline number.
 
-If you're noticing a musty smell in a 91910 bungalow near Third Avenue Village, staining on an Otay Ranch ceiling after last winter's rain, or you just want a baseline air quality test before listing a Rancho del Rey property, Dry1 Out's IICRC-trained team can get a mold inspection and testing visit scheduled and give you lab-backed answers instead of guesswork. Call (888) 379-1688 to set up an appointment anywhere in Chula Vista.
+If you're noticing a musty smell in a 91910 bungalow near Third Avenue Village, staining on an Otay Ranch ceiling after last winter's rain, or you just want a baseline air quality test before listing a Rancho del Rey property, Dry 1 Out's IICRC-trained team can get a mold inspection and testing visit scheduled and give you lab-backed answers instead of guesswork. Call (888) 379-1688 to set up an appointment anywhere in Chula Vista.

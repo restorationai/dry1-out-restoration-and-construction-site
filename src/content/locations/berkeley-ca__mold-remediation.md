@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in Berkeley, CA | Dry1 Out Restoration and Construction"
+title: "Mold Remediation in Berkeley, CA | Dry 1 Out Restoration and Construction"
 h1: "Mold Remediation in Berkeley"
 meta_description: "24/7 mold remediation in Berkeley, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "mold remediation berkeley"
@@ -38,4 +38,4 @@ Homes in the 94708 and 94705 zip codes, much of the Berkeley Hills and Claremont
 
 In the Berkeley Hills, cut-and-fill lots often have crawlspace vents oriented toward the uphill drainage path rather than away from it, so even a house with sound plumbing and a recent roof can run damp underfloor air for months after a wet winter. We check vent orientation and grading before assuming a leak is the only source, because treating the mold without addressing the airflow just invites it back within a season.
 
-If you're seeing discoloration near a window in a Claremont craftsman, smelling something musty in a Southside rental near campus, or finding soft spots in a crawlspace up in the hills, call Dry1 Out Restoration and Construction at (888) 379-1688. We're licensed under #993442 and available to talk through what you're seeing and schedule an inspection for your Berkeley property.
+If you're seeing discoloration near a window in a Claremont craftsman, smelling something musty in a Southside rental near campus, or finding soft spots in a crawlspace up in the hills, call Dry 1 Out Restoration and Construction at (888) 379-1688. We're licensed under #993442 and available to talk through what you're seeing and schedule an inspection for your Berkeley property.

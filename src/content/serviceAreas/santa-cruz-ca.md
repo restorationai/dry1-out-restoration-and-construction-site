@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Santa Cruz, CA | Dry1 Out Restoration and Construction"
+title: "Restoration Services in Santa Cruz, CA | Dry 1 Out Restoration and Construction"
 h1: "Restoration Services in Santa Cruz"
 meta_description: "Serving Santa Cruz, CA with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (888) 379-1688."
 primary_keyword: "restoration services santa cruz"
@@ -19,7 +19,7 @@ state: "CA"
 primary: false
 rendered: true
 ---
-Dry1 Out Restoration and Construction handles water damage, fire and smoke recovery, mold remediation, biohazard cleanup, and the reconstruction that follows, for homeowners and property managers across Santa Cruz. From Westside bungalows near Natural Bridges State Beach to Eastside rentals off Seabright, the work is the same: get moisture or contamination out fast, document the loss for insurance, and rebuild what was damaged, without guessing at what the coastal climate does to older building materials.
+Dry 1 Out Restoration and Construction handles water damage, fire and smoke recovery, mold remediation, biohazard cleanup, and the reconstruction that follows, for homeowners and property managers across Santa Cruz. From Westside bungalows near Natural Bridges State Beach to Eastside rentals off Seabright, the work is the same: get moisture or contamination out fast, document the loss for insurance, and rebuild what was damaged, without guessing at what the coastal climate does to older building materials.
 
 ## Restoration emergencies common in Santa Cruz
 
@@ -39,7 +39,7 @@ Santa Cruz sits where marine fog, winter atmospheric river storms, and an aging 
 
 ## Coverage and how fast we can get there
 
-Dry1 Out is headquartered in Vista, and we coordinate scheduling and crew dispatch to Santa Cruz properties across ZIP codes 95060, 95062, 95064, and 95065. Our phones are answered 24/7, so a call placed in the middle of the night gets a response and a plan, not a voicemail. Once a crew is on site, local routes along Highway 1 and Highway 17 keep access open between Downtown Santa Cruz, the Eastside, and properties near the Santa Cruz Beach Boardwalk, which matters during the winter storm weeks when some routes see slower traffic from runoff and debris.
+Dry 1 Out is headquartered in Vista, and we coordinate scheduling and crew dispatch to Santa Cruz properties across ZIP codes 95060, 95062, 95064, and 95065. Our phones are answered 24/7, so a call placed in the middle of the night gets a response and a plan, not a voicemail. Once a crew is on site, local routes along Highway 1 and Highway 17 keep access open between Downtown Santa Cruz, the Eastside, and properties near the Santa Cruz Beach Boardwalk, which matters during the winter storm weeks when some routes see slower traffic from runoff and debris.
 
 ## Building stock, site conditions, and permits in Santa Cruz
 

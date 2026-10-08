@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Blood Cleanup in San Francisco, CA | Dry1 Out Restoration and Construction"
+title: "24/7 Emergency Blood Cleanup in San Francisco, CA | Dry 1 Out Restoration and Construction"
 h1: "24/7 Emergency Blood Cleanup in San Francisco"
 meta_description: "24/7 emergency blood cleanup in San Francisco, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "blood cleanup san francisco"
@@ -39,4 +39,4 @@ A large share of San Francisco's housing is multi-unit, which means HOA boards, 
 
 In pre-1950 San Francisco buildings, bathroom and kitchen subfloors were frequently built with tongue-and-groove fir over joists rather than plywood underlayment. That seam pattern lets fluids wick sideways along the grain instead of pooling, which means the visible affected area on the surface is often smaller than what's actually impacted underneath. We check subfloor moisture and staining a few feet beyond the obvious boundary before calling a floor section clear.
 
-If you need blood cleanup in San Francisco, from Golden Gate Park to the Ferry Building and every neighborhood between, call Dry1 Out Restoration and Construction at (888) 379-1688. We're licensed (#993442), IICRC certified, and available around the clock to handle the work with the discretion it deserves.
+If you need blood cleanup in San Francisco, from Golden Gate Park to the Ferry Building and every neighborhood between, call Dry 1 Out Restoration and Construction at (888) 379-1688. We're licensed (#993442), IICRC certified, and available around the clock to handle the work with the discretion it deserves.

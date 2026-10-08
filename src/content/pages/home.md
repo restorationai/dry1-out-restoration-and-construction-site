@@ -1,8 +1,8 @@
 ---
 archetype: "home"
-title: "Water Damage Restoration in Vista, CA | Dry1 Out Restoration and Construction"
+title: "Water Damage Restoration in Vista, CA | Dry 1 Out Restoration and Construction"
 h1: "24/7 Water Damage Restoration in Vista, CA"
-meta_description: "Dry1 Out Restoration and Construction provides water damage restoration in Vista, CA, answering 24/7. IICRC certified. Call (888) 379-1688 now."
+meta_description: "Dry 1 Out Restoration and Construction provides water damage restoration in Vista, CA, answering 24/7. IICRC certified. Call (888) 379-1688 now."
 primary_keyword: "water damage restoration vista"
 secondary_keywords: ["best restoration company in vista", "restoration company vista", "water damage restoration near me"]
 search_intent: "local_commercial"
@@ -15,7 +15,7 @@ breadcrumb: [{"name": "Home", "url": "/"}]
 faq: [{"question": "How fast can you get someone out to a water damage call in Vista?", "answer": "We operate 24/7, so calls come in day or night and we move on water emergencies as a priority. The sooner extraction starts, the less chance standing water has to soak into subfloor, drywall, or cabinetry. Call as soon as you notice the damage rather than waiting to see if it dries on its own."}, {"question": "Do you work directly with my insurance company?", "answer": "Yes. We document the loss with photos and moisture readings, write up the scope of work, and bill most major carriers directly so you're not covering the full cost upfront. You'll still want to open a claim with your adjuster, but we handle the technical documentation on our end."}, {"question": "What should I do while I'm waiting for your crew to arrive?", "answer": "If it's safe, shut off the water source and move furniture or valuables away from the affected area. Avoid walking through standing water near electrical outlets or panels, and don't run a shop vac on water near an active electrical hazard. For fire or smoke damage, don't attempt to clean soot yourself, as the wrong method can grind residue deeper into fabric and surfaces."}, {"question": "What certifications does your team actually hold?", "answer": "We're an IICRC Certified Firm, and our technicians carry individual IICRC credentials in water restoration (WRT), structural drying (ASD), fire and smoke restoration (FSRT), and mold remediation (AMRT). Those certifications correspond to the specific type of damage we're called out for, rather than one generalist credential covering everything."}, {"question": "Do you charge for an estimate or inspection?", "answer": "Call us at (888) 379-1688 and we can walk you through pricing specifics for your situation before anyone steps onsite. Costs vary depending on the extent of the damage and whether insurance is covering the claim."}, {"question": "Are you available after hours or on weekends?", "answer": "Yes, we're staffed 24/7, including weekends and holidays. Water and fire damage don't wait for business hours, and neither do we."}]
 rendered: true
 ---
-**Water pooling under the baseboards or smoke damage from a kitchen fire?** Dry1 Out Restoration and Construction handles water damage restoration, structural drying, fire and smoke damage cleanup, and mold remediation for homes and businesses across Vista. We answer 24/7, document everything for your insurance carrier, and get equipment running the same day we're called.
+**Water pooling under the baseboards or smoke damage from a kitchen fire?** Dry 1 Out Restoration and Construction handles water damage restoration, structural drying, fire and smoke damage cleanup, and mold remediation for homes and businesses across Vista. We answer 24/7, document everything for your insurance carrier, and get equipment running the same day we're called.
 
 ## Services we handle
 
@@ -29,4 +29,4 @@ Our technicians work under IICRC certifications specific to water (WRT), structu
 
 We're based in Vista and run most of our calls through North San Diego County, including San Marcos, Oceanside, Carlsbad, and Escondido. Vista's mix of older slab-on-grade homes and newer multi-story builds means water finds different paths depending on the property, under a slab in one neighborhood, down through a second-story bathroom in another, and we adjust the drying plan to match the construction rather than running a one-size approach. If you're just outside these cities, call anyway; we can usually tell you quickly whether your address falls inside our response area.
 
-If you're reading this with a wet carpet underfoot or a smoke smell that won't clear, you don't need to figure out the next step alone. Call Dry1 Out Restoration and Construction at (888) 379-1688 and we'll walk you through what happens first, insurance and all.
+If you're reading this with a wet carpet underfoot or a smoke smell that won't clear, you don't need to figure out the next step alone. Call Dry 1 Out Restoration and Construction at (888) 379-1688 and we'll walk you through what happens first, insurance and all.

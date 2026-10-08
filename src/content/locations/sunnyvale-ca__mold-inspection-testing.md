@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Inspection and Testing in Sunnyvale, CA | Dry1 Out Restoration and Construction"
+title: "Mold Inspection and Testing in Sunnyvale, CA | Dry 1 Out Restoration and Construction"
 h1: "Mold Inspection and Testing in Sunnyvale"
 meta_description: "24/7 mold inspection and testing in Sunnyvale, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "mold inspection and testing sunnyvale"

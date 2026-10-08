@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Inspection and Testing in Berkeley, CA | Dry1 Out Restoration and Construction"
+title: "Mold Inspection and Testing in Berkeley, CA | Dry 1 Out Restoration and Construction"
 h1: "Mold Inspection and Testing in Berkeley"
 meta_description: "24/7 mold inspection and testing in Berkeley, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "mold inspection and testing berkeley"
@@ -38,4 +38,4 @@ Many Berkeley homes, particularly in Elmwood and Claremont, still have original 
 
 Homes within a few blocks of the Berkeley Marina and the flats bordering the bay tend to run several points higher in ambient humidity than homes up in the hills, even on the same day. When we test air quality on marina-adjacent properties, we factor that baseline difference into the reading rather than comparing it against a hill-home control sample, since treating the two as equivalent would skew the results toward a false positive.
 
-If you've noticed a musty smell, visible spotting, or unexplained allergy symptoms in a Berkeley home or rental unit, a documented inspection is the first real step, not a guess from a photo. Dry1 Out Restoration and Construction is IICRC AMRT certified for mold assessment, and we schedule inspections throughout Berkeley, from the 94702 flats to the hillside streets above campus, with lab-backed results you can hand to an insurer, a landlord, or your own peace of mind. Call (888) 379-1688 to set up a mold inspection and testing appointment.
+If you've noticed a musty smell, visible spotting, or unexplained allergy symptoms in a Berkeley home or rental unit, a documented inspection is the first real step, not a guess from a photo. Dry 1 Out Restoration and Construction is IICRC AMRT certified for mold assessment, and we schedule inspections throughout Berkeley, from the 94702 flats to the hillside streets above campus, with lab-backed results you can hand to an insurer, a landlord, or your own peace of mind. Call (888) 379-1688 to set up a mold inspection and testing appointment.

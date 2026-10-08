@@ -66,10 +66,10 @@ If the stain is small, dry, and the source is confirmed stopped, prime and paint
 
 That's where [water damage restoration](/services/water-damage-restoration/) and [general contracting](/services/general-contracting/) work together: one team confirms the structure is actually dry with documented moisture readings (useful if you end up filing an insurance claim), and the same company can then cut out, frame, and finish the repair without you coordinating two separate contractors. If you're dealing with a recurring leak and want a second opinion on whether insurance should be involved, our post on [what homeowners insurance actually covers for water damage](/blog/does-homeowners-insurance-cover-water-damage/) is a good next read.
 
-We've written before about the [first 24 hours after water damage](/blog/what-to-do-first-24-hours-water-damage/) if this ceiling stain is part of a bigger, fresher loss. Either way, don't paint over a question mark. [Call Dry1 Out Restoration and Construction at (888) 379-1688](tel:+18883791688) for a moisture assessment if you're not sure whether that ceiling is actually dry.
+We've written before about the [first 24 hours after water damage](/blog/what-to-do-first-24-hours-water-damage/) if this ceiling stain is part of a bigger, fresher loss. Either way, don't paint over a question mark. [Call Dry 1 Out Restoration and Construction at (888) 379-1688](tel:+18883791688) for a moisture assessment if you're not sure whether that ceiling is actually dry.
 
 ---
 
-**About Dry1 Out Restoration and Construction**
+**About Dry 1 Out Restoration and Construction**
 
-Dry1 Out Restoration and Construction is an IICRC Certified Firm serving Vista, CA and surrounding North County and Bay Area communities, licensed under California contractor license #993442. The company's technicians hold IICRC credentials in water restoration (WRT), structural drying (ASD), mold remediation (AMRT), and fire and smoke restoration (FSRT), and the crew handles both the mitigation side of a water loss and the drywall and reconstruction repair that follows, under one roof.
+Dry 1 Out Restoration and Construction is an IICRC Certified Firm serving Vista, CA and surrounding North County and Bay Area communities, licensed under California contractor license #993442. The company's technicians hold IICRC credentials in water restoration (WRT), structural drying (ASD), mold remediation (AMRT), and fire and smoke restoration (FSRT), and the crew handles both the mitigation side of a water loss and the drywall and reconstruction repair that follows, under one roof.

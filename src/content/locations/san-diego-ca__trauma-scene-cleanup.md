@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Trauma Scene Cleanup in San Diego, CA | Dry1 Out Restoration and Construction"
+title: "24/7 Emergency Trauma Scene Cleanup in San Diego, CA | Dry 1 Out Restoration and Construction"
 h1: "24/7 Emergency Trauma Scene Cleanup in San Diego"
 meta_description: "24/7 emergency trauma scene cleanup in San Diego, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "trauma scene cleanup san diego"
@@ -21,7 +21,7 @@ service_display: "Trauma Scene Cleanup"
 content_guardrails: "sensitive"
 rendered: true
 ---
-**Trauma scene cleanup in San Diego is not something any family or property manager should have to research twice.** Dry1 Out Restoration and Construction answers 24/7, and our technicians arrive with the discretion, documentation, and certified decontamination process the situation calls for. Whether the property is a Craftsman duplex near North Park or a high-rise unit overlooking Pacific Beach, our job is to restore the space safely and quietly, with as little disruption to neighbors and family as possible.
+**Trauma scene cleanup in San Diego is not something any family or property manager should have to research twice.** Dry 1 Out Restoration and Construction answers 24/7, and our technicians arrive with the discretion, documentation, and certified decontamination process the situation calls for. Whether the property is a Craftsman duplex near North Park or a high-rise unit overlooking Pacific Beach, our job is to restore the space safely and quietly, with as little disruption to neighbors and family as possible.
 
 ## Why San Diego Properties Need a Specialized Approach
 
@@ -43,4 +43,4 @@ Trauma scene cleanup is frequently covered under homeowners or renters insurance
 
 In North Park's older Craftsman homes, original hardwood subfloors sit on wood joists with gaps that can allow fluid to migrate under the finished floor without any visible sign above it. We check subfloor moisture and contamination with the same attention we'd give a water loss, because a trauma scene in one of these homes isn't finished when the surface looks clean. In newer builds across Mira Mesa and Rancho Bernardo, the slab foundation means that concern mostly goes away, and the job scope is usually more contained.
 
-If your San Diego property needs trauma scene cleanup, call Dry1 Out Restoration and Construction at (888) 379-1688. We answer 24/7, work directly with insurance, and handle every job with the discretion it deserves, from Hillcrest to Rancho Bernardo and everywhere in between.
+If your San Diego property needs trauma scene cleanup, call Dry 1 Out Restoration and Construction at (888) 379-1688. We answer 24/7, work directly with insurance, and handle every job with the discretion it deserves, from Hillcrest to Rancho Bernardo and everywhere in between.

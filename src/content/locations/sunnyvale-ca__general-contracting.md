@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Renovations, Remodels and General Contracting in Sunnyvale, CA | Dry1 Out Restoration and Construction"
+title: "Renovations, Remodels and General Contracting in Sunnyvale, CA | Dry 1 Out Restoration and Construction"
 h1: "Renovations, Remodels and General Contracting in Sunnyvale"
 meta_description: "24/7 renovations, remodels and general contracting in Sunnyvale, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "renovations, remodels and general contracting sunnyvale"
@@ -38,4 +38,4 @@ Single-family remodels in neighborhoods like Lakewood Village sometimes fall und
 
 On Eichler-style homes near Cherry Chase and Las Palmas Park, the original radiant heat tubing often runs in patterns that don't match current as-built drawings, if drawings exist at all. Before we cut a slab for a new island sink line or a relocated vanity drain, we run a thermal imaging pass to map live heating loops, since a single punctured line can mean repouring a section of foundation to fix a leak that was entirely preventable.
 
-If you're planning a kitchen or bathroom remodel, a whole-home renovation, or a rebuild following water or fire damage anywhere from Heritage District to the Lakewood Village side of town, call Dry1 Out Restoration and Construction at (888) 379-1688. We'll walk the property, talk through what Sunnyvale's slab-and-beam housing stock means for your scope, and put together a general contracting plan that accounts for it from day one.
+If you're planning a kitchen or bathroom remodel, a whole-home renovation, or a rebuild following water or fire damage anywhere from Heritage District to the Lakewood Village side of town, call Dry 1 Out Restoration and Construction at (888) 379-1688. We'll walk the property, talk through what Sunnyvale's slab-and-beam housing stock means for your scope, and put together a general contracting plan that accounts for it from day one.

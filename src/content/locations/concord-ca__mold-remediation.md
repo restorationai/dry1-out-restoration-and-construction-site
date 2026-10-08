@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in Concord, CA | Dry1 Out Restoration and Construction"
+title: "Mold Remediation in Concord, CA | Dry 1 Out Restoration and Construction"
 h1: "Mold Remediation in Concord"
 meta_description: "24/7 mold remediation in Concord, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "mold remediation concord"
@@ -38,4 +38,4 @@ Most mold claims in Concord trace back to a covered water event, a burst supply 
 
 Homes built near Buchanan Field Airport and through the Ygnacio Valley corridor often have attic ventilation that was adequate when they were built but hasn't kept pace with added insulation or solar retrofits. Reduced attic airflow traps condensation on the underside of roof sheathing during Concord's cooler, damp mornings, which shows up as mold on rafters that homeowners mistake for a roof leak. Checking attic ventilation is one of the first things we do on any Concord mold call, even when the visible problem is downstairs.
 
-If you're dealing with a musty smell, visible growth, or a water stain that's been there longer than you'd like to admit, call Dry1 Out Restoration and Construction at (888) 379-1688. We're licensed under #993442 and available around the clock to schedule an assessment anywhere from Downtown Concord to the outskirts near Sunvalley Shopping Center.
+If you're dealing with a musty smell, visible growth, or a water stain that's been there longer than you'd like to admit, call Dry 1 Out Restoration and Construction at (888) 379-1688. We're licensed under #993442 and available around the clock to schedule an assessment anywhere from Downtown Concord to the outskirts near Sunvalley Shopping Center.

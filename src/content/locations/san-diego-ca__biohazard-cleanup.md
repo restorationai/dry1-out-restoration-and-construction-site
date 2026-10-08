@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Biohazard Cleanup in San Diego, CA | Dry1 Out Restoration and Construction"
+title: "24/7 Emergency Biohazard Cleanup in San Diego, CA | Dry 1 Out Restoration and Construction"
 h1: "24/7 Emergency Biohazard Cleanup in San Diego"
 meta_description: "24/7 emergency biohazard cleanup in San Diego, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "biohazard cleanup san diego"
@@ -45,4 +45,4 @@ Most biohazard situations touch either a homeowner's insurance policy or, in con
 
 One detail that catches people off guard: in coastal zips like 92109 and 92037, marine layer humidity can linger through the morning even on a clear day, which means surfaces that look dry to the eye may still be holding moisture underneath. We factor that into disinfection dwell times and post-cleaning verification rather than relying on a visual check alone.
 
-If you're facing a biohazard situation anywhere from Pacific Beach to Rancho Bernardo, you don't have to manage it alone or figure out the right disposal and disinfection steps yourself. Dry1 Out Restoration and Construction is licensed (CA #993442) and available 24/7 across San Diego to handle the cleanup discreetly, document it properly for insurance or HOA purposes, and return the space to a safe, livable condition.
+If you're facing a biohazard situation anywhere from Pacific Beach to Rancho Bernardo, you don't have to manage it alone or figure out the right disposal and disinfection steps yourself. Dry 1 Out Restoration and Construction is licensed (CA #993442) and available 24/7 across San Diego to handle the cleanup discreetly, document it properly for insurance or HOA purposes, and return the space to a safe, livable condition.

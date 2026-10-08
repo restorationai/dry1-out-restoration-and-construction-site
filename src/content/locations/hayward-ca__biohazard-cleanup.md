@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Biohazard Cleanup in Hayward, CA | Dry1 Out Restoration and Construction"
+title: "24/7 Emergency Biohazard Cleanup in Hayward, CA | Dry 1 Out Restoration and Construction"
 h1: "24/7 Emergency Biohazard Cleanup in Hayward"
 meta_description: "24/7 emergency biohazard cleanup in Hayward, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "biohazard cleanup hayward"
@@ -39,4 +39,4 @@ Most homeowners' and renters' policies cover biohazard cleanup under specific ci
 
 Hayward's flatland neighborhoods, the stretch running from Mt. Eden toward the Hayward Regional Shoreline, sit on reclaimed baylands with a naturally higher water table. In a biohazard cleanup involving a ground-floor unit or a home with a crawlspace in that zone, we check subfloor moisture before closing out the job, since damp wood can hold odor and slow the effectiveness of disinfection in ways a dry subfloor wouldn't. It's a detail that doesn't come up in the hillside homes near Hayward Highlands, but it changes the scope of work in the flats.
 
-If you're facing a biohazard situation in Hayward, from a residence near Chabot College to an apartment off Tennyson Road, you don't have to manage it alone or figure out the regulations yourself. Call Dry1 Out Restoration and Construction, licensed under #993442, at (888) 379-1688; we'll talk through what you're dealing with, explain the process in plain terms, and get a certified crew moving.
+If you're facing a biohazard situation in Hayward, from a residence near Chabot College to an apartment off Tennyson Road, you don't have to manage it alone or figure out the regulations yourself. Call Dry 1 Out Restoration and Construction, licensed under #993442, at (888) 379-1688; we'll talk through what you're dealing with, explain the process in plain terms, and get a certified crew moving.

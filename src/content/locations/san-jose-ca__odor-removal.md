@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Odor Removal and Deodorization in San Jose, CA | Dry1 Out Restoration and Construction"
+title: "Odor Removal and Deodorization in San Jose, CA | Dry 1 Out Restoration and Construction"
 h1: "Odor Removal and Deodorization in San Jose"
 meta_description: "24/7 odor removal and deodorization in San Jose, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "odor removal and deodorization san jose"
@@ -42,4 +42,4 @@ Most odor removal claims we see come attached to a fire, sewage, or water loss t
 
 Homes within a few miles of open space preserve areas, particularly the foothill-adjacent streets in Almaden Valley and parts of Evergreen, pull in wildfire smoke through HVAC intake vents during fire season even when there's no visible soot inside the home. In those cases the odor is strongest near supply registers, not near windows, which tells us the duct system needs treatment, not just the living space, and we check return air plenums before closing out a job in that part of the city.
 
-If a smell in your San Jose home or rental keeps coming back no matter how many times you've cleaned, scrubbed, or sprayed, it's likely coming from a material the surface treatment never reached. Dry1 Out Restoration and Construction is available 24/7 to schedule an odor assessment, and we work neighborhoods from Willow Glen to Evergreen with equipment matched to the actual source, not a generic spray-and-hope approach. Call (888) 379-1688 to get a technician out and get your home smelling like your home again.
+If a smell in your San Jose home or rental keeps coming back no matter how many times you've cleaned, scrubbed, or sprayed, it's likely coming from a material the surface treatment never reached. Dry 1 Out Restoration and Construction is available 24/7 to schedule an odor assessment, and we work neighborhoods from Willow Glen to Evergreen with equipment matched to the actual source, not a generic spray-and-hope approach. Call (888) 379-1688 to get a technician out and get your home smelling like your home again.

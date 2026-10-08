@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in San Marcos, CA | Dry1 Out Restoration and Construction"
+title: "Restoration Services in San Marcos, CA | Dry 1 Out Restoration and Construction"
 h1: "Restoration Services in San Marcos"
 meta_description: "Serving San Marcos, CA with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (888) 379-1688."
 primary_keyword: "restoration services san marcos"
@@ -19,7 +19,7 @@ state: "CA"
 primary: false
 rendered: true
 ---
-Dry1 Out Restoration and Construction handles water damage, fire and smoke damage, mold remediation, biohazard cleanup, and the reconstruction work that follows once a San Marcos property is dried out or cleared. We're based just south in Vista, so a call to San Marcos, whether it's a slab leak in Richland or smoke damage near Cal State San Marcos, reaches a crew without a long haul across the county.
+Dry 1 Out Restoration and Construction handles water damage, fire and smoke damage, mold remediation, biohazard cleanup, and the reconstruction work that follows once a San Marcos property is dried out or cleared. We're based just south in Vista, so a call to San Marcos, whether it's a slab leak in Richland or smoke damage near Cal State San Marcos, reaches a crew without a long haul across the county.
 
 ## Restoration emergencies common in San Marcos
 
@@ -41,4 +41,4 @@ Much of San Marcos was built out from the 1970s through the 2000s, with wood-fra
 
 Soil across the inland valley runs toward clay and decomposed granite, which expands and contracts with moisture and can shift slab foundations or crack retaining walls over time, something a restoration scope has to account for when drying out a structure built on it. Structural repair or rebuild work tied to a loss goes through the City of San Marcos Building Division, and hillside parcels near Double Peak Park and similar terrain often carry additional grading or fire-zone considerations that a reconstruction plan needs to factor in from the start.
 
-If water, fire, smoke, mold, or a biohazard situation has hit a San Marcos property, call Dry1 Out Restoration and Construction at (888) 379-1688. We're available 24/7, document everything for your insurance carrier, and can walk you through what the next steps actually look like before a crew ever sets foot on site.
+If water, fire, smoke, mold, or a biohazard situation has hit a San Marcos property, call Dry 1 Out Restoration and Construction at (888) 379-1688. We're available 24/7, document everything for your insurance carrier, and can walk you through what the next steps actually look like before a crew ever sets foot on site.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in El Cajon, CA | Dry1 Out Restoration and Construction"
+title: "Restoration Services in El Cajon, CA | Dry 1 Out Restoration and Construction"
 h1: "Restoration Services in El Cajon"
 meta_description: "Serving El Cajon, CA with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (888) 379-1688."
 primary_keyword: "restoration services el cajon"
@@ -19,7 +19,7 @@ state: "CA"
 primary: false
 rendered: true
 ---
-When a pipe fails under a Fletcher Hills kitchen or smoke damage spreads through a unit near Parkway Plaza, El Cajon property owners need a team that moves fast and documents the loss correctly for insurance. Dry1 Out Restoration and Construction handles water damage, fire and smoke damage, mold remediation, biohazard cleanup, and the reconstruction that follows, from initial extraction through rebuilding walls and flooring. We answer 24/7 and work directly with East County homeowners, landlords, and property managers across the 92019, 92020, and 92021 ZIP codes.
+When a pipe fails under a Fletcher Hills kitchen or smoke damage spreads through a unit near Parkway Plaza, El Cajon property owners need a team that moves fast and documents the loss correctly for insurance. Dry 1 Out Restoration and Construction handles water damage, fire and smoke damage, mold remediation, biohazard cleanup, and the reconstruction that follows, from initial extraction through rebuilding walls and flooring. We answer 24/7 and work directly with East County homeowners, landlords, and property managers across the 92019, 92020, and 92021 ZIP codes.
 
 ## Restoration emergencies common in El Cajon
 
@@ -45,4 +45,4 @@ Much of El Cajon's housing stock dates to the postwar decades through the 1980s,
 
 Soils across the valley lean toward clay in many pockets, which expands and contracts with seasonal moisture and can stress foundations and slab joints over time. Structural repair or rebuild work typically requires a permit through the City of El Cajon's building division, and the regional seismic design requirements under the California Building Code apply to any work that touches load-bearing framing.
 
-If water, fire, smoke, mold, or biohazard conditions have hit your El Cajon property, don't wait for the damage to spread further. Call Dry1 Out Restoration and Construction at (888) 379-1688, we're available 24/7 and ready to start documenting and stabilizing the loss as soon as we arrive.
+If water, fire, smoke, mold, or biohazard conditions have hit your El Cajon property, don't wait for the damage to spread further. Call Dry 1 Out Restoration and Construction at (888) 379-1688, we're available 24/7 and ready to start documenting and stabilizing the loss as soon as we arrive.

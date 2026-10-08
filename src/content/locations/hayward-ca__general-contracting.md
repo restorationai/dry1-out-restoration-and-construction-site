@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Renovations, Remodels and General Contracting in Hayward, CA | Dry1 Out Restoration and Construction"
+title: "Renovations, Remodels and General Contracting in Hayward, CA | Dry 1 Out Restoration and Construction"
 h1: "Renovations, Remodels and General Contracting in Hayward"
 meta_description: "24/7 renovations, remodels and general contracting in Hayward, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "renovations, remodels and general contracting hayward"
@@ -20,7 +20,7 @@ state: "CA"
 service_display: "Renovations, Remodels and General Contracting"
 rendered: true
 ---
-Renovating a home in Hayward means working around a housing stock that spans 1940s bungalows near Downtown Hayward to 1970s split-levels climbing into the Hayward Highlands, and that range changes how a kitchen remodel or bathroom gut job actually goes. Dry1 Out Restoration and Construction handles renovations, remodels and general contracting for Hayward homeowners who are either upgrading a tired space or rebuilding after water, fire, or storm damage, and we scope the job around what Hayward construction actually looks like behind the walls.
+Renovating a home in Hayward means working around a housing stock that spans 1940s bungalows near Downtown Hayward to 1970s split-levels climbing into the Hayward Highlands, and that range changes how a kitchen remodel or bathroom gut job actually goes. Dry 1 Out Restoration and Construction handles renovations, remodels and general contracting for Hayward homeowners who are either upgrading a tired space or rebuilding after water, fire, or storm damage, and we scope the job around what Hayward construction actually looks like behind the walls.
 
 ## Why Hayward Homes Need a Different Remodeling Approach
 
@@ -38,4 +38,4 @@ When a renovation follows a covered loss, fire, water, or storm, we document pre
 
 Homes within a half mile or so of the Hayward Regional Shoreline sit on reclaimed baylands with higher groundwater and more clay-heavy soil than homes up near Chabot College. That soil behavior affects foundation movement over time, so when we're remodeling a kitchen or bathroom in a shoreline-adjacent home, we check slab and subfloor condition more carefully before committing to tile or cabinetry layouts, since minor settling there is more common than it is uphill. It's a small step, but it prevents callbacks on finish work that would otherwise look fine on install day.
 
-If you're planning a kitchen remodel, bathroom renovation, or a full rebuild after damage anywhere from the Highlands down to the shoreline, Dry1 Out Restoration and Construction can scope the project, handle permitting, and manage the trades from demo to final walkthrough. Call (888) 379-1688 to set up a walkthrough and get a written scope before any demo starts.
+If you're planning a kitchen remodel, bathroom renovation, or a full rebuild after damage anywhere from the Highlands down to the shoreline, Dry 1 Out Restoration and Construction can scope the project, handle permitting, and manage the trades from demo to final walkthrough. Call (888) 379-1688 to set up a walkthrough and get a written scope before any demo starts.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Crime Scene Cleanup in San Francisco, CA | Dry1 Out Restoration and Construction"
+title: "24/7 Emergency Crime Scene Cleanup in San Francisco, CA | Dry 1 Out Restoration and Construction"
 h1: "24/7 Emergency Crime Scene Cleanup in San Francisco"
 meta_description: "24/7 emergency crime scene cleanup in San Francisco, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "crime scene cleanup san francisco"
@@ -42,4 +42,4 @@ Many San Francisco residences involved in these situations are rentals, and the 
 
 In pre-1950 buildings common in the Richmond and Sunset Districts, plaster walls and original subflooring absorb fluids differently than modern materials, which means a cleanup crew needs to check beneath surface-level finishes rather than treating only what's visible. Fog-belt humidity in those same neighborhoods also slows natural drying after any wet cleaning step, so we factor that into how long a room needs to sit before it's safe to close back up or repaint.
 
-If you're dealing with the aftermath of a violent incident or unattended death at a San Francisco property, you don't have to manage the cleanup yourself. Dry1 Out Restoration and Construction is available 24/7 to respond, handle the biohazard cleanup discreetly, and coordinate with building management, landlords, or insurance so you can focus on the people affected, not the logistics. Call (888) 379-1688 when you're ready.
+If you're dealing with the aftermath of a violent incident or unattended death at a San Francisco property, you don't have to manage the cleanup yourself. Dry 1 Out Restoration and Construction is available 24/7 to respond, handle the biohazard cleanup discreetly, and coordinate with building management, landlords, or insurance so you can focus on the people affected, not the logistics. Call (888) 379-1688 when you're ready.

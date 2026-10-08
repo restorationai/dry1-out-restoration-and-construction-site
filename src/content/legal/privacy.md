@@ -1,9 +1,9 @@
 ---
 archetype: "legal"
-title: "Privacy Policy | Dry1 Out Restoration and Construction"
+title: "Privacy Policy | Dry 1 Out Restoration and Construction"
 h1: "Privacy Policy"
 meta_description: "Privacy Policy | {brand.display_name}."
-primary_keyword: "dry1 out restoration and construction privacy"
+primary_keyword: "dry 1 out restoration and construction privacy"
 secondary_keywords: []
 search_intent: "navigational_legal"
 priority: 1.0
@@ -18,7 +18,7 @@ rendered: true
 ---
 ## Information We Collect
 
-When you reach out to Dry1 Out Restoration and Construction through our website, we collect the information you provide directly, such as your name, phone number, email address, property address, and a description of the damage or service you're asking about. If you call or submit a contact form after a loss, we may also collect basic details relevant to scheduling an estimate or documenting the claim.
+When you reach out to Dry 1 Out Restoration and Construction through our website, we collect the information you provide directly, such as your name, phone number, email address, property address, and a description of the damage or service you're asking about. If you call or submit a contact form after a loss, we may also collect basic details relevant to scheduling an estimate or documenting the claim.
 
 We also use standard analytics tools to understand how visitors use our site. This includes general information like browser type, device, pages visited, and approximate location based on IP address. We do not collect sensitive personal data through analytics, and we don't use tracking for advertising resale purposes.
 
@@ -36,7 +36,7 @@ We retain contact form submissions and job-related records for as long as reason
 
 ## Your Rights
 
-If you are a California resident, the California Consumer Privacy Act (CCPA) gives you the right to request access to, or deletion of, personal information we hold about you, and to ask what categories of information we've collected. We do not sell personal information, so there is no opt-out needed for that practice. Because Dry1 Out Restoration and Construction operates within the United States and does not knowingly collect data from visitors in the European Union, GDPR generally does not apply to our operations, but we're glad to honor reasonable privacy requests from any visitor.
+If you are a California resident, the California Consumer Privacy Act (CCPA) gives you the right to request access to, or deletion of, personal information we hold about you, and to ask what categories of information we've collected. We do not sell personal information, so there is no opt-out needed for that practice. Because Dry 1 Out Restoration and Construction operates within the United States and does not knowingly collect data from visitors in the European Union, GDPR generally does not apply to our operations, but we're glad to honor reasonable privacy requests from any visitor.
 
 To make a request regarding your information, contact us using the details below.
 

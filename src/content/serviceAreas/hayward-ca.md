@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Hayward, CA | Dry1 Out Restoration and Construction"
+title: "Restoration Services in Hayward, CA | Dry 1 Out Restoration and Construction"
 h1: "Restoration Services in Hayward"
 meta_description: "Serving Hayward, CA with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (888) 379-1688."
 primary_keyword: "restoration services hayward"
@@ -19,7 +19,7 @@ state: "CA"
 primary: false
 rendered: true
 ---
-Dry1 Out Restoration and Construction handles water damage, fire and smoke damage, mold remediation, and biohazard cleanup for homes and businesses across Hayward, from the Highlands down to the shoreline. Our crews document the loss for insurance, dry structures to the IICRC S500 standard, and rebuild what the water or fire took, so property owners aren't juggling separate contractors for cleanup and repair.
+Dry 1 Out Restoration and Construction handles water damage, fire and smoke damage, mold remediation, and biohazard cleanup for homes and businesses across Hayward, from the Highlands down to the shoreline. Our crews document the loss for insurance, dry structures to the IICRC S500 standard, and rebuild what the water or fire took, so property owners aren't juggling separate contractors for cleanup and repair.
 
 ## Restoration emergencies common in Hayward
 
@@ -43,4 +43,4 @@ We dispatch to Hayward from our Vista, CA headquarters, routing crews north alon
 
 Much of Hayward's housing stock dates to the postwar boom of the 1950s and 1960s, with wood-frame construction on slab or raised foundations and some older homes near Downtown Hayward built earlier with crawlspaces. Plumbing from that era is commonly galvanized steel or early copper, both of which corrode and pinhole-leak with age, and older homes may still carry lead paint or asbestos-containing materials that have to be accounted for before demolition work starts. Soils through much of the city lean clay-heavy with pockets of bay mud closer to the shoreline, which expands and contracts with moisture and puts steady pressure on foundations and slab edges. Structural repairs and rebuild work typically require a permit through the City of Hayward's building division, and the city sits in a recognized seismic zone, so any structural reconstruction has to account for current California Building Code seismic provisions.
 
-If water, fire, smoke, or contamination has hit your Hayward property, call Dry1 Out Restoration and Construction at (888) 379-1688. We answer 24/7, work directly with most insurance carriers, and get a crew scoped and moving on the cleanup and repair your property actually needs.
+If water, fire, smoke, or contamination has hit your Hayward property, call Dry 1 Out Restoration and Construction at (888) 379-1688. We answer 24/7, work directly with most insurance carriers, and get a crew scoped and moving on the cleanup and repair your property actually needs.

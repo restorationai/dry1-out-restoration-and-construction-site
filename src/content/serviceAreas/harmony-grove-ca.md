@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Harmony Grove, CA | Dry1 Out Restoration and Construction"
+title: "Restoration Services in Harmony Grove, CA | Dry 1 Out Restoration and Construction"
 h1: "Restoration Services in Harmony Grove"
 meta_description: "Serving Harmony Grove, CA with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (888) 379-1688."
 primary_keyword: "restoration services harmony grove"
@@ -19,7 +19,7 @@ state: "CA"
 primary: false
 rendered: true
 ---
-Dry1 Out Restoration and Construction handles water damage, fire and smoke damage, mold remediation, and the reconstruction work that follows once a Harmony Grove home or building has dried out or been cleared. We answer 24/7, document everything for insurance, and manage the project from the first extraction fan to the last coat of paint, so property owners aren't juggling separate crews for cleanup and rebuild.
+Dry 1 Out Restoration and Construction handles water damage, fire and smoke damage, mold remediation, and the reconstruction work that follows once a Harmony Grove home or building has dried out or been cleared. We answer 24/7, document everything for insurance, and manage the project from the first extraction fan to the last coat of paint, so property owners aren't juggling separate crews for cleanup and rebuild.
 
 ## Restoration emergencies common in Harmony Grove
 
@@ -43,4 +43,4 @@ From our Vista headquarters, crews reach Harmony Grove via SR-78 and I-15 throug
 
 Harmony Grove's housing stock is a mix of newer planned-community construction, much of it slab-on-grade wood frame with stucco exteriors built in the last decade or so, alongside older rural and ranch-style properties on larger lots. Older homes are more likely to carry galvanized or early copper supply lines and may contain asbestos or lead-based materials common to their build era, both of which affect how a restoration scope is planned. The area's hillside topography and clay-heavy soils in the lower valley sections mean water doesn't always drain evenly away from foundations, and crawlspaces can hold moisture longer than a slab would. As an unincorporated community, structural repair or rebuild work in Harmony Grove typically falls under San Diego County's permitting process rather than a city building department, which is worth confirming early if a loss involves load-bearing framing or a significant portion of the structure.
 
-If water, fire, or mold has hit your Harmony Grove property, call Dry1 Out Restoration and Construction at (888) 379-1688. We're available 24/7 to start the assessment and get a plan moving before damage spreads further.
+If water, fire, or mold has hit your Harmony Grove property, call Dry 1 Out Restoration and Construction at (888) 379-1688. We're available 24/7 to start the assessment and get a plan moving before damage spreads further.

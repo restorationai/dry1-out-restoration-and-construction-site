@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Inspection and Testing in El Cajon, CA | Dry1 Out Restoration and Construction"
+title: "Mold Inspection and Testing in El Cajon, CA | Dry 1 Out Restoration and Construction"
 h1: "Mold Inspection and Testing in El Cajon"
 meta_description: "24/7 mold inspection and testing in El Cajon, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "mold inspection and testing el cajon"
@@ -40,4 +40,4 @@ Mold testing alone often isn't covered by a homeowner's policy unless it's tied 
 
 Houses near Grossmont College and the hillside streets feeding into Fletcher Hills frequently have retaining walls and graded yards that were never re-leveled as the soil settled, so runoff ends up concentrated against one side of the foundation. On those jobs we check the crawlspace vapor barrier and that foundation wall first, even on a routine indoor air quality call, because that's usually where moisture is entering before it ever reaches the living space.
 
-If you're noticing a musty smell, a water stain, or just want a baseline air quality check before buying or renting a property in El Cajon, including anywhere from Gillespie Field to the streets around the Magnolia Performing Arts Center, call Dry1 Out Restoration and Construction at (888) 379-1688 to schedule a mold inspection and testing visit.
+If you're noticing a musty smell, a water stain, or just want a baseline air quality check before buying or renting a property in El Cajon, including anywhere from Gillespie Field to the streets around the Magnolia Performing Arts Center, call Dry 1 Out Restoration and Construction at (888) 379-1688 to schedule a mold inspection and testing visit.

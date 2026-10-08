@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Storm Damage Restoration in San Francisco, CA | Dry1 Out Restoration and Construction"
+title: "24/7 Emergency Storm Damage Restoration in San Francisco, CA | Dry 1 Out Restoration and Construction"
 h1: "24/7 Emergency Storm Damage Restoration in San Francisco"
 meta_description: "24/7 emergency storm damage restoration in San Francisco, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "storm damage restoration san francisco"
@@ -20,7 +20,7 @@ state: "CA"
 service_display: "Storm Damage Restoration"
 rendered: true
 ---
-**Storm damage emergency in San Francisco?** Call (888) 379-1688 now, we answer 24/7. Wind-driven rain off the Pacific finds every gap in an older roofline fast, and once water gets behind siding or under a parapet wall in a fog-belt neighborhood, it doesn't dry on its own. Dry1 Out Restoration and Construction handles the extraction, structural drying, and board-up work that follows a Bay Area storm, from a cracked skylight in Noe Valley to a downed limb across a driveway near Golden Gate Park.
+**Storm damage emergency in San Francisco?** Call (888) 379-1688 now, we answer 24/7. Wind-driven rain off the Pacific finds every gap in an older roofline fast, and once water gets behind siding or under a parapet wall in a fog-belt neighborhood, it doesn't dry on its own. Dry 1 Out Restoration and Construction handles the extraction, structural drying, and board-up work that follows a Bay Area storm, from a cracked skylight in Noe Valley to a downed limb across a driveway near Golden Gate Park.
 
 ## Why San Francisco Properties See Storm Damage Issues
 
@@ -38,4 +38,4 @@ A lot of San Francisco's housing stock is multi-unit, think Edwardian and Victor
 
 Fog-belt moisture in the Sunset and Richmond Districts means a storm-damaged home there can still read "damp" on a moisture meter three or four days after the rain has stopped, longer than you'd expect in a sunnier part of the city like Noe Valley. We factor that lag into our drying timeline instead of pulling equipment early just because the forecast cleared, because a home that looks dry on day three but isn't can set up conditions for hidden mold growth by the following week.
 
-If a storm has pushed water into your walls, torn off roofing, or dropped a tree limb on your San Francisco property, don't wait to see if it dries out on its own. Dry1 Out Restoration and Construction is licensed (CA #993442) and insured, available around the clock, and ready to document, dry, and rebuild what the storm damaged, whether you're in a Victorian flat in the Mission or a ranch home a few blocks from Ocean Beach.
+If a storm has pushed water into your walls, torn off roofing, or dropped a tree limb on your San Francisco property, don't wait to see if it dries out on its own. Dry 1 Out Restoration and Construction is licensed (CA #993442) and insured, available around the clock, and ready to document, dry, and rebuild what the storm damaged, whether you're in a Victorian flat in the Mission or a ranch home a few blocks from Ocean Beach.

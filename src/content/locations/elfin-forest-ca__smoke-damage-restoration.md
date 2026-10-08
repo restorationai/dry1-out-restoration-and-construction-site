@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Smoke Damage Restoration in Elfin Forest, CA | Dry1 Out Restoration and Construction"
+title: "24/7 Emergency Smoke Damage Restoration in Elfin Forest, CA | Dry 1 Out Restoration and Construction"
 h1: "24/7 Emergency Smoke Damage Restoration in Elfin Forest"
 meta_description: "24/7 emergency smoke damage restoration in Elfin Forest, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "smoke damage restoration elfin forest"
@@ -20,7 +20,7 @@ state: "CA"
 service_display: "Smoke Damage Restoration"
 rendered: true
 ---
-**Smoke damage in Elfin Forest after a wildfire or structure fire?** Dry1 Out Restoration and Construction answers 24/7 and brings IICRC-trained technicians to assess smoke penetration before odor and soot etch into drywall, cabinetry, and HVAC components. Elfin Forest's rural setting, surrounded by chaparral-covered hillsides and exposed to Santa Ana wind events, means smoke damage here doesn't always start with flames on your own property. Drift smoke from a backcountry fire miles away can settle into a home's insulation and ductwork just as thoroughly as a kitchen fire.
+**Smoke damage in Elfin Forest after a wildfire or structure fire?** Dry 1 Out Restoration and Construction answers 24/7 and brings IICRC-trained technicians to assess smoke penetration before odor and soot etch into drywall, cabinetry, and HVAC components. Elfin Forest's rural setting, surrounded by chaparral-covered hillsides and exposed to Santa Ana wind events, means smoke damage here doesn't always start with flames on your own property. Drift smoke from a backcountry fire miles away can settle into a home's insulation and ductwork just as thoroughly as a kitchen fire.
 
 ## Why Elfin Forest Properties See Smoke Damage Issues
 
@@ -42,4 +42,4 @@ Wildfire-adjacent smoke claims are handled differently by most carriers than a k
 
 One detail that surprises homeowners here: because so many Elfin Forest properties run on well pumps, a fire event that knocks out grid power, even briefly, can mean no running water on-site during the first phase of cleanup. We bring our own water supply and generator-powered equipment for the initial assessment and extraction so a power outage doesn't stall the work, and we check well pump status early so homeowners aren't caught off guard trying to run a garden hose for debris rinse-down.
 
-If smoke has settled into your Elfin Forest home or outbuildings, whether from a fire on the property or drift smoke from a nearby wildfire, call Dry1 Out Restoration and Construction at (888) 379-1688. We're set up to handle the rural access, well-water logistics, and multi-structure assessments that come with Elfin Forest properties, and we document everything your insurance carrier will need to process the claim.
+If smoke has settled into your Elfin Forest home or outbuildings, whether from a fire on the property or drift smoke from a nearby wildfire, call Dry 1 Out Restoration and Construction at (888) 379-1688. We're set up to handle the rural access, well-water logistics, and multi-structure assessments that come with Elfin Forest properties, and we document everything your insurance carrier will need to process the claim.

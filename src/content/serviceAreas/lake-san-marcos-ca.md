@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Lake San Marcos, CA | Dry1 Out Restoration and Construction"
+title: "Restoration Services in Lake San Marcos, CA | Dry 1 Out Restoration and Construction"
 h1: "Restoration Services in Lake San Marcos"
 meta_description: "Serving Lake San Marcos, CA with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (888) 379-1688."
 primary_keyword: "restoration services lake san marcos"
@@ -19,7 +19,7 @@ state: "CA"
 primary: false
 rendered: true
 ---
-Dry1 Out Restoration and Construction handles water damage, fire and smoke damage, mold remediation, and biohazard cleanup for homeowners and property managers around Lake San Marcos, from lakefront properties to the hillside streets above. Our crews work directly with insurance carriers, document the loss as it's found, and get drying equipment and containment in place without the homeowner having to manage contractors on top of everything else.
+Dry 1 Out Restoration and Construction handles water damage, fire and smoke damage, mold remediation, and biohazard cleanup for homeowners and property managers around Lake San Marcos, from lakefront properties to the hillside streets above. Our crews work directly with insurance carriers, document the loss as it's found, and get drying equipment and containment in place without the homeowner having to manage contractors on top of everything else.
 
 ## Restoration emergencies common in Lake San Marcos
 
@@ -45,4 +45,4 @@ Most homes around Lake San Marcos date to the 1960s through the 1980s, built as 
 
 Soil in this part of North County San Diego tends toward decomposed granite and clay in places, which drains adequately but can shift with saturation and put stress on slab foundations over time. Lake San Marcos is an unincorporated community, so permits for structural repair or rebuild work go through San Diego County rather than a city building department, and most construction here falls under California's statewide seismic and wind provisions rather than anything unique to the area.
 
-If water, fire, smoke, or biohazard damage has hit your Lake San Marcos property, call Dry1 Out Restoration and Construction at (888) 379-1688. We're available 24/7, document everything for your insurance carrier, and get to work stabilizing the property so the damage doesn't spread while you figure out next steps.
+If water, fire, smoke, or biohazard damage has hit your Lake San Marcos property, call Dry 1 Out Restoration and Construction at (888) 379-1688. We're available 24/7, document everything for your insurance carrier, and get to work stabilizing the property so the damage doesn't spread while you figure out next steps.

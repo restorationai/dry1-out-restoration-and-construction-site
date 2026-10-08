@@ -25,9 +25,9 @@ These `{{TOKEN}}` strings are substituted by `build_site.py scaffold` from `plan
 | Token | Source | Example |
 | --- | --- | --- |
 | `dry1-out-restoration-and-construction` | client record `slug` | `narestco` |
-| `Dry1 Out Restoration and Construction` | plan-input `brand.display_name` | `National Restoration Construction` |
+| `Dry 1 Out Restoration and Construction` | plan-input `brand.display_name` | `National Restoration Construction` |
 | `Dry1` | plan-input `brand.short_name` | `NARESTCO` |
-| `Dry1 Out Restoration and Construction` | plan-input `brand.legal_name` | `National Restoration Construction LLC` |
+| `Dry 1 Out Restoration and Construction` | plan-input `brand.legal_name` | `National Restoration Construction LLC` |
 | `dry1out.com` | client record `domain` | `narestco.com` |
 | `https://dry1out.com` | derived | `https://narestco.com` |
 | `(760) 576-1987` / `+17605761987` | brand.phone | `(206) 883-0333` / `+12068830333` |

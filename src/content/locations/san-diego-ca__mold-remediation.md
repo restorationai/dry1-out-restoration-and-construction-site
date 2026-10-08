@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in San Diego, CA | Dry1 Out Restoration and Construction"
+title: "Mold Remediation in San Diego, CA | Dry 1 Out Restoration and Construction"
 h1: "Mold Remediation in San Diego"
 meta_description: "24/7 mold remediation in San Diego, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "mold remediation san diego"
@@ -38,4 +38,4 @@ Many San Diego condos and townhomes, particularly newer developments around Mira
 
 In Pacific Beach and La Jolla, we've found that homes within a few blocks of Mission Bay Park or the coastline hold interior humidity well above 60% for months at a time even with windows closed, simply from the marine air exchange through older window seals. Standard moisture meters calibrated for inland conditions can under-read these walls, so our crews take baseline humidity readings specific to the block before deciding whether a wall cavity needs active drying equipment or just source correction and monitoring.
 
-If you're smelling something musty in a North Park Craftsman, seeing discoloration in a Pacific Beach bathroom, or managing a shared-wall mold question in a Rancho Bernardo HOA, Dry1 Out Restoration and Construction can assess the source and scope the remediation before it spreads further. Call (888) 379-1688 to schedule a mold inspection anywhere in San Diego County.
+If you're smelling something musty in a North Park Craftsman, seeing discoloration in a Pacific Beach bathroom, or managing a shared-wall mold question in a Rancho Bernardo HOA, Dry 1 Out Restoration and Construction can assess the source and scope the remediation before it spreads further. Call (888) 379-1688 to schedule a mold inspection anywhere in San Diego County.

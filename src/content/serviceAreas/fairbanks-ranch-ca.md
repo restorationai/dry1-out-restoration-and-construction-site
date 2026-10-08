@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Fairbanks Ranch, CA | Dry1 Out Restoration and Construction"
+title: "Restoration Services in Fairbanks Ranch, CA | Dry 1 Out Restoration and Construction"
 h1: "Restoration Services in Fairbanks Ranch"
 meta_description: "Serving Fairbanks Ranch, CA with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (888) 379-1688."
 primary_keyword: "restoration services fairbanks ranch"
@@ -19,7 +19,7 @@ state: "CA"
 primary: false
 rendered: true
 ---
-Dry1 Out Restoration and Construction works with Fairbanks Ranch homeowners on water intrusion, fire and smoke recovery, mold growth, and the structural repair that follows once the water or smoke is gone. Many of the estate-sized homes in this community have features, large irrigated lots, wine cellars, finished basements, detached guest quarters, that complicate a standard drying or rebuild plan, and we scope the work around those features rather than a one-size approach.
+Dry 1 Out Restoration and Construction works with Fairbanks Ranch homeowners on water intrusion, fire and smoke recovery, mold growth, and the structural repair that follows once the water or smoke is gone. Many of the estate-sized homes in this community have features, large irrigated lots, wine cellars, finished basements, detached guest quarters, that complicate a standard drying or rebuild plan, and we scope the work around those features rather than a one-size approach.
 
 ## Restoration emergencies common in Fairbanks Ranch
 
@@ -43,4 +43,4 @@ We run crews out of our Vista headquarters and reach Fairbanks Ranch primarily v
 
 Most homes in Fairbanks Ranch date to the 1980s and 1990s custom-estate building boom, with stucco or stone exteriors over wood framing, tile or shake roofing, and a mix of slab-on-grade and partial basement or daylight basement construction on the community's hillside lots. Copper supply lines and cast iron or ABS drains are typical for that era, and additions built in the 2000s often introduce PEX, which behaves differently under heat and pressure stress during a fire or freeze event. Soils through this part of inland San Diego County include expansive clay pockets that shift with seasonal moisture swings, which is why foundation cracking and slab leaks often show up together rather than as separate problems. Fairbanks Ranch is unincorporated, so structural repair and rebuild permits route through San Diego County's planning and building department, and most properties sit inside an HOA with its own architectural review on top of county code, something we account for when scoping a reconstruction timeline.
 
-If water, fire, or mold has touched your Fairbanks Ranch property, the fastest way to limit the damage is to call before you start moving furniture or running fans on your own. Dry1 Out Restoration and Construction is available 24/7 at (888) 379-1688 to walk through what you are seeing and get a crew headed your way.
+If water, fire, or mold has touched your Fairbanks Ranch property, the fastest way to limit the damage is to call before you start moving furniture or running fans on your own. Dry 1 Out Restoration and Construction is available 24/7 at (888) 379-1688 to walk through what you are seeing and get a crew headed your way.

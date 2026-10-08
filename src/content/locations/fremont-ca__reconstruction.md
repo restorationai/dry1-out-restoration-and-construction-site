@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Reconstruction Services in Fremont, CA | Dry1 Out Restoration and Construction"
+title: "Reconstruction Services in Fremont, CA | Dry 1 Out Restoration and Construction"
 h1: "Reconstruction Services in Fremont"
 meta_description: "24/7 reconstruction services in Fremont, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "reconstruction services fremont"

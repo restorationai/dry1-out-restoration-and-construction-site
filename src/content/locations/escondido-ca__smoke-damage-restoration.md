@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Smoke Damage Restoration in Escondido, CA | Dry1 Out Restoration and Construction"
+title: "24/7 Emergency Smoke Damage Restoration in Escondido, CA | Dry 1 Out Restoration and Construction"
 h1: "24/7 Emergency Smoke Damage Restoration in Escondido"
 meta_description: "24/7 emergency smoke damage restoration in Escondido, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "smoke damage restoration escondido"
@@ -42,4 +42,4 @@ Most smoke damage claims in Escondido come through homeowners' policies after a 
 
 Homes built before the 1960s around the Old Escondido Historic District often have plaster walls over wood lath, and that plaster is far more absorbent than drywall. Smoke odor soaks in deeper and off-gasses longer, which means a house near Grand Avenue may need an extra round of sealant and a longer dwell time with odor-neutralizing equipment than a comparable job in a newer Felicita tract home. We factor that into the timeline up front rather than re-treating a room twice.
 
-If ash or smoke has settled into your Escondido home after a wildfire event or an interior fire, don't wait on the odor to fade on its own, because it won't. Call Dry1 Out Restoration and Construction and we'll get a crew assessing the damage and running air scrubbers before residue has a chance to set into your walls, floors, or HVAC system.
+If ash or smoke has settled into your Escondido home after a wildfire event or an interior fire, don't wait on the odor to fade on its own, because it won't. Call Dry 1 Out Restoration and Construction and we'll get a crew assessing the damage and running air scrubbers before residue has a chance to set into your walls, floors, or HVAC system.

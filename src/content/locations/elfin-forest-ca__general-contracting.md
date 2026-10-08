@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Renovations, Remodels and General Contracting in Elfin Forest, CA | Dry1 Out Restoration and Construction"
+title: "Renovations, Remodels and General Contracting in Elfin Forest, CA | Dry 1 Out Restoration and Construction"
 h1: "Renovations, Remodels and General Contracting in Elfin Forest"
 meta_description: "24/7 renovations, remodels and general contracting in Elfin Forest, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "renovations, remodels and general contracting elfin forest"
@@ -20,7 +20,7 @@ state: "CA"
 service_display: "Renovations, Remodels and General Contracting"
 rendered: true
 ---
-Elfin Forest's custom homes and equestrian properties sit on large, often irregular parcels in unincorporated San Diego County, where many of the ranch-style and custom-built homes were finished long before current building and fire codes existed. When a kitchen or bathroom remodel opens a wall here, it frequently surfaces outdated wiring, undersized plumbing runs, or framing that needs code upgrades before new finishes go in. Dry1 Out Restoration and Construction handles renovations, remodels, and general contracting in Elfin Forest with that reality built into the plan from day one, not discovered halfway through demo.
+Elfin Forest's custom homes and equestrian properties sit on large, often irregular parcels in unincorporated San Diego County, where many of the ranch-style and custom-built homes were finished long before current building and fire codes existed. When a kitchen or bathroom remodel opens a wall here, it frequently surfaces outdated wiring, undersized plumbing runs, or framing that needs code upgrades before new finishes go in. Dry 1 Out Restoration and Construction handles renovations, remodels, and general contracting in Elfin Forest with that reality built into the plan from day one, not discovered halfway through demo.
 
 ## Why Elfin Forest Renovations Differ From Coastal San Diego Jobs
 
@@ -32,10 +32,10 @@ Every project starts with a walkthrough that looks at structure, systems, and si
 
 ## Permits and Coordination in Unincorporated San Diego County
 
-Elfin Forest is unincorporated, so permitting runs through San Diego County rather than a city building department, and fire-zone requirements can add review steps that a comparable project in a nearby incorporated city wouldn't face. We pull and track those permits as part of the contract rather than leaving it to the homeowner to chase down, and when a remodel is tied to an insurance claim from a prior water or fire loss, we document the damage and scope separately from the voluntary upgrade work so the carrier's portion of the rebuild is clear. Dry1 Out Restoration and Construction is a licensed contractor (CA license #993442), and that license status is something we're happy to confirm before any contract is signed.
+Elfin Forest is unincorporated, so permitting runs through San Diego County rather than a city building department, and fire-zone requirements can add review steps that a comparable project in a nearby incorporated city wouldn't face. We pull and track those permits as part of the contract rather than leaving it to the homeowner to chase down, and when a remodel is tied to an insurance claim from a prior water or fire loss, we document the damage and scope separately from the voluntary upgrade work so the carrier's portion of the rebuild is clear. Dry 1 Out Restoration and Construction is a licensed contractor (CA license #993442), and that license status is something we're happy to confirm before any contract is signed.
 
 ## Local note
 
 A detail that catches a lot of people off guard: because so many Elfin Forest homes are on well water, a remodel that adds a second bathroom or expands a kitchen island with a prep sink can push a property closer to its well's rated capacity. We check well output and existing fixture count early in the design phase, before cabinets or plumbing lines are ordered, so a homeowner isn't stuck redesigning a finished layout because the well can't support it.
 
-If you're planning a kitchen remodel, bathroom renovation, or a post-damage rebuild on an Elfin Forest property, call Dry1 Out Restoration and Construction at (888) 379-1688. We'll walk the site, talk through what the county permitting process looks like for your parcel, and put together a plan that accounts for the land you're actually building on.
+If you're planning a kitchen remodel, bathroom renovation, or a post-damage rebuild on an Elfin Forest property, call Dry 1 Out Restoration and Construction at (888) 379-1688. We'll walk the site, talk through what the county permitting process looks like for your parcel, and put together a plan that accounts for the land you're actually building on.

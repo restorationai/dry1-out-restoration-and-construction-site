@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Fire Damage Restoration in Chula Vista, CA | Dry1 Out Restoration and Construction"
+title: "24/7 Emergency Fire Damage Restoration in Chula Vista, CA | Dry 1 Out Restoration and Construction"
 h1: "24/7 Emergency Fire Damage Restoration in Chula Vista"
 meta_description: "24/7 emergency fire damage restoration in Chula Vista, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "fire damage restoration chula vista"
@@ -38,4 +38,4 @@ Most of the fire losses we see in Chula Vista run through homeowners or commerci
 
 In the ZIP codes closest to the canyons, 91914 and 91915 around Otay Ranch and Eastlake, stucco exteriors trap smoke odor against the sheathing in a way wood siding doesn't; we've learned to check behind exterior stucco control joints for soot staining even when the interior looks clean, because that's often where lingering odor keeps coming back from weeks later.
 
-Fire damage doesn't wait for a convenient hour, and neither does the odor and corrosion it leaves behind. Dry1 Out Restoration and Construction is an IICRC-certified firm with FSRT fire and smoke training, licensed under CA contractor license #993442, and we're on call around the clock for fire damage restoration anywhere in Chula Vista, from Third Avenue Village to Otay Ranch. Call (888) 379-1688 to get a crew moving on your property.
+Fire damage doesn't wait for a convenient hour, and neither does the odor and corrosion it leaves behind. Dry 1 Out Restoration and Construction is an IICRC-certified firm with FSRT fire and smoke training, licensed under CA contractor license #993442, and we're on call around the clock for fire damage restoration anywhere in Chula Vista, from Third Avenue Village to Otay Ranch. Call (888) 379-1688 to get a crew moving on your property.

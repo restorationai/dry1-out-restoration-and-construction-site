@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in San Jose, CA | Dry1 Out Restoration and Construction"
+title: "Mold Remediation in San Jose, CA | Dry 1 Out Restoration and Construction"
 h1: "Mold Remediation in San Jose"
 meta_description: "24/7 mold remediation in San Jose, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "mold remediation san jose"
@@ -42,4 +42,4 @@ Containment barriers, HEPA-filtered air scrubbers, and negative air machines for
 
 Homes within a few blocks of Los Gatos Creek and the Guadalupe River, including pockets near Willow Glen and parts of Cambrian Park, sit on clay-heavy soil that holds groundwater longer after a wet winter. Crawlspace vents in these areas can stay damp well into late spring even after the surface soil looks dry, which is why we check crawlspace humidity independently of what the yard or driveway conditions suggest.
 
-If you're seeing dark spotting on a ceiling in your Evergreen tract home or smelling that persistent musty note in a Cambrian Park condo closet, it's worth having it looked at before the next rainy season adds more moisture to the mix. Dry1 Out Restoration and Construction is IICRC AMRT certified and licensed under California contractor license #993442, and we're available to schedule mold remediation work throughout San Jose, including the 95118, 95120, and 95125 ZIP codes.
+If you're seeing dark spotting on a ceiling in your Evergreen tract home or smelling that persistent musty note in a Cambrian Park condo closet, it's worth having it looked at before the next rainy season adds more moisture to the mix. Dry 1 Out Restoration and Construction is IICRC AMRT certified and licensed under California contractor license #993442, and we're available to schedule mold remediation work throughout San Jose, including the 95118, 95120, and 95125 ZIP codes.

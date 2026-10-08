@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Del Dios, CA | Dry1 Out Restoration and Construction"
+title: "Restoration Services in Del Dios, CA | Dry 1 Out Restoration and Construction"
 h1: "Restoration Services in Del Dios"
 meta_description: "Serving Del Dios, CA with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (888) 379-1688."
 primary_keyword: "restoration services del dios"
@@ -19,7 +19,7 @@ state: "CA"
 primary: false
 rendered: true
 ---
-Dry1 Out Restoration and Construction handles water damage, fire and smoke damage, mold remediation, and reconstruction for homes throughout Del Dios, the unincorporated community tucked along Lake Hodges in San Diego County. Whether a hillside property has taken on runoff after a winter storm or a kitchen fire has left smoke damage through a single-story ranch home, we document the loss, coordinate directly with your insurance carrier, and get the drying or rebuild work moving.
+Dry 1 Out Restoration and Construction handles water damage, fire and smoke damage, mold remediation, and reconstruction for homes throughout Del Dios, the unincorporated community tucked along Lake Hodges in San Diego County. Whether a hillside property has taken on runoff after a winter storm or a kitchen fire has left smoke damage through a single-story ranch home, we document the loss, coordinate directly with your insurance carrier, and get the drying or rebuild work moving.
 
 ## Restoration emergencies common in Del Dios
 
@@ -43,4 +43,4 @@ We run crews out of our Vista headquarters, and Del Dios is a straightforward ru
 
 Much of Del Dios's housing stock reflects a mix of older rural and ranch-style construction alongside newer hillside builds, which means plumbing systems on a given street can range from original copper to more recent PEX, and older homes may still carry galvanized runs that are prone to internal corrosion and slow leaks behind walls. Hillside lots are often built on cut-and-fill pads, and expansive or decomposed granite soils common in this part of the county can shift seasonally with moisture changes, putting stress on foundations and slab-on-grade construction. Structural repair or rebuild work in the unincorporated areas of San Diego County goes through the county's Planning & Development Services department rather than a city building office, and homes closer to Lake Hodges or built before more recent wildfire-hardening codes may need particular attention to roofing and siding materials during any reconstruction scope.
 
-If water, fire, smoke, or mold has hit a Del Dios property, call Dry1 Out Restoration and Construction at (888) 379-1688. We're available 24/7 to get a crew scheduled and start documenting the damage for your insurance claim.
+If water, fire, smoke, or mold has hit a Del Dios property, call Dry 1 Out Restoration and Construction at (888) 379-1688. We're available 24/7 to get a crew scheduled and start documenting the damage for your insurance claim.

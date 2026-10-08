@@ -1,9 +1,9 @@
 ---
 archetype: "legal"
-title: "Accessibility Statement | Dry1 Out Restoration and Construction"
+title: "Accessibility Statement | Dry 1 Out Restoration and Construction"
 h1: "Accessibility Statement"
 meta_description: "Accessibility Statement | {brand.display_name}."
-primary_keyword: "dry1 out restoration and construction accessibility"
+primary_keyword: "dry 1 out restoration and construction accessibility"
 secondary_keywords: []
 search_intent: "navigational_legal"
 priority: 1.0
@@ -18,7 +18,7 @@ rendered: true
 ---
 ## Our Commitment
 
-Dry1 Out Restoration and Construction wants every visitor, including people who use screen readers, voice navigation, or other assistive technology, to be able to find information about our restoration services, request help after a water or fire loss, and reach our team without barriers. Accessibility is part of how we build and maintain this site, not an afterthought.
+Dry 1 Out Restoration and Construction wants every visitor, including people who use screen readers, voice navigation, or other assistive technology, to be able to find information about our restoration services, request help after a water or fire loss, and reach our team without barriers. Accessibility is part of how we build and maintain this site, not an afterthought.
 
 ## Standards We Aim to Meet
 

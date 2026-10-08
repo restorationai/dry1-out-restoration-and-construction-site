@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Renovations, Remodels and General Contracting in San Francisco, CA | Dry1 Out Restoration and Construction"
+title: "Renovations, Remodels and General Contracting in San Francisco, CA | Dry 1 Out Restoration and Construction"
 h1: "Renovations, Remodels and General Contracting in San Francisco"
 meta_description: "24/7 renovations, remodels and general contracting in San Francisco, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "renovations, remodels and general contracting san francisco"
@@ -38,4 +38,4 @@ The Department of Building Inspection reviews most structural, electrical, and p
 
 Homes within a few blocks of Golden Gate Park and along the western edge of the Sunset District tend to run several degrees cooler and damper than the rest of the city on any given day, which is worth factoring into material choices for a remodel. Engineered wood and moisture-resistant backer board hold up better than solid hardwood or standard drywall in those microclimates, and we spec accordingly rather than defaulting to whatever's standard everywhere else in the Bay Area.
 
-If you're planning a kitchen remodel in the Mission, a bathroom remodel in Noe Valley, or a full post-damage rebuild anywhere from the 94110 corridor out to the Richmond District near Golden Gate Park, call Dry1 Out Restoration and Construction at (888) 379-1688 to talk through the scope before you get a permit application started.
+If you're planning a kitchen remodel in the Mission, a bathroom remodel in Noe Valley, or a full post-damage rebuild anywhere from the 94110 corridor out to the Richmond District near Golden Gate Park, call Dry 1 Out Restoration and Construction at (888) 379-1688 to talk through the scope before you get a permit application started.

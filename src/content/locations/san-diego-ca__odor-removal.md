@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Odor Removal and Deodorization in San Diego, CA | Dry1 Out Restoration and Construction"
+title: "Odor Removal and Deodorization in San Diego, CA | Dry 1 Out Restoration and Construction"
 h1: "Odor Removal and Deodorization in San Diego"
 meta_description: "24/7 odor removal and deodorization in San Diego, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "odor removal and deodorization san diego"
@@ -42,4 +42,4 @@ Odor claims tied to a covered event, a kitchen fire or a slow leak that went und
 
 Homes within a few blocks of the water in Pacific Beach and La Jolla (92109, 92037) tend to need a second deodorization pass that inland properties don't: the salt-laden marine air reactivates musty odor in wall cavities for several days after the initial treatment as humidity cycles through, so we schedule a follow-up check rather than closing the job after one visit.
 
-If smoke, pet, or musty odor keeps coming back no matter how many candles or air purifiers you've tried, the source is still in the structure somewhere. Call Dry1 Out Restoration and Construction at (888) 379-1688 and we'll walk the property, find where it's hiding, whether it's a North Park wall cavity or a Mira Mesa return duct, and treat it at the source.
+If smoke, pet, or musty odor keeps coming back no matter how many candles or air purifiers you've tried, the source is still in the structure somewhere. Call Dry 1 Out Restoration and Construction at (888) 379-1688 and we'll walk the property, find where it's hiding, whether it's a North Park wall cavity or a Mira Mesa return duct, and treat it at the source.

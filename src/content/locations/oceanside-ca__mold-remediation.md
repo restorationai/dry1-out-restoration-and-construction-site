@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in Oceanside, CA | Dry1 Out Restoration and Construction"
+title: "Mold Remediation in Oceanside, CA | Dry 1 Out Restoration and Construction"
 h1: "Mold Remediation in Oceanside"
 meta_description: "24/7 mold remediation in Oceanside, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "mold remediation oceanside"

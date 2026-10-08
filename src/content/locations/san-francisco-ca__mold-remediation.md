@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in San Francisco, CA | Dry1 Out Restoration and Construction"
+title: "Mold Remediation in San Francisco, CA | Dry 1 Out Restoration and Construction"
 h1: "Mold Remediation in San Francisco"
 meta_description: "24/7 mold remediation in San Francisco, CA. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "mold remediation san francisco"
@@ -38,4 +38,4 @@ Most homeowner's policies treat mold as excluded unless it's tied to a covered, 
 
 In the Sunset and Richmond Districts (94122, 94118, and the surrounding blocks near Golden Gate Park), relative humidity often stays elevated into the afternoon even on days that look clear downtown. We regularly find mold on north-facing closet walls and behind furniture pushed against exterior walls in these homes, areas that get no direct sun and almost no airflow. Owners often assume it's dust until the drywall paper is already colonized. In Bernal Heights, hillside lots with below-grade crawlspaces trap ground moisture against untreated foundation framing, which is worth a look even if the mold problem seems confined to an upstairs bathroom.
 
-If you're dealing with a musty smell that won't go away, a water stain that keeps spreading, or visible growth in a bathroom, closet, or crawlspace anywhere from the Sunset to Pacific Heights, Dry1 Out Restoration and Construction can assess the source and scope the remediation properly. Call (888) 379-1688 to schedule an inspection and start the paperwork trail your insurance or HOA may require.
+If you're dealing with a musty smell that won't go away, a water stain that keeps spreading, or visible growth in a bathroom, closet, or crawlspace anywhere from the Sunset to Pacific Heights, Dry 1 Out Restoration and Construction can assess the source and scope the remediation properly. Call (888) 379-1688 to schedule an inspection and start the paperwork trail your insurance or HOA may require.
