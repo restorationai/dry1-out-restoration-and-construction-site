@@ -68,8 +68,8 @@ export const brand = {
   sameAsUrls: ["https://maps.google.com/maps?cid=14238419843056292255"] as string[],
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
-  gbpRatingValue: "5.0",
-  gbpReviewCount: "18",
+  gbpRatingValue: "4.8",
+  gbpReviewCount: "56",
   gbpReviews: [
     { author: "Doug", rating: 5, text: "As good as it gets… fast, friendly put my mind to ease…", when: "September 2026" },
     { author: "Iris", rating: 5, text: "I had a great experience with Dry1Out after a fire damaged my home. The entire situation was overwhelming, but their team made the process much easier from the moment they arrived. They were professional, responsive, and compassionate. They explained what needed to be done, helped me understand the…", when: "September 2026" },
