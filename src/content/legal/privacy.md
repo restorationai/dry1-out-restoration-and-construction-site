@@ -46,4 +46,4 @@ Our site may use cookies or similar technologies to support basic site functiona
 
 ## Contact Us About Privacy
 
-If you have questions about this privacy policy or how your information is handled, reach out to Jason at Jason@dry1out.com or call (888) 379-1688. You can also write to us at 1235 Activity Dr, Vista, CA 82081.
+If you have questions about this privacy policy or how your information is handled, reach out to Jason at Jason@dry1out.com or call (888) 379-1688. You can also write to us at 1235 Activity Dr, Vista, CA 92081.

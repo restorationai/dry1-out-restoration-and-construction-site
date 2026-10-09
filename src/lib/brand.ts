@@ -42,8 +42,8 @@ export const brand = {
   // Youngstown OH target) — only the address pair may go in a PostalAddress.
   addressCity: "Vista",
   addressState: "CA",
-  streetAddress: "1235 activity dr ",
-  postalCode: "82081",
+  streetAddress: "1235 Activity Dr",
+  postalCode: "92081",
   lat: "",
   lng: "",
   placeId: "ChIJh3y1Q-iumqsRn1E-rGgHmcU",

@@ -35,7 +35,7 @@ These `{{TOKEN}}` strings are substituted by `build_site.py scaffold` from `plan
 | `24/7` | brand.hours | `24/7` |
 | `2026` | brand.founded_year | `2004` |
 | `Vista` / `CA` | derived from primary area | `Federal Way` / `WA` |
-| `1235 activity dr ` / `82081` | brand.street_address / brand.postal_code | |
+| `1235 Activity Dr` / `92081` | brand.street_address / brand.postal_code | |
 | `` / `` | brand.lat / brand.lng | from GBP |
 | `ChIJh3y1Q-iumqsRn1E-rGgHmcU` / `` | brand.place_id / brand.google_cid | from GBP |
 | `["#993442"]` | brand.license_numbers (JSON-encoded array) | `["NATIORC792M6"]` |
