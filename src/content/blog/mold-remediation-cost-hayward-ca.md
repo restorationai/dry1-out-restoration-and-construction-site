@@ -72,7 +72,7 @@ A licensed remediation job follows a set sequence, built around the [IICRC S520 
 5. **Clearance verification.** A post-remediation visual check, and sometimes a second round of testing, confirms the area is clean before containment comes down.
 6. **Source repair.** The moisture problem itself, whether it's a crawl space vapor barrier, a roof leak, or a failed gasket, gets fixed so the mold doesn't return.
 
-If you've already confirmed you have an active mold problem, our guide on [how to test for mold](/how-to-test-for-mold/) walks through DIY kits versus a professional inspection, and [how quickly mold grows after water damage](/mold-after-water-damage/) explains the timeline that often determines how big the job gets.
+If you've already confirmed you have an active mold problem, our guide on [how to test for mold](/blog/how-to-test-for-mold/) walks through DIY kits versus a professional inspection, and [how quickly mold grows after water damage](/blog/mold-after-water-damage/) explains the timeline that often determines how big the job gets.
 
 ## What should you do next?
 
