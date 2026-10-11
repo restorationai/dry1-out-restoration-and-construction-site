@@ -48,7 +48,7 @@ The cavity above the ceiling, including any wet insulation, needs to read dry on
 
 For a small, contained stain (say, under 2 square feet, caught early), opening a small inspection hole and running an air mover or fan into the cavity for 24 to 48 hours is often enough. Insulation that got wet and has since dried without mold growth can sometimes stay in place; insulation that was saturated for more than 48 hours usually needs to be removed and replaced, since wet fiberglass or cellulose loses its R-value and holds moisture against the drywall.
 
-For anything larger, or if you can't get a moisture meter reading below the material's dry standard, that's when it makes sense to bring in a crew with professional drying equipment: LGR dehumidifiers and air movers set up to dry the structure to the [IICRC S500 standard](https://www.iicrc.org/page/IICRCS500), the industry benchmark for water damage restoration. Our [blog post on how long restoration actually takes](/blog/how-long-does-water-damage-restoration-take/) walks through typical drying timelines if you're wondering what to expect.
+For anything larger, or if you can't get a moisture meter reading below the material's dry standard, that's when it makes sense to bring in a crew with professional drying equipment: LGR dehumidifiers and air movers set up to dry the structure to the [IICRC S500 standard](https://iicrc.org/s500/), the industry benchmark for water damage restoration. Our [blog post on how long restoration actually takes](/blog/how-long-does-water-damage-restoration-take/) walks through typical drying timelines if you're wondering what to expect.
 
 ## When Is It a Simple Patch vs. a Full Ceiling Repair?
 
