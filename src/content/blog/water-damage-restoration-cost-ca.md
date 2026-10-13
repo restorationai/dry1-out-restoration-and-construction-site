@@ -89,4 +89,4 @@ If you're dealing with active water damage right now, the next step is getting a
 
 **About Dry 1 Out Restoration and Construction**
 
-Dry 1 Out Restoration and Construction is an IICRC Certified Firm (WRT, ASD, AMRT, FSRT) operating under California contractor license #993442, with offices in Vista and Hayward serving water damage, mold, fire, and reconstruction needs across the state. This post was prepared with input from the Dry 1 Out team, led by Jason Pacheco.
+Dry 1 Out Restoration and Construction is an IICRC Certified Firm (WRT, ASD, AMRT, FSRT) operating under California contractor license #993442, with offices in Vista and Hayward serving water damage, mold, fire, and reconstruction needs across the San Diego area and the Bay Area. This post was prepared with input from the Dry 1 Out team, led by Jason Pacheco.
