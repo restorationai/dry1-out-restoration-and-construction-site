@@ -35,6 +35,7 @@ export const brand = {
   hours: "24/7",
   foundedYear: "2026",
   primaryCity: "Vista",
+  homeRegion: "Hayward & Vista, CA",
   primaryState: "CA",
   // primaryCity/primaryState = the #1 MARKETING city (headlines, coverage
   // copy). addressCity/addressState = where the business PHYSICALLY is.

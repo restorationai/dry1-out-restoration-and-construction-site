@@ -37,7 +37,7 @@ const TOP_RATED_MIN_REVIEWS = 20;
 const B = brand as unknown as Record<string, unknown>;
 const str = (v: unknown) => String(v ?? "").trim();
 
-const city = str(brand.primaryCity);
+const city = str((brand as { homeRegion?: string }).homeRegion) || str(brand.primaryCity);
 const name = str(brand.displayName);
 const trade = str(B.tradeNoun) || "restoration";
 

@@ -1,10 +1,10 @@
 ---
 archetype: "home"
-title: "Water Damage Restoration in Vista, CA | Dry 1 Out Restoration and Construction"
-h1: "24/7 Water Damage Restoration in Vista, CA"
-meta_description: "Dry 1 Out Restoration and Construction provides water damage restoration in Vista, CA, answering 24/7. IICRC certified. Call (888) 379-1688 now."
+title: "Water Damage Restoration in Hayward & Vista, CA | Dry 1 Out Restoration and Construction"
+h1: "24/7 Water Damage Restoration in Hayward & Vista, CA"
+meta_description: "Dry 1 Out Restoration and Construction provides water damage restoration across Hayward & Vista, CA, including San Diego, San Jose and San Francisco."
 primary_keyword: "water damage restoration vista"
-secondary_keywords: ["best restoration company in vista", "restoration company vista", "water damage restoration near me"]
+secondary_keywords: ["water damage restoration hayward", "best restoration company in vista", "water damage restoration near me"]
 search_intent: "local_commercial"
 priority: 5.0
 plan_hash: "c4978b65f5c89f8a"
