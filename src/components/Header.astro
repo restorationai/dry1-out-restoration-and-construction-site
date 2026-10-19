@@ -11,7 +11,7 @@ const is247 = /24\s*[\/x-]?\s*7|24 ?hours/i.test(String(brand.hours || ""));
       )}
     </a>
 
-    <nav class="hidden lg:flex items-center gap-6 text-[11px] font-black uppercase tracking-widest h-full">
+    <nav class="hidden xl:flex items-center gap-6 text-[11px] font-black uppercase tracking-widest h-full">
       <a href="/emergency/" class="text-dark-900 underline decoration-[3px] underline-offset-8 hover:text-primary-500 transition-colors py-8">Emergency</a>
       <a href="/services/" class="hover:text-primary-400 no-underline transition-colors py-8">Services</a>
       <a href="/service-areas/" class="hover:text-primary-400 no-underline transition-colors py-8">Areas</a>
@@ -29,7 +29,7 @@ const is247 = /24\s*[\/x-]?\s*7|24 ?hours/i.test(String(brand.hours || ""));
           <span class="font-black tracking-wide whitespace-nowrap">{brand.phone}</span>
         </span>
       </a>
-      <button id="mobile-nav-toggle" type="button" class="lg:hidden inline-flex flex-col items-center justify-center w-11 h-11 gap-[5px] rounded-md border border-dark/20 text-dark-900 flex-shrink-0" aria-label="Open menu" aria-expanded="false" aria-controls="mobile-nav">
+      <button id="mobile-nav-toggle" type="button" class="xl:hidden inline-flex flex-col items-center justify-center w-11 h-11 gap-[5px] rounded-md border border-dark/20 text-dark-900 flex-shrink-0" aria-label="Open menu" aria-expanded="false" aria-controls="mobile-nav">
         <span class="block w-5 h-0.5 bg-current"></span>
         <span class="block w-5 h-0.5 bg-current"></span>
         <span class="block w-5 h-0.5 bg-current"></span>
@@ -37,7 +37,7 @@ const is247 = /24\s*[\/x-]?\s*7|24 ?hours/i.test(String(brand.hours || ""));
     </div>
   </div>
 
-  <nav id="mobile-nav" class="lg:hidden hidden border-t border-dark/10 bg-white text-dark-900" aria-label="Mobile">
+  <nav id="mobile-nav" class="xl:hidden hidden border-t border-dark/10 bg-white text-dark-900" aria-label="Mobile">
     <a href="/emergency/" class="block px-6 py-3.5 text-sm font-black uppercase tracking-widest text-primary-600 no-underline">Emergency</a>
     <a href="/services/" class="block px-6 py-3.5 text-sm font-black uppercase tracking-widest no-underline border-t border-dark/5">Services</a>
     <a href="/service-areas/" class="block px-6 py-3.5 text-sm font-black uppercase tracking-widest no-underline border-t border-dark/5">Service Areas</a>
