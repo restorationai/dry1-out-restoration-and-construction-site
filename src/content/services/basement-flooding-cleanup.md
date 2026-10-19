@@ -2,7 +2,7 @@
 archetype: "service-landing"
 title: "24/7 Emergency Basement Flooding Cleanup in Vista | Dry 1 Out Restoration and Construction"
 h1: "24/7 Emergency Basement Flooding Cleanup in Vista"
-meta_description: "24/7 emergency basement flooding cleanup in Vista and surrounding areas. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
+meta_description: "24/7 emergency basement flooding cleanup in Vista, Hayward and surrounding areas. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "basement flooding cleanup vista"
 secondary_keywords: ["flooded basement cleanup", "basement water removal", "wet basement restoration", "basement water damage", "basement drying"]
 search_intent: "local_emergency"
@@ -55,6 +55,6 @@ Vista's wet season brings the heaviest basement flooding risk, when saturated so
 
 ## Service area
 
-We handle basement flooding cleanup for homeowners in Vista and the surrounding North County communities, from homes with slab foundations to older properties with below-grade finished space.
+We handle basement flooding cleanup for homeowners in Vista and the surrounding North County communities, from homes with slab foundations to older properties with below-grade finished space. From our Hayward location we also cover the Bay Area, including Oakland, Fremont, San Jose, and San Francisco.
 
 If your basement is taking on water right now, call (888) 379-1688 and we'll walk you through immediate steps while we get a crew moving to start extraction and schedule your moisture assessment.

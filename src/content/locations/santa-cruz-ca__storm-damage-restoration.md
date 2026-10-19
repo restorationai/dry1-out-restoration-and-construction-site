@@ -20,7 +20,7 @@ state: "CA"
 service_display: "Storm Damage Restoration"
 rendered: true
 ---
-**Storm damage emergency in Santa Cruz?** Winter atmospheric river systems rolling off the Pacific can snap eucalyptus and Monterey pine limbs onto Westside rooflines and push runoff against older foundations near Seabright within hours. We answer 24/7, and our crews travel up from our Vista base to assess roof breaches, water intrusion, and downed-tree damage before the next system moves through the bay.
+**Storm damage emergency in Santa Cruz?** Winter atmospheric river systems rolling off the Pacific can snap eucalyptus and Monterey pine limbs onto Westside rooflines and push runoff against older foundations near Seabright within hours. We answer 24/7, and our crews travel down from our Hayward location to assess roof breaches, water intrusion, and downed-tree damage before the next system moves through the bay.
 
 ## Why Santa Cruz Properties See Storm Damage Issues
 
@@ -30,9 +30,9 @@ Santa Cruz sits at the receiving end of Pacific storm tracks, and the hills arou
 
 We start with a roof and exterior assessment, tarping or boarding any breach to stop ongoing intrusion before we touch the interior. Extraction comes next, pulling standing water from flooring and crawl spaces, followed by structural drying managed to the IICRC S500 standard with moisture mapping to track hidden saturation in wall cavities and subfloor. Downed trees and storm debris get cleared from roofs, gutters, and yards so secondary damage like clogged drains or additional roof stress doesn't compound the original loss. Once materials read dry on repeated moisture checks, we document everything for your adjuster and coordinate any structural repairs needed to close the job out.
 
-## Reaching Santa Cruz from Vista
+## Reaching Santa Cruz from Hayward
 
-Our crews run north on the regional highways to reach Santa Cruz County, with routes into Downtown Santa Cruz, the Westside, and Eastside neighborhoods planned around whichever roads storm debris or flooding have closed that day. Beach Flats and areas near the Santa Cruz Wharf sometimes see street flooding during high surf combined with heavy rain, so we check current road conditions before dispatch rather than assuming a direct route. Because we operate 24/7, calls that come in overnight during an active storm get the same response as a midday call.
+Our crews run south on I-880 and Highway 17 to reach Santa Cruz County, with routes into Downtown Santa Cruz, the Westside, and Eastside neighborhoods planned around whichever roads storm debris or flooding have closed that day. Beach Flats and areas near the Santa Cruz Wharf sometimes see street flooding during high surf combined with heavy rain, so we check current road conditions before dispatch rather than assuming a direct route. Because we operate 24/7, calls that come in overnight during an active storm get the same response as a midday call.
 
 ## Santa Cruz Insurance & HOA Coordination
 

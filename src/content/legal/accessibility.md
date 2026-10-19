@@ -34,7 +34,7 @@ Some parts of the site, particularly embedded maps, third-party scheduling widge
 
 If you have trouble accessing any page, form, or document on this site, or if you need information in an alternate format, contact us directly and we will do our best to help right away, including by phone if that is easier than navigating the site.
 
-Email: Jason@dry1out.com
+Email: Info@dry1out.com
 Phone: (888) 379-1688
 Mail: 1235 Activity Dr, Vista, CA 92081
 

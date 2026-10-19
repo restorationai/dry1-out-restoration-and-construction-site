@@ -37,7 +37,7 @@ Biohazard and trauma cleanup is handled discreetly for both residential and comm
 
 ## Coverage and how fast we can get there
 
-Fremont sits along the I-880 and I-680 corridors, with CA-84 and the Dumbarton Bridge connecting the Ardenwood area to the Peninsula. Those routes let our dispatched crews reach neighborhoods throughout the city, from Mission San Jose and Niles on the east side to Centerville and the 94536 and 94538 ZIP codes near the city center, without relying on a single access road. Dispatch is coordinated through our headquarters in Vista, CA, and because we operate 24/7, a call placed in the middle of the night gets a scheduled response rather than a voicemail. We don't quote arrival-time minutes we can't guarantee for every part of the city, but we do commit to prompt scheduling the moment you call.
+Fremont sits along the I-880 and I-680 corridors, with CA-84 and the Dumbarton Bridge connecting the Ardenwood area to the Peninsula. Those routes let our dispatched crews reach neighborhoods throughout the city, from Mission San Jose and Niles on the east side to Centerville and the 94536 and 94538 ZIP codes near the city center, without relying on a single access road. Dispatch is coordinated through our Hayward location, and because we operate 24/7, a call placed in the middle of the night gets a scheduled response rather than a voicemail. We don't quote arrival-time minutes we can't guarantee for every part of the city, but we do commit to prompt scheduling the moment you call.
 
 ## Building stock, site conditions, and permits in Fremont
 

@@ -2,7 +2,7 @@
 archetype: "service-landing"
 title: "Industrial Restoration in Vista | Dry 1 Out Restoration and Construction"
 h1: "Industrial Restoration in Vista"
-meta_description: "24/7 industrial restoration in Vista and surrounding areas. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
+meta_description: "24/7 industrial restoration in Vista, Hayward and surrounding areas. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "industrial restoration vista"
 secondary_keywords: ["industrial water damage", "warehouse restoration", "manufacturing facility restoration", "industrial fire damage", "plant restoration services"]
 search_intent: "local_b2b"
@@ -55,6 +55,6 @@ Vista's industrial corridor runs mostly flat-roof, tilt-up concrete and metal-pa
 
 ## Service area
 
-We respond to industrial and manufacturing facilities throughout Vista and the surrounding North County San Diego area, including Oceanside, Carlsbad, San Marcos, and Escondido.
+We respond to industrial and manufacturing facilities throughout Vista and the surrounding North County San Diego area, including Oceanside, Carlsbad, San Marcos, and Escondido. From our Hayward location we also cover the Bay Area, including Oakland, Fremont, San Jose, and San Francisco.
 
 If your facility has standing water, fire or smoke damage, or equipment exposed to either, call (888) 379-1688 to get an industrial restoration assessment started and a written scope in hand before work begins.

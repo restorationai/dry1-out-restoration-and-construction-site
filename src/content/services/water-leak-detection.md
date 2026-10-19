@@ -2,7 +2,7 @@
 archetype: "service-landing"
 title: "Water Leak Detection in Vista | Dry 1 Out Restoration and Construction"
 h1: "Water Leak Detection in Vista"
-meta_description: "24/7 water leak detection in Vista and surrounding areas. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
+meta_description: "24/7 water leak detection in Vista, Hayward and surrounding areas. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "water leak detection vista"
 secondary_keywords: ["leak detection", "hidden water leak", "slab leak detection", "water leak in wall", "leak detection service"]
 search_intent: "local_emergency"
@@ -55,6 +55,6 @@ Vista's older neighborhoods still have copper and galvanized supply lines from b
 
 ## Service area
 
-We cover Vista and the surrounding North County communities, including Oceanside, Carlsbad, San Marcos, Escondido, and Vista's neighboring unincorporated areas. Housing stock across this region ranges from older slab-on-grade homes to newer multi-story construction, and our approach adjusts to match the plumbing layout and foundation type in each.
+We cover Vista and the surrounding North County communities, including Oceanside, Carlsbad, San Marcos, Escondido, and Vista's neighboring unincorporated areas. Housing stock across this region ranges from older slab-on-grade homes to newer multi-story construction, and our approach adjusts to match the plumbing layout and foundation type in each. From our Hayward location we also cover the Bay Area, including Oakland, Fremont, San Jose, and San Francisco.
 
 If something feels off with your water use or you've noticed a damp spot that won't dry, schedule a leak detection inspection before it becomes a repair job. Call (888) 379-1688 to get a technician out and get a clear answer on where the water is actually coming from.

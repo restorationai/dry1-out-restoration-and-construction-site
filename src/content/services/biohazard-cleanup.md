@@ -2,7 +2,7 @@
 archetype: "service-landing"
 title: "24/7 Emergency Biohazard Cleanup in Vista | Dry 1 Out Restoration and Construction"
 h1: "24/7 Emergency Biohazard Cleanup in Vista"
-meta_description: "24/7 emergency biohazard cleanup in Vista and surrounding areas. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
+meta_description: "24/7 emergency biohazard cleanup in Vista, Hayward and surrounding areas. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "biohazard cleanup vista"
 secondary_keywords: ["biohazard remediation", "blood cleanup", "bodily fluid cleanup", "sharps and needle cleanup", "infectious material cleanup"]
 search_intent: "local_sensitive"
@@ -49,6 +49,6 @@ Costs vary with the size of the affected area, how far contamination spread into
 
 ## Service area
 
-We respond to biohazard calls throughout Vista and nearby North County communities including Oceanside, Carlsbad, San Marcos, and Escondido. Vista's mix of older single-story homes and multi-unit properties means subfloor and crawlspace exposure varies from job to job, which we account for during the initial assessment.
+We respond to biohazard calls throughout Vista and nearby North County communities including Oceanside, Carlsbad, San Marcos, and Escondido. Vista's mix of older single-story homes and multi-unit properties means subfloor and crawlspace exposure varies from job to job, which we account for during the initial assessment. From our Hayward location we also cover the Bay Area, including Oakland, Fremont, San Jose, and San Francisco.
 
 If you're facing a biohazard situation in a home or business, you don't need to manage it alone or guess at the right way to clean it. Call (888) 379-1688 to begin discreet biohazard cleanup with a licensed, IICRC-certified crew that handles the documentation your insurance claim will need.

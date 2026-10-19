@@ -2,7 +2,7 @@
 archetype: "service-landing"
 title: "Commercial Restoration in Vista | Dry 1 Out Restoration and Construction"
 h1: "Commercial Restoration in Vista"
-meta_description: "24/7 commercial restoration in Vista and surrounding areas. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
+meta_description: "24/7 commercial restoration in Vista, Hayward and surrounding areas. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "commercial restoration vista"
 secondary_keywords: ["commercial water damage", "commercial fire damage", "business restoration", "office restoration", "retail restoration"]
 search_intent: "local_b2b"
@@ -54,6 +54,6 @@ Vista's dry season brings a higher risk of electrical and kitchen-equipment fire
 
 ## Service area
 
-Commercial restoration work is based out of Vista and covers surrounding North County San Diego communities including Oceanside, Carlsbad, San Marcos, and Escondido, serving offices, retail centers, restaurants, and multi-tenant buildings throughout the area.
+Commercial restoration work is based out of Vista and covers surrounding North County San Diego communities including Oceanside, Carlsbad, San Marcos, and Escondido, serving offices, retail centers, restaurants, and multi-tenant buildings throughout the area. From our Hayward location we also cover the Bay Area, including Oakland, Fremont, San Jose, and San Francisco.
 
 If a leak, fire, or smoke event has your business weighing lost revenue against downtime, call (888) 379-1688 to get a commercial restoration scope started. Dry 1 Out Restoration and Construction answers 24/7 and works directly with property managers and business owners to get commercial space back in operation.

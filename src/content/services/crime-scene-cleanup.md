@@ -2,7 +2,7 @@
 archetype: "service-landing"
 title: "24/7 Emergency Crime Scene Cleanup in Vista | Dry 1 Out Restoration and Construction"
 h1: "24/7 Emergency Crime Scene Cleanup in Vista"
-meta_description: "24/7 emergency crime scene cleanup in Vista and surrounding areas. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
+meta_description: "24/7 emergency crime scene cleanup in Vista, Hayward and surrounding areas. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "crime scene cleanup vista"
 secondary_keywords: ["crime scene cleaning", "forensic cleanup", "post-crime cleanup", "homicide cleanup", "suicide scene cleanup"]
 search_intent: "local_sensitive"
@@ -52,6 +52,6 @@ Many homeowners insurance policies include coverage for trauma or crime scene cl
 
 ## Service area
 
-We respond to crime scene and trauma cleanup calls throughout Vista and the surrounding North County communities, including Oceanside, Carlsbad, San Marcos, and Escondido. Our technicians arrive in unmarked vehicles and keep the scope of the job between the family, the property owner, and the insurance carrier.
+We respond to crime scene and trauma cleanup calls throughout Vista and the surrounding North County communities, including Oceanside, Carlsbad, San Marcos, and Escondido. Our technicians arrive in unmarked vehicles and keep the scope of the job between the family, the property owner, and the insurance carrier. From our Hayward location we also cover the Bay Area, including Oakland, Fremont, San Jose, and San Francisco.
 
 If you're facing a property that needs crime scene cleanup, call Dry 1 Out Restoration and Construction at (888) 379-1688 to begin discreet biohazard cleanup and get the space documented, cleaned, and cleared for reentry.

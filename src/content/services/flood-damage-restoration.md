@@ -2,7 +2,7 @@
 archetype: "service-landing"
 title: "24/7 Emergency Flood Damage Restoration in Vista | Dry 1 Out Restoration and Construction"
 h1: "24/7 Emergency Flood Damage Restoration in Vista"
-meta_description: "24/7 emergency flood damage restoration in Vista and surrounding areas. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
+meta_description: "24/7 emergency flood damage restoration in Vista, Hayward and surrounding areas. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "flood damage restoration vista"
 secondary_keywords: ["flood cleanup", "flood restoration", "post-flood restoration", "residential flood damage", "flood damage repair"]
 search_intent: "local_emergency"
@@ -53,6 +53,6 @@ Vista and the surrounding North County inland valleys see most flood events duri
 
 ## Service area
 
-Dry 1 Out Restoration and Construction responds to flood damage throughout Vista and nearby North San Diego County communities including Oceanside, Carlsbad, San Marcos, and Escondido.
+Dry 1 Out Restoration and Construction responds to flood damage throughout Vista and nearby North San Diego County communities including Oceanside, Carlsbad, San Marcos, and Escondido. From our Hayward location we also cover the Bay Area, including Oakland, Fremont, San Jose, and San Francisco.
 
 If floodwater has entered your home, don't wait for it to recede on its own; call (888) 379-1688 to schedule a flood damage assessment and get extraction and drying started before contamination spreads further into the structure.

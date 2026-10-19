@@ -2,7 +2,7 @@
 archetype: "service-landing"
 title: "24/7 Emergency Water Removal & Cleanup in Vista | Dry 1 Out Restoration and Construction"
 h1: "24/7 Emergency Water Removal & Cleanup in Vista"
-meta_description: "24/7 emergency water removal & cleanup in Vista and surrounding areas. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
+meta_description: "24/7 emergency water removal & cleanup in Vista, Hayward and surrounding areas. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "emergency water removal & cleanup vista"
 secondary_keywords: ["emergency water removal", "water extraction", "water removal", "water cleanup", "emergency water cleanup", "standing water removal"]
 search_intent: "local_emergency"
@@ -59,6 +59,6 @@ Vista doesn't deal with freeze-thaw pipe bursts the way colder climates do, but 
 
 ## Service area
 
-Dry 1 Out Restoration and Construction responds to emergency water removal calls throughout Vista and nearby North County communities including [Oceanside](/service-areas/oceanside-ca/water-damage-restoration/), [Carlsbad](/service-areas/carlsbad-ca/water-damage-restoration/), [San Marcos](/service-areas/san-marcos-ca/water-damage-restoration/), and [Escondido](/service-areas/escondido-ca/water-damage-restoration/).
+Dry 1 Out Restoration and Construction responds to emergency water removal calls throughout Vista and nearby North County communities including [Oceanside](/service-areas/oceanside-ca/water-damage-restoration/), [Carlsbad](/service-areas/carlsbad-ca/water-damage-restoration/), [San Marcos](/service-areas/san-marcos-ca/water-damage-restoration/), and [Escondido](/service-areas/escondido-ca/water-damage-restoration/). From our Hayward location we also cover the Bay Area, including Oakland, Fremont, San Jose, and San Francisco.
 
 If water is actively spreading through your home, every hour changes what can be saved. Call (888) 379-1688 now to get extraction equipment moving and stop the damage from spreading further.

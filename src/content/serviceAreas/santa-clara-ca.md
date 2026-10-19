@@ -31,7 +31,7 @@ Water damage restoration is our most frequent call in Santa Clara, usually tied 
 
 ## Coverage and how fast we can get there
 
-We're based in Vista, CA, and reach Santa Clara primarily via I-5 and US-101, which puts us within range for scheduled and emergency dispatch across the city, including the Old Quad, Rivermark, and the El Camino Real corridor, and ZIP codes 95050, 95051, and 95054. We answer calls 24/7, and because water and fire damage worsen by the hour, dispatch priority goes to active leaks, standing water, and post-fire stabilization first. For Rivermark's newer condo buildings, that often means coordinating with an HOA or property manager on access; for Old Quad's older single-family homes, it usually means a more direct scope conversation with the owner.
+Our Hayward location reaches Santa Clara primarily via I-880 and US-101, which puts us within range for scheduled and emergency dispatch across the city, including the Old Quad, Rivermark, and the El Camino Real corridor, and ZIP codes 95050, 95051, and 95054. We answer calls 24/7, and because water and fire damage worsen by the hour, dispatch priority goes to active leaks, standing water, and post-fire stabilization first. For Rivermark's newer condo buildings, that often means coordinating with an HOA or property manager on access; for Old Quad's older single-family homes, it usually means a more direct scope conversation with the owner.
 
 ## Building stock, site conditions, and permits in Santa Clara
 

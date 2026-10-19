@@ -2,7 +2,7 @@
 archetype: "service-landing"
 title: "24/7 Emergency Burst Pipe Cleanup and Repair in Vista | Dry 1 Out Restoration and Construction"
 h1: "24/7 Emergency Burst Pipe Cleanup and Repair in Vista"
-meta_description: "24/7 emergency burst pipe cleanup and repair in Vista and surrounding areas. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
+meta_description: "24/7 emergency burst pipe cleanup and repair in Vista, Hayward and surrounding areas. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "burst pipe cleanup and repair vista"
 secondary_keywords: ["burst pipe cleanup", "pipe burst emergency", "pipe break water damage", "water line break", "emergency pipe repair"]
 search_intent: "local_emergency"
@@ -55,6 +55,6 @@ Vista doesn't see the hard freezes that cause pipe bursts across much of the cou
 
 ## Service Area
 
-Dry 1 Out Restoration and Construction responds to burst pipe emergencies in Vista and throughout North County San Diego, including San Marcos, Oceanside, Carlsbad, and Escondido.
+Dry 1 Out Restoration and Construction responds to burst pipe emergencies in Vista and throughout North County San Diego, including San Marcos, Oceanside, Carlsbad, and Escondido. From our Hayward location we also cover the Bay Area, including Oakland, Fremont, San Jose, and San Francisco.
 
 If water is actively running somewhere it shouldn't be, shut off the source if you can reach it safely and call (888) 379-1688. Crews are available 24/7 to start extraction and get the drying equipment running before the damage spreads any further.

@@ -22,7 +22,7 @@ Dry 1 Out Restoration and Construction collects only the information needed to r
 
 We use your information to respond to inquiries, schedule estimates, and prepare documentation for insurance coordination when you ask us to work with your carrier. We do not sell or rent your information. We share details with third parties only when you authorize us to, such as forwarding photos and scope notes to your insurance adjuster, or when required by law.
 
-We retain project-related records for as long as reasonably necessary to support warranty claims, insurance disputes, and our own accounting requirements, then remove them from active systems. California residents have rights under the CCPA to request access to, or deletion of, personal information we hold about them. Because we operate as a US-based contractor and do not knowingly collect data from visitors in the European Union, GDPR obligations generally do not apply to us, though we will honor reasonable requests consistent with its principles. Questions about your data can be directed to Jason@dry1out.com or (888) 379-1688.
+We retain project-related records for as long as reasonably necessary to support warranty claims, insurance disputes, and our own accounting requirements, then remove them from active systems. California residents have rights under the CCPA to request access to, or deletion of, personal information we hold about them. Because we operate as a US-based contractor and do not knowingly collect data from visitors in the European Union, GDPR obligations generally do not apply to us, though we will honor reasonable requests consistent with its principles. Questions about your data can be directed to Info@dry1out.com or (888) 379-1688.
 
 ## Terms of Service
 
@@ -36,4 +36,4 @@ Disputes arising from services performed should first be raised directly with ou
 
 ## Accessibility Statement
 
-We aim to design this website to meet WCAG 2.1 Level AA guidelines and to work with common screen-reader software. If you encounter a page or feature that is difficult to access, please contact us at Jason@dry1out.com or (888) 379-1688 with the page and issue you ran into. We will review reported issues and work to address them within a reasonable timeframe.
+We aim to design this website to meet WCAG 2.1 Level AA guidelines and to work with common screen-reader software. If you encounter a page or feature that is difficult to access, please contact us at Info@dry1out.com or (888) 379-1688 with the page and issue you ran into. We will review reported issues and work to address them within a reasonable timeframe.

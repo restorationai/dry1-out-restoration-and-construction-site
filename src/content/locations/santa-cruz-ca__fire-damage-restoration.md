@@ -30,7 +30,7 @@ Santa Cruz's housing stock skews older west of downtown, with Craftsman-era bung
 
 We start with a room-by-room assessment to separate what's salvageable from what isn't, then move into soot and residue removal using HEPA vacuums and dry-chem sponges suited to the specific char type, protein, synthetic, or wet smoke residue each burns differently and responds to different cleaning agents. Structural materials get treated for odor with thermal fogging or ozone, depending on occupancy timeline, and any firefighting water left behind gets extracted and dried per the IICRC S500 standard before we close up walls. In coastal neighborhoods like Seabright, where salt air already accelerates corrosion on metal fixtures and fasteners, we move faster on exposed hardware because smoke acid combined with marine humidity pits chrome and steel within days instead of weeks.
 
-## Reaching Santa Cruz from Vista
+## Reaching Santa Cruz from Hayward
 
 We cover Santa Cruz and the surrounding coastline, including Downtown, the Eastside, and the UC Santa Cruz area, and we coordinate arrival times by phone before a crew rolls so you're not guessing when help shows up. Properties near the Boardwalk and Wharf tend to have tighter street parking and seasonal tourist congestion, so we build that into scheduling rather than promising a universal arrival window. If you're in 95060 or 95062 and dealing with active smoke odor, call first and we'll walk you through what to shut off and what to leave alone until we arrive.
 

@@ -2,7 +2,7 @@
 archetype: "service-landing"
 title: "24/7 Emergency Trauma Scene Cleanup in Vista | Dry 1 Out Restoration and Construction"
 h1: "24/7 Emergency Trauma Scene Cleanup in Vista"
-meta_description: "24/7 emergency trauma scene cleanup in Vista and surrounding areas. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
+meta_description: "24/7 emergency trauma scene cleanup in Vista, Hayward and surrounding areas. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "trauma scene cleanup vista"
 secondary_keywords: ["trauma cleanup services", "trauma scene cleaning", "accident scene cleanup", "crime and trauma decontamination", "emergency trauma cleanup"]
 search_intent: "local_sensitive"
@@ -56,6 +56,6 @@ Costs vary widely depending on the size of the affected area, the materials invo
 
 ## Service area
 
-Dry 1 Out handles trauma scene cleanup throughout Vista and nearby San Diego County communities, including Oceanside, Carlsbad, San Marcos, and Escondido. Crews travel to residential properties, rental units, and commercial buildings across the region, and are reachable 24/7 for this type of call.
+Dry 1 Out handles trauma scene cleanup throughout Vista and nearby San Diego County communities, including Oceanside, Carlsbad, San Marcos, and Escondido. Crews travel to residential properties, rental units, and commercial buildings across the region, and are reachable 24/7 for this type of call. From our Hayward location we also cover the Bay Area, including Oakland, Fremont, San Jose, and San Francisco.
 
 If your family or property is facing a trauma scene cleanup, you don't have to manage it alone or figure out the right products yourself. Call Dry 1 Out at (888) 379-1688 to begin discreet trauma scene cleanup with a trained crew that handles the details, including insurance documentation, from start to finish.

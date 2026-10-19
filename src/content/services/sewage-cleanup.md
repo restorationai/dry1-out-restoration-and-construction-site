@@ -2,7 +2,7 @@
 archetype: "service-landing"
 title: "24/7 Emergency Sewage Cleanup and Sanitization in Vista | Dry 1 Out Restoration and Construction"
 h1: "24/7 Emergency Sewage Cleanup and Sanitization in Vista"
-meta_description: "24/7 emergency sewage cleanup and sanitization in Vista and surrounding areas. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
+meta_description: "24/7 emergency sewage cleanup and sanitization in Vista, Hayward and surrounding areas. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "sewage cleanup and sanitization vista"
 secondary_keywords: ["sewage backup cleanup", "raw sewage removal", "septic overflow cleanup", "sewer line backup", "sanitization services"]
 search_intent: "local_emergency"
@@ -49,6 +49,6 @@ Costs vary with how far the sewage spread, what materials were affected, and whe
 
 ## Service area
 
-Dry 1 Out Restoration and Construction handles sewage cleanup and sanitization throughout Vista and nearby North County communities, including Oceanside, San Marcos, Carlsbad, and Escondido. Older Vista neighborhoods with cast-iron or clay sewer laterals are more prone to root intrusion and line failures than homes with newer PVC plumbing, something crews account for when assessing whether a backup is likely to recur.
+Dry 1 Out Restoration and Construction handles sewage cleanup and sanitization throughout Vista and nearby North County communities, including Oceanside, San Marcos, Carlsbad, and Escondido. Older Vista neighborhoods with cast-iron or clay sewer laterals are more prone to root intrusion and line failures than homes with newer PVC plumbing, something crews account for when assessing whether a backup is likely to recur. From our Hayward location we also cover the Bay Area, including Oakland, Fremont, San Jose, and San Francisco.
 
 If sewage has backed up into your home or business, don't wait for it to sit. Call (888) 379-1688 to begin sewage cleanup and sanitization before contamination spreads further into the structure.

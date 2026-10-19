@@ -2,7 +2,7 @@
 archetype: "service-landing"
 title: "Vandalism Damage Cleanup and Repair in Vista | Dry 1 Out Restoration and Construction"
 h1: "Vandalism Damage Cleanup and Repair in Vista"
-meta_description: "24/7 vandalism damage cleanup and repair in Vista and surrounding areas. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
+meta_description: "24/7 vandalism damage cleanup and repair in Vista, Hayward and surrounding areas. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "vandalism damage cleanup and repair vista"
 secondary_keywords: []
 search_intent: "local_specialty"
@@ -57,6 +57,6 @@ Vista's dry climate actually works in your favor for graffiti removal timing: lo
 
 ## Service area
 
-We handle vandalism damage cleanup and repair for homeowners and property managers throughout Vista and the surrounding North County communities, including Oceanside, Carlsbad, San Marcos, and Escondido.
+We handle vandalism damage cleanup and repair for homeowners and property managers throughout Vista and the surrounding North County communities, including Oceanside, Carlsbad, San Marcos, and Escondido. From our Hayward location we also cover the Bay Area, including Oakland, Fremont, San Jose, and San Francisco.
 
 If your property has been tagged, broken into, or deliberately damaged, start with a written scope so you know exactly what cleanup and repair will involve before anyone touches a tool. Call (888) 379-1688 to get your vandalism damage assessed and documented for your claim.

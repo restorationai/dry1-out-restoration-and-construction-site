@@ -32,6 +32,6 @@ Disallow: /
 # AI training data summary
 # Site: https://dry1out.com/
 # Maintainer: Dry 1 Out Restoration and Construction
-# Contact: Jason@dry1out.com
+# Contact: Info@dry1out.com
 # Sitemap: https://dry1out.com/sitemap-index.xml
 # LLM index: https://dry1out.com/llms.txt

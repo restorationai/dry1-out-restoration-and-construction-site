@@ -2,7 +2,7 @@
 archetype: "service-landing"
 title: "Mold Inspection and Testing in Vista | Dry 1 Out Restoration and Construction"
 h1: "Mold Inspection and Testing in Vista"
-meta_description: "24/7 mold inspection and testing in Vista and surrounding areas. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
+meta_description: "24/7 mold inspection and testing in Vista, Hayward and surrounding areas. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "mold inspection and testing vista"
 secondary_keywords: ["mold inspection", "mold testing", "indoor air quality testing", "mold spore testing", "mold assessment"]
 search_intent: "local_health"
@@ -55,6 +55,6 @@ Vista's marine-layer humidity and the warm, dry stretches that follow it create 
 
 ## Service area
 
-Dry 1 Out Restoration and Construction performs mold inspection and testing throughout Vista and nearby communities including Oceanside, Carlsbad, San Marcos, and Escondido.
+Dry 1 Out Restoration and Construction performs mold inspection and testing throughout Vista and nearby communities including Oceanside, Carlsbad, San Marcos, and Escondido. From our Hayward location we also cover the Bay Area, including Oakland, Fremont, San Jose, and San Francisco.
 
 If something in your home smells off, looks stained, or has you second-guessing the air you're breathing, request an air quality test and get a lab-backed answer instead of a guess. Call (888) 379-1688 to schedule an inspection.

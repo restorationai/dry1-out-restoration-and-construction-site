@@ -2,7 +2,7 @@
 archetype: "service-landing"
 title: "Vehicle Impact Damage Repair in Vista | Dry 1 Out Restoration and Construction"
 h1: "Vehicle Impact Damage Repair in Vista"
-meta_description: "24/7 vehicle impact damage repair in Vista and surrounding areas. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
+meta_description: "24/7 vehicle impact damage repair in Vista, Hayward and surrounding areas. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "vehicle impact damage repair vista"
 secondary_keywords: []
 search_intent: "local_specialty"
@@ -55,6 +55,6 @@ In Vista, impact damage calls tend to cluster around driveways, carports, and at
 
 ## Service area
 
-We handle vehicle impact damage repair at homes and businesses throughout Vista and the surrounding San Diego North County communities, from Oceanside to San Marcos to Escondido.
+We handle vehicle impact damage repair at homes and businesses throughout Vista and the surrounding San Diego North County communities, from Oceanside to San Marcos to Escondido. From our Hayward location we also cover the Bay Area, including Oakland, Fremont, San Jose, and San Francisco.
 
 If a vehicle has struck your home, garage, or fence, don't wait on the structural question to answer itself. Call Dry 1 Out Restoration and Construction at (888) 379-1688 to get the opening stabilized and start a written repair scope.

@@ -1,5 +1,6 @@
 ---
 import { brand } from "~/lib/brand";
+import { officeCityFor } from "~/lib/dispatch";
 
 type Props = {
   city: string;
@@ -19,11 +20,11 @@ const sectionHeading =
 // The OFFICE is addressCity/addressState (where we physically are), not
 // primaryCity (what we market hardest) — those differ for cross-border
 // clients like DISS (Farrell PA office, Youngstown OH target).
-const hqCity = brand.addressCity || brand.primaryCity;
+const hqCity = officeCityFor(city) === "Hayward" ? "Hayward" : (brand.addressCity || brand.primaryCity);
 const hqState = brand.addressState || brand.primaryState;
 const remote = hqCity && city && hqCity.toLowerCase() !== city.toLowerCase();
 const servingLine = remote
-  ? `Serving ${city} from our ${hqCity}, ${hqState} office`
+  ? `Serving ${city} from our ${hqCity}, ${hqState} ${hqCity === "Hayward" ? "location" : "office"}`
   : `Serving ${city} and surrounding neighborhoods`;
 
 // Free Google Maps embed of the client's REAL Business Profile — no API key needed,

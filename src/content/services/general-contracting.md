@@ -2,7 +2,7 @@
 archetype: "service-landing"
 title: "Renovations, Remodels and General Contracting in Vista | Dry 1 Out Restoration and Construction"
 h1: "Renovations, Remodels and General Contracting in Vista"
-meta_description: "24/7 renovations, remodels and general contracting in Vista and surrounding areas. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
+meta_description: "24/7 renovations, remodels and general contracting in Vista, Hayward and surrounding areas. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "renovations, remodels and general contracting vista"
 secondary_keywords: ["general contractor", "home renovation services", "home remodeling", "kitchen remodel", "bathroom remodel", "post-damage rebuild"]
 search_intent: "local_commercial"
@@ -54,6 +54,6 @@ Vista's inland valley heat and dry Santa Ana wind seasons put extra stress on ex
 
 ## Service area
 
-Dry 1 Out Restoration and Construction handles renovation, remodel, and general contracting work throughout Vista and nearby communities including Oceanside, Carlsbad, San Marcos, and Escondido.
+Dry 1 Out Restoration and Construction handles renovation, remodel, and general contracting work throughout Vista and nearby communities including Oceanside, Carlsbad, San Marcos, and Escondido. From our Hayward location we also cover the Bay Area, including Oakland, Fremont, San Jose, and San Francisco.
 
 If a room in your home needs more than a patch, whether it's a remodel you've been putting off or a rebuild after a covered loss, get a reconstruction scope of work from Dry 1 Out Restoration and Construction before you sign off on any demo. Call (888) 379-1688 to start the conversation.

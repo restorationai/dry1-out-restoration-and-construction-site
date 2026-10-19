@@ -2,7 +2,7 @@
 archetype: "service-landing"
 title: "24/7 Emergency Storm Damage Restoration in Vista | Dry 1 Out Restoration and Construction"
 h1: "24/7 Emergency Storm Damage Restoration in Vista"
-meta_description: "24/7 emergency storm damage restoration in Vista and surrounding areas. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
+meta_description: "24/7 emergency storm damage restoration in Vista, Hayward and surrounding areas. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "storm damage restoration vista"
 secondary_keywords: ["hurricane damage cleanup", "tornado damage cleanup", "tree damage cleanup", "storm cleanup services", "severe weather damage repair"]
 search_intent: "local_emergency"
@@ -53,6 +53,6 @@ Vista's storm risk comes in two distinct forms: winter atmospheric river systems
 
 ## Service area
 
-Dry 1 Out Restoration and Construction responds to storm damage throughout Vista and surrounding North County communities including Oceanside, Carlsbad, San Marcos, Escondido, and Bonsall.
+Dry 1 Out Restoration and Construction responds to storm damage throughout Vista and surrounding North County communities including Oceanside, Carlsbad, San Marcos, Escondido, and Bonsall. From our Hayward location we also cover the Bay Area, including Oakland, Fremont, San Jose, and San Francisco.
 
 If a tree, torn roofing, or wind-driven rain has breached your home or building, call (888) 379-1688 to get a crew out to secure the structure and start the drying process before the damage spreads further.

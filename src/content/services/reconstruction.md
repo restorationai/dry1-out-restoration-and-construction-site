@@ -2,7 +2,7 @@
 archetype: "service-landing"
 title: "Reconstruction Services in Vista | Dry 1 Out Restoration and Construction"
 h1: "Reconstruction Services in Vista"
-meta_description: "24/7 reconstruction services in Vista and surrounding areas. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
+meta_description: "24/7 reconstruction services in Vista, Hayward and surrounding areas. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "reconstruction services vista"
 secondary_keywords: ["post-damage reconstruction", "rebuild services", "structural reconstruction", "post-disaster rebuilding", "fire damage reconstruction"]
 search_intent: "local_commercial"
@@ -59,6 +59,6 @@ Vista's dry season and surrounding brush-filled canyons mean fire-related recons
 
 ## Service area
 
-Reconstruction services are based in Vista and extend through North San Diego County, including Oceanside, Carlsbad, San Marcos, and Escondido. Local permit requirements and inspection timelines vary by jurisdiction, and we factor that into the project schedule before work begins.
+Reconstruction services are based in Vista and extend through North San Diego County, including Oceanside, Carlsbad, San Marcos, and Escondido. Local permit requirements and inspection timelines vary by jurisdiction, and we factor that into the project schedule before work begins. From our Hayward location we also cover the Bay Area, including Oakland, Fremont, San Jose, and San Francisco.
 
 If a water, fire, or storm loss has left your home needing more than cleanup, get a reconstruction scope of work before any rebuilding starts. Call (888) 379-1688 to walk through what's involved and what it will take to put the space back together correctly.

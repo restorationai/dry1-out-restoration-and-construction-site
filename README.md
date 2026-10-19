@@ -31,7 +31,7 @@ These `{{TOKEN}}` strings are substituted by `build_site.py scaffold` from `plan
 | `dry1out.com` | client record `domain` | `narestco.com` |
 | `https://dry1out.com` | derived | `https://narestco.com` |
 | `(760) 576-1987` / `+17605761987` | brand.phone | `(206) 883-0333` / `+12068830333` |
-| `Jason@dry1out.com` | brand.email | `info@narestco.com` |
+| `Info@dry1out.com` | brand.email | `info@narestco.com` |
 | `24/7` | brand.hours | `24/7` |
 | `2026` | brand.founded_year | `2004` |
 | `Vista` / `CA` | derived from primary area | `Federal Way` / `WA` |

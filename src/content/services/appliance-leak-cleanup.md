@@ -2,7 +2,7 @@
 archetype: "service-landing"
 title: "24/7 Emergency Appliance Leak Cleanup in Vista | Dry 1 Out Restoration and Construction"
 h1: "24/7 Emergency Appliance Leak Cleanup in Vista"
-meta_description: "24/7 emergency appliance leak cleanup in Vista and surrounding areas. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
+meta_description: "24/7 emergency appliance leak cleanup in Vista, Hayward and surrounding areas. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "appliance leak cleanup vista"
 secondary_keywords: ["dishwasher leak cleanup", "washing machine flood", "refrigerator leak cleanup", "water heater leak cleanup", "ice maker line leak"]
 search_intent: "local_emergency"
@@ -60,6 +60,6 @@ Vista's mix of older slab-on-grade homes and newer two-story construction change
 
 ## Service area
 
-We respond to appliance leak calls throughout Vista and the surrounding North County communities, including Oceanside, Carlsbad, San Marcos, and Escondido.
+We respond to appliance leak calls throughout Vista and the surrounding North County communities, including Oceanside, Carlsbad, San Marcos, and Escondido. From our Hayward location we also cover the Bay Area, including Oakland, Fremont, San Jose, and San Francisco.
 
 If an appliance is actively leaking or you've found a damp cabinet floor you can't explain, call (888) 379-1688 to start appliance leak cleanup before the water spreads any further into subfloor or framing.

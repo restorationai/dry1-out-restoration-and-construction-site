@@ -2,7 +2,7 @@
 archetype: "service-landing"
 title: "24/7 Emergency Water Damage Restoration in Vista | Dry 1 Out Restoration and Construction"
 h1: "24/7 Emergency Water Damage Restoration in Vista"
-meta_description: "24/7 emergency water damage restoration in Vista and surrounding areas. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
+meta_description: "24/7 emergency water damage restoration in Vista, Hayward and surrounding areas. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "water damage restoration vista"
 secondary_keywords: ["water removal", "water extraction", "water cleanup", "structural drying", "water mitigation"]
 search_intent: "local_emergency"
@@ -59,6 +59,6 @@ Vista's rainy season generally runs from December through March, and that's when
 
 ## Service area
 
-Dry 1 Out Restoration and Construction serves [Vista](/service-areas/vista-ca/) and the surrounding North San Diego County communities. If you're searching from a nearby city, our location pages for [Oceanside](/service-areas/oceanside-ca/water-damage-restoration/), [Carlsbad](/service-areas/carlsbad-ca/water-damage-restoration/), [San Marcos](/service-areas/san-marcos-ca/water-damage-restoration/) and [Escondido](/service-areas/escondido-ca/water-damage-restoration/) cover water damage response details specific to each area.
+Dry 1 Out Restoration and Construction serves [Vista](/service-areas/vista-ca/) and the surrounding North San Diego County communities. If you're searching from a nearby city, our location pages for [Oceanside](/service-areas/oceanside-ca/water-damage-restoration/), [Carlsbad](/service-areas/carlsbad-ca/water-damage-restoration/), [San Marcos](/service-areas/san-marcos-ca/water-damage-restoration/) and [Escondido](/service-areas/escondido-ca/water-damage-restoration/) cover water damage response details specific to each area. From our Hayward location we also cover the Bay Area, including Oakland, Fremont, San Jose, and San Francisco.
 
 If water is actively spreading through your home or business right now, don't wait for it to find its way into the next wall cavity. Call (888) 379-1688 to schedule your moisture assessment and get extraction equipment on site.

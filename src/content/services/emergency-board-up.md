@@ -2,7 +2,7 @@
 archetype: "service-landing"
 title: "24/7 Emergency Board Up in Vista | Dry 1 Out Restoration and Construction"
 h1: "24/7 Emergency Board Up in Vista"
-meta_description: "24/7 emergency board up in Vista and surrounding areas. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
+meta_description: "24/7 emergency board up in Vista, Hayward and surrounding areas. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "emergency board up vista"
 secondary_keywords: []
 search_intent: "local_specialty"
@@ -55,6 +55,6 @@ Vista and the rest of North County San Diego see offshore Santa Ana wind events 
 
 ## Service area
 
-Dry 1 Out Restoration and Construction answers board up calls throughout Vista and nearby North County communities including Oceanside, Carlsbad, San Marcos, Escondido, and Bonsall.
+Dry 1 Out Restoration and Construction answers board up calls throughout Vista and nearby North County communities including Oceanside, Carlsbad, San Marcos, Escondido, and Bonsall. From our Hayward location we also cover the Bay Area, including Oakland, Fremont, San Jose, and San Francisco.
 
 If an opening in your home or building needs to be secured right now, call (888) 379-1688 to get a crew started on emergency board up before the next storm or nightfall adds to the loss.

@@ -35,7 +35,7 @@ const sinceClause =
     ? `, and has served local property owners since ${foundedNum}` : "";
 const serviceLower = data.service_display.toLowerCase();
 const bestCompanyAnswer = [
-  `${brand.displayName} provides ${isLicensed ? "licensed and insured " : ""}${serviceLower} in ${brand.primaryCity}, ${brand.primaryState} and the surrounding area${sinceClause}.`,
+  `${brand.displayName} provides ${isLicensed ? "licensed and insured " : ""}${serviceLower} in ${brand.primaryCity} and Hayward, ${brand.primaryState} and the surrounding areas${sinceClause}.`,
   hasGbpRating
     ? `Customers rate us ${brand.gbpRatingValue} out of 5 stars across ${brand.gbpReviewCount} Google reviews.`
     : "",
@@ -128,7 +128,7 @@ const homeVideoId = (geoVideos as Record<string, string>)[
     </div>
   </section>
 
-  <CtaBanner heading={`Need ${data.service_display} now?`} subheading={`We respond 24/7 across ${brand.primaryCity} and surrounding ${brand.primaryState} cities.`} />
+  <CtaBanner heading={`Need ${data.service_display} now?`} subheading={`We respond 24/7 across North San Diego County and the Bay Area.`} />
 
   <InternalLinks paths={data.internal_links} heading="Related Coverage" eyebrow="Areas & Related Services" />
 </BaseLayout>

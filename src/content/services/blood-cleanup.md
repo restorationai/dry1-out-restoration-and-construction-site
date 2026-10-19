@@ -2,7 +2,7 @@
 archetype: "service-landing"
 title: "24/7 Emergency Blood Cleanup in Vista | Dry 1 Out Restoration and Construction"
 h1: "24/7 Emergency Blood Cleanup in Vista"
-meta_description: "24/7 emergency blood cleanup in Vista and surrounding areas. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
+meta_description: "24/7 emergency blood cleanup in Vista, Hayward and surrounding areas. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "blood cleanup vista"
 secondary_keywords: []
 search_intent: "local_specialty"
@@ -50,6 +50,6 @@ Costs depend heavily on the size of the affected area, how many materials need t
 
 ## Service area
 
-Dry 1 Out Restoration and Construction responds to blood cleanup calls throughout Vista and nearby North County communities including Oceanside, San Marcos, Carlsbad, and Escondido. Discretion matters on every call, and crews arrive in unmarked vehicles on request.
+Dry 1 Out Restoration and Construction responds to blood cleanup calls throughout Vista and nearby North County communities including Oceanside, San Marcos, Carlsbad, and Escondido. Discretion matters on every call, and crews arrive in unmarked vehicles on request. From our Hayward location we also cover the Bay Area, including Oakland, Fremont, San Jose, and San Francisco.
 
 If you're facing a blood cleanup situation right now, call (888) 379-1688 to begin discreet biohazard cleanup. A technician will walk you through what to avoid touching in the meantime and get a crew moving toward your property.

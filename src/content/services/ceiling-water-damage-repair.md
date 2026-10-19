@@ -2,7 +2,7 @@
 archetype: "service-landing"
 title: "24/7 Emergency Ceiling Water Damage Repair in Vista | Dry 1 Out Restoration and Construction"
 h1: "24/7 Emergency Ceiling Water Damage Repair in Vista"
-meta_description: "24/7 emergency ceiling water damage repair in Vista and surrounding areas. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
+meta_description: "24/7 emergency ceiling water damage repair in Vista, Hayward and surrounding areas. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "ceiling water damage repair vista"
 secondary_keywords: ["ceiling leaking", "water coming through ceiling", "ceiling leak repair", "sagging ceiling water damage", "water stain ceiling"]
 search_intent: "local_emergency"
@@ -55,6 +55,6 @@ Vista's rainy season runs roughly December through March, and that's when roof-r
 
 ## Service area
 
-Based in Vista, we handle ceiling water damage repair throughout North County San Diego, including Oceanside, Carlsbad, San Marcos, and Escondido, alongside Vista itself.
+Based in Vista, we handle ceiling water damage repair throughout North County San Diego, including Oceanside, Carlsbad, San Marcos, and Escondido, alongside Vista itself. From our Hayward location we also cover the Bay Area, including Oakland, Fremont, San Jose, and San Francisco.
 
 If water is actively coming through your ceiling or the drywall has started to bulge, don't wait for it to dry on its own. Call (888) 379-1688 to schedule a moisture assessment and get a written scope before the sag turns into a collapse.

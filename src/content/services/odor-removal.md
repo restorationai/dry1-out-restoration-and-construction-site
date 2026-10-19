@@ -2,7 +2,7 @@
 archetype: "service-landing"
 title: "Odor Removal and Deodorization in Vista | Dry 1 Out Restoration and Construction"
 h1: "Odor Removal and Deodorization in Vista"
-meta_description: "24/7 odor removal and deodorization in Vista and surrounding areas. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
+meta_description: "24/7 odor removal and deodorization in Vista, Hayward and surrounding areas. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "odor removal and deodorization vista"
 secondary_keywords: ["smoke odor removal", "ozone treatment", "hydroxyl deodorization", "thermal fogging", "professional odor elimination"]
 search_intent: "local_specialty"
@@ -56,6 +56,6 @@ Vista's dry, warm climate for most of the year means odor molecules in porous ma
 
 ## Service area
 
-Dry 1 Out Restoration and Construction provides odor removal and deodorization throughout Vista and nearby North County communities including Oceanside, Carlsbad, San Marcos, and Escondido.
+Dry 1 Out Restoration and Construction provides odor removal and deodorization throughout Vista and nearby North County communities including Oceanside, Carlsbad, San Marcos, and Escondido. From our Hayward location we also cover the Bay Area, including Oakland, Fremont, San Jose, and San Francisco.
 
 If a smell in your home or business hasn't gone away after cleaning, it's likely embedded in the materials rather than sitting on the surface. Call (888) 379-1688 to schedule a professional odor elimination assessment and find out what's actually causing it.

@@ -2,7 +2,7 @@
 archetype: "service-landing"
 title: "24/7 Emergency Carpet Water Extraction in Vista | Dry 1 Out Restoration and Construction"
 h1: "24/7 Emergency Carpet Water Extraction in Vista"
-meta_description: "24/7 emergency carpet water extraction in Vista and surrounding areas. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
+meta_description: "24/7 emergency carpet water extraction in Vista, Hayward and surrounding areas. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "carpet water extraction vista"
 secondary_keywords: []
 search_intent: "local_specialty"
@@ -56,6 +56,6 @@ Vista's wet season brings the heaviest risk of carpet saturation, when roof leak
 
 ## Service area
 
-We handle carpet water extraction throughout Vista and neighboring North County San Diego communities, including Oceanside, Carlsbad, San Marcos, and Escondido.
+We handle carpet water extraction throughout Vista and neighboring North County San Diego communities, including Oceanside, Carlsbad, San Marcos, and Escondido. From our Hayward location we also cover the Bay Area, including Oakland, Fremont, San Jose, and San Francisco.
 
 If carpet in your home or building is holding water right now, schedule carpet water extraction before the pad starts breaking down. Call (888) 379-1688 and we'll get extraction equipment on site to pull the water out before it turns into a mold problem.

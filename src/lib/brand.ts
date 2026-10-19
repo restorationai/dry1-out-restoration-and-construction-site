@@ -31,7 +31,7 @@ export const brand = {
   // filled by the call-tracking provisioning step).
   trackingPhone: "(760) 278-6497",
   trackingPhoneRaw: "+17602786497",
-  email: "Jason@dry1out.com",
+  email: "Info@dry1out.com",
   hours: "24/7",
   foundedYear: "2026",
   primaryCity: "Vista",
@@ -79,7 +79,7 @@ export const brand = {
     { author: "Chris", rating: 5, text: "We had a pipe burst and flood the downstairs living room, and Dry1Out was able to quickly come and get the restoration process going. Alberto and Ron were both great, explained what they were doing, and helped work with our insurance to get things taken care of. Thanks so much for you help!", when: "September 2026" },
     { author: "Christopher", rating: 5, text: "Dry1Out Flood and Fire did an amazing job handling a water damage project at one of my rental properties in Carlsbad, California. They were professional, responsive, and did excellent-quality work from start to finish. I highly recommend Dry1Out Flood and Fire to anyone needing water damage…", when: "September 2026" },
   ] as { author: string; rating: number; text: string; when: string }[],
-  tagline: "24/7 restoration services in Vista, CA.",
+  tagline: "24/7 restoration services in Vista and Hayward, CA.",
   // optional custom insurance positioning line (Hero renders only when set)
   insuranceTrustLine: "",
   ctaLabel: "24/7 Emergency Line",
@@ -92,7 +92,7 @@ export const brand = {
   tradeNoun: "restoration",
   specialistPhrase: "Damage Restoration Specialists",
   announcementSuffix: "24/7 Emergency Response",
-  homeAboutBlurb: "Dry 1 Out Restoration and Construction serves Vista and the surrounding CA area with professional damage restoration for homes and businesses. From the first emergency call to the final walkthrough, our team manages the entire recovery — and we answer the phone 24/7, so help is on the way the moment something goes wrong.",
+  homeAboutBlurb: "Dry 1 Out Restoration and Construction serves North San Diego County from Vista and the Bay Area from Hayward with professional damage restoration for homes and businesses. From the first emergency call to the final walkthrough, our team manages the entire recovery — and we answer the phone 24/7, so help is on the way the moment something goes wrong.",
 } as const;
 
 export const entityId = `${brand.canonicalUrl}/#identity`;

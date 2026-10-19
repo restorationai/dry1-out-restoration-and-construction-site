@@ -5,7 +5,7 @@
 // data make no review claims. The review snippet rotates deterministically by
 // city-name hash so city pages don't all show the same quote.
 import { brand } from "~/lib/brand";
-import { cityHash, isHqCity } from "~/lib/dispatch";
+import { cityHash, isHqCity, isOfficeCity, officeLabelFor } from "~/lib/dispatch";
 import { Star } from "@lucide/astro";
 
 type Props = { city: string };
@@ -18,7 +18,9 @@ const reviews = brand.gbpReviews || [];
 const review = hasRating && reviews.length > 0 ? reviews[cityHash(city) % reviews.length] : undefined;
 const heading = isHqCity(city)
   ? `Headquartered right here in ${city} — ★ ${rating} · ${count} Google reviews`
-  : `Serving ${city} from our ${brand.primaryCity} headquarters — ★ ${rating} · ${count} Google reviews`;
+  : isOfficeCity(city)
+    ? `Our ${city} location — ★ ${rating} · ${count} Google reviews`
+    : `Serving ${city} from our ${officeLabelFor(city)} — ★ ${rating} · ${count} Google reviews`;
 const reviewsUrl = brand.placeId
   ? `https://search.google.com/local/reviews?placeid=${brand.placeId}`
   : brand.googleCid

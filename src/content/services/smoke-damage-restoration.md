@@ -2,7 +2,7 @@
 archetype: "service-landing"
 title: "24/7 Emergency Smoke Damage Restoration in Vista | Dry 1 Out Restoration and Construction"
 h1: "24/7 Emergency Smoke Damage Restoration in Vista"
-meta_description: "24/7 emergency smoke damage restoration in Vista and surrounding areas. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
+meta_description: "24/7 emergency smoke damage restoration in Vista, Hayward and surrounding areas. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "smoke damage restoration vista"
 secondary_keywords: ["smoke residue cleanup", "smoke damage repair", "post-fire smoke cleanup", "smoke damage restoration services", "wildfire smoke cleanup"]
 search_intent: "local_emergency"
@@ -55,6 +55,6 @@ Vista and the surrounding North County communities sit close to wildland areas, 
 
 ## Service area
 
-Dry 1 Out Restoration and Construction provides smoke damage restoration services throughout Vista and nearby communities including Oceanside, San Marcos, Carlsbad, Escondido, and the rest of North San Diego County.
+Dry 1 Out Restoration and Construction provides smoke damage restoration services throughout Vista and nearby communities including Oceanside, San Marcos, Carlsbad, Escondido, and the rest of North San Diego County. From our Hayward location we also cover the Bay Area, including Oakland, Fremont, San Jose, and San Francisco.
 
 If smoke odor or residue is settling into your walls, cabinets, or HVAC system, don't wait for it to fade on its own. Call (888) 379-1688 to begin smoke and soot removal with a documented, insurance-ready scope of work.

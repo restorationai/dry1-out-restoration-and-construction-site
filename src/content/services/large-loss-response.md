@@ -2,7 +2,7 @@
 archetype: "service-landing"
 title: "Large Loss and Catastrophic Response in Vista | Dry 1 Out Restoration and Construction"
 h1: "Large Loss and Catastrophic Response in Vista"
-meta_description: "24/7 large loss and catastrophic response in Vista and surrounding areas. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
+meta_description: "24/7 large loss and catastrophic response in Vista, Hayward and surrounding areas. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "large loss and catastrophic response vista"
 secondary_keywords: ["large loss restoration", "catastrophic loss response", "commercial catastrophic restoration", "multi-million dollar restoration", "large loss adjusters"]
 search_intent: "local_b2b"
@@ -57,6 +57,6 @@ Vista's dry season brings Santa Ana wind events that elevate wildfire risk for c
 
 ## Service area
 
-We respond to large loss and catastrophic events throughout Vista and across North San Diego County, including Oceanside, San Marcos, Escondido, Carlsbad, and Bonsall, for commercial, multi-family, and mixed-use properties.
+We respond to large loss and catastrophic events throughout Vista and across North San Diego County, including Oceanside, San Marcos, Escondido, Carlsbad, and Bonsall, for commercial, multi-family, and mixed-use properties. From our Hayward location we also cover the Bay Area, including Oakland, Fremont, San Jose, and San Francisco.
 
 If you're managing a multi-unit or commercial loss and need a crew that can scale to the actual size of the damage, call Dry 1 Out Restoration and Construction at (888) 379-1688 to start large-loss mobilization and get a written scope in front of your adjuster fast.

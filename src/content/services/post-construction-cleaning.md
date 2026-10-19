@@ -2,7 +2,7 @@
 archetype: "service-landing"
 title: "Post-Construction and Specialty Cleaning in Vista | Dry 1 Out Restoration and Construction"
 h1: "Post-Construction and Specialty Cleaning in Vista"
-meta_description: "24/7 post-construction and specialty cleaning in Vista and surrounding areas. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
+meta_description: "24/7 post-construction and specialty cleaning in Vista, Hayward and surrounding areas. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "post-construction and specialty cleaning vista"
 secondary_keywords: ["post construction cleanup", "construction debris cleaning", "final clean", "deep cleaning after renovation"]
 search_intent: "local_service"
@@ -53,6 +53,6 @@ Vista's dry, dusty summer and fall months mean a construction site accumulates m
 
 ## Service area
 
-Dry 1 Out provides post-construction and specialty cleaning for homes and commercial properties throughout Vista and nearby North County communities including Oceanside, Carlsbad, San Marcos, and Escondido.
+Dry 1 Out provides post-construction and specialty cleaning for homes and commercial properties throughout Vista and nearby North County communities including Oceanside, Carlsbad, San Marcos, and Escondido. From our Hayward location we also cover the Bay Area, including Oakland, Fremont, San Jose, and San Francisco.
 
 If you've got a renovation or build wrapping up and the punch list calls for a final clean, get a written scope from Dry 1 Out before the trades clear out. Call (888) 379-1688 to schedule your post-construction cleaning.
