@@ -27,7 +27,7 @@ Storm damage restoration is really two jobs layered together: stopping active in
 
 1. **Safety and structural check.** Before anyone goes near standing water or a holed roof, we check for compromised framing, downed power lines, and unstable trees or limbs still resting on the structure.
 2. **Emergency tarping or board-up.** Roof openings get tarped, broken windows and doors get boarded, and any active water intrusion point gets stopped so the loss doesn't keep growing while repairs are scoped.
-3. **Water extraction and drying.** Wind-driven rain that's gotten into wall cavities, attic insulation, or flooring is extracted and dried using the same moisture-mapping approach we'd use on any water loss, because storm water behaves like any other Category 1 or 2 intrusion once it's inside the building.
+3. **Water extraction and drying.** Wind-driven rain that's gotten into wall cavities, attic insulation, or flooring is extracted and dried using the same moisture-mapping approach we'd use on any water loss. Rain that comes through a roof leak or window usually starts as Category 1 but degrades as it passes through building materials, and wind-driven storm rain or surface water flowing in from outside is treated as Category 3.
 4. **Debris and tree removal coordination.** Fallen limbs, fencing, and roofing debris get cleared so our team and any trades can safely access the damaged area for permanent repair.
 5. **Documentation and repair scope.** Photos, moisture readings, and a written scope go to you and your adjuster, covering everything from temporary protection to the reconstruction needed to close out the claim.
 
