@@ -57,6 +57,6 @@ Vista sits far enough inland from the coast that it doesn't get San Diego's heav
 
 ## Service area
 
-Dry 1 Out Restoration and Construction handles mold remediation for homeowners and property managers throughout Vista and nearby North San Diego County communities, including [Oceanside](/service-areas/oceanside-ca/mold-remediation/), [Carlsbad](/service-areas/carlsbad-ca/mold-remediation/), [San Marcos](/service-areas/san-marcos-ca/mold-remediation/), [Escondido](/service-areas/escondido-ca/mold-remediation/), and Fallbrook.
+Dry 1 Out Restoration and Construction handles mold remediation for homeowners and property managers throughout Vista and nearby North San Diego County communities, including [Oceanside](/service-areas/oceanside-ca/mold-remediation/), [Carlsbad](/service-areas/carlsbad-ca/mold-remediation/), [San Marcos](/service-areas/san-marcos-ca/mold-remediation/), [Escondido](/service-areas/escondido-ca/mold-remediation/), and Bonsall.
 
 If you're smelling something musty that wasn't there before, or you've found spotting after a leak that took a while to notice, call (888) 379-1688 to request an air quality test and get a written scope before anything comes off your walls.

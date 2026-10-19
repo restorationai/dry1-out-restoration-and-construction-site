@@ -53,6 +53,6 @@ Vista's dry season and Santa Ana wind events raise the risk of both wildfire-adj
 
 ## Service area
 
-We respond to fire damage calls throughout Vista and nearby communities including Oceanside, Carlsbad, San Marcos, Escondido, and Fallbrook.
+We respond to fire damage calls throughout Vista and nearby communities including Oceanside, Carlsbad, San Marcos, Escondido, and Bonsall.
 
 If your home or business in Vista has smoke, soot, or fire damage, call (888) 379-1688 to begin smoke and soot removal before odor and residue set deeper into your walls, flooring, and belongings.

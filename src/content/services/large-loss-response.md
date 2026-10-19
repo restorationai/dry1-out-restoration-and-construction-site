@@ -57,6 +57,6 @@ Vista's dry season brings Santa Ana wind events that elevate wildfire risk for c
 
 ## Service area
 
-We respond to large loss and catastrophic events throughout Vista and across North San Diego County, including Oceanside, San Marcos, Escondido, Carlsbad, and Fallbrook, for commercial, multi-family, and mixed-use properties.
+We respond to large loss and catastrophic events throughout Vista and across North San Diego County, including Oceanside, San Marcos, Escondido, Carlsbad, and Bonsall, for commercial, multi-family, and mixed-use properties.
 
 If you're managing a multi-unit or commercial loss and need a crew that can scale to the actual size of the damage, call Dry 1 Out Restoration and Construction at (888) 379-1688 to start large-loss mobilization and get a written scope in front of your adjuster fast.

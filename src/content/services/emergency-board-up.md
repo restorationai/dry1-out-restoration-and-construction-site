@@ -55,6 +55,6 @@ Vista and the rest of North County San Diego see offshore Santa Ana wind events 
 
 ## Service area
 
-Dry 1 Out Restoration and Construction answers board up calls throughout Vista and nearby North County communities including Oceanside, Carlsbad, San Marcos, Escondido, and Fallbrook.
+Dry 1 Out Restoration and Construction answers board up calls throughout Vista and nearby North County communities including Oceanside, Carlsbad, San Marcos, Escondido, and Bonsall.
 
 If an opening in your home or building needs to be secured right now, call (888) 379-1688 to get a crew started on emergency board up before the next storm or nightfall adds to the loss.

@@ -53,6 +53,6 @@ Vista's storm risk comes in two distinct forms: winter atmospheric river systems
 
 ## Service area
 
-Dry 1 Out Restoration and Construction responds to storm damage throughout Vista and surrounding North County communities including Oceanside, Carlsbad, San Marcos, Escondido, and Fallbrook.
+Dry 1 Out Restoration and Construction responds to storm damage throughout Vista and surrounding North County communities including Oceanside, Carlsbad, San Marcos, Escondido, and Bonsall.
 
 If a tree, torn roofing, or wind-driven rain has breached your home or building, call (888) 379-1688 to get a crew out to secure the structure and start the drying process before the damage spreads further.
