@@ -2,7 +2,7 @@
 archetype: "about"
 title: "About Dry 1 Out Restoration and Construction | Vista Restoration Company"
 h1: "About Dry 1 Out Restoration and Construction"
-meta_description: "Dry 1 Out Restoration and Construction has served Vista since 2026. Meet our IICRC-certified restoration team. Licensed, insured, locally owned."
+meta_description: "Dry 1 Out Restoration and Construction has served Vista since 2026. Meet our IICRC-certified restoration team. Licensed and insured."
 primary_keyword: "dry 1 out restoration and construction vista"
 secondary_keywords: ["local restoration company", "iicrc certified restoration", "licensed restoration contractor"]
 search_intent: "navigational_trust"
