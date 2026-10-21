@@ -27,4 +27,4 @@ Not every call is an emergency. If you're planning a remodel, want a mold inspec
 
 ## Where we're located
 
-Dry 1 Out Restoration and Construction is based at 1235 Activity Dr in Vista, CA, and we run crews throughout the surrounding San Diego North County area. Whether you're in Vista proper, Oceanside, San Marcos, or one of the nearby inland communities, we're close enough to respond without a long haul across the county. Our Hayward location covers the Bay Area, including Oakland, Fremont, San Jose, and San Francisco. The company holds California contractor license ##993442.
+Dry 1 Out Restoration and Construction is based at 1235 Activity Dr in Vista, CA, and we run crews throughout the surrounding San Diego North County area. Whether you're in Vista proper, Oceanside, San Marcos, or one of the nearby inland communities, we're close enough to respond without a long haul across the county. Our Hayward location covers the Bay Area, including Oakland, Fremont, San Jose, and San Francisco. The company holds California contractor license #993442.

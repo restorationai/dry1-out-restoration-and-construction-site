@@ -42,4 +42,4 @@ Storm claims tend to move differently than a single burst pipe, since carriers o
 
 Mature eucalyptus trees are common in Fire Mountain and parts of Loma Alta, planted decades ago as windbreaks, and their brittle, water-heavy limbs are a known hazard during Santa Ana gusts. Crews who don't work this area regularly sometimes underestimate how far debris travels when one comes down on a hillside lot, which is why we walk the full property, not just the point of impact, before closing out an inspection.
 
-If a storm has torn into your roof, flooded a crawlspace, or left tree damage you need assessed before the next system rolls in, call Dry 1 Out Restoration and Construction at (888) 379-1688. We're licensed (##993442), IICRC certified, and close enough to Oceanside to start mitigation the same day you call.
+If a storm has torn into your roof, flooded a crawlspace, or left tree damage you need assessed before the next system rolls in, call Dry 1 Out Restoration and Construction at (888) 379-1688. We're licensed (#993442), IICRC certified, and close enough to Oceanside to start mitigation the same day you call.

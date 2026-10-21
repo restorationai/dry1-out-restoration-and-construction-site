@@ -42,4 +42,4 @@ Storm claims in Santa Cruz often involve both wind and water damage on the same 
 
 Homes near Beach Flats and the lower stretches close to the San Lorenzo River channel sometimes show storm damage that has nothing to do with the roof at all. River and storm-drain backup can push groundwater up into crawl spaces during a heavy system, so we check subfloor moisture even on properties where the owner only reported a leak upstairs. Skipping that check is how a storm job turns into a mold call a few weeks later.
 
-If a storm has left your Santa Cruz property with a damaged roof, downed trees, or water finding its way in somewhere it shouldn't, call (888) 379-1688. We're licensed (##993442) and staffed around the clock to get a crew moving toward Westside, Seabright, Downtown, Eastside, or Beach Flats as soon as you call.
+If a storm has left your Santa Cruz property with a damaged roof, downed trees, or water finding its way in somewhere it shouldn't, call (888) 379-1688. We're licensed (#993442) and staffed around the clock to get a crew moving toward Westside, Seabright, Downtown, Eastside, or Beach Flats as soon as you call.

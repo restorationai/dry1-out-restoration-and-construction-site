@@ -33,7 +33,7 @@ We start with containment, sealing off the affected area before any assessment b
 
 ## San Francisco Insurance & HOA Coordination
 
-Biohazard cleanup is frequently covered under homeowners or renters insurance, and we handle the documentation and billing coordination directly with most major carriers so you are not managing paperwork during an already difficult time. In condo and co-op buildings, especially the HOA-governed towers near the Ferry Building and throughout SoMa, property management often has its own notification and vendor-access requirements before any crew can enter common areas. We work with building management to meet those requirements quietly, scheduling access windows that limit disruption to other residents. Our license (##993442) and IICRC-certified training are part of the documentation we provide to property managers and adjusters when requested.
+Biohazard cleanup is frequently covered under homeowners or renters insurance, and we handle the documentation and billing coordination directly with most major carriers so you are not managing paperwork during an already difficult time. In condo and co-op buildings, especially the HOA-governed towers near the Ferry Building and throughout SoMa, property management often has its own notification and vendor-access requirements before any crew can enter common areas. We work with building management to meet those requirements quietly, scheduling access windows that limit disruption to other residents. Our license (#993442) and IICRC-certified training are part of the documentation we provide to property managers and adjusters when requested.
 
 ## Local Note
 

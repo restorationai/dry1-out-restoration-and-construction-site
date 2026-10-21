@@ -42,4 +42,4 @@ Most San Diego homeowner policies cover fire and smoke damage, but documentation
 
 One thing that catches homeowners off guard in coastal San Diego: a fire that stays contained to one room can still leave smoke odor in rooms on the opposite side of the house, because the marine layer's humidity helps smoke particles cling to fabric and drywall as they travel through HVAC returns. We've learned to check guest bedrooms and closets far from the fire source as a matter of course on Pacific Beach and La Jolla jobs, not just the burned room itself.
 
-If smoke or fire has touched your home anywhere from North Park to the coast, call (888) 379-1688. We're IICRC Fire & Smoke Restoration certified, licensed under contractor number ##993442, and available around the clock to start the assessment and get a drying and cleanup plan moving the same day.
+If smoke or fire has touched your home anywhere from North Park to the coast, call (888) 379-1688. We're IICRC Fire & Smoke Restoration certified, licensed under contractor number #993442, and available around the clock to start the assessment and get a drying and cleanup plan moving the same day.
