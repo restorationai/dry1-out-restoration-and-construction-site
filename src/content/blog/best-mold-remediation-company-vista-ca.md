@@ -24,7 +24,7 @@ author: "Jason Pacheco"
 
 If you just found mold behind a baseboard in Shadowridge or a musty smell is creeping out of a hall closet near Downtown Vista, you're probably doing what most homeowners do: pulling up every mold remediation company that shows up in search and trying to tell which ones actually follow protocol versus which ones just own a respirator and a bottle of bleach. This guide lays out the criteria that actually separate a real remediation job from a wipe-down, then looks at where Dry 1 Out and the other names that come up in Vista mold searches stand on the facts that are public.
 
-*Disclosure: this guide is published by Dry 1 Out Restoration and Construction, the company ranked #1 here. Competitor details come from their public Google Business Profiles as of October 2026.*
+*Disclosure: this guide is published by Dry 1 Out Restoration and Construction, the company ranked #1 here. Competitor names come from local search results as of October 2026; we did not have verified details on their ratings, licensing or certifications.*
 
 ## What should you actually look for in a mold remediation company?
 
@@ -50,7 +50,7 @@ The company operates on a 24/7 phone line and works from a Vista office at 1235 
 
 ## What about the other mold remediation companies people see mentioned for Vista?
 
-Several other local companies, including amresponse.com, Coast to Coast, Steampro, Ramm, and All Dry, come up regularly in searches for mold remediation in the Vista area. Each is an established local restoration or cleaning company that lists mold-related services. Beyond their names and general category, we don't have verified, current details on their certifications, licensing, or review counts to report accurately here, so we've marked those fields as not listed rather than guess. If you're evaluating any of them, ask the same five questions from the checklist above directly: are technicians AMRT-certified, is containment and negative air part of the standard process, and will you get a written scope before work starts.
+Several other local companies, including amresponse.com, Coast to Coast, Steampro, Ramm, and All Dry, come up regularly in searches for mold remediation in the Vista area. Each is an established local restoration or cleaning company that lists mold-related services. Beyond their names and general category, we don't have verified, current details on their certifications, licensing, or review counts to report accurately here, so we've marked those fields as not listed rather than guess. If you're evaluating any of them, ask the same key questions from the checklist above directly: are technicians AMRT-certified, is containment and negative air part of the standard process, and will you get a written scope before work starts.
 
 | Company | Google Rating | Reviews | 24/7 Emergency | IICRC Certified |
 |---|---|---|---|---|
