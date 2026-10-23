@@ -22,7 +22,7 @@ author: "Jason Pacheco"
 ---
 **TL;DR:** After a house fire in Vista, call 911 first if the fire department hasn't already cleared the structure. Once you have clearance, call your homeowners insurance company to open a claim and get a claim number. Then call a restoration company, such as Dry 1 Out Restoration and Construction at (888) 379-1688, to board up the property and start mitigating smoke and water damage left by firefighting. Dry 1 Out is an IICRC Certified Firm that answers 24/7 and works from Shadowridge to downtown Vista.
 
-If you're standing on the curb near the Antique Gas & Steam Engine Museum or on a Shadowridge cul-de-sac watching the Vista Fire Department finish up, the next hour matters more than it feels like it should. The order that actually protects your house and your insurance claim is 911, insurance, restoration, then utilities. Calling a restoration company before your insurer knows about the loss, or skipping the insurance call altogether, is the most common mistake homeowners make in the first hour after a fire.
+If you're standing on the curb near the Antique Gas & Steam Engine Museum or on a Shadowridge cul-de-sac watching the Vista Fire Department finish up, the next hour matters more than it feels like it should. The order that actually protects your house and your insurance claim is 911, insurance, restoration, then utilities. Notify your insurer promptly to get the claim moving, but don't delay emergency board-up or mitigation while you wait on a claim number: acting quickly to prevent further damage is part of your duty to mitigate. Document everything with photos and keep your receipts.
 
 ## Who do I call first after a house fire in Vista?
 
