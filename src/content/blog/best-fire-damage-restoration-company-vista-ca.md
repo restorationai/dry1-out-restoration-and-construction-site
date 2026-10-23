@@ -32,7 +32,7 @@ Dry 1 Out is a strong choice because it combines IICRC Fire & Smoke Restoration 
 
 The firm carries a full set of IICRC credentials beyond fire and smoke: Water Restoration Technician (WRT), Applied Structural Drying (ASD), and Applied Microbial Remediation Technician (AMRT), which matters because most fires also involve water damage from suppression efforts or hose lines. One crew that understands both the soot and the water means fewer handoffs and fewer gaps in the drying and cleaning timeline.
 
-Dry 1 Out holds a 5.0 Google rating across 18 reviews and operates out of Vista, with a second office in Hayward, giving it short drive times to Downtown Vista, Shadowridge, Buena Creek, and the Vista Business Park corridor. You can review the full [fire damage restoration](/services/fire-damage-restoration/) process and what a Vista crew actually does on arrival, or check coverage for your specific neighborhood on the [Vista service area page](/service-areas/vista-ca/).
+Dry 1 Out holds a 5.0 Google rating across 18 reviews and operates out of its Vista office on Activity Dr, giving it short drive times to Downtown Vista, Shadowridge, Buena Creek, and the Vista Business Park corridor. A second office in Hayward serves the Bay Area. You can review the full [fire damage restoration](/services/fire-damage-restoration/) process and what a Vista crew actually does on arrival, or check coverage for your specific neighborhood on the [Vista service area page](/service-areas/vista-ca/).
 
 ## What Should You Check Before Hiring Any Fire Damage Restoration Company in Vista?
 
