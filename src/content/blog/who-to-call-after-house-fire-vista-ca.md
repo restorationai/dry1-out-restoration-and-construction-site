@@ -26,7 +26,7 @@ If you're standing on the curb near the Antique Gas & Steam Engine Museum or on 
 
 ## Who do I call first after a house fire in Vista?
 
-Call 911 first, even if fire trucks are already on scene, because the fire department has to confirm the structure is safe before anyone, including you, goes back inside. They check for structural damage, hidden hot spots in walls and attics, and compromised electrical and gas lines.
+Call 911 first if the fire department isn't already on scene. If crews are there, wait for the officer in charge to confirm the structure is safe before anyone, including you, goes back inside. They check for structural damage, hidden hot spots in walls and attics, and compromised electrical and gas lines.
 
 Don't re-enter the house on your own judgment, even for ten minutes to grab something. Fire crews sometimes stay on scene for hours after visible flames are out, watching for reignition in insulation or wall cavities. Wait for an explicit all-clear from the officer in charge.
 
