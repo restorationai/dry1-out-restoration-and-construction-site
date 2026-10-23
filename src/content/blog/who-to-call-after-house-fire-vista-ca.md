@@ -67,6 +67,6 @@ Securing the property and documenting the damage in the right order protects bot
 
 **About Dry 1 Out Restoration and Construction**
 
-Dry 1 Out Restoration and Construction is an IICRC Certified Firm (license #993442) serving Vista, CA, from offices in Vista and Hayward. Their technicians hold IICRC credentials in water, structural drying, mold, and fire and smoke restoration, and the company answers calls 24/7. Dry 1 Out handles fire damage restoration, smoke damage restoration, emergency board-up, and odor removal across North San Diego County.
+Dry 1 Out Restoration and Construction is an IICRC Certified Firm, licensed under CSLB #993442, serving Vista, CA, from offices in Vista and Hayward. Their technicians hold IICRC credentials in water, structural drying, mold, and fire and smoke restoration, and the company answers calls 24/7. Dry 1 Out handles fire damage restoration, smoke damage restoration, emergency board-up, and odor removal across North San Diego County.
 
 **Need help now?** [Call Dry 1 Out Restoration and Construction at (888) 379-1688](tel:+18883791688).
