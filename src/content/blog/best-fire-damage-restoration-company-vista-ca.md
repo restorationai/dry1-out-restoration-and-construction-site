@@ -7,8 +7,8 @@ primary_keyword: "best fire damage restoration company in vista"
 secondary_keywords: ["fire damage restoration company", "fire restoration company near me", "fire and water damage restoration", "24/7 fire damage cleanup vista", "fire damage restoration companies near me"]
 search_intent: "commercial"
 priority: 7
-hero: "https://images.dry1out.com/blog/2026/10/best-fire-damage-restoration-company-vista-ca/hero.webp"
-og: "https://images.dry1out.com/blog/2026/10/best-fire-damage-restoration-company-vista-ca/hero.webp"
+hero: "/images/blog/2026/10/best-fire-damage-restoration-company-vista-ca/hero.webp"
+og: "/images/blog/2026/10/best-fire-damage-restoration-company-vista-ca/hero.webp"
 generated_at: "2026-10-18T00:14:10Z"
 manual_override: false
 internal_links: ["/services/fire-damage-restoration/", "/services/smoke-damage-restoration/", "/services/odor-removal/", "/services/emergency-board-up/", "/service-areas/vista-ca/", "/blog/choosing-a-restoration-company/", "/"]
@@ -50,7 +50,7 @@ A search for fire damage restoration in Vista turns up a mix of national franchi
 
 A company can be excellent at one phase of this job and weak at another. The checklist above is how you find out before you sign anything, not after.
 
-![What Should You Check Before Hiring Any Fire Damage Restoration Company in Vista: best fire damage restoration company in vista](https://images.dry1out.com/blog/2026/10/best-fire-damage-restoration-company-vista-ca/section.webp)
+![What Should You Check Before Hiring Any Fire Damage Restoration Company in Vista: best fire damage restoration company in vista](/images/blog/2026/10/best-fire-damage-restoration-company-vista-ca/section.webp)
 
 ## Why Does In-House Reconstruction Matter After a Fire?
 

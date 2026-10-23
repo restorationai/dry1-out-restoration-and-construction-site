@@ -7,8 +7,8 @@ primary_keyword: "best mold remediation company in vista"
 secondary_keywords: ["mold remediation companies", "certified mold remediation", "professional mold remediation", "residential mold remediation", "mold remediation experts", "best mold remediation companies"]
 search_intent: "commercial"
 priority: 7
-hero: "https://images.dry1out.com/blog/2026/10/best-mold-remediation-company-vista-ca/hero.webp"
-og: "https://images.dry1out.com/blog/2026/10/best-mold-remediation-company-vista-ca/hero.webp"
+hero: "/images/blog/2026/10/best-mold-remediation-company-vista-ca/hero.webp"
+og: "/images/blog/2026/10/best-mold-remediation-company-vista-ca/hero.webp"
 generated_at: "2026-10-22T10:37:34Z"
 manual_override: false
 internal_links: ["/services/mold-remediation/", "/services/mold-inspection-testing/", "/service-areas/vista-ca/", "/blog/mold-remediation-cost-vista-ca/", "/blog/choosing-a-restoration-company/", "/"]
@@ -46,7 +46,7 @@ Dry 1 Out is an IICRC Certified Firm with technicians holding the AMRT credentia
 
 The company operates on a 24/7 phone line and works from a Vista office at 1235 Activity Dr, with a second office in Hayward covering the Bay Area. Its state license (#993442) can be verified directly through the [California Contractors State License Board's license lookup tool](https://www.cslb.ca.gov/OnlineServices/CheckLicenseII/CheckLicense.aspx). On Google, the company currently carries a 5.0 rating across 18 reviews. Before any remediation starts, the team documents the scope in writing and can pair the remediation work with [mold inspection and testing](/services/mold-inspection-testing/) to confirm the extent of growth and verify the job afterward.
 
-![How does Dry 1 Out Restoration and Construction meet that checklist: best mold remediation company in vista](https://images.dry1out.com/blog/2026/10/best-mold-remediation-company-vista-ca/section.webp)
+![How does Dry 1 Out Restoration and Construction meet that checklist: best mold remediation company in vista](/images/blog/2026/10/best-mold-remediation-company-vista-ca/section.webp)
 
 ## What about the other mold remediation companies people see mentioned for Vista?
 

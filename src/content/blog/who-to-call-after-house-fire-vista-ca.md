@@ -7,8 +7,8 @@ primary_keyword: "who to call after a house fire in vista"
 secondary_keywords: ["fire damage cleanup", "emergency board up after a fire", "fire damage restoration near me", "smoke damage restoration", "fire restoration checklist"]
 search_intent: "commercial"
 priority: 7
-hero: "https://images.dry1out.com/blog/2026/10/who-to-call-after-house-fire-vista-ca/hero.webp"
-og: "https://images.dry1out.com/blog/2026/10/who-to-call-after-house-fire-vista-ca/hero.webp"
+hero: "/images/blog/2026/10/who-to-call-after-house-fire-vista-ca/hero.webp"
+og: "/images/blog/2026/10/who-to-call-after-house-fire-vista-ca/hero.webp"
 generated_at: "2026-10-20T01:16:42Z"
 manual_override: false
 internal_links: ["/services/fire-damage-restoration/", "/services/emergency-board-up/", "/services/smoke-damage-restoration/", "/services/odor-removal/", "/service-areas/vista-ca/", "/"]
@@ -39,7 +39,7 @@ The order is 911, your insurance company, a restoration company, then your utili
 3. **A restoration company.** Handles [emergency board-up](/services/emergency-board-up/) of broken windows and compromised doors, [smoke damage restoration](/services/smoke-damage-restoration/), and any water left behind from putting the fire out.
 4. **Utilities.** If SDG&E or the water utility shut off service, confirm with them, not just your own eyes, before anything gets turned back on.
 
-![What is the right order of calls after a house fire: who to call after a house fire in vista](https://images.dry1out.com/blog/2026/10/who-to-call-after-house-fire-vista-ca/section.webp)
+![What is the right order of calls after a house fire: who to call after a house fire in vista](/images/blog/2026/10/who-to-call-after-house-fire-vista-ca/section.webp)
 
 ## What happens after the fire department clears the house?
 
