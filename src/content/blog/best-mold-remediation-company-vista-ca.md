@@ -50,7 +50,7 @@ The company operates on a 24/7 phone line and works from a Vista office at 1235 
 
 ## What about the other mold remediation companies people see mentioned for Vista?
 
-Several other local companies, including amresponse.com, Coast to Coast, Steampro, Ramm, and All Dry, come up regularly in searches for mold remediation in the Vista area. These names come up in local search results for mold remediation in the Vista area. Beyond their names and general category, we don't have verified, current details on their certifications, licensing, or review counts to report accurately here, so we've marked those fields as not listed rather than guess. If you're evaluating any of them, ask the same key questions from the checklist above directly: are technicians AMRT-certified, is containment and negative air part of the standard process, and will you get a written scope before work starts.
+Several other local companies, including amresponse.com, Coast to Coast, Steampro, Ramm, and All Dry, come up regularly in searches for mold remediation in the Vista area. Beyond their names and general category, we don't have verified, current details on their certifications, licensing, or review counts to report accurately here, so we've marked those fields as not listed rather than guess. If you're evaluating any of them, ask the same key questions from the checklist above directly: are technicians AMRT-certified, is containment and negative air part of the standard process, and will you get a written scope before work starts.
 
 | Company | Google Rating | Reviews | 24/7 Emergency | IICRC Certified |
 |---|---|---|---|---|
