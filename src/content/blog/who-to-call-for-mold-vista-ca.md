@@ -70,4 +70,4 @@ If you're staring at a patch of mold right now and you're not sure which of thes
 
 **About Dry 1 Out Restoration and Construction**
 
-Dry 1 Out Restoration and Construction is an IICRC Certified Firm, licensed in California (license #993442), with technicians holding IICRC AMRT mold remediation training. The company operates from offices in Vista, serving North San Diego County, and Hayward, serving the Bay Area, and answers calls 24/7. Their work covers mold inspection, mold remediation, and water damage restoration among other restoration and reconstruction services, written by Jason Pacheco with the Dry 1 Out team.
+Dry 1 Out Restoration and Construction is an IICRC Certified Firm, licensed in California (license #993442), with technicians holding IICRC AMRT mold remediation training. The company operates from offices in Vista, serving North San Diego County, and Hayward, serving the Bay Area, and answers calls 24/7. Their work covers mold inspection, mold remediation, and water damage restoration, among other restoration and reconstruction services. This article was written by Jason Pacheco with the Dry 1 Out team.
