@@ -3,6 +3,7 @@
 // wins out-of-city citations with exactly this pattern). Every claim here is
 // data-gated on brand.ts fields (hours, certifications, primaryCity) — nothing
 // invents a capability the client doesn't actually have.
+import { getCollection } from "astro:content";
 import { brand } from "./brand";
 
 // Same 24/7 gate the Header announcement bar uses (brand.hours is the source
@@ -27,6 +28,17 @@ const HAYWARD_CITIES = new Set(["hayward", "oakland", "fremont", "san jose", "sa
 
 export function officeCityFor(city: string): string {
   return HAYWARD_CITIES.has(String(city).trim().toLowerCase()) ? "Hayward" : String(brand.primaryCity);
+}
+
+// The secondary office (from the `offices` collection) a city is served
+// from, or null when it is served from the main office. Cole 2026-10-26:
+// "every service area page for Bay Area cities have the wrong address. It
+// a mix of both of our locations." Bay Area pages show THIS address only.
+export async function servingOffice(city: string) {
+  const office = officeCityFor(city).toLowerCase();
+  if (office === String(brand.primaryCity).trim().toLowerCase()) return null;
+  const offices = await getCollection("offices");
+  return offices.find((o) => o.data.city.trim().toLowerCase() === office)?.data ?? null;
 }
 
 // "Vista headquarters" / "Hayward location" — the office a city is served from.

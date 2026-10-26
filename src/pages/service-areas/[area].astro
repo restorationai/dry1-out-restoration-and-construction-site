@@ -6,7 +6,7 @@ import FAQSection from "~/components/FAQSection.astro";
 import InternalLinks from "~/components/InternalLinks.astro";
 import GoogleMap from "~/components/GoogleMap.astro";
 import { brand } from "~/lib/brand";
-import { is247 } from "~/lib/dispatch";
+import { is247, servingOffice } from "~/lib/dispatch";
 
 export async function getStaticPaths() {
   const areas = await getCollection("serviceAreas");
@@ -55,6 +55,7 @@ const otherLocs = locations.filter((l) => l !== primaryLoc);
     archetype: "service-area",
     city: data.city,
     state: data.state,
+    office: await servingOffice(data.city),
   }}
   breadcrumb={data.breadcrumb}
   faq={data.faq}

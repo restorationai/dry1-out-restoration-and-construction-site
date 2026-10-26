@@ -10,7 +10,7 @@ import GbpCityProof from "~/components/ui/GbpCityProof.astro";
 import { brand } from "~/lib/brand";
 import geoVideos from "~/data/geo-videos.json";
 import { serviceImage } from "~/lib/images";
-import { dispatchSentence, is247, officeLabelFor } from "~/lib/dispatch";
+import { dispatchSentence, is247, officeLabelFor, servingOffice } from "~/lib/dispatch";
 
 export async function getStaticPaths() {
   const locations = await getCollection("locations");
@@ -80,6 +80,7 @@ const faq = [...responseFaq, ...baseFaq, ...insuranceFaq];
     state: data.state,
     dispatch_sentence: dispatch,
     date_modified: data.generated_at,
+    office: await servingOffice(data.city),
   }}
   breadcrumb={data.breadcrumb}
   faq={faq}

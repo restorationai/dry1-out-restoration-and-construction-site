@@ -1,6 +1,6 @@
 ---
 import { brand } from "~/lib/brand";
-import { officeCityFor } from "~/lib/dispatch";
+import { officeCityFor, servingOffice } from "~/lib/dispatch";
 
 type Props = {
   city: string;
@@ -33,7 +33,12 @@ const servingLine = remote
 const mapQuery = encodeURIComponent(`${brand.displayName} ${hqCity} ${hqState}`);
 const embedSrc = `https://www.google.com/maps?q=${mapQuery}&output=embed`;
 
-const fullAddress = `${brand.streetAddress}, ${hqCity}, ${hqState} ${brand.postalCode}`;
+// Bay Area cities show the Hayward office's own address, never the Vista
+// street with the Hayward city name (Cole 2026-10-26).
+const office = await servingOffice(city);
+const fullAddress = office
+  ? `${office.street}, ${office.city}, ${office.state}${office.zip ? ` ${office.zip}` : ""}`
+  : `${brand.streetAddress}, ${hqCity}, ${hqState} ${brand.postalCode}`;
 const directionsHref = `https://www.google.com/maps/dir/?api=1&destination=${encodeURIComponent(fullAddress)}`;
 
 const clean = (v: string) => v && !v.includes("{{") ? v : "";

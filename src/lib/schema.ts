@@ -28,6 +28,12 @@ export type PageSchemaContext = {
   // City×service page extras (competitor-teardown schema upgrades)
   dispatch_sentence?: string;
   date_modified?: string;
+  // Secondary office this page's city is served from (~/lib/dispatch
+  // servingOffice): its LocalBusiness node replaces the main-office one.
+  office?: {
+    office_slug: string; street: string; city: string; state: string;
+    zip?: string; lat?: number | null; lng?: number | null;
+  } | null;
 };
 
 const safe = (v: unknown) => (v == null || v === "" ? undefined : v);
@@ -43,10 +49,15 @@ function localBusiness(ctx: PageSchemaContext) {
   // sentence in the description, and dateModified freshness from the page's
   // generated_at frontmatter (fallback: build date).
   const isCityService = ctx.archetype === "service-area-service" && !!ctx.city;
+  // Bay Area pages (Cole 2026-10-26): the business node is the Hayward
+  // office, same @id and address as its /locations/ page, so the page never
+  // mixes the Vista street with a Hayward city.
+  const o = ctx.office;
+  const officeUrl = o ? `${brand.canonicalUrl}/locations/${o.office_slug}/` : "";
   return {
     "@context": "https://schema.org",
     "@type": isCityService && IS_247 ? ["LocalBusiness", "EmergencyService"] : "LocalBusiness",
-    "@id": entityId,
+    "@id": o ? `${officeUrl}#localbusiness` : entityId,
     // When a registered DBA exists it IS the business name (matches the
     // GBP + every citation BrightLocal builds); the pre-rename brand stays
     // discoverable as alternateName so Google links old and new identities.
@@ -56,25 +67,39 @@ function localBusiness(ctx: PageSchemaContext) {
       ? [brand.displayName, brand.shortName].filter(
           (n, i, a) => n !== brand.dbaName && a.indexOf(n) === i)
       : brand.shortName,
-    url: brand.canonicalUrl,
+    url: o ? officeUrl : brand.canonicalUrl,
     telephone: brand.phoneRaw,
     email: brand.email,
     image: brand.logoUrl,
     logo: brand.logoUrl,
     priceRange: "$$",
-    address: {
-      "@type": "PostalAddress",
-      streetAddress: brand.streetAddress,
-      addressLocality: brand.addressCity,
-      addressRegion: brand.addressState,
-      postalCode: brand.postalCode,
-      addressCountry: "US",
-    },
-    geo: {
-      "@type": "GeoCoordinates",
-      latitude: brand.lat,
-      longitude: brand.lng,
-    },
+    address: o
+      ? {
+          "@type": "PostalAddress",
+          streetAddress: o.street,
+          addressLocality: o.city,
+          addressRegion: o.state,
+          postalCode: safe(o.zip),
+          addressCountry: "US",
+        }
+      : {
+          "@type": "PostalAddress",
+          streetAddress: brand.streetAddress,
+          addressLocality: brand.addressCity,
+          addressRegion: brand.addressState,
+          postalCode: brand.postalCode,
+          addressCountry: "US",
+        },
+    geo: o
+      ? (o.lat != null && o.lng != null
+          ? { "@type": "GeoCoordinates", latitude: o.lat, longitude: o.lng }
+          : undefined)
+      : {
+          "@type": "GeoCoordinates",
+          latitude: brand.lat,
+          longitude: brand.lng,
+        },
+    ...(o ? { parentOrganization: { "@type": "Organization", "@id": `${brand.canonicalUrl}/#organization` } } : {}),
     openingHoursSpecification: {
       "@type": "OpeningHoursSpecification",
       dayOfWeek: ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
@@ -151,7 +176,7 @@ function service(ctx: PageSchemaContext) {
     "@type": "Service",
     serviceType: ctx.service_display,
     name: ctx.city ? `${ctx.service_display} in ${ctx.city}` : ctx.service_display,
-    provider: { "@id": entityId },
+    provider: { "@id": ctx.office ? `${brand.canonicalUrl}/locations/${ctx.office.office_slug}/#localbusiness` : entityId },
     areaServed: ctx.city
       ? { "@type": "City", name: ctx.city, addressRegion: ctx.state, addressCountry: "US" }
       : { "@type": "AdministrativeArea", name: brand.primaryState },
