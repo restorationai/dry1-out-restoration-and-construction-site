@@ -54,6 +54,9 @@ export const brand = {
   // Analytics — set post-scaffold (scripts/analytics_set.py / create_ga4.py); no-op if empty
   ga4MeasurementId: "",
   clarityProjectId: "",
+  // Client-owned tags (Cole 2026-10-26: "can we add our Google and meta tags to the website?")
+  clientGoogleTagId: "AW-17829072059",
+  metaPixelId: "818323828294572",
   logoUrl: "/images/logo.png",
   licenseNumbers: ["#993442"] as string[],
   licenseAuthority: "",

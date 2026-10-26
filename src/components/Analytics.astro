@@ -6,6 +6,10 @@
 import { brand } from "~/lib/brand";
 const ga4 = (brand as any).ga4MeasurementId || "";
 const clarity = (brand as any).clarityProjectId || "";
+// Client-owned tags (their own Google Ads account and Meta pixel), separate
+// from our ads_provision gadsId so neither overwrites the other.
+const clientGtag = (brand as any).clientGoogleTagId || "";
+const metaPixel = (brand as any).metaPixelId || "";
 ---
 {ga4 && (
   <Fragment>
@@ -41,4 +45,34 @@ const clarity = (brand as any).clarityProjectId || "";
       y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
     })(window, document, "clarity", "script", clarity);
   </script>
+)}
+{clientGtag && (
+  <Fragment>
+    <script is:inline async src={`https://www.googletagmanager.com/gtag/js?id=${clientGtag}`}></script>
+    <script is:inline define:vars={{ clientGtag }}>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){ dataLayer.push(arguments); }
+      window.gtag = window.gtag || gtag;
+      gtag('js', new Date());
+      gtag('config', clientGtag);
+    </script>
+  </Fragment>
+)}
+{metaPixel && (
+  <Fragment>
+    <script is:inline define:vars={{ metaPixel }}>
+      !function(f,b,e,v,n,t,s)
+      {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+      n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+      if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+      n.queue=[];t=b.createElement(e);t.async=!0;
+      t.src=v;s=b.getElementsByTagName(e)[0];
+      s.parentNode.insertBefore(t,s)}(window, document,'script',
+      'https://connect.facebook.net/en_US/fbevents.js');
+      fbq('init', metaPixel);
+      fbq('track', 'PageView');
+    </script>
+    <noscript><img height="1" width="1" style="display:none" alt=""
+      src={`https://www.facebook.com/tr?id=${metaPixel}&ev=PageView&noscript=1`} /></noscript>
+  </Fragment>
 )}
