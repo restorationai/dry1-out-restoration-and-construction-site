@@ -33,7 +33,7 @@ Mold inspection, testing, and remediation matter here because the Bay Area's hum
 
 ## Coverage and how fast we can get there
 
-Our Hayward office at 2536 Barrington Ct sits just off I-880, a direct shot south into San Leandro and the surrounding Alameda County communities we serve. That proximity means a shorter drive than dispatching from farther afield, with routes along I-880 and the local arterial streets giving us direct access to residential and commercial properties throughout the city. We answer calls 24/7, and because the Hayward office is positioned so close to San Leandro, getting a crew moving toward a property here doesn't depend on crossing the Bay or fighting cross-county traffic.
+Our Hayward office sits just off I-880, a direct shot north into San Leandro and the surrounding Alameda County communities we serve. That proximity means a shorter drive than dispatching from farther afield, with routes along I-880 and the local arterial streets giving us direct access to residential and commercial properties throughout the city. We answer calls 24/7, and because the Hayward office is positioned so close to San Leandro, getting a crew moving toward a property here doesn't depend on crossing the Bay or fighting cross-county traffic.
 
 ## Building stock, site conditions, and permits in San Leandro
 
