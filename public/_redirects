@@ -37,8 +37,6 @@
 /why-you-should-never-ignore-a-roof-leak/ /services/water-leak-detection/ 301
 /coming-soon / 301
 /coming-soon/ / 301
-/thank-you / 301
-/thank-you/ / 301
 # duplicate service merge 2026-09-30: /services/24-7-emergency-water-damage-restoration/ folded into /services/water-damage-restoration/ (scripts/service_merge.py)
 /services/24-7-emergency-water-damage-restoration /services/water-damage-restoration/ 301
 /services/24-7-emergency-water-damage-restoration/ /services/water-damage-restoration/ 301

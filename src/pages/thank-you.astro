@@ -1,0 +1,25 @@
+---
+// Thank-you page (Cole, Dry 1 Out 2026-10-28): the lead form redirects here
+// ONLY after /api/estimate accepts a submission, so the client's Google Ads
+// team can count conversions on this URL. noindex, kept out of the sitemap
+// (astro.config.mjs filter) and out of the nav.
+import BaseLayout from "~/layouts/BaseLayout.astro";
+import { brand } from "~/lib/brand";
+---
+
+<BaseLayout
+  title={`Thank You | ${brand.displayName}`}
+  meta_description="Your request has been received."
+  noindex={true}
+>
+  <section class="min-h-[70vh] flex items-center justify-center bg-white">
+    <div class="container-wide text-center max-w-2xl">
+      <h1>Thank You, Your Request Was Received</h1>
+      <p class="mt-4 text-lg text-dark/70">We'll call you back shortly. If this is an emergency, call us now. We answer {brand.hours}.</p>
+      <div class="mt-10 flex flex-col sm:flex-row gap-4 justify-center">
+        <a href={`tel:${brand.phoneRaw}`} class="btn-primary">Call {brand.phone}</a>
+        <a href="/" class="btn-outline">Back to Home</a>
+      </div>
+    </div>
+  </section>
+</BaseLayout>

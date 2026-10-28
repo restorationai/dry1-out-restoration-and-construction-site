@@ -212,6 +212,13 @@ const {
                       lead_source: data.lead_source || "embed" }, "*");
                 }
               } catch (err) {}
+              // Thank-you redirect (Cole, Dry 1 Out 2026-10-28): a successful
+              // send on the site itself lands on /thank-you/ for Google Ads
+              // conversion tracking. Embeds (iframe) keep the inline message.
+              if (window.parent === window) {
+                window.location.href = "/thank-you/";
+                return;
+              }
               show("Thanks — your request is in. We'll call you back shortly. For emergencies, call us now.", true);
               form.reset();
               if (ts) ts.value = String(Date.now());
