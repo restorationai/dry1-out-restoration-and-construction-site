@@ -32,7 +32,7 @@ An inspection starts with a visual walkthrough of the areas most likely to hold 
 
 ## Reaching San Mateo from Hayward
 
-San Mateo is covered from our [Hayward office](/locations/hayward-ca/) at 2536 Barrington Ct, with the San Mateo-Hayward Bridge providing a direct route across the bay rather than the longer drive north through San Francisco. That bridge access matters for scheduling: inspections on the Peninsula side don't require routing through city traffic on 101, which keeps appointment windows predictable for homeowners who need to coordinate access with a tenant or property manager. We're licensed (CA #993442) and carry the equipment needed for both residential crawl-space work and larger commercial inspections in San Mateo's office and retail buildings.
+San Mateo is covered from our [Hayward office](/locations/hayward-ca/), with the San Mateo-Hayward Bridge providing a direct route across the bay rather than the longer drive north through San Francisco. That bridge access matters for scheduling: inspections on the Peninsula side don't require routing through city traffic on 101, which keeps appointment windows predictable for homeowners who need to coordinate access with a tenant or property manager. We're licensed (CA #993442) and carry the equipment needed for both residential crawl-space work and larger commercial inspections in San Mateo's office and retail buildings.
 
 ## Local note
 

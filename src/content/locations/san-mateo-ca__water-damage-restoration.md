@@ -20,7 +20,7 @@ state: "CA"
 service_display: "Water Damage Restoration"
 rendered: true
 ---
-**Water damage emergency in San Mateo?** Call [(888) 379-1688](tel:+18883791688) and we answer 24/7. San Mateo's mix of bayfront flatland and older Peninsula homes means a burst pipe or roof leak rarely stays contained to one room, especially in houses built before raised foundations and modern drainage codes became standard. Our crews bring IICRC-trained water mitigation methods to get extraction started and structural drying underway as fast as the job allows.
+**Water damage emergency in San Mateo?** Call [(888) 379-1688](tel:+18883791688) and we answer 24/7. San Mateo's mix of bayfront flatland and older Peninsula homes means a burst pipe or roof leak rarely stays contained to one room, especially in older houses built before modern drainage codes became standard. Our crews bring IICRC-trained water mitigation methods to get extraction started and structural drying underway as fast as the job allows.
 
 ## Why San Mateo Properties See Water Damage Issues
 
@@ -32,7 +32,7 @@ We start with water extraction from carpet, pad, and standing areas, then move t
 
 ## Reaching San Mateo from Hayward
 
-San Mateo is served out of our [Hayward office](/locations/hayward-ca/) at 2536 Barrington Ct, with crews routing across the San Mateo-Hayward Bridge on CA-92 to reach homes and businesses throughout the city. That bridge crossing is the most direct path from the East Bay, and it keeps us close enough to respond without the detour through San Francisco that other East Bay routes would require.
+San Mateo is served out of our [Hayward office](/locations/hayward-ca/), with crews routing across the San Mateo-Hayward Bridge on CA-92 to reach homes and businesses throughout the city. That bridge crossing is the most direct path from the East Bay, and it keeps us close enough to respond without the detour through San Francisco that other East Bay routes would require.
 
 ## San Mateo Insurance & HOA Coordination
 

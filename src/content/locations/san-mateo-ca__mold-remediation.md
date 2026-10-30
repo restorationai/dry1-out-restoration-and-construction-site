@@ -24,7 +24,7 @@ San Mateo's marine layer rolls in most mornings off the bay, and it does more th
 
 ## Why San Mateo Properties See Mold Issues
 
-A lot of San Mateo's housing stock went up in the post-war decades, and that generation of ranch and split-level homes was built with crawlspace foundations rather than slabs. Those crawlspaces sit low to grade, and combined with the Bay Area's wet winters and foggy summer mornings, the subfloor framing rarely gets a chance to fully dry out. We also see it in condo and townhome buildings closer to the bayfront, where shared plumbing walls and older HVAC runs can trap humidity between units in a way a single-family owner would never notice until a wall gets opened for something else. Add in the slab leaks and galvanized plumbing still common in homes from that era, and you've got a reliable recipe for colonies starting behind baseboards or under flooring long before anyone catches the smell.
+A lot of San Mateo's housing stock went up in the post-war decades, and that generation of ranch and split-level homes was built with crawlspace foundations rather than slabs. Those crawlspaces sit low to grade, and combined with the Bay Area's wet winters and foggy summer mornings, the subfloor framing rarely gets a chance to fully dry out. We also see it in condo and townhome buildings closer to the bayfront, where shared plumbing walls and older HVAC runs can trap humidity between units in a way a single-family owner would never notice until a wall gets opened for something else. Add in the aging galvanized supply lines and drain lines still common in homes from that era, and you've got a reliable recipe for colonies starting behind baseboards or under flooring long before anyone catches the smell.
 
 ## Our Mold Remediation Process in San Mateo
 
@@ -32,7 +32,7 @@ We start with containment, sealing the affected area with poly sheeting and nega
 
 ## Reaching San Mateo from Hayward
 
-San Mateo is covered out of our [Hayward office](/locations/hayward-ca/) at 2536 Barrington Ct, which sits a quick run across the San Mateo-Hayward Bridge on CA-92. That bridge crossing keeps the drive straightforward for most San Mateo neighborhoods on both sides of 101, whether the job is a condo near the bay or a single-family home further inland toward the hills. We schedule the visit around what the moisture situation actually calls for: standing water and active leaks get prioritized differently than a slow-developing colony that's been building for weeks.
+San Mateo is covered out of our [Hayward office](/locations/hayward-ca/), which sits a quick run across the San Mateo-Hayward Bridge on CA-92. That bridge crossing keeps the drive straightforward for most San Mateo neighborhoods on both sides of 101, whether the job is a condo near the bay or a single-family home further inland toward the hills. We schedule the visit around what the moisture situation actually calls for: standing water and active leaks get prioritized differently than a slow-developing colony that's been building for weeks.
 
 ## San Mateo HOA & Property Considerations
 

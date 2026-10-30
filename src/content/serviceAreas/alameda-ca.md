@@ -35,7 +35,7 @@ Fire damage, smoke damage, and odor removal round out the emergency side, while 
 
 ## Coverage and how fast we can get there
 
-Alameda is served from our [Hayward office](/locations/hayward-ca/) at 2536 Barrington Ct, a short run up I-880 North and across one of the estuary crossings into the island. That proximity means a crew isn't driving in from across the Bay when a pipe lets go on a Saturday. We answer calls 24/7, so whether the loss is a slow leak discovered on a weekday or standing water found Sunday morning, the first call starts the response.
+Alameda is served from our [Hayward office](/locations/hayward-ca/), a short run up I-880 North and across one of the estuary crossings into the island. That proximity means a crew isn't driving in from across the Bay when a pipe lets go on a Saturday. We answer calls 24/7, so whether the loss is a slow leak discovered on a weekday or standing water found Sunday morning, the first call starts the response.
 
 ## Building stock, site conditions, and permits in Alameda
 
