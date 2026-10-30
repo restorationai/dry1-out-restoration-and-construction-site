@@ -12,6 +12,17 @@ import { brand } from "~/lib/brand";
   meta_description="Your request has been received."
   noindex={true}
 >
+  {/* Cole's Google Ads conversion event, pasted verbatim (2026-10-30). Thank-you
+      page ONLY. The base gtag config for AW-17829072059 loads sitewide via
+      Analytics (brand.clientGoogleTagId). */}
+  <Fragment slot="head" set:html={`<!-- Event snippet for Submit lead form conversion page -->
+<script>
+  gtag('event', 'conversion', {
+      'send_to': 'AW-17829072059/iJYSCPK5pq0dELuZyLVC',
+      'value': 1.0,
+      'currency': 'USD'
+  });
+</script>`} />
   <section class="min-h-[70vh] flex items-center justify-center bg-white">
     <div class="container-wide text-center max-w-2xl">
       <h1>Thank You, Your Request Was Received</h1>

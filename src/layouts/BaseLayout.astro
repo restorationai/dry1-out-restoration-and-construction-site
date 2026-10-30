@@ -148,6 +148,9 @@ const ctx: PageSchemaContext = {
       </>
     )}
       <Analytics />
+    {/* Per-page head tags (e.g. the thank-you page's Google Ads conversion
+        event). After Analytics so the client's gtag is already defined. */}
+    <slot name="head" />
 
     {/* Keep the Restoration AI chat FAB (#rai-widget-wrapper, max z-index) clear of
         the mobile sticky call bar — it otherwise overlaps the bar's right side. */}
