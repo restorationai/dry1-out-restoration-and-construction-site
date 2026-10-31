@@ -32,7 +32,7 @@ We start with containment, because the goal in any mold job is to stop spores fr
 
 ## Reaching Alameda from Hayward
 
-We cover Alameda out of our [Hayward office](/locations/hayward-ca/) at 2536 Barrington Ct, a straightforward run up I-880 and across into the island by way of the Park Street or High Street bridge, or Doolittle Drive if you're closer to Bay Farm. Because Alameda is geographically an island (and in places a peninsula, depending on which bridge you take), we build that crossing into scheduling rather than treating it as an afterthought, especially during commute hours when the tubes and bridges back up. We're available 24/7, so if you've found active mold growth and want it assessed before it spreads further into the structure, we can get a crew on the calendar without waiting for a weekday opening.
+We cover Alameda out of our [Hayward office](/locations/hayward-ca/) at 2536 Barrington Ct, a straightforward run up I-880 and across into the island by way of the Park Street or High Street bridge, or Doolittle Drive if you're closer to Bay Farm. Because Alameda is an island reached only by bridges and tubes, we build that crossing into scheduling rather than treating it as an afterthought, especially during commute hours when the tubes and bridges back up. We're available 24/7, so if you've found active mold growth and want it assessed before it spreads further into the structure, we can get a crew on the calendar without waiting for a weekday opening.
 
 ## Equipment & Methods We Use for Mold
 

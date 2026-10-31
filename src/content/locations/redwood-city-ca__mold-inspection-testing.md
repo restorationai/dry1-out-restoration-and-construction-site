@@ -32,7 +32,7 @@ We start with a visual inspection of the areas you're concerned about, plus the 
 
 ## Reaching Redwood City from Hayward
 
-Redwood City is served from our [Hayward office](/locations/hayward-ca/) at 2536 Barrington Ct, which puts us a straightforward run across the Dumbarton Bridge via CA-84 into the Peninsula. That bridge crossing is usually the fastest way in from the East Bay, and it keeps us close enough to schedule inspections without the delays that come from crossing through San Jose or looping around the south bay on 101. We cover Redwood City alongside the rest of the Peninsula communities in our service area, including San Mateo and Union City to the north and south.
+Redwood City is served from our [Hayward office](/locations/hayward-ca/) at 2536 Barrington Ct, which puts us a straightforward run across the Dumbarton Bridge via CA-84 into the Peninsula. That bridge crossing is usually the fastest way in from the East Bay, and it keeps us close enough to schedule inspections without the delays that come from crossing through San Jose or looping around the south bay on 101. We cover Redwood City alongside other Peninsula communities in our service area, including San Mateo to the north.
 
 ## Local note
 
