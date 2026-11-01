@@ -19,7 +19,7 @@ state: "CA"
 primary: false
 rendered: true
 ---
-Dry 1 Out Restoration and Construction handles water damage, fire and smoke recovery, mold remediation, sewage cleanup, and storm response for homes and businesses throughout Castro Valley. Our [Hayward office](/locations/hayward-ca/) at 2536 Barrington Ct sits minutes away via I-580, so our IICRC-certified crews can move quickly on burst pipes, roof leaks, and the hillside drainage failures that show up after Bay Area storm systems move through. We answer 24/7 at [(888) 379-1688](tel:+18883791688).
+Dry 1 Out Restoration and Construction handles water damage, fire and smoke recovery, mold remediation, sewage cleanup, and storm response for homes and businesses throughout Castro Valley. Our [Hayward office](/locations/hayward-ca/) sits minutes away via I-580, so our IICRC-certified crews can move quickly on burst pipes, roof leaks, and the hillside drainage failures that show up after Bay Area storm systems move through. We answer 24/7 at [(888) 379-1688](tel:+18883791688).
 
 ## Restoration emergencies common in Castro Valley
 

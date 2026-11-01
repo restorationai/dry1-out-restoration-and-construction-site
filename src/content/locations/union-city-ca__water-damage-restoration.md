@@ -35,7 +35,7 @@ The first thing we do on any water loss is figure out what kind of water it is a
 
 ## Reaching Union City from Hayward
 
-We cover Union City out of our [Hayward office](/locations/hayward-ca/) at 2536 Barrington Ct, a short run south on I-880. That proximity matters on a water loss because every hour standing water sits on flooring or inside wall cavities is an hour closer to secondary damage like swelling baseboards, delaminating cabinetry, or the early stages of microbial growth. Whether you're near the BART station, closer to the industrial stretch along Alvarado-Niles Road, or in one of the residential pockets off Decoto Road, we're coordinating the same route down 880 to get equipment on-site.
+We cover Union City out of our [Hayward office](/locations/hayward-ca/), a short run south on I-880. That proximity matters on a water loss because every hour standing water sits on flooring or inside wall cavities is an hour closer to secondary damage like swelling baseboards, delaminating cabinetry, or the early stages of microbial growth. Whether you're near the BART station, closer to the industrial stretch along Alvarado-Niles Road, or in one of the residential pockets off Decoto Road, we're coordinating the same route down 880 to get equipment on-site.
 
 ## Union City Insurance Considerations
 
