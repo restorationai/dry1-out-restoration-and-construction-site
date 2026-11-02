@@ -40,7 +40,7 @@ This matters because storm damage gets worse the longer it sits. A compromised r
 
 ## Does the company handle mitigation and rebuild under one license, or will you need a second contractor?
 
-The strongest storm damage companies carry both a mitigation license and a general contracting license, so the same crew that extracts water and tarps the roof also frames, drywalls, and finishes the rebuild. Dry 1 Out holds California contractor license #993442, searchable through the [CSLB's license lookup tool](https://www.cslb.ca.gov/OnlineServices/CheckLicenseII/CheckLicense.aspx), and offers both [reconstruction](/services/reconstruction/) and mitigation services under that one license.
+The strongest storm damage companies can handle both mitigation and reconstruction under one contractor license, so the same crew that extracts water and tarps the roof also frames, drywalls, and finishes the rebuild. Dry 1 Out holds California contractor license #993442, searchable through the [CSLB's license lookup tool](https://www.cslb.ca.gov/OnlineServices/CheckLicenseII/CheckLicense.aspx), and offers both [reconstruction](/services/reconstruction/) and mitigation services under that one license.
 
 Without this, a homeowner often ends up managing two separate vendors: one that dries the structure and leaves, and a second general contractor who has to be found, vetted, and scheduled separately for the rebuild. That gap is where projects stall for weeks. One license covering both means one point of contact, one schedule, and one company accountable for the finished result.
 
