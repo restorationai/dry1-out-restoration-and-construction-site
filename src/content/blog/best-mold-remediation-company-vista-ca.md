@@ -66,10 +66,10 @@ A real written scope lists exactly what materials are being removed, what's bein
 
 For a closer look at what remediation costs in this market, see our [guide to mold remediation pricing in Vista](/blog/mold-remediation-cost-vista-ca/), and for a broader rundown on vetting any restoration contractor, not just for mold, see [how to choose a restoration company in Vista](/blog/choosing-a-restoration-company/).
 
-If you're still working through the checklist above, the fastest next step is a mold inspection that gives you a written scope before any demolition starts. [Call Dry 1 Out Restoration and Construction at (888) 379-1688](tel:+18883791688) to schedule one, or start with the [mold remediation service page](/services/mold-remediation/) for more on how the process works in Vista homes.
+If you're still working through the checklist above, the fastest next step is a mold inspection that gives you a written scope before any demolition starts. [Call Dry 1 Out Restoration and Construction at (888) 379-1688](tel:+18883791688) to schedule one, or read about our [mold remediation in Vista](/services/mold-remediation/) for more on how the process works in local homes.
 
 ---
 
 **About Dry 1 Out Restoration and Construction**
 
-Dry 1 Out Restoration and Construction is an IICRC Certified Firm serving Vista, CA and the surrounding North San Diego County area, with a second office in Hayward covering the Bay Area, under CSLB license #993442. The company's technicians hold IICRC AMRT, WRT, ASD, and FSRT certifications and handle mold remediation and mold inspection and testing, along with water, fire, and storm restoration services, answering calls 24/7. This post was written with the Dry 1 Out team, led by Jason Pacheco.
+Dry 1 Out Restoration and Construction is an IICRC Certified Firm serving Vista, CA and the surrounding North San Diego County area, with a second office in Hayward covering the Bay Area, under CSLB license #993442. The company's technicians hold IICRC AMRT, WRT, ASD, and FSRT certifications and handle [mold remediation](/services/mold-remediation/) and mold inspection and testing, along with water, fire, and storm restoration services, answering calls 24/7. This post was written with the Dry 1 Out team, led by Jason Pacheco.
