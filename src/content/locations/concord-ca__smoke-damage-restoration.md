@@ -11,7 +11,7 @@ plan_hash: "9ea6531ea18bfaef"
 generated_at: "2026-10-04T18:21:21.289252+00:00"
 manual_override: false
 internal_links: ["/services/smoke-damage-restoration/", "/service-areas/concord-ca/", "/service-areas/concord-ca/fire-damage-restoration/", "/service-areas/concord-ca/mold-remediation/", "/service-areas/berkeley-ca/smoke-damage-restoration/", "/service-areas/bonsall-ca/smoke-damage-restoration/", "/contact/"]
-breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Service Areas", "url": "/service-areas/"}, {"name": "Concord", "url": "/service-areas/concord-ca/"}, {"name": "smoke-damage-restoration"}]
+breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Service Areas", "url": "/service-areas/"}, {"name": "Concord", "url": "/service-areas/concord-ca/"}, {"name": "Smoke Damage Restoration"}]
 faq: []
 area_slug: "concord-ca"
 service_slug: "smoke-damage-restoration"

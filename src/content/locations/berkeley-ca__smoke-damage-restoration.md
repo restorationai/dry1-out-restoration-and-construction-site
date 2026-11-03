@@ -11,7 +11,7 @@ plan_hash: "a917f0c80a5f2fb1"
 generated_at: "2026-10-04T18:21:21.289907+00:00"
 manual_override: false
 internal_links: ["/services/smoke-damage-restoration/", "/service-areas/berkeley-ca/", "/service-areas/berkeley-ca/fire-damage-restoration/", "/service-areas/berkeley-ca/mold-remediation/", "/service-areas/bonsall-ca/smoke-damage-restoration/", "/service-areas/concord-ca/smoke-damage-restoration/", "/contact/"]
-breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Service Areas", "url": "/service-areas/"}, {"name": "Berkeley", "url": "/service-areas/berkeley-ca/"}, {"name": "smoke-damage-restoration"}]
+breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Service Areas", "url": "/service-areas/"}, {"name": "Berkeley", "url": "/service-areas/berkeley-ca/"}, {"name": "Smoke Damage Restoration"}]
 faq: []
 area_slug: "berkeley-ca"
 service_slug: "smoke-damage-restoration"

@@ -11,7 +11,7 @@ plan_hash: "4a633705467f8a80"
 generated_at: "2026-10-04T18:21:21.287388+00:00"
 manual_override: false
 internal_links: ["/services/smoke-damage-restoration/", "/service-areas/oakland-ca/", "/service-areas/oakland-ca/fire-damage-restoration/", "/service-areas/oakland-ca/mold-remediation/", "/service-areas/berkeley-ca/smoke-damage-restoration/", "/service-areas/bonsall-ca/smoke-damage-restoration/", "/contact/"]
-breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Service Areas", "url": "/service-areas/"}, {"name": "Oakland", "url": "/service-areas/oakland-ca/"}, {"name": "smoke-damage-restoration"}]
+breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Service Areas", "url": "/service-areas/"}, {"name": "Oakland", "url": "/service-areas/oakland-ca/"}, {"name": "Smoke Damage Restoration"}]
 faq: []
 area_slug: "oakland-ca"
 service_slug: "smoke-damage-restoration"

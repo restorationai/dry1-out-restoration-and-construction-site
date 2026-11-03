@@ -11,7 +11,7 @@ plan_hash: "a977f037a0066d5d"
 generated_at: "2026-10-02T19:12:58.252512+00:00"
 manual_override: false
 internal_links: ["/services/smoke-damage-restoration/", "/service-areas/rancho-santa-fe-ca/", "/service-areas/rancho-santa-fe-ca/fire-damage-restoration/", "/service-areas/rancho-santa-fe-ca/water-damage-restoration/", "/service-areas/el-cajon-ca/smoke-damage-restoration/", "/service-areas/escondido-ca/smoke-damage-restoration/", "/contact/"]
-breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Service Areas", "url": "/service-areas/"}, {"name": "Rancho Santa Fe", "url": "/service-areas/rancho-santa-fe-ca/"}, {"name": "smoke-damage-restoration"}]
+breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Service Areas", "url": "/service-areas/"}, {"name": "Rancho Santa Fe", "url": "/service-areas/rancho-santa-fe-ca/"}, {"name": "Smoke Damage Restoration"}]
 faq: []
 area_slug: "rancho-santa-fe-ca"
 service_slug: "smoke-damage-restoration"
