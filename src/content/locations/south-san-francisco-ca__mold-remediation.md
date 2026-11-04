@@ -32,7 +32,7 @@ Every job starts with identifying the moisture source, because remediation witho
 
 ## Reaching South San Francisco from Hayward
 
-We cover South San Francisco from our [Hayward office](/locations/hayward-ca/) at 2536 Barrington Ct, typically routing across the San Mateo Bridge to US-101 north, which puts most South San Francisco addresses within a reasonable drive regardless of which side of the city you're on. Because we're a 24/7 operation, that drive happens whenever the call comes in, not just during business hours.
+We cover South San Francisco from our [Hayward office](/locations/hayward-ca/), typically routing across the San Mateo Bridge to US-101 north, which puts most South San Francisco addresses within a reasonable drive regardless of which side of the city you're on. Because we're a 24/7 operation, that drive happens whenever the call comes in, not just during business hours.
 
 ## Local note
 

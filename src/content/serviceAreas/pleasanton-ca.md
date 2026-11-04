@@ -31,7 +31,7 @@ Water damage restoration and emergency water removal are our most frequent calls
 
 ## Coverage and how fast we can get there
 
-Our Hayward office at 2536 Barrington Ct sits a straightforward run down I-880 to I-580 East, which carries directly into Pleasanton without needing to cross into San Francisco or Peninsula traffic. That route keeps response times predictable even during Bay Area commute hours. We answer calls 24/7, and a crew is dispatched as soon as the call comes in; we don't quote exact on-site minutes, but the Hayward-to-Pleasanton run is one of the shorter hauls in our East Bay coverage area.
+Our Hayward office sits a straightforward run down I-880 to I-580 East, which carries directly into Pleasanton without needing to cross into San Francisco or Peninsula traffic. That route keeps response times predictable even during Bay Area commute hours. We answer calls 24/7, and a crew is dispatched as soon as the call comes in; we don't quote exact on-site minutes, but the Hayward-to-Pleasanton run is one of the shorter hauls in our East Bay coverage area.
 
 ## Building stock, site conditions, and permits in Pleasanton
 

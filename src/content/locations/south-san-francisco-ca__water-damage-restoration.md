@@ -32,7 +32,7 @@ We start by identifying the source and extent of the water, using moisture meter
 
 ## Reaching South San Francisco from Hayward
 
-We cover South San Francisco from our [Hayward office](/locations/hayward-ca/) at 2536 Barrington Ct, typically routing across the San Mateo Bridge to US-101 north, which puts most of the city within reach without having to cut through downtown San Francisco traffic. That route works for both residential calls near the hillside neighborhoods and commercial or industrial properties along the Highway 101 corridor near the biotech and office park areas, where water intrusion often affects server rooms, lab space, or finished office interiors that need a faster, more careful response than a typical residential job.
+We cover South San Francisco from our [Hayward office](/locations/hayward-ca/), typically routing across the San Mateo Bridge to US-101 north, which puts most of the city within reach without having to cut through downtown San Francisco traffic. That route works for both residential calls near the hillside neighborhoods and commercial or industrial properties along the Highway 101 corridor near the biotech and office park areas, where water intrusion often affects server rooms, lab space, or finished office interiors that need a faster, more careful response than a typical residential job.
 
 ## South San Francisco Insurance Coordination
 
