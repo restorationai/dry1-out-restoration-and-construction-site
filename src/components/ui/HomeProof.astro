@@ -1,5 +1,5 @@
 ---
-// 2026-10-04 (Santino, Dry1Out review): stat tiles REMOVED from the template
+// 2026-10-04 (Santino, Dry1 review): stat tiles REMOVED from the template
 // and every site; headline capped at two lines (short name when the full
 // name is long, else "us"). Applied by scripts/home_proof_slim.py.
 // HomeProof: "Why {City} homeowners choose {Brand}" (Santino 2026-10-03).
@@ -47,7 +47,9 @@ const ratingNum = parseFloat(rating);
 const countNum = parseInt(count.replace(/[^0-9]/g, ""), 10);
 const hasRating = ratingNum > 0 && countNum > 0;
 const topRated = hasRating && ratingNum >= TOP_RATED_MIN_RATING && countNum >= TOP_RATED_MIN_REVIEWS;
-const stars = hasRating ? Math.min(5, Math.round(ratingNum)) : 0;
+// Always five stars under the subtext (Santino 2026-10-12: "never show 4
+// stars"); the real rating and review count are stated in the lead text.
+const stars = hasRating ? 5 : 0;
 const reviewsUrl = brand.googleCid
   ? `https://www.google.com/maps?cid=${brand.googleCid}`
   : brand.placeId
@@ -89,6 +91,9 @@ const short = str(brand.shortName);
 // choose NARESTCO" is 42 characters and still ran three lines on a phone)
 const fits = (n: string) => n.length <= 24;
 const headName = fits(name) ? name : short && fits(short) ? short : "us";
+// Awards moved OUT of this section (Santino 11-01): they have their own
+// section right after it (HomeAwards.astro), never between the rating
+// line and the review cards.
 ---
 
 {show && (
