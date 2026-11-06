@@ -32,7 +32,7 @@ We start with a visual walkthrough focused on the areas Dublin homes actually fa
 
 ## Reaching Dublin from Our Hayward Office
 
-Dublin is covered out of our [Hayward office](/locations/hayward-ca/) at 2536 Barrington Ct, a straightforward run east on I-580 through Castro Valley and San Ramon before dropping into Dublin's east side near the Hacienda and Dublin Ranch neighborhoods. That I-580 corridor is also the route we use for Pleasanton and San Ramon calls, so our crews are familiar with the stretch and its typical Tri-Valley traffic patterns when scheduling appointments.
+Dublin is covered out of our [Hayward office](/locations/hayward-ca/) at 2536 Barrington Ct, a straightforward run east on I-580 through Castro Valley and over the Dublin Grade into Dublin, near the Hacienda and Dublin Ranch neighborhoods. That I-580 corridor is also the route we use for Pleasanton and San Ramon calls, so our crews are familiar with the stretch and its typical Tri-Valley traffic patterns when scheduling appointments.
 
 ## Dublin Insurance and HOA Coordination
 
