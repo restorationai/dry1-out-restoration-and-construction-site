@@ -1,0 +1,584 @@
+{
+ "/commercial-damage-restoration": {
+  "planned": "/service-areas/san-diego-ca/commercial-restoration/",
+  "now": "/service-areas/san-diego-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/berkeley-ca/burst-pipe-water-damage-cleanup": {
+  "planned": "/service-areas/berkeley-ca/burst-pipe-repair/",
+  "now": "/service-areas/berkeley-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/berkeley-ca/emergency-board-ups": {
+  "planned": "/service-areas/berkeley-ca/emergency-board-up/",
+  "now": "/service-areas/berkeley-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/berkeley-ca/water-cleanup": {
+  "planned": "/service-areas/berkeley-ca/emergency-water-removal/",
+  "now": "/service-areas/berkeley-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/berkeley-ca/water-heater-flood-cleanup": {
+  "planned": "/service-areas/berkeley-ca/appliance-leak-cleanup/",
+  "now": "/service-areas/berkeley-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/carlsbad-ca/basement-sewage-cleanup": {
+  "planned": "/service-areas/carlsbad-ca/sewage-cleanup/",
+  "now": "/service-areas/carlsbad-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/carlsbad-ca/burst-pipe-water-damage-cleanup": {
+  "planned": "/service-areas/carlsbad-ca/burst-pipe-repair/",
+  "now": "/service-areas/carlsbad-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/carlsbad-ca/category-3-water-cleanup": {
+  "planned": "/service-areas/carlsbad-ca/sewage-cleanup/",
+  "now": "/service-areas/carlsbad-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/carlsbad-ca/emergency-board-ups": {
+  "planned": "/service-areas/carlsbad-ca/emergency-board-up/",
+  "now": "/service-areas/carlsbad-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/carlsbad-ca/water-cleanup": {
+  "planned": "/service-areas/carlsbad-ca/emergency-water-removal/",
+  "now": "/service-areas/carlsbad-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/carlsbad-ca/water-heater-flood-cleanup": {
+  "planned": "/service-areas/carlsbad-ca/appliance-leak-cleanup/",
+  "now": "/service-areas/carlsbad-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/chula-vista-ca/basement-sewage-cleanup": {
+  "planned": "/service-areas/chula-vista-ca/sewage-cleanup/",
+  "now": "/service-areas/chula-vista-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/chula-vista-ca/burst-pipe-water-damage-cleanup": {
+  "planned": "/service-areas/chula-vista-ca/burst-pipe-repair/",
+  "now": "/service-areas/chula-vista-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/chula-vista-ca/category-3-water-cleanup": {
+  "planned": "/service-areas/chula-vista-ca/sewage-cleanup/",
+  "now": "/service-areas/chula-vista-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/chula-vista-ca/emergency-board-ups": {
+  "planned": "/service-areas/chula-vista-ca/emergency-board-up/",
+  "now": "/service-areas/chula-vista-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/chula-vista-ca/water-cleanup": {
+  "planned": "/service-areas/chula-vista-ca/emergency-water-removal/",
+  "now": "/service-areas/chula-vista-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/chula-vista-ca/water-heater-flood-cleanup": {
+  "planned": "/service-areas/chula-vista-ca/appliance-leak-cleanup/",
+  "now": "/service-areas/chula-vista-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/concord-ca/burst-pipe-water-damage-cleanup": {
+  "planned": "/service-areas/concord-ca/burst-pipe-repair/",
+  "now": "/service-areas/concord-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/concord-ca/emergency-board-ups": {
+  "planned": "/service-areas/concord-ca/emergency-board-up/",
+  "now": "/service-areas/concord-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/concord-ca/water-cleanup": {
+  "planned": "/service-areas/concord-ca/emergency-water-removal/",
+  "now": "/service-areas/concord-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/concord-ca/water-heater-flood-cleanup": {
+  "planned": "/service-areas/concord-ca/appliance-leak-cleanup/",
+  "now": "/service-areas/concord-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/el-cajon-ca/basement-sewage-cleanup": {
+  "planned": "/service-areas/el-cajon-ca/sewage-cleanup/",
+  "now": "/service-areas/el-cajon-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/el-cajon-ca/burst-pipe-water-damage-cleanup": {
+  "planned": "/service-areas/el-cajon-ca/burst-pipe-repair/",
+  "now": "/service-areas/el-cajon-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/el-cajon-ca/category-3-water-cleanup": {
+  "planned": "/service-areas/el-cajon-ca/sewage-cleanup/",
+  "now": "/service-areas/el-cajon-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/el-cajon-ca/emergency-board-ups": {
+  "planned": "/service-areas/el-cajon-ca/emergency-board-up/",
+  "now": "/service-areas/el-cajon-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/el-cajon-ca/water-cleanup": {
+  "planned": "/service-areas/el-cajon-ca/emergency-water-removal/",
+  "now": "/service-areas/el-cajon-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/el-cajon-ca/water-heater-flood-cleanup": {
+  "planned": "/service-areas/el-cajon-ca/appliance-leak-cleanup/",
+  "now": "/service-areas/el-cajon-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/encinitas-ca/basement-sewage-cleanup": {
+  "planned": "/service-areas/encinitas-ca/sewage-cleanup/",
+  "now": "/service-areas/encinitas-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/encinitas-ca/burst-pipe-water-damage-cleanup": {
+  "planned": "/service-areas/encinitas-ca/burst-pipe-repair/",
+  "now": "/service-areas/encinitas-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/encinitas-ca/category-3-water-cleanup": {
+  "planned": "/service-areas/encinitas-ca/sewage-cleanup/",
+  "now": "/service-areas/encinitas-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/encinitas-ca/emergency-board-ups": {
+  "planned": "/service-areas/encinitas-ca/emergency-board-up/",
+  "now": "/service-areas/encinitas-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/encinitas-ca/water-cleanup": {
+  "planned": "/service-areas/encinitas-ca/emergency-water-removal/",
+  "now": "/service-areas/encinitas-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/encinitas-ca/water-heater-flood-cleanup": {
+  "planned": "/service-areas/encinitas-ca/appliance-leak-cleanup/",
+  "now": "/service-areas/encinitas-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/escondido-ca/basement-sewage-cleanup": {
+  "planned": "/service-areas/escondido-ca/sewage-cleanup/",
+  "now": "/service-areas/escondido-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/escondido-ca/burst-pipe-water-damage-cleanup": {
+  "planned": "/service-areas/escondido-ca/burst-pipe-repair/",
+  "now": "/service-areas/escondido-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/escondido-ca/category-3-water-cleanup": {
+  "planned": "/service-areas/escondido-ca/sewage-cleanup/",
+  "now": "/service-areas/escondido-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/escondido-ca/emergency-board-ups": {
+  "planned": "/service-areas/escondido-ca/emergency-board-up/",
+  "now": "/service-areas/escondido-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/escondido-ca/water-cleanup": {
+  "planned": "/service-areas/escondido-ca/emergency-water-removal/",
+  "now": "/service-areas/escondido-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/escondido-ca/water-heater-flood-cleanup": {
+  "planned": "/service-areas/escondido-ca/appliance-leak-cleanup/",
+  "now": "/service-areas/escondido-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/fremont-ca/basement-sewage-cleanup": {
+  "planned": "/service-areas/fremont-ca/sewage-cleanup/",
+  "now": "/service-areas/fremont-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/fremont-ca/burst-pipe-water-damage-cleanup": {
+  "planned": "/service-areas/fremont-ca/burst-pipe-repair/",
+  "now": "/service-areas/fremont-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/fremont-ca/category-3-water-cleanup": {
+  "planned": "/service-areas/fremont-ca/sewage-cleanup/",
+  "now": "/service-areas/fremont-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/fremont-ca/emergency-board-ups": {
+  "planned": "/service-areas/fremont-ca/emergency-board-up/",
+  "now": "/service-areas/fremont-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/fremont-ca/water-cleanup": {
+  "planned": "/service-areas/fremont-ca/emergency-water-removal/",
+  "now": "/service-areas/fremont-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/fremont-ca/water-heater-flood-cleanup": {
+  "planned": "/service-areas/fremont-ca/appliance-leak-cleanup/",
+  "now": "/service-areas/fremont-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/hayward-ca/basement-sewage-cleanup": {
+  "planned": "/service-areas/hayward-ca/sewage-cleanup/",
+  "now": "/service-areas/hayward-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/hayward-ca/burst-pipe-water-damage-cleanup": {
+  "planned": "/service-areas/hayward-ca/burst-pipe-repair/",
+  "now": "/service-areas/hayward-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/hayward-ca/category-3-water-cleanup": {
+  "planned": "/service-areas/hayward-ca/sewage-cleanup/",
+  "now": "/service-areas/hayward-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/hayward-ca/emergency-board-ups": {
+  "planned": "/service-areas/hayward-ca/emergency-board-up/",
+  "now": "/service-areas/hayward-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/hayward-ca/water-cleanup": {
+  "planned": "/service-areas/hayward-ca/emergency-water-removal/",
+  "now": "/service-areas/hayward-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/hayward-ca/water-heater-flood-cleanup": {
+  "planned": "/service-areas/hayward-ca/appliance-leak-cleanup/",
+  "now": "/service-areas/hayward-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/oakland-ca/burst-pipe-water-damage-cleanup": {
+  "planned": "/service-areas/oakland-ca/burst-pipe-repair/",
+  "now": "/service-areas/oakland-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/oakland-ca/water-cleanup": {
+  "planned": "/service-areas/oakland-ca/emergency-water-removal/",
+  "now": "/service-areas/oakland-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/oakland-ca/water-heater-flood-cleanup": {
+  "planned": "/service-areas/oakland-ca/appliance-leak-cleanup/",
+  "now": "/service-areas/oakland-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/oceanside-ca/basement-sewage-cleanup": {
+  "planned": "/service-areas/oceanside-ca/sewage-cleanup/",
+  "now": "/service-areas/oceanside-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/oceanside-ca/burst-pipe-water-damage-cleanup": {
+  "planned": "/service-areas/oceanside-ca/burst-pipe-repair/",
+  "now": "/service-areas/oceanside-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/oceanside-ca/category-3-water-cleanup": {
+  "planned": "/service-areas/oceanside-ca/sewage-cleanup/",
+  "now": "/service-areas/oceanside-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/oceanside-ca/emergency-board-ups": {
+  "planned": "/service-areas/oceanside-ca/emergency-board-up/",
+  "now": "/service-areas/oceanside-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/oceanside-ca/water-cleanup": {
+  "planned": "/service-areas/oceanside-ca/emergency-water-removal/",
+  "now": "/service-areas/oceanside-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/oceanside-ca/water-heater-flood-cleanup": {
+  "planned": "/service-areas/oceanside-ca/appliance-leak-cleanup/",
+  "now": "/service-areas/oceanside-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/san-diego-ca/burst-pipe-water-damage-cleanup": {
+  "planned": "/service-areas/san-diego-ca/burst-pipe-repair/",
+  "now": "/service-areas/san-diego-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/san-diego-ca/emergency-board-ups": {
+  "planned": "/service-areas/san-diego-ca/emergency-board-up/",
+  "now": "/service-areas/san-diego-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/san-diego-ca/water-heater-flood-cleanup": {
+  "planned": "/service-areas/san-diego-ca/appliance-leak-cleanup/",
+  "now": "/service-areas/san-diego-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/san-francisco-ca/burst-pipe-water-damage-cleanup": {
+  "planned": "/service-areas/san-francisco-ca/burst-pipe-repair/",
+  "now": "/service-areas/san-francisco-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/san-francisco-ca/water-cleanup": {
+  "planned": "/service-areas/san-francisco-ca/emergency-water-removal/",
+  "now": "/service-areas/san-francisco-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/san-francisco-ca/water-heater-flood-cleanup": {
+  "planned": "/service-areas/san-francisco-ca/appliance-leak-cleanup/",
+  "now": "/service-areas/san-francisco-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/san-jose-ca/burst-pipe-water-damage-cleanup": {
+  "planned": "/service-areas/san-jose-ca/burst-pipe-repair/",
+  "now": "/service-areas/san-jose-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/san-jose-ca/water-cleanup": {
+  "planned": "/service-areas/san-jose-ca/emergency-water-removal/",
+  "now": "/service-areas/san-jose-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/san-jose-ca/water-heater-flood-cleanup": {
+  "planned": "/service-areas/san-jose-ca/appliance-leak-cleanup/",
+  "now": "/service-areas/san-jose-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/san-marcos-ca/basement-sewage-cleanup": {
+  "planned": "/service-areas/san-marcos-ca/sewage-cleanup/",
+  "now": "/service-areas/san-marcos-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/san-marcos-ca/burst-pipe-water-damage-cleanup": {
+  "planned": "/service-areas/san-marcos-ca/burst-pipe-repair/",
+  "now": "/service-areas/san-marcos-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/san-marcos-ca/category-3-water-cleanup": {
+  "planned": "/service-areas/san-marcos-ca/sewage-cleanup/",
+  "now": "/service-areas/san-marcos-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/san-marcos-ca/emergency-board-ups": {
+  "planned": "/service-areas/san-marcos-ca/emergency-board-up/",
+  "now": "/service-areas/san-marcos-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/san-marcos-ca/water-cleanup": {
+  "planned": "/service-areas/san-marcos-ca/emergency-water-removal/",
+  "now": "/service-areas/san-marcos-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/san-marcos-ca/water-heater-flood-cleanup": {
+  "planned": "/service-areas/san-marcos-ca/appliance-leak-cleanup/",
+  "now": "/service-areas/san-marcos-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/santa-clara-ca/basement-sewage-cleanup": {
+  "planned": "/service-areas/santa-clara-ca/sewage-cleanup/",
+  "now": "/service-areas/santa-clara-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/santa-clara-ca/burst-pipe-water-damage-cleanup": {
+  "planned": "/service-areas/santa-clara-ca/burst-pipe-repair/",
+  "now": "/service-areas/santa-clara-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/santa-clara-ca/category-3-water-cleanup": {
+  "planned": "/service-areas/santa-clara-ca/sewage-cleanup/",
+  "now": "/service-areas/santa-clara-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/santa-clara-ca/emergency-board-ups": {
+  "planned": "/service-areas/santa-clara-ca/emergency-board-up/",
+  "now": "/service-areas/santa-clara-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/santa-clara-ca/water-cleanup": {
+  "planned": "/service-areas/santa-clara-ca/emergency-water-removal/",
+  "now": "/service-areas/santa-clara-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/santa-clara-ca/water-heater-flood-cleanup": {
+  "planned": "/service-areas/santa-clara-ca/appliance-leak-cleanup/",
+  "now": "/service-areas/santa-clara-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/santa-cruz-ca/basement-sewage-cleanup": {
+  "planned": "/service-areas/santa-cruz-ca/sewage-cleanup/",
+  "now": "/service-areas/santa-cruz-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/santa-cruz-ca/burst-pipe-water-damage-cleanup": {
+  "planned": "/service-areas/santa-cruz-ca/burst-pipe-repair/",
+  "now": "/service-areas/santa-cruz-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/santa-cruz-ca/category-3-water-cleanup": {
+  "planned": "/service-areas/santa-cruz-ca/sewage-cleanup/",
+  "now": "/service-areas/santa-cruz-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/santa-cruz-ca/emergency-board-ups": {
+  "planned": "/service-areas/santa-cruz-ca/emergency-board-up/",
+  "now": "/service-areas/santa-cruz-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/santa-cruz-ca/water-cleanup": {
+  "planned": "/service-areas/santa-cruz-ca/emergency-water-removal/",
+  "now": "/service-areas/santa-cruz-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/santa-cruz-ca/water-heater-flood-cleanup": {
+  "planned": "/service-areas/santa-cruz-ca/appliance-leak-cleanup/",
+  "now": "/service-areas/santa-cruz-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/sunnyvale-ca/basement-sewage-cleanup": {
+  "planned": "/service-areas/sunnyvale-ca/sewage-cleanup/",
+  "now": "/service-areas/sunnyvale-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/sunnyvale-ca/burst-pipe-water-damage-cleanup": {
+  "planned": "/service-areas/sunnyvale-ca/burst-pipe-repair/",
+  "now": "/service-areas/sunnyvale-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/sunnyvale-ca/category-3-water-cleanup": {
+  "planned": "/service-areas/sunnyvale-ca/sewage-cleanup/",
+  "now": "/service-areas/sunnyvale-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/sunnyvale-ca/emergency-board-ups": {
+  "planned": "/service-areas/sunnyvale-ca/emergency-board-up/",
+  "now": "/service-areas/sunnyvale-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/sunnyvale-ca/water-cleanup": {
+  "planned": "/service-areas/sunnyvale-ca/emergency-water-removal/",
+  "now": "/service-areas/sunnyvale-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/sunnyvale-ca/water-heater-flood-cleanup": {
+  "planned": "/service-areas/sunnyvale-ca/appliance-leak-cleanup/",
+  "now": "/service-areas/sunnyvale-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/temecula-ca/burst-pipe-water-damage-cleanup": {
+  "planned": "/service-areas/temecula-ca/burst-pipe-repair/",
+  "now": "/service-areas/temecula-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/temecula-ca/emergency-board-ups": {
+  "planned": "/service-areas/temecula-ca/emergency-board-up/",
+  "now": "/service-areas/temecula-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/temecula-ca/water-cleanup": {
+  "planned": "/service-areas/temecula-ca/emergency-water-removal/",
+  "now": "/service-areas/temecula-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/temecula-ca/water-heater-flood-cleanup": {
+  "planned": "/service-areas/temecula-ca/appliance-leak-cleanup/",
+  "now": "/service-areas/temecula-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ }
+}

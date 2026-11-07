@@ -81,7 +81,7 @@
 # duplicate service merge 2026-09-30: /services/basement-sewage-cleanup/ folded into /services/sewage-cleanup/ (scripts/service_merge.py)
 /services/basement-sewage-cleanup /services/sewage-cleanup/ 301
 /services/basement-sewage-cleanup/ /services/sewage-cleanup/ 301
-/service-areas/berkeley-ca/basement-sewage-cleanup /service-areas/berkeley-ca/water-damage-restoration/ 301
+/service-areas/berkeley-ca/basement-sewage-cleanup /service-areas/berkeley-ca/sewage-cleanup/ 301
 /service-areas/carlsbad-ca/basement-sewage-cleanup /service-areas/carlsbad-ca/water-damage-restoration/ 301
 /service-areas/chula-vista-ca/basement-sewage-cleanup /service-areas/chula-vista-ca/water-damage-restoration/ 301
 /service-areas/concord-ca/basement-sewage-cleanup /service-areas/concord-ca/sewage-cleanup/ 301
@@ -100,7 +100,7 @@
 /service-areas/santa-cruz-ca/basement-sewage-cleanup /service-areas/santa-cruz-ca/water-damage-restoration/ 301
 /service-areas/sunnyvale-ca/basement-sewage-cleanup /service-areas/sunnyvale-ca/water-damage-restoration/ 301
 /service-areas/temecula-ca/basement-sewage-cleanup /service-areas/temecula-ca/sewage-cleanup/ 301
-/service-areas/berkeley-ca/basement-sewage-cleanup/ /service-areas/berkeley-ca/water-damage-restoration/ 301
+/service-areas/berkeley-ca/basement-sewage-cleanup/ /service-areas/berkeley-ca/sewage-cleanup/ 301
 /service-areas/carlsbad-ca/basement-sewage-cleanup/ /service-areas/carlsbad-ca/water-damage-restoration/ 301
 /service-areas/chula-vista-ca/basement-sewage-cleanup/ /service-areas/chula-vista-ca/water-damage-restoration/ 301
 /service-areas/concord-ca/basement-sewage-cleanup/ /service-areas/concord-ca/sewage-cleanup/ 301
@@ -122,7 +122,7 @@
 # duplicate service merge 2026-09-30: /services/category-3-water-cleanup/ folded into /services/sewage-cleanup/ (scripts/service_merge.py)
 /services/category-3-water-cleanup /services/sewage-cleanup/ 301
 /services/category-3-water-cleanup/ /services/sewage-cleanup/ 301
-/service-areas/berkeley-ca/category-3-water-cleanup /service-areas/berkeley-ca/water-damage-restoration/ 301
+/service-areas/berkeley-ca/category-3-water-cleanup /service-areas/berkeley-ca/sewage-cleanup/ 301
 /service-areas/carlsbad-ca/category-3-water-cleanup /service-areas/carlsbad-ca/water-damage-restoration/ 301
 /service-areas/chula-vista-ca/category-3-water-cleanup /service-areas/chula-vista-ca/water-damage-restoration/ 301
 /service-areas/concord-ca/category-3-water-cleanup /service-areas/concord-ca/sewage-cleanup/ 301
@@ -141,7 +141,7 @@
 /service-areas/santa-cruz-ca/category-3-water-cleanup /service-areas/santa-cruz-ca/water-damage-restoration/ 301
 /service-areas/sunnyvale-ca/category-3-water-cleanup /service-areas/sunnyvale-ca/water-damage-restoration/ 301
 /service-areas/temecula-ca/category-3-water-cleanup /service-areas/temecula-ca/sewage-cleanup/ 301
-/service-areas/berkeley-ca/category-3-water-cleanup/ /service-areas/berkeley-ca/water-damage-restoration/ 301
+/service-areas/berkeley-ca/category-3-water-cleanup/ /service-areas/berkeley-ca/sewage-cleanup/ 301
 /service-areas/carlsbad-ca/category-3-water-cleanup/ /service-areas/carlsbad-ca/water-damage-restoration/ 301
 /service-areas/chula-vista-ca/category-3-water-cleanup/ /service-areas/chula-vista-ca/water-damage-restoration/ 301
 /service-areas/concord-ca/category-3-water-cleanup/ /service-areas/concord-ca/sewage-cleanup/ 301
