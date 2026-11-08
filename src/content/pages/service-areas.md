@@ -1,6 +1,6 @@
 ---
 archetype: "service-areas-hub"
-title: "Service Areas | Dry 1 Out Restoration and Construction Restoration"
+title: "Service Areas | Dry 1 Out Restoration and Construction"
 h1: "Areas We Serve"
 meta_description: "Dry 1 Out Restoration and Construction provides 24/7 restoration services across North San Diego County from Vista and the Bay Area from Hayward. Find your city."
 primary_keyword: "dry 1 out restoration and construction service areas"
