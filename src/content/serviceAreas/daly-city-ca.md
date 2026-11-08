@@ -37,7 +37,7 @@ Fire damage restoration and smoke damage restoration address both structural fir
 
 ## Coverage and how fast we can get there
 
-Daly City is served from our [Hayward office](/locations/hayward-ca/) at 2536 Barrington Ct, Hayward, CA 94545. The route runs west on CA-92 across the San Mateo Bridge to US-101 North, continuing through San Mateo and South San Francisco into Daly City, a drive of roughly 30 miles depending on traffic across the bridge. Because our hours are 24/7, we answer day or night when water, fire, or storm damage won't wait for business hours.
+Daly City is served from our [Hayward office](/locations/hayward-ca/) in Hayward, CA. The route runs west on CA-92 across the San Mateo Bridge to US-101 North, continuing through San Mateo and South San Francisco into Daly City, a drive of roughly 30 miles depending on traffic across the bridge. Because our hours are 24/7, we answer day or night when water, fire, or storm damage won't wait for business hours.
 
 ## Building stock, site conditions, and permits in Daly City
 
