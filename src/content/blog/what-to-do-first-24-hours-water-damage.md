@@ -57,7 +57,7 @@ If the water came from outside (storm surge, a yard that doesn't drain, a creek 
 ## What Not to Do
 
 - **Don't run a ceiling fan if the ceiling itself is wet.** A waterlogged electrical box is a fire and shock risk.
-- **Don't use a regular shop vac rated for dry debris only on standing water** unless it's specifically rated wet/dry. Check the label.
+- **Don't use a shop vac on standing water unless it's specifically rated for wet/dry use.** Check the label; a dry-only vac can be damaged or create a shock hazard.
 - **Don't paint over or seal a water stain to make it look better before documenting it.** Insurers want to see the original condition.
 - **Don't assume a surface that feels dry to the touch means the material underneath is dry.** Drywall, subfloor, and framing lumber can hold moisture well below the surface for days; this is why professional drying uses moisture meters, not guesswork.
 - **Don't wait on mold you can already smell.** A musty, earthy odor showing up within the first day usually means moisture has already reached somewhere you can't see, like inside a wall cavity or under flooring.
