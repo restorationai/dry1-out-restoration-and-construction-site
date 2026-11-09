@@ -31,7 +31,7 @@ Water damage restoration and emergency water removal are the calls we're built t
 
 ## Coverage and how fast we can get there
 
-San Lorenzo is served out of our [Hayward office](/locations/hayward-ca/) at 2536 Barrington Ct, just a few minutes south of San Lorenzo proper. Crews typically route up Hesperian Boulevard or via Lewelling Boulevard to reach homes throughout San Lorenzo without needing to cross the Bay or come from our Vista headquarters. Because the office sits this close, we're positioned to respond to water and fire emergencies here without the delay of a long-distance dispatch. Call [(888) 379-1688](tel:+18883791688) and we'll walk you through what to do while a crew is on the way.
+San Lorenzo is served out of our [Hayward office](/locations/hayward-ca/), just a few minutes south of San Lorenzo proper. Crews typically route up Hesperian Boulevard or via Lewelling Boulevard to reach homes throughout San Lorenzo without needing to cross the Bay or come from our Vista headquarters. Because the office sits this close, we're positioned to respond to water and fire emergencies here without the delay of a long-distance dispatch. Call [(888) 379-1688](tel:+18883791688) and we'll walk you through what to do while a crew is on the way.
 
 ## Building stock, site conditions, and permits in San Lorenzo
 

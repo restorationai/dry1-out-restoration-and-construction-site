@@ -32,7 +32,7 @@ We start with extraction, pulling standing water off flooring and out of carpet 
 
 ## Reaching Daly City from Hayward
 
-Daly City is covered out of our [Hayward office](/locations/hayward-ca/) at 2536 Barrington Ct, Hayward, CA 94545. The route runs across the bay via the San Mateo Bridge and then north, which keeps us within reach of Daly City addresses on both the flatter eastern side of the city and the hillside streets closer to the coast. We schedule extraction and drying equipment delivery as soon as a call comes in, and our crews carry what's needed to start water removal the same visit rather than making a separate trip for equipment.
+Daly City is covered out of our [Hayward office](/locations/hayward-ca/). The route runs across the bay via the San Mateo Bridge and then north, which keeps us within reach of Daly City addresses on both the flatter eastern side of the city and the hillside streets closer to the coast. We schedule extraction and drying equipment delivery as soon as a call comes in, and our crews carry what's needed to start water removal the same visit rather than making a separate trip for equipment.
 
 ## Equipment & Methods We Use for Water Damage
 

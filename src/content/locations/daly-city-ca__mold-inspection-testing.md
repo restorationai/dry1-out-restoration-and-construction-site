@@ -32,7 +32,7 @@ We start with a visual walkthrough and moisture mapping, using meters to check b
 
 ## Reaching Daly City from Our Hayward Office
 
-Daly City is covered from our [Hayward office](/locations/hayward-ca/) at 2536 Barrington Ct, which means a trip across the Bay via the San Mateo Bridge and up the Peninsula on 101 or 280 depending on traffic. We schedule inspections around this route rather than treating Daly City as an afterthought tacked onto a longer day, and we coordinate arrival windows with homeowners and property managers directly so someone isn't waiting around without an update.
+Daly City is covered from our [Hayward office](/locations/hayward-ca/), which means a trip across the Bay via the San Mateo Bridge and up the Peninsula on 101 or 280 depending on traffic. We schedule inspections around this route rather than treating Daly City as an afterthought tacked onto a longer day, and we coordinate arrival windows with homeowners and property managers directly so someone isn't waiting around without an update.
 
 ## Equipment & Methods We Use for Mold Inspection
 

@@ -32,7 +32,7 @@ We start with containment, sealing off the affected area with plastic sheeting a
 
 ## Reaching Daly City from Hayward
 
-Daly City is covered from our [Hayward office](/locations/hayward-ca/) at 2536 Barrington Ct, with the drive typically running north on I-880, across the Bay on Highway 92 via the San Mateo Bridge, then north on Highway 101 into Daly City. That bridge crossing is usually the only real variable in travel time, since backups on 92 during commute windows can add to an otherwise straightforward trip up the Peninsula. We schedule around that when we can, but we're reachable at [(888) 379-1688](tel:+18883791688) any time to get a visit on the calendar.
+Daly City is covered from our [Hayward office](/locations/hayward-ca/), with the drive typically running north on I-880, across the Bay on Highway 92 via the San Mateo Bridge, then north on Highway 101 into Daly City. That bridge crossing is usually the only real variable in travel time, since backups on 92 during commute windows can add to an otherwise straightforward trip up the Peninsula. We schedule around that when we can, but we're reachable at [(888) 379-1688](tel:+18883791688) any time to get a visit on the calendar.
 
 ## Local note
 
