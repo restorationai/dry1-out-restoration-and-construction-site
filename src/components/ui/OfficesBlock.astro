@@ -24,7 +24,7 @@ const mainAddress = [brand.streetAddress, brand.addressCity, `${brand.addressSta
       <h2 class="text-2xl md:text-3xl font-black uppercase tracking-tighter text-dark-900 mb-8">Our Offices</h2>
       <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
         <div class="flex flex-col gap-2 border border-dark/15 bg-white px-5 py-5 shadow-sm">
-          <div class="text-xs font-black uppercase tracking-widest text-primary-700">Main Office</div>
+          <div class="text-xs font-black uppercase tracking-widest text-primary-700">{brand.addressCity} Office</div>
           <div class="text-dark-900 font-black text-lg leading-tight">{brand.addressCity}, {brand.addressState}</div>
           <div class="flex gap-2 text-sm text-dark/75"><MapPin size={16} class="text-primary-500 shrink-0 mt-0.5" /><span>{mainAddress}</span></div>
           <a href={`tel:${brand.phoneRaw}`} class="flex gap-2 text-sm font-bold text-dark-900 no-underline"><Phone size={16} class="text-primary-500 shrink-0 mt-0.5" />{brand.phone}</a>
