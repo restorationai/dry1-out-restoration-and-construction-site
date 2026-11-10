@@ -35,7 +35,7 @@ Fire damage restoration, smoke damage restoration, and odor removal address the 
 
 ## Coverage and how fast we can get there
 
-Our Hayward office at 2536 Barrington Ct sits across the bay from Mountain View, and the most direct path for our crews runs south along the East Bay corridor and across to the Peninsula, keeping Mountain View inside our regular South Bay coverage alongside Sunnyvale, Santa Clara, and the rest of our Santa Clara County service area. We answer calls 24/7, and dispatch works out equipment and routing before a crew leaves so time on site isn't lost figuring out the job after arrival.
+Our Hayward office sits across the bay from Mountain View, and the most direct path for our crews runs south along the East Bay corridor and across to the Peninsula, keeping Mountain View inside our regular South Bay coverage alongside Sunnyvale, Santa Clara, and the rest of our Santa Clara County service area. We answer calls 24/7, and dispatch works out equipment and routing before a crew leaves so time on site isn't lost figuring out the job after arrival.
 
 ## Building stock, site conditions, and permits in Mountain View
 
