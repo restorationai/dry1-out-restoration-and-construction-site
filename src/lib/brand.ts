@@ -73,14 +73,14 @@ export const brand = {
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "5.0",
-  gbpReviewCount: "21",
+  gbpReviewCount: "23",
   gbpReviews: [
+    { author: "Carlos", rating: 5, text: "Great info on smoke smell as a warning sign very helpful!", when: "November 2026" },
     { author: "Fernando", rating: 5, text: "Great owner with absolutely great deals", when: "November 2026" },
     { author: "Desyre", rating: 5, text: "Quick, friendly conversation with Dry 1 Out Restoration and Construction about how to protect a home from water damage. I'd feel comfortable calling them for restoration in Vista.", when: "November 2026" },
     { author: "Cesar", rating: 5, text: "Excellent service love the owner", when: "October 2026" },
     { author: "Doug", rating: 5, text: "As good as it gets… fast, friendly put my mind to ease…", when: "September 2026" },
     { author: "Iris", rating: 5, text: "I had a great experience with Dry1Out after a fire damaged my home. The entire situation was overwhelming, but their team made the process much easier from the moment they arrived. They were professional, responsive, and compassionate. They explained what needed to be done, helped me understand the…", when: "September 2026" },
-    { author: "Christopher", rating: 5, text: "I've had the pleasure of working with the team at Dry 1 Out, and their professionalism stands out every step of the way. They're responsive, reliable, and thorough in everything they do. You can tell they hold themselves to a high standard and genuinely care about doing quality work. It's been a…", when: "September 2026" },
   ] as { author: string; rating: number; text: string; when: string }[],
   tagline: "24/7 restoration services in Vista and Hayward, CA.",
   // optional custom insurance positioning line (Hero renders only when set)
