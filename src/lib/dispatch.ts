@@ -24,7 +24,13 @@ export function isHqCity(city: string): boolean {
 // vista. Not just vista"). Bay Area cities are served from the Hayward
 // location, everything else from the Vista headquarters.
 const HAYWARD_CITIES = new Set(["hayward", "oakland", "fremont", "san jose", "san francisco",
-  "berkeley", "sunnyvale", "santa clara", "concord", "santa cruz"]);
+  "berkeley", "sunnyvale", "santa clara", "concord", "santa cruz",
+  // Bay Area cities added 10-30 (Cole 2026-11-11: "all the service pages in
+  // the Bay Area state ... serving Bay Area name from vista location").
+  // ADD EVERY NEW BAY AREA CITY HERE or its pages show the Vista office.
+  "alameda", "castro valley", "daly city", "dublin", "foster city", "mountain view",
+  "newark", "pleasanton", "redwood city", "san leandro", "san lorenzo", "san mateo",
+  "san ramon", "south san francisco", "union city"]);
 
 export function officeCityFor(city: string): string {
   return HAYWARD_CITIES.has(String(city).trim().toLowerCase()) ? "Hayward" : String(brand.primaryCity);
