@@ -2,7 +2,7 @@
 archetype: "home"
 title: "Water Damage Restoration in Hayward & Vista, CA | Dry 1 Out Restoration and Construction"
 h1: "24/7 Water Damage Restoration in Hayward & Vista, CA"
-meta_description: "Dry 1 Out Restoration and Construction provides water damage restoration across Hayward & Vista, CA, including San Diego, San Jose and San Francisco."
+meta_description: "Dry 1 Out Restoration and Construction provides water, fire & mold damage restoration across Hayward & Vista, CA, including San Diego, San Jose and San Francisco."
 primary_keyword: "water damage restoration vista"
 secondary_keywords: ["water damage restoration hayward", "best restoration company in vista", "water damage restoration near me"]
 search_intent: "local_commercial"
