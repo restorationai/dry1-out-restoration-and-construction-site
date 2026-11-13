@@ -41,15 +41,18 @@ const GHL_FORM_ID = "JREQr3YCSmavi1L09uO6";
     <div class={`mx-auto ${compact ? "max-w-xl" : "max-w-6xl"} flex flex-col lg:flex-row gap-8 items-start`}>
     <div class={`flex-1 w-full bg-dark-900 rounded-2xl shadow-xl border border-dark/10 ${compact ? "p-6 sm:p-8" : "p-8 sm:p-10"}`}>
       <div class={`text-center ${compact ? "mb-6" : "mb-8"}`}>
-        <h2 class={`font-black uppercase tracking-tighter text-white ${compact ? "text-2xl md:text-3xl" : "text-3xl md:text-4xl"} mb-3`}>
-          {heading}
-        </h2>
-        {!compact && (
+        {/* The GHL form carries its own "Request Your Free Estimate" title. */}
+        {ownForm && (
+          <h2 class={`font-black uppercase tracking-tighter text-white ${compact ? "text-2xl md:text-3xl" : "text-3xl md:text-4xl"} mb-3`}>
+            {heading}
+          </h2>
+        )}
+        {ownForm && !compact && (
           <p class="text-white/75 text-lg mb-0">
             Tell us what happened and we'll get back to you fast — usually within one business hour.
           </p>
         )}
-        <p class="mt-4 mb-0">
+        <p class={ownForm ? "mt-4 mb-0" : "mb-0"}>
           <a href={`tel:${brand.phoneRaw}`} class="inline-flex items-center gap-2 font-bold text-white no-underline text-lg">
             <Phone size={18} class="text-primary-500" />
             Fastest: call {brand.phone}
@@ -58,10 +61,10 @@ const GHL_FORM_ID = "JREQr3YCSmavi1L09uO6";
       </div>
 
       {!ownForm && (
-        <div class="rounded-md bg-white overflow-hidden">
+        <div>
           <iframe
             src={`https://api.leadconnectorhq.com/widget/form/${GHL_FORM_ID}`}
-            style="width:100%;height:765px;border:none;border-radius:4px"
+            style="width:100%;height:765px;border:none;border-radius:4px;display:block"
             id={`inline-${GHL_FORM_ID}`}
             data-layout="{'id':'INLINE'}"
             data-trigger-type="alwaysShow"
