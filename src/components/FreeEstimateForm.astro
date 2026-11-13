@@ -18,11 +18,22 @@ type Props = {
   /** Compact variant for /emergency/ — tighter spacing, shorter copy. */
   compact?: boolean;
   heading?: string;
+  /** true = our own /api/estimate form (the /embed/estimate page that other
+   *  sites iframe). Default false = the client's GHL form. */
+  ownForm?: boolean;
 };
 const {
   compact = false,
   heading = compact ? "Or Request a Free Estimate" : "Request Your Free Estimate",
+  ownForm = false,
 } = Astro.props;
+// Cole, Dry 1 Out 2026-11-13: "Can you embed this code for the GHL form?"
+// The site's estimate form is now their GoHighLevel form "Website". Its own
+// GHL setting redirects the whole page (window.top) to
+// https://www.dry1out.com/thank-you/ after a submit, so the Google Ads
+// conversion on /thank-you/ keeps firing. Leads land in their GHL, not in
+// /api/estimate.
+const GHL_FORM_ID = "JREQr3YCSmavi1L09uO6";
 ---
 
 <section id="estimate" class={`scroll-mt-24 bg-dark-50 border-y border-dark/10 ${compact ? "py-14" : "py-20"}`}>
@@ -46,6 +57,30 @@ const {
         </p>
       </div>
 
+      {!ownForm && (
+        <div class="rounded-md bg-white overflow-hidden">
+          <iframe
+            src={`https://api.leadconnectorhq.com/widget/form/${GHL_FORM_ID}`}
+            style="width:100%;height:765px;border:none;border-radius:4px"
+            id={`inline-${GHL_FORM_ID}`}
+            data-layout="{'id':'INLINE'}"
+            data-trigger-type="alwaysShow"
+            data-trigger-value=""
+            data-activation-type="alwaysActivated"
+            data-activation-value=""
+            data-deactivation-type="neverDeactivate"
+            data-deactivation-value=""
+            data-form-name="Website"
+            data-height="765"
+            data-layout-iframe-id={`inline-${GHL_FORM_ID}`}
+            data-form-id={GHL_FORM_ID}
+            title="Website"
+          ></iframe>
+        </div>
+      )}
+      {!ownForm && <script is:inline src="https://link.msgsndr.com/js/form_embed.js"></script>}
+
+      {ownForm && (
       <form method="post" action="/api/estimate" data-estimate-form novalidate class="grid gap-4">
         <div class="grid gap-4 sm:grid-cols-2">
           <label class="grid gap-1.5 text-sm font-bold uppercase tracking-widest text-white/70">
@@ -120,6 +155,7 @@ const {
 
         <p data-estimate-status class="hidden m-0 rounded-md px-4 py-3 text-base font-medium" role="status" aria-live="polite"></p>
       </form>
+      )}
     </div>
 
     {!compact && (
@@ -165,7 +201,7 @@ const {
   </div>
 </section>
 
-<script is:inline>
+{ownForm && <script is:inline>
   (function () {
     document.querySelectorAll("[data-estimate-form]").forEach(function (form) {
       var ts = form.querySelector('input[name="fets"]');
@@ -235,4 +271,4 @@ const {
       });
     });
   })();
-</script>
+</script>}
