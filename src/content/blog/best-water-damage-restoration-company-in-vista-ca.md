@@ -41,7 +41,7 @@ Four other companies show up consistently in Vista-area searches, each with a di
 
 **All City Cleaning** shows a 4.6 rating across 73 reviews. A rating in this range still reflects generally positive service, though slightly more mixed feedback than the others on this list.
 
-**Steampro Clean Up & Drying Services** has a 5.0 rating but a smaller review base of 21, an established local restoration company that's newer to accumulating public reviews at scale, or a smaller operation by design.
+**Steampro Clean Up & Drying Services** has a 5.0 rating from a smaller base of 21 reviews, which may reflect a smaller operation or one that is newer to collecting public reviews.
 
 | Company | Google Rating | Reviews | 24/7 Emergency | IICRC Certified |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ Four other companies show up consistently in Vista-area searches, each with a di
 | Steampro Clean Up & Drying Services | 5.0 | 21 | Not listed | Not listed |
 | All City Cleaning | 4.6 | 73 | Not listed | Not listed |
 
-Ratings and review counts are public Google Business Profile figures at time of writing and can change. Fields marked with a dash weren't independently verifiable and aren't guessed at here.
+Ratings and review counts are public Google Business Profile figures at time of writing and can change. Fields marked 'Not listed' weren't independently verifiable and aren't guessed at here.
 
 ## What Should You Actually Look for in a Water Damage Company?
 
