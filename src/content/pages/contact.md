@@ -1,6 +1,6 @@
 ---
 archetype: "contact"
-title: "Contact Dry 1 Out Restoration and Construction | 24/7 Restoration in Vista"
+title: "Contact Dry 1 Out Restoration and Construction | 24/7 Restoration in Vista & Hayward"
 h1: "Contact Dry 1 Out Restoration and Construction"
 meta_description: "Call (888) 379-1688 for 24/7 emergency restoration in North San Diego County and the Bay Area. Insurance claim documentation support."
 primary_keyword: "dry 1 out restoration and construction contact"
@@ -9,7 +9,7 @@ search_intent: "navigational_action"
 priority: 2.5
 plan_hash: "91ad23077ccc25f2"
 generated_at: "2026-10-08T19:26:47.331706+00:00"
-manual_override: false
+manual_override: true
 internal_links: ["/", "/services/", "/service-areas/"]
 breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Contact"}]
 faq: [{"question": "How fast can you get someone to my property?", "answer": "We don't quote a fixed arrival window since every job and location is different, but we answer calls 24/7 and dispatch as soon as we have the details of your situation. The sooner you call, the sooner a crew starts moving."}, {"question": "Are you really available after hours and on weekends?", "answer": "Yes. Our phone line is staffed 24/7, including nights, weekends, and holidays, because water and fire damage don't follow a schedule. Call (888) 379-1688 any time you need us."}, {"question": "Do you work on commercial properties or just homes?", "answer": "Both. We handle residential jobs like burst pipes and basement flooding as well as commercial and industrial losses, including large-loss and catastrophic events that involve multiple units or a larger building footprint."}, {"question": "Will you work directly with my insurance company?", "answer": "We document the damage thoroughly with photos and notes as part of our process, which supports your claim paperwork. Bring us your carrier information when you call and we'll talk through how billing works for your specific situation."}]
@@ -27,4 +27,4 @@ Not every call is an emergency. If you're planning a remodel, want a mold inspec
 
 ## Where we're located
 
-Dry 1 Out Restoration and Construction is based at 1235 Activity Dr in Vista, CA, and we run crews throughout the surrounding San Diego North County area. Whether you're in Vista proper, Oceanside, San Marcos, or one of the nearby inland communities, we're close enough to respond without a long haul across the county. Our Hayward location covers the Bay Area, including Oakland, Fremont, San Jose, and San Francisco. The company holds California contractor license #993442.
+Dry 1 Out Restoration and Construction works out of two locations: 1235 Activity Dr in Vista, CA, and 2536 Barrington Ct in Hayward, CA. Our Vista location runs crews throughout San Diego North County, including Vista proper, Oceanside, San Marcos, and the nearby inland communities. Our Hayward location covers the Bay Area, including Oakland, Fremont, San Jose, and San Francisco. The company holds California contractor license #993442.

@@ -1,7 +1,7 @@
 ---
 archetype: "service-landing"
-title: "24/7 Emergency Crime Scene Cleanup in Vista | Dry 1 Out Restoration and Construction"
-h1: "24/7 Emergency Crime Scene Cleanup in Vista"
+title: "24/7 Emergency Crime Scene Cleanup in Vista & Hayward | Dry 1 Out Restoration and Construction"
+h1: "24/7 Emergency Crime Scene Cleanup in Vista & Hayward"
 meta_description: "24/7 emergency crime scene cleanup in Vista, Hayward and surrounding areas. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "crime scene cleanup vista"
 secondary_keywords: ["crime scene cleaning", "forensic cleanup", "post-crime cleanup", "homicide cleanup", "suicide scene cleanup"]
@@ -9,7 +9,7 @@ search_intent: "local_sensitive"
 priority: 5.4
 plan_hash: "bdf6479c4f97603f"
 generated_at: "2026-10-06T17:12:16.400481+00:00"
-manual_override: false
+manual_override: true
 internal_links: ["/services/", "/contact/", "/service-areas/berkeley-ca/", "/service-areas/carlsbad-ca/", "/service-areas/chula-vista-ca/", "/service-areas/concord-ca/", "/service-areas/el-cajon-ca/", "/service-areas/encinitas-ca/", "/service-areas/escondido-ca/", "/service-areas/fremont-ca/", "/service-areas/hayward-ca/", "/service-areas/oakland-ca/", "/service-areas/oceanside-ca/", "/service-areas/san-diego-ca/", "/services/biohazard-cleanup/", "/service-areas/oakland-ca/crime-scene-cleanup/", "/service-areas/san-francisco-ca/crime-scene-cleanup/", "/service-areas/san-jose-ca/crime-scene-cleanup/", "/service-areas/temecula-ca/crime-scene-cleanup/"]
 breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Services", "url": "/services/"}, {"name": "Crime Scene Cleanup"}]
 faq: [{"question": "Does homeowners insurance cover crime scene cleanup?", "answer": "Many homeowners policies do cover trauma or crime scene cleanup, often through a specific endorsement, though coverage details vary by carrier and policy. Dry 1 Out Restoration and Construction works with all insurance carriers and handles the documentation, photos, and waste manifests your claim will need. We can also help you understand what your specific policy covers before work begins."}, {"question": "Who decides when we can access the property after a crime scene?", "answer": "Access is controlled by law enforcement or the medical examiner's office, not by our crew, and we don't begin work until the scene has been officially released. Once released, we coordinate directly with the family or property manager to schedule the cleanup as soon as possible."}, {"question": "How is biological waste disposed of after a cleanup?", "answer": "Biological materials removed from a scene are bagged, labeled, and transported as regulated medical waste according to state disposal requirements, not placed in standard household trash. We provide a waste manifest documenting what was removed and how it was handled for your records."}, {"question": "Will the cleanup crew be discreet about why they're there?", "answer": "Yes, technicians arrive in unmarked vehicles and keep details of the job between the family, the property owner, and the insurance carrier. We understand these situations are difficult, and our focus stays on handling the logistics quietly and professionally."}, {"question": "Do we need to remove flooring or drywall after a crime scene cleanup?", "answer": "It depends on whether biological fluid has soaked into porous materials like carpet, padding, subflooring, or drywall, which typically cannot be fully disinfected once contaminated. Our scope will specify exactly what needs to be removed versus what can be cleaned and disinfected in place, and we document the reasoning for insurance purposes."}]
@@ -17,7 +17,7 @@ service_slug: "crime-scene-cleanup"
 service_display: "Crime Scene Cleanup"
 rendered: true
 ---
-**Crime scene cleanup emergency in Vista?** We answer 24/7 and begin coordinating access as soon as law enforcement or the medical examiner releases the scene. A violent crime, suicide, or unattended death leaves behind biological material that carries real health risk and legal disposal requirements, which means the property usually cannot be reoccupied, listed, or even entered safely until it has been professionally cleaned, disinfected, and documented. Families and property managers in this position need a crew that moves quickly, works discreetly, and handles every step without requiring them to be present.
+**Crime scene cleanup emergency in Vista or Hayward?** We answer 24/7 and begin coordinating access as soon as law enforcement or the medical examiner releases the scene. A violent crime, suicide, or unattended death leaves behind biological material that carries real health risk and legal disposal requirements, which means the property usually cannot be reoccupied, listed, or even entered safely until it has been professionally cleaned, disinfected, and documented. Families and property managers in this position need a crew that moves quickly, works discreetly, and handles every step without requiring them to be present.
 
 ## What Crime Scene Cleanup actually involves
 

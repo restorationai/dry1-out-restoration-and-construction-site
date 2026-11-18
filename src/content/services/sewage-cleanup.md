@@ -1,7 +1,7 @@
 ---
 archetype: "service-landing"
-title: "24/7 Emergency Sewage Cleanup and Sanitization in Vista | Dry 1 Out Restoration and Construction"
-h1: "24/7 Emergency Sewage Cleanup and Sanitization in Vista"
+title: "24/7 Emergency Sewage Cleanup and Sanitization in Vista & Hayward | Dry 1 Out Restoration and Construction"
+h1: "24/7 Emergency Sewage Cleanup and Sanitization in Vista & Hayward"
 meta_description: "24/7 emergency sewage cleanup and sanitization in Vista, Hayward and surrounding areas. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "sewage cleanup and sanitization vista"
 secondary_keywords: ["sewage backup cleanup", "raw sewage removal", "septic overflow cleanup", "sewer line backup", "sanitization services"]
@@ -9,7 +9,7 @@ search_intent: "local_emergency"
 priority: 8.1
 plan_hash: "4e5472cfd84c09fa"
 generated_at: "2026-10-01T04:10:24.842926+00:00"
-manual_override: false
+manual_override: true
 internal_links: ["/services/", "/contact/", "/service-areas/berkeley-ca/", "/service-areas/carlsbad-ca/", "/service-areas/chula-vista-ca/", "/service-areas/concord-ca/", "/service-areas/el-cajon-ca/", "/service-areas/encinitas-ca/", "/service-areas/escondido-ca/", "/service-areas/fremont-ca/", "/service-areas/hayward-ca/", "/service-areas/oakland-ca/", "/service-areas/oceanside-ca/", "/service-areas/san-diego-ca/", "/service-areas/berkeley-ca/sewage-cleanup/", "/service-areas/san-francisco-ca/sewage-cleanup/", "/service-areas/san-jose-ca/sewage-cleanup/", "/service-areas/temecula-ca/sewage-cleanup/"]
 breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Services", "url": "/services/"}, {"name": "Sewage Cleanup and Sanitization"}]
 faq: [{"question": "Does homeowners insurance cover sewage cleanup and sanitization?", "answer": "Most standard homeowners policies do not cover sewer or drain backups unless a water backup (sewer/sump) endorsement has been added, so check your policy. Dry 1 Out Restoration and Construction works with all insurance carriers and handles the documentation, photos, and moisture readings adjusters need to process a sewage claim."}, {"question": "Why does drywall and carpet have to be removed instead of just cleaned after a sewage backup?", "answer": "Sewage is classified as Category 3 water, meaning it's treated as grossly contaminated no matter where it came from. Porous materials like drywall, carpet, and pad absorb bacteria and waste deep into their structure, so cleaning the surface doesn't remove the contamination, it has to be cut out and replaced."}, {"question": "What's the difference between a sewer line backup and a septic overflow for cleanup purposes?", "answer": "A sewer line backup usually affects one area close to the blockage, like a bathroom or basement drain, while a septic overflow can spread contaminated water across a yard, crawlspace, or foundation perimeter. The cleanup scope and the extent of porous material removal depend heavily on which type of loss you're dealing with."}, {"question": "Is it safe to stay in the house while sewage cleanup is happening?", "answer": "It depends on how contained the backup is and which rooms are affected; a crew will set up containment barriers to keep contamination out of living spaces during the work. Anyone with respiratory issues, young children, or compromised immune systems should generally avoid the work area until cleaning and disinfection are complete."}, {"question": "How do you know when a sewage-affected structure is actually clean and dry?", "answer": "Technicians use moisture meters and thermal imaging to confirm framing and subfloor materials have returned to a dry standard, paired with visual and odor checks after antimicrobial treatment and dwell time. That combination of readings and inspection is what supports the clearance before any rebuild work starts."}]
@@ -17,7 +17,7 @@ service_slug: "sewage-cleanup"
 service_display: "Sewage Cleanup and Sanitization"
 rendered: true
 ---
-**Sewage backup in your home or business?** Call now for emergency service. Raw sewage carries bacteria, viruses, and parasites that can contaminate a structure within hours of a backup, and the longer wastewater sits in carpet, drywall, or crawlspace soil, the more it has to be removed rather than cleaned. Dry 1 Out Restoration and Construction answers 24/7 for sewage cleanup and sanitization in Vista, whether the source is a sewer line backup, a failed septic system, or an overflowing fixture.
+**Sewage backup in your home or business?** Call now for emergency service. Raw sewage carries bacteria, viruses, and parasites that can contaminate a structure within hours of a backup, and the longer wastewater sits in carpet, drywall, or crawlspace soil, the more it has to be removed rather than cleaned. Dry 1 Out Restoration and Construction answers 24/7 for sewage cleanup and sanitization in Vista and Hayward, whether the source is a sewer line backup, a failed septic system, or an overflowing fixture.
 
 ## What Sewage Cleanup and Sanitization actually involves
 

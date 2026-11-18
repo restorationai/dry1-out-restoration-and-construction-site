@@ -1,7 +1,7 @@
 ---
 archetype: "service-landing"
-title: "24/7 Emergency Burst Pipe Cleanup and Repair in Vista | Dry 1 Out Restoration and Construction"
-h1: "24/7 Emergency Burst Pipe Cleanup and Repair in Vista"
+title: "24/7 Emergency Burst Pipe Cleanup and Repair in Vista & Hayward | Dry 1 Out Restoration and Construction"
+h1: "24/7 Emergency Burst Pipe Cleanup and Repair in Vista & Hayward"
 meta_description: "24/7 emergency burst pipe cleanup and repair in Vista, Hayward and surrounding areas. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "burst pipe cleanup and repair vista"
 secondary_keywords: ["burst pipe cleanup", "pipe burst emergency", "pipe break water damage", "water line break", "emergency pipe repair"]
@@ -9,7 +9,7 @@ search_intent: "local_emergency"
 priority: 7.2
 plan_hash: "23cf0a140e2b6a4e"
 generated_at: "2026-10-04T16:21:23.398573+00:00"
-manual_override: false
+manual_override: true
 internal_links: ["/services/", "/contact/", "/service-areas/berkeley-ca/", "/service-areas/carlsbad-ca/", "/service-areas/chula-vista-ca/", "/service-areas/concord-ca/", "/service-areas/el-cajon-ca/", "/service-areas/encinitas-ca/", "/service-areas/escondido-ca/", "/service-areas/fremont-ca/", "/service-areas/hayward-ca/", "/service-areas/oakland-ca/", "/service-areas/oceanside-ca/", "/service-areas/san-diego-ca/"]
 breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Services", "url": "/services/"}, {"name": "Burst Pipe Cleanup and Repair"}]
 faq: [{"question": "Does homeowners insurance cover burst pipe cleanup and repair?", "answer": "Most policies cover sudden and accidental pipe bursts and the water damage that results, though damage traced to long-term corrosion or a leak left unaddressed is typically excluded. Dry 1 Out Restoration and Construction works with all major insurance carriers and documents the cause of loss, moisture readings, and affected materials as part of your claim file.", "category": null}, {"question": "How can you tell if a pipe burst behind a wall versus under the slab?", "answer": "A break inside a wall usually shows as a damp or bulging section of drywall near the floor, while a slab leak often shows up first as a warm spot on the flooring or an unexplained jump in the water bill. Moisture meters and, when needed, thermal imaging help pinpoint the source before any demolition starts."}, {"question": "How long does drying take after a burst pipe once the leak is fixed?", "answer": "Structural drying for a contained burst pipe typically runs a few days, monitored daily with moisture meters until the affected materials reach a dry standard, not just dry to the touch. Larger losses involving subfloor or multiple rooms can take longer depending on how much material absorbed water before it was caught."}, {"question": "Do you repair the pipe itself or just handle the water damage?", "answer": "Dry 1 Out Restoration and Construction handles both the pipe repair or section replacement and the water damage mitigation that follows, coordinating the two so walls or flooring aren't closed back up around materials that haven't fully dried. The approach is laid out in a written scope before work begins."}, {"question": "What's the difference between a slab leak and a burst supply line, and does cleanup differ?", "answer": "A burst supply line is usually an accessible pipe failure behind a wall or under a sink, while a slab leak is a break in a line running beneath the concrete foundation and often requires cutting into the slab or rerouting the line through a wall or ceiling. Slab leaks generally take longer to repair and the water can travel further under flooring before it's noticed, which changes how extraction and drying are scoped."}]
@@ -17,7 +17,7 @@ service_slug: "burst-pipe-repair"
 service_display: "Burst Pipe Cleanup and Repair"
 rendered: true
 ---
-**Pipe just let go behind the wall and you can hear water running where there shouldn't be any?** A burst pipe doesn't wait for a convenient time. Supply lines under pressure can dump hundreds of gallons an hour into wall cavities, under slab flooring, or into a ceiling before anyone finds the shutoff valve. Dry 1 Out Restoration and Construction answers 24/7 for pipe burst emergencies across Vista, handling the water extraction, structural drying, and the pipe break water damage repair that follows, so the loss doesn't turn into a mold problem a week later.
+**Pipe just let go behind the wall and you can hear water running where there shouldn't be any?** A burst pipe doesn't wait for a convenient time. Supply lines under pressure can dump hundreds of gallons an hour into wall cavities, under slab flooring, or into a ceiling before anyone finds the shutoff valve. Dry 1 Out Restoration and Construction answers 24/7 for pipe burst emergencies across Vista and Hayward, handling the water extraction, structural drying, and the pipe break water damage repair that follows, so the loss doesn't turn into a mold problem a week later.
 
 ## What Burst Pipe Cleanup and Repair Actually Involves
 

@@ -36,6 +36,10 @@ export const brand = {
   foundedYear: "1998",
   primaryCity: "Vista",
   homeRegion: "Hayward & Vista, CA",
+  // Coverage name on the general (non-city) pages and the homepage FAQ
+  // (Cole 2026-11-18: "make sure the info says Vista and Hayward for all
+  // combined pages"). City pages keep their own city.
+  marketArea: "Vista & Hayward, CA",
   primaryState: "CA",
   // primaryCity/primaryState = the #1 MARKETING city (headlines, coverage
   // copy). addressCity/addressState = where the business PHYSICALLY is.

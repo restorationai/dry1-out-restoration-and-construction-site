@@ -1,7 +1,7 @@
 ---
 archetype: "service-landing"
-title: "Large Loss and Catastrophic Response in Vista | Dry 1 Out Restoration and Construction"
-h1: "Large Loss and Catastrophic Response in Vista"
+title: "Large Loss and Catastrophic Response in Vista & Hayward | Dry 1 Out Restoration and Construction"
+h1: "Large Loss and Catastrophic Response in Vista & Hayward"
 meta_description: "24/7 large loss and catastrophic response in Vista, Hayward and surrounding areas. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "large loss and catastrophic response vista"
 secondary_keywords: ["large loss restoration", "catastrophic loss response", "commercial catastrophic restoration", "multi-million dollar restoration", "large loss adjusters"]
@@ -9,7 +9,7 @@ search_intent: "local_b2b"
 priority: 7.2
 plan_hash: "96eab1f6f37c6fbe"
 generated_at: "2026-10-02T16:39:37.408215+00:00"
-manual_override: false
+manual_override: true
 internal_links: ["/services/", "/contact/", "/service-areas/berkeley-ca/", "/service-areas/carlsbad-ca/", "/service-areas/chula-vista-ca/", "/service-areas/concord-ca/", "/service-areas/el-cajon-ca/", "/service-areas/encinitas-ca/", "/service-areas/escondido-ca/", "/service-areas/fremont-ca/", "/service-areas/hayward-ca/", "/service-areas/oakland-ca/", "/service-areas/oceanside-ca/", "/service-areas/san-diego-ca/"]
 breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Services", "url": "/services/"}, {"name": "Large Loss and Catastrophic Response"}]
 faq: [{"question": "Does insurance cover large loss and catastrophic restoration?", "answer": "Yes, in most cases commercial or multi-family property insurance covers mitigation and reconstruction for a covered peril, though specifics like business interruption and ordinance-and-law coverage vary by policy. Dry 1 Out Restoration and Construction works with all insurance carriers and builds documentation designed to support the claim review process, including daily progress reports on large files."}, {"question": "What makes a loss qualify as 'large loss' instead of a standard claim?", "answer": "Carriers typically route a claim to a large-loss or catastrophe adjuster when it spans multiple units or structures, involves a commercial or multi-family property, or reaches an estimated claim value above their standard threshold. That reclassification changes documentation requirements and often who at the carrier is reviewing the file."}, {"question": "How do you coordinate with a large-loss or catastrophe adjuster?", "answer": "We align our Xactimate line-item scope with the adjuster's review process from day one and provide ongoing progress documentation, photo logs, and moisture readings rather than a single end-of-job report. On multi-structure losses this reduces the back-and-forth that often delays claim approval."}, {"question": "How quickly can a crew be mobilized for a multi-unit or commercial loss?", "answer": "We're available 24/7 and scale crew size and equipment count to the footprint of the loss rather than deploying incrementally, so a 20-unit water loss gets a different resource allocation than a single apartment. The exact mobilization plan depends on the number of structures affected and access to the site."}, {"question": "What documentation gets tracked on a large loss or catastrophic file?", "answer": "Moisture readings are logged per room or unit rather than as a single building average, and equipment placement, run times, and any removed materials are documented with photos and a clear chain of custody. This level of detail is what large-loss claims typically need to clear carrier review without supplemental requests."}]
@@ -17,7 +17,7 @@ service_slug: "large-loss-response"
 service_display: "Large Loss and Catastrophic Response"
 rendered: true
 ---
-**Catastrophic loss response for Vista properties with no time to waste?** When a water main break floods a 40-unit apartment complex, a commercial roof fails during a storm, or a fire tears through an occupied multi-tenant building, the math changes entirely. This isn't a single flooded bathroom or a kitchen fire. It's dozens of affected units, a claim value that can run into seven figures, multiple insurance carriers or a single large-loss adjuster managing the whole file, and a property owner who needs square footage back in production fast. We answer 24/7 and mobilize crews and equipment sized to the scope of the loss, not a standard residential call.
+**Catastrophic loss response for Vista and Hayward properties with no time to waste?** When a water main break floods a 40-unit apartment complex, a commercial roof fails during a storm, or a fire tears through an occupied multi-tenant building, the math changes entirely. This isn't a single flooded bathroom or a kitchen fire. It's dozens of affected units, a claim value that can run into seven figures, multiple insurance carriers or a single large-loss adjuster managing the whole file, and a property owner who needs square footage back in production fast. We answer 24/7 and mobilize crews and equipment sized to the scope of the loss, not a standard residential call.
 
 ## What a large loss response actually involves
 

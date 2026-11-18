@@ -1,7 +1,7 @@
 ---
 archetype: "service-landing"
-title: "Industrial Restoration in Vista | Dry 1 Out Restoration and Construction"
-h1: "Industrial Restoration in Vista"
+title: "Industrial Restoration in Vista & Hayward | Dry 1 Out Restoration and Construction"
+h1: "Industrial Restoration in Vista & Hayward"
 meta_description: "24/7 industrial restoration in Vista, Hayward and surrounding areas. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "industrial restoration vista"
 secondary_keywords: ["industrial water damage", "warehouse restoration", "manufacturing facility restoration", "industrial fire damage", "plant restoration services"]
@@ -9,7 +9,7 @@ search_intent: "local_b2b"
 priority: 6.3
 plan_hash: "68fb57cc9e838771"
 generated_at: "2026-10-06T17:04:28.305033+00:00"
-manual_override: false
+manual_override: true
 internal_links: ["/services/", "/contact/", "/service-areas/berkeley-ca/", "/service-areas/carlsbad-ca/", "/service-areas/chula-vista-ca/", "/service-areas/concord-ca/", "/service-areas/el-cajon-ca/", "/service-areas/encinitas-ca/", "/service-areas/escondido-ca/", "/service-areas/fremont-ca/", "/service-areas/hayward-ca/", "/service-areas/oakland-ca/", "/service-areas/oceanside-ca/", "/service-areas/san-diego-ca/"]
 breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Services", "url": "/services/"}, {"name": "Industrial Restoration"}]
 faq: [{"question": "Does commercial property insurance cover industrial water or fire damage?", "answer": "Most commercial property policies cover sudden water and fire losses, though business interruption and equipment breakdown coverage depend on your specific policy. Dry 1 Out Restoration and Construction works with all insurance carriers and handles the documentation, from initial moisture and soot readings to final verification, so your claim has the records it needs."}, {"question": "How is drying a warehouse different from drying a house?", "answer": "Warehouse and plant drying depends on cubic footage, not square footage, since high ceilings and open floor plans hold far more air volume than a residential room. We size dehumidification and air movement equipment to the actual space and monitor concrete slabs and wall panels separately, since those substrates dry at a different rate than drywall."}, {"question": "Can production continue while restoration work is happening?", "answer": "Often yes, depending on the extent of the damage and how the facility is laid out. We coordinate with facility management to contain the affected zone, sequence drying or cleanup around active areas, and keep unaffected parts of the plant running wherever it's safe to do so."}, {"question": "How do you handle soot damage on machinery and electrical equipment?", "answer": "Soot and smoke residue get characterized first, since the cleaning approach differs for light surface film versus heavier deposits that have started reacting with metal. Equipment is cleaned or treated on-site when possible, and anything requiring specialized decontamination is documented and coordinated separately so the claim reflects the full scope."}, {"question": "What records do you provide for a large-loss industrial claim?", "answer": "We document moisture readings, soot or contamination testing, and photos at each stage of the job, from initial assessment through final sign-off. That documentation is built to hand directly to your insurance carrier or risk manager, and we can walk through it with your adjuster if needed."}]
@@ -17,7 +17,7 @@ service_slug: "industrial-restoration"
 service_display: "Industrial Restoration"
 rendered: true
 ---
-**Industrial water or fire damage in Vista?** A flooded warehouse floor or a scorched production line doesn't wait for a convenient time to get handled. We answer 24/7 and bring industrial-grade extraction and drying equipment sized for high-bay structures, concrete slab floors, and the kind of square footage that turns a one-room residential job into a multi-day, multi-crew operation.
+**Industrial water or fire damage in Vista or Hayward?** A flooded warehouse floor or a scorched production line doesn't wait for a convenient time to get handled. We answer 24/7 and bring industrial-grade extraction and drying equipment sized for high-bay structures, concrete slab floors, and the kind of square footage that turns a one-room residential job into a multi-day, multi-crew operation.
 
 Industrial losses behave differently than residential ones. A broken fire suppression line or a roof failure over a 40,000 square foot distribution center doesn't just wet drywall, it can saturate slab-on-grade concrete, pool under racking systems, and wick into insulated metal panel walls where it stays hidden for weeks. Smoke from an electrical fire in a manufacturing plant can coat machinery, HVAC ductwork, and exposed steel with a corrosive film that starts pitting metal within days if it isn't neutralized. This page covers what industrial restoration actually involves, not a scaled-up version of a homeowner job but a different approach built around keeping a facility operational, protecting equipment, and documenting the loss the way a commercial insurance carrier expects.
 

@@ -1,7 +1,7 @@
 ---
 archetype: "service-landing"
-title: "24/7 Emergency Fire Damage Restoration in Vista | Dry 1 Out Restoration and Construction"
-h1: "24/7 Emergency Fire Damage Restoration in Vista"
+title: "24/7 Emergency Fire Damage Restoration in Vista & Hayward | Dry 1 Out Restoration and Construction"
+h1: "24/7 Emergency Fire Damage Restoration in Vista & Hayward"
 meta_description: "24/7 emergency fire damage restoration in Vista, Hayward and surrounding areas. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "fire damage restoration vista"
 secondary_keywords: ["fire cleanup", "fire and smoke restoration", "structural fire damage", "post-fire restoration", "fire damage repair"]
@@ -9,7 +9,7 @@ search_intent: "local_emergency"
 priority: 9.0
 plan_hash: "6c86953885e65df1"
 generated_at: "2026-10-01T04:10:28.966467+00:00"
-manual_override: false
+manual_override: true
 internal_links: ["/services/", "/contact/", "/service-areas/berkeley-ca/", "/service-areas/carlsbad-ca/", "/service-areas/chula-vista-ca/", "/service-areas/concord-ca/", "/service-areas/el-cajon-ca/", "/service-areas/encinitas-ca/", "/service-areas/escondido-ca/", "/service-areas/fremont-ca/", "/service-areas/hayward-ca/", "/service-areas/oakland-ca/", "/service-areas/oceanside-ca/", "/service-areas/san-diego-ca/", "/blog/choosing-a-restoration-company/", "/blog/fire-damage-restoration-process/", "/blog/smoke-odor-removal-techniques/", "/blog/best-fire-damage-restoration-company-vista-ca/", "/blog/fire-damage-restoration-cost-vista-ca/", "/blog/who-to-call-after-house-fire-vista-ca/", "/services/emergency-board-up/"]
 breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Services", "url": "/services/"}, {"name": "Fire Damage Restoration"}]
 faq: [{"question": "Does homeowners insurance cover fire damage restoration?", "answer": "Yes, most homeowners insurance policies cover fire and smoke damage restoration, including structural cleaning, odor removal, and contents cleaning, as part of a standard fire claim. Dry 1 Out Restoration and Construction works with all insurance carriers and handles the claim documentation, including photos, moisture readings, and a written scope of work."}, {"question": "What's the difference between protein soot and synthetic soot, and why does it matter?", "answer": "Protein soot comes from burned organic materials like food or wood and leaves a thin, often invisible residue with a strong odor, while synthetic soot comes from burned plastics and furniture and leaves a heavier, greasy black film. Each requires different cleaning agents, and using the wrong one on the wrong type can set the stain permanently into drywall or wood trim."}, {"question": "Is ozone treatment safe to use in an occupied home?", "answer": "Ozone treatment has to run in a sealed, unoccupied space because ozone is harmful to breathe at the concentrations needed to break down smoke odor. People and pets stay out of the treated area until the space has been ventilated, which is usually a matter of hours, not days."}, {"question": "Do you need to clean the HVAC ducts after a house fire?", "answer": "In most fires, yes. Smoke gets pulled into the return air and travels through the ductwork, so skipping duct cleaning means the system keeps recirculating smoke odor into rooms that were never directly affected by the fire."}, {"question": "How long does smoke odor removal typically take?", "answer": "A contained, single-room fire with light smoke penetration can often be deodorized in a few days, while a whole-structure fire with heavy smoke saturation into framing and insulation can take several weeks, especially if materials need to be removed and replaced rather than cleaned."}, {"question": "Can my belongings be saved after a fire, or do they need to be replaced?", "answer": "It depends on the material and how much direct heat or smoke exposure it had. Many textiles, electronics, and hard-surface items can be cleaned through an ultrasonic or specialty cleaning process during pack-out, but items with direct charring or heavy heat damage usually can't be restored."}]
@@ -17,7 +17,7 @@ service_slug: "fire-damage-restoration"
 service_display: "Fire Damage Restoration"
 rendered: true
 ---
-**Fire damage emergency in your Vista home?** We answer 24/7, call (888) 379-1688 now. Soot doesn't sit still once a fire is out. Acidic residue starts etching chrome, glass, and aluminum within hours, smoke odor works its way into drywall and subfloor, and anything left wet from suppression efforts can start growing mold in the same timeframe as a flood. The longer a structure sits untouched after a fire, the more of it has to be replaced instead of cleaned.
+**Fire damage emergency in your Vista or Hayward home?** We answer 24/7, call (888) 379-1688 now. Soot doesn't sit still once a fire is out. Acidic residue starts etching chrome, glass, and aluminum within hours, smoke odor works its way into drywall and subfloor, and anything left wet from suppression efforts can start growing mold in the same timeframe as a flood. The longer a structure sits untouched after a fire, the more of it has to be replaced instead of cleaned.
 
 ## What Fire Damage Restoration actually involves
 
@@ -55,4 +55,4 @@ Vista's dry season and Santa Ana wind events raise the risk of both wildfire-adj
 
 We respond to fire damage calls throughout Vista and nearby communities including Oceanside, Carlsbad, San Marcos, Escondido, and Bonsall. From our Hayward location we also cover the Bay Area, including Oakland, Fremont, San Jose, and San Francisco.
 
-If your home or business in Vista has smoke, soot, or fire damage, call (888) 379-1688 to begin smoke and soot removal before odor and residue set deeper into your walls, flooring, and belongings.
+If your home or business in Vista, Hayward or the surrounding areas has smoke, soot, or fire damage, call (888) 379-1688 to begin smoke and soot removal before odor and residue set deeper into your walls, flooring, and belongings.

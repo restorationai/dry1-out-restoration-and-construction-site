@@ -1,7 +1,7 @@
 ---
 archetype: "service-landing"
-title: "24/7 Emergency Smoke Damage Restoration in Vista | Dry 1 Out Restoration and Construction"
-h1: "24/7 Emergency Smoke Damage Restoration in Vista"
+title: "24/7 Emergency Smoke Damage Restoration in Vista & Hayward | Dry 1 Out Restoration and Construction"
+h1: "24/7 Emergency Smoke Damage Restoration in Vista & Hayward"
 meta_description: "24/7 emergency smoke damage restoration in Vista, Hayward and surrounding areas. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "smoke damage restoration vista"
 secondary_keywords: ["smoke residue cleanup", "smoke damage repair", "post-fire smoke cleanup", "smoke damage restoration services", "wildfire smoke cleanup"]
@@ -9,7 +9,7 @@ search_intent: "local_emergency"
 priority: 8.1
 plan_hash: "389998d388337e9a"
 generated_at: "2026-10-01T04:11:00.179355+00:00"
-manual_override: false
+manual_override: true
 internal_links: ["/services/", "/contact/", "/service-areas/berkeley-ca/", "/service-areas/carlsbad-ca/", "/service-areas/chula-vista-ca/", "/service-areas/concord-ca/", "/service-areas/el-cajon-ca/", "/service-areas/encinitas-ca/", "/service-areas/escondido-ca/", "/service-areas/fremont-ca/", "/service-areas/hayward-ca/", "/service-areas/oakland-ca/", "/service-areas/oceanside-ca/", "/service-areas/san-diego-ca/", "/blog/fire-damage-restoration-process/", "/blog/smoke-odor-removal-techniques/", "/service-areas/oakland-ca/smoke-damage-restoration/", "/service-areas/san-jose-ca/smoke-damage-restoration/", "/service-areas/santa-cruz-ca/smoke-damage-restoration/", "/service-areas/temecula-ca/smoke-damage-restoration/", "/services/fire-damage-restoration/"]
 breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Services", "url": "/services/"}, {"name": "Smoke Damage Restoration"}]
 faq: [{"question": "Does homeowners insurance cover smoke damage restoration?", "answer": "Yes, in most cases, as long as the fire that caused the smoke is a covered peril under your policy. Dry 1 Out Restoration and Construction works with all insurance carriers and handles the documentation, photos, and scope of work your adjuster needs to process the claim.\n"}, {"question": "How is wildfire smoke cleanup different from cleanup after a house fire?", "answer": "Wildfire smoke often enters a home through HVAC intakes, attic vents, and small gaps without any flame ever reaching the structure, so the damage is more about fine particulate infiltration than surface scorching. Cleanup focuses heavily on HVAC systems, attic insulation, and air filtration rather than repairing charred materials.\n"}, {"question": "Why does smoke odor come back after the walls have been cleaned and repainted?", "answer": "If the underlying residue wasn't fully neutralized before painting, the odor molecules trapped in the drywall or framing continue to off-gas through the new paint over time. Odor removal has to happen at the source, often with thermal fogging or HEPA air scrubbing, before repainting locks it in.\n"}, {"question": "What's the difference between protein smoke residue and synthetic smoke residue?", "answer": "Protein residue comes from burned food or organic material and leaves a thin, nearly invisible film with a strong odor, common after kitchen fires. Synthetic residue comes from burning plastics, foam, and synthetic fabrics and leaves a heavier, smeary soot that spreads further and requires different cleaning agents.\n"}, {"question": "Can smoke damage affect areas of the house the fire never reached?", "answer": "Yes, soot particles travel through HVAC ductwork and settle in rooms far from the fire's origin, sometimes throughout an entire floor plan. That's why a full smoke damage assessment includes checking ductwork, closets, and adjoining rooms even if they show no visible scorching.\n"}]
@@ -17,9 +17,9 @@ service_slug: "smoke-damage-restoration"
 service_display: "Smoke Damage Restoration"
 rendered: true
 ---
-**Smoke damage emergency in Vista?** Call (888) 379-1688 now. We answer 24/7, and the sooner smoke residue is addressed, the less permanent damage it does to walls, HVAC systems, and belongings.
+**Smoke damage emergency in Vista or Hayward?** Call (888) 379-1688 now. We answer 24/7, and the sooner smoke residue is addressed, the less permanent damage it does to walls, HVAC systems, and belongings.
 
-Smoke doesn't stop moving once the fire is out. Acidic soot particles keep etching into metal, grout, and painted surfaces for days after a fire, and the odor works its way into drywall, subfloor, and ductwork long after the visible damage looks manageable. A kitchen fire that scorched one cabinet can leave a smoke film across an entire floor plan within hours, carried by the home's own air handling system. Waiting even a day or two to start smoke damage restoration in Vista often turns a cleaning job into a tear-out and rebuild.
+Smoke doesn't stop moving once the fire is out. Acidic soot particles keep etching into metal, grout, and painted surfaces for days after a fire, and the odor works its way into drywall, subfloor, and ductwork long after the visible damage looks manageable. A kitchen fire that scorched one cabinet can leave a smoke film across an entire floor plan within hours, carried by the home's own air handling system. Waiting even a day or two to start smoke damage restoration often turns a cleaning job into a tear-out and rebuild.
 
 ## What smoke damage restoration actually involves
 

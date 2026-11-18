@@ -6,13 +6,15 @@ import { getCollection } from "astro:content";
 import BaseLayout from "~/layouts/BaseLayout.astro";
 import CtaBanner from "~/components/CtaBanner.astro";
 import { brand } from "~/lib/brand";
+// Coverage name for general pages: both offices (Cole 2026-11-18: "make sure the info says Vista and Hayward for all combined pages"). brand.marketArea, else the home city.
+const areaName = String((brand as { marketArea?: string }).marketArea || brand.primaryCity);
 
 const studies = (await getCollection("caseStudies"))
   .sort((a, b) => (b.data.published_at || "").localeCompare(a.data.published_at || ""));
 const cities = [...new Set(studies.map((s) => s.data.city).filter(Boolean))] as string[];
 const heroImage = "/images/hero-bg.webp";
-const title = `Case Studies | Real ${brand.primaryCity} Jobs by ${brand.displayName}`;
-const meta = `Real projects completed by ${brand.displayName}: what happened, what we did, and how it turned out. Photos and details from actual jobs in ${brand.primaryCity} and surrounding areas.`;
+const title = `Case Studies | Real ${areaName} Jobs by ${brand.displayName}`;
+const meta = `Real projects completed by ${brand.displayName}: what happened, what we did, and how it turned out. Photos and details from actual jobs in ${areaName} and surrounding areas.`;
 const breadcrumb = [{ name: "Home", url: "/" }, { name: "Case Studies" }];
 ---
 

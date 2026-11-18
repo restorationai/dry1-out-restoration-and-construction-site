@@ -9,6 +9,8 @@ import { serviceImage } from "~/lib/images";
 import ServicesWeHandle from "~/components/ServicesWeHandle.astro";
 import { gbpServicesFor } from "~/lib/gbp-services";
 import geoVideos from "~/data/geo-videos.json";
+// Coverage name for general pages: both offices (Cole 2026-11-18: "make sure the info says Vista and Hayward for all combined pages"). brand.marketArea, else the home city.
+const areaName = String((brand as { marketArea?: string }).marketArea || brand.primaryCity);
 
 export async function getStaticPaths() {
   const services = await getCollection("services");
@@ -122,7 +124,7 @@ const homeVideoId = (geoVideos as Record<string, string>)[
     <div class="container-wide">
       <div class="max-w-content mx-auto">
         <div class="eyebrow">Why Choose Us</div>
-        <h2>Looking for the best {serviceLower} company in {brand.primaryCity}?</h2>
+        <h2>Looking for the best {serviceLower} company in {areaName}?</h2>
         <p class="text-lg text-dark-800">{bestCompanyAnswer}</p>
       </div>
     </div>

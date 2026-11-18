@@ -1,7 +1,7 @@
 ---
 archetype: "service-landing"
-title: "24/7 Emergency Carpet Water Extraction in Vista | Dry 1 Out Restoration and Construction"
-h1: "24/7 Emergency Carpet Water Extraction in Vista"
+title: "24/7 Emergency Carpet Water Extraction in Vista & Hayward | Dry 1 Out Restoration and Construction"
+h1: "24/7 Emergency Carpet Water Extraction in Vista & Hayward"
 meta_description: "24/7 emergency carpet water extraction in Vista, Hayward and surrounding areas. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "carpet water extraction vista"
 secondary_keywords: []
@@ -9,7 +9,7 @@ search_intent: "local_specialty"
 priority: 4.5
 plan_hash: "d0fc686edde04de4"
 generated_at: "2026-10-07T17:41:26.617651+00:00"
-manual_override: false
+manual_override: true
 internal_links: ["/services/", "/contact/", "/service-areas/berkeley-ca/", "/service-areas/carlsbad-ca/", "/service-areas/chula-vista-ca/", "/service-areas/concord-ca/", "/service-areas/el-cajon-ca/", "/service-areas/encinitas-ca/", "/service-areas/escondido-ca/", "/service-areas/fremont-ca/", "/service-areas/hayward-ca/", "/service-areas/oakland-ca/", "/service-areas/oceanside-ca/", "/service-areas/san-diego-ca/"]
 breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Services", "url": "/services/"}, {"name": "Carpet Water Extraction"}]
 faq: [{"question": "Does homeowners insurance cover carpet water extraction?", "answer": "Yes, in most cases, when the water damage comes from a sudden and accidental event like a burst pipe or appliance failure rather than gradual leakage or neglect. Dry 1 Out Restoration and Construction works with all insurance carriers and handles the documentation, including water categorization and moisture logs, that adjusters typically request. Coverage specifics still depend on your policy, so we recommend confirming details with your adjuster."}, {"question": "Can wet carpet pad be dried, or does it always need to be replaced?", "answer": "It depends on the water category and how long the pad sat saturated. Pad exposed to clean water and dried within roughly 24 to 48 hours can often be dried in place, but pad soaked by contaminated water, or clean water that sat too long, usually needs to be cut out and replaced because it breaks down and holds odor and mold risk."}, {"question": "How do you know if water has reached the subfloor under the carpet?", "answer": "We pull back the carpet and pad at the affected area and take direct moisture readings on the subfloor with a penetrating moisture meter, rather than relying on surface readings through the carpet. Subfloor moisture behaves differently depending on whether it's plywood, OSB, or concrete slab, so that reading determines how long drying equipment needs to run."}, {"question": "Why does carpet still smell musty after it feels dry to the touch?", "answer": "A musty smell after the surface feels dry almost always means the pad or subfloor underneath is still holding moisture, even though the carpet face has dried. We verify drying with moisture meters at the pad and subfloor level, not just a hand check on the carpet, specifically to catch this before odor turns into active mold growth."}, {"question": "What should I do with wet carpet while I'm waiting for extraction to start?", "answer": "Move furniture off the wet area if you can do so safely, and avoid walking on the carpet more than necessary since foot traffic pushes water deeper into the pad and subfloor. Don't run a household vacuum on standing water, and don't place fans directly over heavily saturated areas without extraction first, since that can spread contaminated water further into dry sections."}]
@@ -17,7 +17,7 @@ service_slug: "carpet-water-extraction"
 service_display: "Carpet Water Extraction"
 rendered: true
 ---
-**Carpet soaked after a pipe burst, water heater failure, or storm backup in Vista?** We answer 24/7. Carpet holds water the way a sponge does: the surface can feel damp while the pad underneath stays fully saturated for days, feeding mold growth and a sour, musty odor that gets worse the longer it sits. Walking across wet carpet and hearing it squelch, or noticing a cold, heavy spot that won't dry on its own, means the pad and possibly the subfloor are already holding standing moisture that needs mechanical extraction, not a fan and an open window.
+**Carpet soaked after a pipe burst, water heater failure, or storm backup in Vista or Hayward?** We answer 24/7. Carpet holds water the way a sponge does: the surface can feel damp while the pad underneath stays fully saturated for days, feeding mold growth and a sour, musty odor that gets worse the longer it sits. Walking across wet carpet and hearing it squelch, or noticing a cold, heavy spot that won't dry on its own, means the pad and possibly the subfloor are already holding standing moisture that needs mechanical extraction, not a fan and an open window.
 
 ## What Carpet Water Extraction actually involves
 

@@ -1,7 +1,7 @@
 ---
 archetype: "service-landing"
-title: "24/7 Emergency Blood Cleanup in Vista | Dry 1 Out Restoration and Construction"
-h1: "24/7 Emergency Blood Cleanup in Vista"
+title: "24/7 Emergency Blood Cleanup in Vista & Hayward | Dry 1 Out Restoration and Construction"
+h1: "24/7 Emergency Blood Cleanup in Vista & Hayward"
 meta_description: "24/7 emergency blood cleanup in Vista, Hayward and surrounding areas. IICRC-certified, insurance billing accepted. Call (888) 379-1688."
 primary_keyword: "blood cleanup vista"
 secondary_keywords: []
@@ -9,7 +9,7 @@ search_intent: "local_specialty"
 priority: 4.5
 plan_hash: "7f221607b0fdfc9f"
 generated_at: "2026-10-07T17:40:50.179716+00:00"
-manual_override: false
+manual_override: true
 internal_links: ["/services/", "/contact/", "/service-areas/berkeley-ca/", "/service-areas/carlsbad-ca/", "/service-areas/chula-vista-ca/", "/service-areas/concord-ca/", "/service-areas/el-cajon-ca/", "/service-areas/encinitas-ca/", "/service-areas/escondido-ca/", "/service-areas/fremont-ca/", "/service-areas/hayward-ca/", "/service-areas/oakland-ca/", "/service-areas/oceanside-ca/", "/service-areas/san-diego-ca/", "/services/biohazard-cleanup/", "/service-areas/san-francisco-ca/blood-cleanup/"]
 breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Services", "url": "/services/"}, {"name": "Blood Cleanup"}]
 faq: [{"question": "Does homeowners insurance cover blood cleanup?", "answer": "In many cases, yes, particularly when the incident is tied to a covered event such as an accident or medical emergency. Dry 1 Out Restoration and Construction works with all insurance carriers and handles the documentation, photos, and material inventory your claim needs. Coverage specifics still depend on your individual policy, so we recommend confirming details with your adjuster alongside our documentation."}, {"question": "Will the crew arrive in a marked vehicle?", "answer": "Not if you'd rather they didn't. Discretion is a standard part of blood cleanup service, and unmarked vehicles and plain clothing can be arranged on request so the situation stays private from neighbors or building residents."}, {"question": "How do you decide what materials can be cleaned versus what has to be removed?", "answer": "Non-porous surfaces like sealed tile, metal, and finished hardwood can usually be disinfected in place. Porous materials such as carpet, padding, subfloor, and drywall that have absorbed fluid typically cannot be fully decontaminated and need to be removed, since pathogens can remain active inside the material even after the surface appears clean."}, {"question": "Is it safe to clean up blood myself before a technician arrives?", "answer": "We recommend avoiding direct contact and not attempting cleanup yourself, since bloodborne pathogens aren't visible and standard household cleaners don't reliably neutralize them. Keep the area closed off and away from children or pets until a trained technician arrives to assess and begin proper containment."}, {"question": "How quickly can someone come out for a blood cleanup call?", "answer": "We answer calls 24/7 and move quickly to get a technician scoping the scene, since delays can allow odor and contamination to spread further into flooring and walls. Call (888) 379-1688 and we'll talk through immediate steps while a crew is dispatched."}]
@@ -17,7 +17,7 @@ service_slug: "blood-cleanup"
 service_display: "Blood Cleanup"
 rendered: true
 ---
-**Dealing with a blood cleanup situation in Vista?** We answer 24/7, and a trained technician can walk you through what happens next the moment you call.
+**Dealing with a blood cleanup situation in Vista or Hayward?** We answer 24/7, and a trained technician can walk you through what happens next the moment you call.
 
 Blood cleanup is rarely something anyone plans for. Whether it follows a medical emergency, an accident, an unattended death, or a violent incident, the aftermath involves more than visible cleanup: bloodborne pathogens can remain active on and inside porous materials long after a scene looks clean to the eye. This page explains what the process actually involves, so you know what to expect before a crew arrives.
 
