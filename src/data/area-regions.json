@@ -1,0 +1,31 @@
+{
+  "_why": "Cole 2026-11-18: \"Could we also split our areas into two different columns side by side. One Vista one Hayward. Say Bay Area & San Diego then list the cities underneath with each city per location being underneath. Right now they're all jumbled together.\" Read by src/lib/areaRegions.ts (homepage strip + /service-areas/ grid). A new city must be added to one group here or it shows under 'More Areas'.",
+  "regions": [
+    {
+      "label": "San Diego",
+      "office": "Vista office",
+      "office_slug": "vista-ca",
+      "slugs": [
+        "vista-ca", "bonsall-ca", "camp-pendleton-mainside-ca", "camp-pendleton-south-ca",
+        "carlsbad-ca", "chula-vista-ca", "del-dios-ca", "del-mar-ca", "el-cajon-ca",
+        "elfin-forest-ca", "encinitas-ca", "escondido-ca", "fairbanks-ranch-ca",
+        "harmony-grove-ca", "hidden-meadows-ca", "lake-san-marcos-ca", "oceanside-ca",
+        "poway-ca", "rancho-santa-fe-ca", "san-diego-ca", "san-marcos-ca", "solana-beach-ca",
+        "temecula-ca", "valley-center-ca"
+      ]
+    },
+    {
+      "label": "Bay Area",
+      "office": "Hayward office",
+      "office_slug": "hayward-ca",
+      "slugs": [
+        "hayward-ca", "alameda-ca", "berkeley-ca", "castro-valley-ca", "concord-ca",
+        "daly-city-ca", "dublin-ca", "foster-city-ca", "fremont-ca", "mountain-view-ca",
+        "newark-ca", "oakland-ca", "pleasanton-ca", "redwood-city-ca", "san-francisco-ca",
+        "san-jose-ca", "san-leandro-ca", "san-lorenzo-ca", "san-mateo-ca", "san-ramon-ca",
+        "santa-clara-ca", "santa-cruz-ca", "south-san-francisco-ca", "sunnyvale-ca",
+        "union-city-ca"
+      ]
+    }
+  ]
+}

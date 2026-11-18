@@ -5,17 +5,15 @@
  * directly above the CTA banner.
  */
 import { MapPin } from '@lucide/astro';
-import { getCollection, type CollectionEntry } from 'astro:content';
+// Cole 2026-11-18: two columns side by side, San Diego (Vista) and Bay Area
+// (Hayward), each office's cities underneath it.
+import { getAreaRegions } from '~/lib/areaRegions';
 
-const all = (await getCollection('serviceAreas')) as CollectionEntry<'serviceAreas'>[];
-const areas = all.sort((a, b) => {
-  if (a.data.primary && !b.data.primary) return -1;
-  if (!a.data.primary && b.data.primary) return 1;
-  return a.data.city.localeCompare(b.data.city);
-});
+const regions = await getAreaRegions();
+const areaCount = regions.reduce((n, r) => n + r.areas.length, 0);
 ---
 
-{areas.length > 0 && (
+{areaCount > 0 && (
   <section class="bg-white py-14 border-t border-dark/10">
     <div class="container-wide">
       <div class="flex items-center gap-4 mb-6">
@@ -23,15 +21,23 @@ const areas = all.sort((a, b) => {
         <div class="flex-grow h-0.5 bg-dark/10"></div>
         <a href="/service-areas/" class="text-xs font-black uppercase tracking-widest text-primary-600 no-underline hover:text-primary-700 whitespace-nowrap">All Areas</a>
       </div>
-      <div class="flex flex-wrap gap-3">
-        {areas.map((area) => (
-          <a
-            href={`/service-areas/${area.data.area_slug}/`}
-            class="inline-flex items-center gap-2 rounded-full border border-dark/15 bg-white px-4 py-2 text-sm font-bold uppercase tracking-wide text-dark-700 no-underline hover:no-underline hover:border-primary-500 hover:text-primary-600 transition-colors"
-          >
-            <MapPin size={14} class="text-primary-500 shrink-0" />
-            {area.data.city}, {area.data.state}
-          </a>
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-10 lg:gap-12">
+        {regions.map((region) => (
+          <div data-area-region={region.label}>
+            <h3 class="text-lg md:text-xl font-black uppercase tracking-tighter text-dark-900 mb-1">{region.label}</h3>
+            {region.office && <p class="text-xs font-bold uppercase tracking-widest text-primary-600 mb-4">{region.office}</p>}
+            <div class={`flex flex-wrap gap-3 ${region.office ? "" : "mt-4"}`}>
+              {region.areas.map((area) => (
+                <a
+                  href={`/service-areas/${area.data.area_slug}/`}
+                  class="inline-flex items-center gap-2 rounded-full border border-dark/15 bg-white px-4 py-2 text-sm font-bold uppercase tracking-wide text-dark-700 no-underline hover:no-underline hover:border-primary-500 hover:text-primary-600 transition-colors"
+                >
+                  <MapPin size={14} class="text-primary-500 shrink-0" />
+                  {area.data.city}, {area.data.state}
+                </a>
+              ))}
+            </div>
+          </div>
         ))}
       </div>
     </div>
