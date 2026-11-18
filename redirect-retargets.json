@@ -269,38 +269,8 @@
   "why": "dead-target heal (backfill)",
   "at": "2026-10-03"
  },
- "/service-areas/hayward-ca/basement-sewage-cleanup": {
-  "planned": "/service-areas/hayward-ca/sewage-cleanup/",
-  "now": "/service-areas/hayward-ca/water-damage-restoration/",
-  "why": "dead-target heal (backfill)",
-  "at": "2026-10-03"
- },
  "/service-areas/hayward-ca/burst-pipe-water-damage-cleanup": {
   "planned": "/service-areas/hayward-ca/burst-pipe-repair/",
-  "now": "/service-areas/hayward-ca/water-damage-restoration/",
-  "why": "dead-target heal (backfill)",
-  "at": "2026-10-03"
- },
- "/service-areas/hayward-ca/category-3-water-cleanup": {
-  "planned": "/service-areas/hayward-ca/sewage-cleanup/",
-  "now": "/service-areas/hayward-ca/water-damage-restoration/",
-  "why": "dead-target heal (backfill)",
-  "at": "2026-10-03"
- },
- "/service-areas/hayward-ca/emergency-board-ups": {
-  "planned": "/service-areas/hayward-ca/emergency-board-up/",
-  "now": "/service-areas/hayward-ca/water-damage-restoration/",
-  "why": "dead-target heal (backfill)",
-  "at": "2026-10-03"
- },
- "/service-areas/hayward-ca/water-cleanup": {
-  "planned": "/service-areas/hayward-ca/emergency-water-removal/",
-  "now": "/service-areas/hayward-ca/water-damage-restoration/",
-  "why": "dead-target heal (backfill)",
-  "at": "2026-10-03"
- },
- "/service-areas/hayward-ca/water-heater-flood-cleanup": {
-  "planned": "/service-areas/hayward-ca/appliance-leak-cleanup/",
   "now": "/service-areas/hayward-ca/water-damage-restoration/",
   "why": "dead-target heal (backfill)",
   "at": "2026-10-03"

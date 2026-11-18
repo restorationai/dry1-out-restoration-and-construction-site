@@ -89,7 +89,7 @@
 /service-areas/encinitas-ca/basement-sewage-cleanup /service-areas/encinitas-ca/water-damage-restoration/ 301
 /service-areas/escondido-ca/basement-sewage-cleanup /service-areas/escondido-ca/water-damage-restoration/ 301
 /service-areas/fremont-ca/basement-sewage-cleanup /service-areas/fremont-ca/water-damage-restoration/ 301
-/service-areas/hayward-ca/basement-sewage-cleanup /service-areas/hayward-ca/water-damage-restoration/ 301
+/service-areas/hayward-ca/basement-sewage-cleanup /service-areas/hayward-ca/sewage-cleanup/ 301
 /service-areas/oakland-ca/basement-sewage-cleanup /service-areas/oakland-ca/sewage-cleanup/ 301
 /service-areas/oceanside-ca/basement-sewage-cleanup /service-areas/oceanside-ca/water-damage-restoration/ 301
 /service-areas/san-diego-ca/basement-sewage-cleanup /service-areas/san-diego-ca/sewage-cleanup/ 301
@@ -108,7 +108,7 @@
 /service-areas/encinitas-ca/basement-sewage-cleanup/ /service-areas/encinitas-ca/water-damage-restoration/ 301
 /service-areas/escondido-ca/basement-sewage-cleanup/ /service-areas/escondido-ca/water-damage-restoration/ 301
 /service-areas/fremont-ca/basement-sewage-cleanup/ /service-areas/fremont-ca/water-damage-restoration/ 301
-/service-areas/hayward-ca/basement-sewage-cleanup/ /service-areas/hayward-ca/water-damage-restoration/ 301
+/service-areas/hayward-ca/basement-sewage-cleanup/ /service-areas/hayward-ca/sewage-cleanup/ 301
 /service-areas/oakland-ca/basement-sewage-cleanup/ /service-areas/oakland-ca/sewage-cleanup/ 301
 /service-areas/oceanside-ca/basement-sewage-cleanup/ /service-areas/oceanside-ca/water-damage-restoration/ 301
 /service-areas/san-diego-ca/basement-sewage-cleanup/ /service-areas/san-diego-ca/sewage-cleanup/ 301
@@ -130,7 +130,7 @@
 /service-areas/encinitas-ca/category-3-water-cleanup /service-areas/encinitas-ca/water-damage-restoration/ 301
 /service-areas/escondido-ca/category-3-water-cleanup /service-areas/escondido-ca/water-damage-restoration/ 301
 /service-areas/fremont-ca/category-3-water-cleanup /service-areas/fremont-ca/water-damage-restoration/ 301
-/service-areas/hayward-ca/category-3-water-cleanup /service-areas/hayward-ca/water-damage-restoration/ 301
+/service-areas/hayward-ca/category-3-water-cleanup /service-areas/hayward-ca/sewage-cleanup/ 301
 /service-areas/oakland-ca/category-3-water-cleanup /service-areas/oakland-ca/sewage-cleanup/ 301
 /service-areas/oceanside-ca/category-3-water-cleanup /service-areas/oceanside-ca/water-damage-restoration/ 301
 /service-areas/san-diego-ca/category-3-water-cleanup /service-areas/san-diego-ca/sewage-cleanup/ 301
@@ -149,7 +149,7 @@
 /service-areas/encinitas-ca/category-3-water-cleanup/ /service-areas/encinitas-ca/water-damage-restoration/ 301
 /service-areas/escondido-ca/category-3-water-cleanup/ /service-areas/escondido-ca/water-damage-restoration/ 301
 /service-areas/fremont-ca/category-3-water-cleanup/ /service-areas/fremont-ca/water-damage-restoration/ 301
-/service-areas/hayward-ca/category-3-water-cleanup/ /service-areas/hayward-ca/water-damage-restoration/ 301
+/service-areas/hayward-ca/category-3-water-cleanup/ /service-areas/hayward-ca/sewage-cleanup/ 301
 /service-areas/oakland-ca/category-3-water-cleanup/ /service-areas/oakland-ca/sewage-cleanup/ 301
 /service-areas/oceanside-ca/category-3-water-cleanup/ /service-areas/oceanside-ca/water-damage-restoration/ 301
 /service-areas/san-diego-ca/category-3-water-cleanup/ /service-areas/san-diego-ca/sewage-cleanup/ 301
@@ -212,7 +212,7 @@
 /service-areas/encinitas-ca/emergency-board-ups /service-areas/encinitas-ca/water-damage-restoration/ 301
 /service-areas/escondido-ca/emergency-board-ups /service-areas/escondido-ca/water-damage-restoration/ 301
 /service-areas/fremont-ca/emergency-board-ups /service-areas/fremont-ca/water-damage-restoration/ 301
-/service-areas/hayward-ca/emergency-board-ups /service-areas/hayward-ca/water-damage-restoration/ 301
+/service-areas/hayward-ca/emergency-board-ups /service-areas/hayward-ca/emergency-board-up/ 301
 /service-areas/oakland-ca/emergency-board-ups /service-areas/oakland-ca/emergency-board-up/ 301
 /service-areas/oceanside-ca/emergency-board-ups /service-areas/oceanside-ca/water-damage-restoration/ 301
 /service-areas/san-diego-ca/emergency-board-ups /service-areas/san-diego-ca/water-damage-restoration/ 301
@@ -231,7 +231,7 @@
 /service-areas/encinitas-ca/emergency-board-ups/ /service-areas/encinitas-ca/water-damage-restoration/ 301
 /service-areas/escondido-ca/emergency-board-ups/ /service-areas/escondido-ca/water-damage-restoration/ 301
 /service-areas/fremont-ca/emergency-board-ups/ /service-areas/fremont-ca/water-damage-restoration/ 301
-/service-areas/hayward-ca/emergency-board-ups/ /service-areas/hayward-ca/water-damage-restoration/ 301
+/service-areas/hayward-ca/emergency-board-ups/ /service-areas/hayward-ca/emergency-board-up/ 301
 /service-areas/oakland-ca/emergency-board-ups/ /service-areas/oakland-ca/emergency-board-up/ 301
 /service-areas/oceanside-ca/emergency-board-ups/ /service-areas/oceanside-ca/water-damage-restoration/ 301
 /service-areas/san-diego-ca/emergency-board-ups/ /service-areas/san-diego-ca/water-damage-restoration/ 301
@@ -253,7 +253,7 @@
 /service-areas/encinitas-ca/water-heater-flood-cleanup /service-areas/encinitas-ca/water-damage-restoration/ 301
 /service-areas/escondido-ca/water-heater-flood-cleanup /service-areas/escondido-ca/water-damage-restoration/ 301
 /service-areas/fremont-ca/water-heater-flood-cleanup /service-areas/fremont-ca/water-damage-restoration/ 301
-/service-areas/hayward-ca/water-heater-flood-cleanup /service-areas/hayward-ca/water-damage-restoration/ 301
+/service-areas/hayward-ca/water-heater-flood-cleanup /service-areas/hayward-ca/appliance-leak-cleanup/ 301
 /service-areas/oakland-ca/water-heater-flood-cleanup /service-areas/oakland-ca/water-damage-restoration/ 301
 /service-areas/oceanside-ca/water-heater-flood-cleanup /service-areas/oceanside-ca/water-damage-restoration/ 301
 /service-areas/san-diego-ca/water-heater-flood-cleanup /service-areas/san-diego-ca/water-damage-restoration/ 301
@@ -272,7 +272,7 @@
 /service-areas/encinitas-ca/water-heater-flood-cleanup/ /service-areas/encinitas-ca/water-damage-restoration/ 301
 /service-areas/escondido-ca/water-heater-flood-cleanup/ /service-areas/escondido-ca/water-damage-restoration/ 301
 /service-areas/fremont-ca/water-heater-flood-cleanup/ /service-areas/fremont-ca/water-damage-restoration/ 301
-/service-areas/hayward-ca/water-heater-flood-cleanup/ /service-areas/hayward-ca/water-damage-restoration/ 301
+/service-areas/hayward-ca/water-heater-flood-cleanup/ /service-areas/hayward-ca/appliance-leak-cleanup/ 301
 /service-areas/oakland-ca/water-heater-flood-cleanup/ /service-areas/oakland-ca/water-damage-restoration/ 301
 /service-areas/oceanside-ca/water-heater-flood-cleanup/ /service-areas/oceanside-ca/water-damage-restoration/ 301
 /service-areas/san-diego-ca/water-heater-flood-cleanup/ /service-areas/san-diego-ca/water-damage-restoration/ 301
@@ -302,8 +302,8 @@
 /service-areas/escondido-ca/water-cleanup/ /service-areas/escondido-ca/water-damage-restoration/ 301
 /service-areas/fremont-ca/water-cleanup /service-areas/fremont-ca/water-damage-restoration/ 301
 /service-areas/fremont-ca/water-cleanup/ /service-areas/fremont-ca/water-damage-restoration/ 301
-/service-areas/hayward-ca/water-cleanup /service-areas/hayward-ca/water-damage-restoration/ 301
-/service-areas/hayward-ca/water-cleanup/ /service-areas/hayward-ca/water-damage-restoration/ 301
+/service-areas/hayward-ca/water-cleanup /service-areas/hayward-ca/emergency-water-removal/ 301
+/service-areas/hayward-ca/water-cleanup/ /service-areas/hayward-ca/emergency-water-removal/ 301
 /service-areas/oakland-ca/water-cleanup /service-areas/oakland-ca/water-damage-restoration/ 301
 /service-areas/oakland-ca/water-cleanup/ /service-areas/oakland-ca/water-damage-restoration/ 301
 /service-areas/oceanside-ca/water-cleanup /service-areas/oceanside-ca/water-damage-restoration/ 301
