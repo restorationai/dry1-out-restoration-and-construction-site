@@ -73,6 +73,6 @@ If water just came into your Hayward home or garage, photograph it before you mo
 
 **About Dry 1 Out Restoration and Construction**
 
-Dry 1 Out Restoration and Construction is an IICRC Certified Firm licensed in California (#993442), founded in 2026, serving North San Diego County from an office in Vista and the Bay Area from an office in Hayward. Their crews handle water damage restoration, flood damage restoration, mold remediation, fire and smoke restoration, storm damage restoration, and reconstruction across both regions, with every job documented to support the insurance claim process.
+Dry 1 Out Restoration and Construction is an IICRC Certified Firm licensed in California (#993442), in business since 1998, serving North San Diego County from an office in Vista and the Bay Area from an office in Hayward. Their crews handle water damage restoration, flood damage restoration, mold remediation, fire and smoke restoration, storm damage restoration, and reconstruction across both regions, with every job documented to support the insurance claim process.
 
 **Need help now?** [Call Dry 1 Out Restoration and Construction at (888) 379-1688](tel:+18883791688).

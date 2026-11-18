@@ -33,7 +33,7 @@ export const brand = {
   trackingPhoneRaw: "+17602786497",
   email: "Info@dry1out.com",
   hours: "24/7",
-  foundedYear: "2026",
+  foundedYear: "1998",
   primaryCity: "Vista",
   homeRegion: "Hayward & Vista, CA",
   primaryState: "CA",

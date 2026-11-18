@@ -20,7 +20,7 @@ services: ["mold-remediation", "mold-inspection-testing"]
 rendered: true
 author: "Jason Pacheco"
 ---
-**TL;DR:** For mold removal in Hayward, CA, call a company that holds IICRC mold remediation certification, not just a general handyman or your landlord's maintenance line. Dry 1 Out Restoration and Construction answers the phone 24/7 at (888) 379-1688, holds IICRC AMRT mold certification, and carries a 5.0 Google rating from 19 reviews. If the mold followed a leak or flood, a certified water-and-mold team can handle the moisture source and the growth in the same visit.
+**TL;DR:** For mold removal in Hayward, CA, call a company that holds IICRC mold remediation certification, not just a general handyman or your landlord's maintenance line. Dry 1 Out Restoration and Construction answers the phone 24/7 at (888) 379-1688, holds IICRC AMRT mold certification, and carries a 5.0 Google rating from 26 reviews. If the mold followed a leak or flood, a certified water-and-mold team can handle the moisture source and the growth in the same visit.
 
 Maybe you pulled a dresser away from an exterior wall in a Mt. Eden bungalow and found fuzzy dark spots creeping up the drywall. Maybe a slow leak under the kitchen sink in a Tennyson-Alquire rental finally surfaced as a musty smell and soft, discolored baseboard. Either way, the next phone call you make determines whether this gets handled right the first time or turns into a bigger problem in six months. Here's who to call, in what order, and why.
 
@@ -71,4 +71,4 @@ If you're staring at a damp patch right now and aren't sure which call to make, 
 
 **About Dry 1 Out Restoration and Construction**
 
-Dry 1 Out Restoration and Construction is an IICRC Certified Firm (license #993442) serving North San Diego County from its Vista office and the Bay Area, including Hayward, from its Hayward location. Founded in 2026, the company holds IICRC certifications in water damage, structural drying, mold remediation (AMRT), and fire and smoke restoration, and answers calls 24/7. Dry 1 Out carries a 5.0 Google rating across 19 reviews. Written by Jason Pacheco.
+Dry 1 Out Restoration and Construction is an IICRC Certified Firm (license #993442) serving North San Diego County from its Vista office and the Bay Area, including Hayward, from its Hayward location. In business since 1998, the company holds IICRC certifications in water damage, structural drying, mold remediation (AMRT), and fire and smoke restoration, and answers calls 24/7. Dry 1 Out carries a 5.0 Google rating across 26 reviews. Written by Jason Pacheco.
