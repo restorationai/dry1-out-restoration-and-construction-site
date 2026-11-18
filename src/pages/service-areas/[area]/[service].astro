@@ -11,6 +11,7 @@ import { brand } from "~/lib/brand";
 import geoVideos from "~/data/geo-videos.json";
 import { serviceImage } from "~/lib/images";
 import { dispatchSentence, is247, officeLabelFor, servingOffice } from "~/lib/dispatch";
+import { localAreaLinks } from "~/lib/areaRegions";
 
 export async function getStaticPaths() {
   const locations = await getCollection("locations");
@@ -23,6 +24,8 @@ export async function getStaticPaths() {
 const { entry } = Astro.props;
 const { Content } = await entry.render();
 const data = entry.data;
+// Nearby links stay in this city's own region (Cole 2026-11-18, Berkeley on the Vista page).
+const nearbyLinks = await localAreaLinks(data.area_slug, data.internal_links, data.service_slug);
 const sensitive = data.content_guardrails === "sensitive";
 // City x service explainer video (our auto-produced geo YouTube videos) —
 // embedded when one exists for this exact page. Lazy iframe: no LCP cost.
@@ -150,5 +153,5 @@ const faq = [...responseFaq, ...baseFaq, ...insuranceFaq];
       : `Our crews are based in ${brand.primaryCity}, ${brand.primaryState} and take on projects across ${data.city}. Call for a free estimate.`}
   />
 
-  <InternalLinks paths={data.internal_links} heading="Nearby & Related" eyebrow="More Coverage" />
+  <InternalLinks paths={nearbyLinks} heading="Nearby & Related" eyebrow="More Coverage" />
 </BaseLayout>

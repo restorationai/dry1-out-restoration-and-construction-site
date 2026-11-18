@@ -7,6 +7,7 @@ import InternalLinks from "~/components/InternalLinks.astro";
 import GoogleMap from "~/components/GoogleMap.astro";
 import { brand } from "~/lib/brand";
 import { is247, servingOffice } from "~/lib/dispatch";
+import { localAreaLinks } from "~/lib/areaRegions";
 
 export async function getStaticPaths() {
   const areas = await getCollection("serviceAreas");
@@ -16,6 +17,8 @@ export async function getStaticPaths() {
 const { entry } = Astro.props;
 const { Content } = await entry.render();
 const data = entry.data;
+// Nearby links stay in this city's own region (Cole 2026-11-18, Berkeley on the Vista page).
+const nearbyLinks = await localAreaLinks(data.area_slug, data.internal_links);
 const heroImage = data.hero || "/images/hero-bg.webp" /* preview: switch to `${brand.imagesBase}/brand/...` at production cutover */;
 
 // Sister cross-product pages for this area, sorted by priority
@@ -137,5 +140,5 @@ const otherLocs = locations.filter((l) => l !== primaryLoc);
       : `Our ${brand.primaryCity} team serves ${data.city}. Call for a free estimate.`}
   />
 
-  <InternalLinks paths={data.internal_links} heading="More Service Areas" eyebrow="Nearby Coverage" />
+  <InternalLinks paths={nearbyLinks} heading="More Service Areas" eyebrow="Nearby Coverage" />
 </BaseLayout>

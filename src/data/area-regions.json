@@ -6,12 +6,30 @@
       "office": "Vista office",
       "office_slug": "vista-ca",
       "slugs": [
-        "vista-ca", "bonsall-ca", "camp-pendleton-mainside-ca", "camp-pendleton-south-ca",
-        "carlsbad-ca", "chula-vista-ca", "del-dios-ca", "del-mar-ca", "el-cajon-ca",
-        "elfin-forest-ca", "encinitas-ca", "escondido-ca", "fairbanks-ranch-ca",
-        "harmony-grove-ca", "hidden-meadows-ca", "lake-san-marcos-ca", "oceanside-ca",
-        "poway-ca", "rancho-santa-fe-ca", "san-diego-ca", "san-marcos-ca", "solana-beach-ca",
-        "temecula-ca", "valley-center-ca"
+        "vista-ca",
+        "bonsall-ca",
+        "camp-pendleton-mainside-ca",
+        "camp-pendleton-south-ca",
+        "carlsbad-ca",
+        "chula-vista-ca",
+        "del-dios-ca",
+        "del-mar-ca",
+        "el-cajon-ca",
+        "elfin-forest-ca",
+        "encinitas-ca",
+        "escondido-ca",
+        "fairbanks-ranch-ca",
+        "harmony-grove-ca",
+        "hidden-meadows-ca",
+        "lake-san-marcos-ca",
+        "oceanside-ca",
+        "poway-ca",
+        "rancho-santa-fe-ca",
+        "san-diego-ca",
+        "san-marcos-ca",
+        "solana-beach-ca",
+        "temecula-ca",
+        "valley-center-ca"
       ]
     },
     {
@@ -19,13 +37,231 @@
       "office": "Hayward office",
       "office_slug": "hayward-ca",
       "slugs": [
-        "hayward-ca", "alameda-ca", "berkeley-ca", "castro-valley-ca", "concord-ca",
-        "daly-city-ca", "dublin-ca", "foster-city-ca", "fremont-ca", "mountain-view-ca",
-        "newark-ca", "oakland-ca", "pleasanton-ca", "redwood-city-ca", "san-francisco-ca",
-        "san-jose-ca", "san-leandro-ca", "san-lorenzo-ca", "san-mateo-ca", "san-ramon-ca",
-        "santa-clara-ca", "santa-cruz-ca", "south-san-francisco-ca", "sunnyvale-ca",
+        "hayward-ca",
+        "alameda-ca",
+        "berkeley-ca",
+        "castro-valley-ca",
+        "concord-ca",
+        "daly-city-ca",
+        "dublin-ca",
+        "foster-city-ca",
+        "fremont-ca",
+        "mountain-view-ca",
+        "newark-ca",
+        "oakland-ca",
+        "pleasanton-ca",
+        "redwood-city-ca",
+        "san-francisco-ca",
+        "san-jose-ca",
+        "san-leandro-ca",
+        "san-lorenzo-ca",
+        "san-mateo-ca",
+        "san-ramon-ca",
+        "santa-clara-ca",
+        "santa-cruz-ca",
+        "south-san-francisco-ca",
+        "sunnyvale-ca",
         "union-city-ca"
       ]
     }
-  ]
+  ],
+  "coords_why": "Approximate city centers, used only to order 'Nearby Coverage' links nearest-first within a region (Cole 2026-11-18: the Vista page recommended Berkeley as a nearby area). Never shown on the site.",
+  "coords": {
+    "vista-ca": [
+      33.2,
+      -117.242
+    ],
+    "bonsall-ca": [
+      33.289,
+      -117.226
+    ],
+    "camp-pendleton-mainside-ca": [
+      33.32,
+      -117.32
+    ],
+    "camp-pendleton-south-ca": [
+      33.228,
+      -117.38
+    ],
+    "carlsbad-ca": [
+      33.158,
+      -117.351
+    ],
+    "chula-vista-ca": [
+      32.64,
+      -117.084
+    ],
+    "del-dios-ca": [
+      33.084,
+      -117.111
+    ],
+    "del-mar-ca": [
+      32.959,
+      -117.265
+    ],
+    "el-cajon-ca": [
+      32.795,
+      -116.962
+    ],
+    "elfin-forest-ca": [
+      33.088,
+      -117.162
+    ],
+    "encinitas-ca": [
+      33.037,
+      -117.292
+    ],
+    "escondido-ca": [
+      33.119,
+      -117.086
+    ],
+    "fairbanks-ranch-ca": [
+      32.993,
+      -117.186
+    ],
+    "harmony-grove-ca": [
+      33.106,
+      -117.135
+    ],
+    "hidden-meadows-ca": [
+      33.226,
+      -117.12
+    ],
+    "lake-san-marcos-ca": [
+      33.126,
+      -117.208
+    ],
+    "oceanside-ca": [
+      33.196,
+      -117.38
+    ],
+    "poway-ca": [
+      32.963,
+      -117.036
+    ],
+    "rancho-santa-fe-ca": [
+      33.02,
+      -117.202
+    ],
+    "san-diego-ca": [
+      32.716,
+      -117.161
+    ],
+    "san-marcos-ca": [
+      33.143,
+      -117.166
+    ],
+    "solana-beach-ca": [
+      32.991,
+      -117.271
+    ],
+    "temecula-ca": [
+      33.494,
+      -117.148
+    ],
+    "valley-center-ca": [
+      33.218,
+      -117.034
+    ],
+    "hayward-ca": [
+      37.669,
+      -122.081
+    ],
+    "alameda-ca": [
+      37.765,
+      -122.242
+    ],
+    "berkeley-ca": [
+      37.872,
+      -122.273
+    ],
+    "castro-valley-ca": [
+      37.694,
+      -122.086
+    ],
+    "concord-ca": [
+      37.978,
+      -122.031
+    ],
+    "daly-city-ca": [
+      37.688,
+      -122.47
+    ],
+    "dublin-ca": [
+      37.702,
+      -121.936
+    ],
+    "foster-city-ca": [
+      37.559,
+      -122.271
+    ],
+    "fremont-ca": [
+      37.548,
+      -121.989
+    ],
+    "mountain-view-ca": [
+      37.386,
+      -122.084
+    ],
+    "newark-ca": [
+      37.53,
+      -122.04
+    ],
+    "oakland-ca": [
+      37.804,
+      -122.271
+    ],
+    "pleasanton-ca": [
+      37.662,
+      -121.875
+    ],
+    "redwood-city-ca": [
+      37.485,
+      -122.236
+    ],
+    "san-francisco-ca": [
+      37.775,
+      -122.419
+    ],
+    "san-jose-ca": [
+      37.338,
+      -121.886
+    ],
+    "san-leandro-ca": [
+      37.725,
+      -122.156
+    ],
+    "san-lorenzo-ca": [
+      37.681,
+      -122.124
+    ],
+    "san-mateo-ca": [
+      37.563,
+      -122.326
+    ],
+    "san-ramon-ca": [
+      37.78,
+      -121.978
+    ],
+    "santa-clara-ca": [
+      37.354,
+      -121.955
+    ],
+    "santa-cruz-ca": [
+      36.974,
+      -122.031
+    ],
+    "south-san-francisco-ca": [
+      37.655,
+      -122.408
+    ],
+    "sunnyvale-ca": [
+      37.369,
+      -122.036
+    ],
+    "union-city-ca": [
+      37.593,
+      -122.044
+    ]
+  }
 }
