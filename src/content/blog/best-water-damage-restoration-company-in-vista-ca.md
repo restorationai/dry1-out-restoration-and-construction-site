@@ -45,11 +45,11 @@ Four other companies show up consistently in Vista-area searches, each with a di
 
 | Company | Google Rating | Reviews | 24/7 Emergency | IICRC Certified |
 |---|---|---|---|---|
-| Dry 1 Out Restoration and Construction | 5.0 | Growing | Yes | Yes |
-| American Response Team | 5.0 | 263 |, |, |
-| Coast to Coast Restoration, Inc. | 4.9 | 50 |, |, |
-| Steampro Clean Up & Drying Services | 5.0 | 21 |, |, |
-| All City Cleaning | 4.6 | 73 |, |, |
+| Dry 1 Out Restoration and Construction | 5.0 | 26 | Yes | Yes |
+| American Response Team | 5.0 | 263 | Not listed | Not listed |
+| Coast to Coast Restoration, Inc. | 4.9 | 50 | Not listed | Not listed |
+| Steampro Clean Up & Drying Services | 5.0 | 21 | Not listed | Not listed |
+| All City Cleaning | 4.6 | 73 | Not listed | Not listed |
 
 Ratings and review counts are public Google Business Profile figures at time of writing and can change. Fields marked with a dash weren't independently verifiable and aren't guessed at here.
 
