@@ -1,13 +1,13 @@
 ---
 archetype: "office"
-title: "Hayward, CA Office | Dry 1 Out Restoration and Construction"
+title: "Water, Fire & Mold Damage Restoration in Hayward, CA | Dry 1 Out"
 h1: "Dry 1 Out Restoration and Construction"
-meta_description: "Dry 1 Out Restoration and Construction, 2536 Barrington Ct, Hayward, CA 94545. Call (888) 379-1688, open 24/7 for water, fire, mold and storm damage."
+meta_description: "Water, fire & mold damage restoration in Hayward, CA from Dry 1 Out's Hayward office, 2536 Barrington Ct. Call (888) 379-1688, open 24/7."
 primary_keyword: "water damage restoration hayward ca"
 secondary_keywords: ["restoration company hayward ca", "dry 1 out restoration and construction hayward"]
 search_intent: "local_commercial"
 priority: 8
-manual_override: false
+manual_override: true
 office_id: "b18de6a8-e8f7-4bbf-bcf1-7bde951a7166"
 office_slug: "hayward-ca"
 label: "Hayward"
@@ -34,6 +34,8 @@ breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Service Areas", "url": "/se
 faq: []
 generated_at: "2026-10-20T19:36:20.559731+00:00"
 ---
+## Water, Fire & Mold Damage Restoration in Hayward, CA
+
 This is the Hayward, CA office of Dry 1 Out Restoration and Construction. You can find us at 2536 Barrington Ct, Hayward, CA 94545, and the office's direct line is [(888) 379-1688](tel:+18883791688).
 
 The Hayward line is answered 24 hours a day, 7 days a week, so a call about water, fire, mold or storm damage reaches our team at any hour.
