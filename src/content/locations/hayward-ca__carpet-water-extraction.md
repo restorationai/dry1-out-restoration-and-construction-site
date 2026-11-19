@@ -33,7 +33,7 @@ Hayward's bay-adjacent location means persistent fog and humidity rolling in off
 
 We start by pulling back carpet at the seams to check the pad and subfloor, since what you see on the surface rarely tells the whole story. On slab-on-grade properties common around Fairway Park and the Tennyson-Alquire corridor, we check the slab itself for residual moisture with a penetrating meter, because concrete can hold water that re-wets a dry carpet pad within days if it's not addressed. Extraction equipment pulls bulk water from both carpet and pad, and in most cases the pad is removed and replaced rather than dried in place, since saturated foam backing rarely recovers its structure. We follow IICRC S500 drying standards for air movement and dehumidification placement, adjusting equipment counts for the ambient humidity typical of Hayward's shoreline-influenced microclimate. Moisture readings get documented at each visit so you and your adjuster can see the drying curve, not just a before-and-after photo.
 
-## Reaching Hayward from Vista
+## Serving Hayward from Our Hayward Office
 
 We cover Hayward alongside a cluster of East Bay cities, from the Highlands down through Downtown Hayward to the shoreline flats near Hayward Regional Shoreline and the neighborhoods around Chabot College. Because we answer calls 24/7, you're not stuck waiting until Monday morning if a water heater lets go on a Saturday night in a Mt. Eden bungalow or a dishwasher line fails in an apartment near Cal State East Bay. We schedule around your availability and coordinate directly with property managers on multi-unit buildings where several units may need carpet extraction after one shared-line failure.
 

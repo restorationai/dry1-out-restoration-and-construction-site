@@ -30,7 +30,7 @@ Hayward's housing stock runs older than a lot of the East Bay, with plenty of ho
 
 We start by isolating the source, whether that's shutting the supply valve behind a leaking dishwasher or the water heater's cold inlet, so standing water stops growing while we work. From there it's extraction with truck-mount or portable equipment depending on the space, moisture mapping to find where water traveled under cabinets and flooring, and placement of air movers and dehumidifiers sized to the room and the material involved. Drywall, subfloor, and cabinet bases get monitored daily and dried to the IICRC S500 standard rather than pulled on a guess, which matters most in homes near Cal State East Bay and Chabot College where older cabinetry and particleboard subfloor hold moisture longer than homeowners expect. If a leak has been running unnoticed for days, which happens often with slow refrigerator line drips behind the unit, we check for hidden saturation before closing the job out.
 
-## Reaching Hayward from Vista
+## Serving Hayward from Our Hayward Office
 
 We cover Hayward alongside the rest of our Bay Area service area, from the Highlands down toward the shoreline neighborhoods near Hayward Regional Shoreline. Dispatch coordinates scheduling across ZIP codes 94541, 94542, 94544, and 94545 so a call from a Downtown Hayward apartment or a Mt. Eden ranch home gets routed to the closest available crew rather than sitting in a general queue.
 
