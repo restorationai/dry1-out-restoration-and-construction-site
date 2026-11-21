@@ -263,5 +263,11 @@
       37.593,
       -122.044
     ]
-  }
+  },
+  "footer_first_why": "Jason/Dry 1 Out 2026-11-21: \"Can you add San Jose,Hayward ,vista  ca to The website.\" The footer shows 10 areas; these lead it so the cities the client named are always in it. Read by src/components/Footer.astro.",
+  "footer_first": [
+    "vista-ca",
+    "hayward-ca",
+    "san-jose-ca"
+  ]
 }
