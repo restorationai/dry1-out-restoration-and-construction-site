@@ -48,12 +48,18 @@ export const brand = {
   openingHoursSpec: [{"days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"], "opens": "00:00", "closes": "23:59"}] as { days: string[]; opens: string; closes: string }[],
   foundedYear: "1998",
   primaryCity: "Vista",
+  mainOfficeRegion: "San Diego County",
   homeRegion: "Hayward & Vista, CA",
   // Coverage name on the general (non-city) pages and the homepage FAQ
   // (Cole 2026-11-18: "make sure the info says Vista and Hayward for all
   // combined pages"). City pages keep their own city.
   marketArea: "Vista & Hayward, CA",
   primaryState: "CA",
+  // SERVICE REGION (Santino 2026-11-19): multi-metro clients name the region
+  // on every region-wide surface (see src/lib/region.ts); city pages and the
+  // address/NAP keep the city. Empty = one-metro client, city wording.
+  serviceRegion: "Hayward & Vista, CA",
+  serviceRegionDetail: "",
   // primaryCity/primaryState = the #1 MARKETING city (headlines, coverage
   // copy). addressCity/addressState = where the business PHYSICALLY is.
   // They are usually the same and often diverge (DISS: Farrell PA office,

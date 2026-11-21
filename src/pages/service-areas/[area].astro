@@ -8,6 +8,7 @@ import GoogleMap from "~/components/GoogleMap.astro";
 import { brand } from "~/lib/brand";
 import { is247, servingOffice } from "~/lib/dispatch";
 import { localAreaLinks } from "~/lib/areaRegions";
+import { mainOfficeRegion } from "~/lib/region";
 
 export async function getStaticPaths() {
   const areas = await getCollection("serviceAreas");
@@ -17,6 +18,10 @@ export async function getStaticPaths() {
 const { entry } = Astro.props;
 const { Content } = await entry.render();
 const data = entry.data;
+// MULTI-OFFICE (11-21): Bay Area pages name the Hayward office's region, the
+// rest the main office's (brand.mainOfficeRegion), in the top bar and footer.
+const _office = await servingOffice(data.city);
+(Astro.locals as Record<string, unknown>).pageRegion = (_office && _office.region) || mainOfficeRegion;
 // Nearby links stay in this city's own region (Cole 2026-11-18, Berkeley on the Vista page).
 const nearbyLinks = await localAreaLinks(data.area_slug, data.internal_links);
 const heroImage = data.hero || "/images/hero-bg.webp" /* preview: switch to `${brand.imagesBase}/brand/...` at production cutover */;

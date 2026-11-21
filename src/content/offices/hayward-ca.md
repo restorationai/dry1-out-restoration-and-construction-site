@@ -26,6 +26,7 @@ is_247: true
 hours_spec: [{"days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"], "opens": "00:00", "closes": "23:59"}]
 main_city: "Vista"
 main_state: "CA"
+region: "the Bay Area"
 services: ["water-damage-restoration", "fire-damage-restoration", "mold-remediation", "sewage-cleanup", "storm-damage-restoration", "general-contracting", "appliance-leak-cleanup", "biohazard-cleanup", "blood-cleanup", "carpet-water-extraction", "crime-scene-cleanup", "emergency-board-up", "emergency-water-removal", "mold-inspection-testing", "odor-removal", "post-construction-cleaning", "reconstruction", "smoke-damage-restoration", "trauma-scene-cleanup", "vandalism-damage-cleanup-and-repair", "vehicle-impact-damage-repair"]
 nearby_areas: [{"slug": "oakland-ca", "city": "Oakland", "state": "CA", "miles": 9.2}, {"slug": "fremont-ca", "city": "Fremont", "state": "CA", "miles": 15.6}, {"slug": "berkeley-ca", "city": "Berkeley", "state": "CA", "miles": 16.9}, {"slug": "sunnyvale-ca", "city": "Sunnyvale", "state": "CA", "miles": 19.6}, {"slug": "santa-clara-ca", "city": "Santa Clara", "state": "CA", "miles": 22.2}, {"slug": "concord-ca", "city": "Concord", "state": "CA", "miles": 23.2}, {"slug": "san-jose-ca", "city": "San Jose", "state": "CA", "miles": 30.6}]
 served_area_slugs: ["hayward-ca"]

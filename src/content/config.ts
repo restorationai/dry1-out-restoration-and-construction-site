@@ -147,6 +147,8 @@ const offices = defineCollection({
       .default([]),
     main_city: z.string().nullable().optional(),
     main_state: z.string().nullable().optional(),
+    // the office's local region ("Tampa Bay"), plan-input brand.office_regions (11-21)
+    region: z.string().nullable().optional(),
     services: z.array(z.string()).default([]),
     nearby_areas: z
       .array(z.object({ slug: z.string(), city: z.string(), state: z.string(), miles: z.number() }))

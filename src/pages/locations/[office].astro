@@ -20,6 +20,7 @@ export async function getStaticPaths() {
 const { entry } = Astro.props;
 const { Content } = await entry.render();
 const o = entry.data;
+if (o.region) (Astro.locals as Record<string, unknown>).pageRegion = o.region; // office region in the top bar + footer (11-21)
 const heroImage = o.hero || "/images/hero-bg.webp";
 const pageUrl = `${brand.canonicalUrl}/locations/${o.office_slug}/`;
 const fullAddress = `${o.street}, ${o.city}, ${o.state}${o.zip ? ` ${o.zip}` : ""}`;
@@ -104,7 +105,7 @@ const officeSchema = {
       <div class="max-w-3xl">
         <div class="eyebrow">{o.city}, {o.state} Office</div>
         <h1 class="mb-6">{o.display_name}</h1>
-        <p class="text-lg text-dark/85 mb-8 leading-relaxed">{fullAddress}</p>
+        <p class="text-lg text-dark/85 mb-8 leading-relaxed">{fullAddress}{o.region && <><br /><span class="font-semibold">Serving {o.region}</span></>}</p>
         <div class="flex flex-col sm:flex-row gap-4">
           <a href={`tel:${o.phone}`} class="btn-accent">📞 Call {o.phone_display}</a>
           <a href={directionsHref} target="_blank" rel="noopener" class="btn-outline">Get Directions</a>
