@@ -29,8 +29,13 @@ export const brand = {
   // keep the canonical NAP number above — humans dial the tracked line,
   // Google sees consistent NAP. Empty = feature off (default at scaffold;
   // filled by the call-tracking provisioning step).
-  trackingPhone: "(760) 278-6497",
-  trackingPhoneRaw: "+17602786497",
+  // Jason 2026-11-21 ("rather than using the 760 number shouldn't we use our
+  // 1-888-379-1688", after our 10-26 tracking explanation): visitors see the
+  // main line; the website tracking line (760) 278-6497 and the channel lines
+  // keep forwarding but leave the site (call_tracking_prefs.site_numbers =
+  // "own_number").
+  trackingPhone: "(888) 379-1688",
+  trackingPhoneRaw: "+18883791688",
   email: "Info@dry1out.com",
   hours: "24/7",
   foundedYear: "1998",
