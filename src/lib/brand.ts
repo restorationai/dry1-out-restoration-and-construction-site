@@ -29,13 +29,12 @@ export const brand = {
   // keep the canonical NAP number above — humans dial the tracked line,
   // Google sees consistent NAP. Empty = feature off (default at scaffold;
   // filled by the call-tracking provisioning step).
-  // Jason 2026-11-21 ("rather than using the 760 number shouldn't we use our
-  // 1-888-379-1688", after our 10-26 tracking explanation): visitors see the
-  // main line; the website tracking line (760) 278-6497 and the channel lines
-  // keep forwarding but leave the site (call_tracking_prefs.site_numbers =
-  // "own_number").
-  trackingPhone: "(888) 379-1688",
-  trackingPhoneRaw: "+18883791688",
+  // Jason 2026-11-22 ("That's fine", yes to our toll-free offer): ONE
+  // toll-free website tracker (877) 770-7892 replaces the 888 visitors saw;
+  // it rings the main line (888) 379-1688. Channel lines keep forwarding but
+  // stay off the site (call_tracking.py tollfree-site).
+  trackingPhone: "(877) 770-7892",
+  trackingPhoneRaw: "+18777707892",
   email: "Info@dry1out.com",
   hours: "24/7",
   // AVAILABILITY 24/7 (Santino 2026-11-21, scripts/availability.py): calls are
