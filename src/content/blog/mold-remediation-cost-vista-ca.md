@@ -84,7 +84,7 @@ A professional mold remediation job follows a fixed sequence, regardless of job 
 
 The only way to get a real number is a physical assessment, because square footage, material type, and moisture source can't be estimated from a phone description. A technician measures the affected area, checks moisture levels in surrounding materials with a meter, and identifies whether containment needs to be Level 1, 2, or 3 before writing a scope.
 
-If you're not sure whether what you're looking at is actually mold or just surface staining, start with [7 Signs You Have Hidden Mold](/blog/signs-of-hidden-mold/) or our [mold inspection](/services/mold-inspection/) page. If you already know it's mold and want a written scope and price before anything gets cut into, [request a mold assessment](/services/mold-remediation/) and a technician will walk the space with you.
+If you're not sure whether what you're looking at is actually mold or just surface staining, start with [7 Signs You Have Hidden Mold](/blog/signs-of-hidden-mold/) or our [mold inspection](/services/mold-inspection/) page. If you already know it's mold and want a written scope and price before anything gets cut into, [request a remediation walkthrough](/services/mold-remediation/) and a technician will walk the space with you.
 
 Mold jobs rarely cost what a phone quote guesses, because the number depends on what's actually inside the wall. A written scope after a physical inspection is the only estimate worth trusting, and it's standard practice before any work begins.
 

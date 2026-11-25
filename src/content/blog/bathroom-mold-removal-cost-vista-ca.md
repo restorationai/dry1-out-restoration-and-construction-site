@@ -76,7 +76,7 @@ Bathroom mold remediation follows a set sequence: inspect and isolate the source
 
 If the original moisture source was a plumbing failure rather than ventilation, the water damage side of the job (drying framing, extracting standing water) runs under our [water damage restoration](/services/water-damage-restoration/) process before remediation even starts.
 
-If you're looking at visible mold in a Vista bathroom right now, the first useful step is a moisture inspection, not a bid. [Schedule a mold assessment with Dry 1 Out at (888) 379-1688](tel:+18883791688) and get a written scope before anything gets opened up.
+If you're looking at visible mold in a Vista bathroom right now, the first useful step is a moisture inspection, not a bid. [Schedule a free mold inspection with Dry 1 Out at (888) 379-1688](tel:+18883791688) and get a written scope before anything gets opened up.
 
 ---
 
