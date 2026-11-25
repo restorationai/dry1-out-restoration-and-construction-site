@@ -64,7 +64,7 @@ For general guidance on moisture control and when mold becomes a health and prop
 
 A licensed remediation job follows a set sequence, built around the [IICRC S520 standard](https://iicrc.org/s520/) for mold remediation, regardless of job size:
 
-1. **Inspection.** A technician checks moisture levels and identifies the source. See our [mold inspection](/services/mold-inspection/) page for what that process involves on its own.
+1. **Inspection and source repair.** A technician checks moisture levels, identifies the source, and the moisture problem itself, whether it's a crawl space vapor barrier, a roof leak, or a failed gasket, is fixed before remediation begins. See our [mold inspection](/services/mold-inspection/) page for what that process involves on its own.
 2. **Containment setup.** Poly sheeting and negative air pressure seal off the work area so spores don't spread to the rest of the house during removal.
 3. **Material removal.** Porous materials beyond cleaning (drywall, insulation, carpet) are bagged and removed under containment.
 4. **HEPA cleaning.** Remaining surfaces get HEPA vacuuming and antimicrobial treatment; HEPA air scrubbers run throughout the space.
