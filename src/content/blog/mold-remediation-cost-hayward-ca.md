@@ -79,7 +79,7 @@ Start with an inspection, not a guess. A same-visit moisture and visual assessme
 
 [Dry 1 Out Restoration and Construction](/services/mold-remediation/) serves Hayward from Downtown and the Highlands down to the shoreline neighborhoods, and provides a written scope before any work begins.
 
-If the mold traces back to a leak or flood event, read what the first 24 hours after water intrusion should look like before mold has a chance to take hold.
+If the mold traces back to a leak or flood event, see [how quickly mold grows after water damage](/blog/mold-after-water-damage/) for what to do before mold has a chance to take hold.
 
 ---
 
