@@ -36,7 +36,7 @@ If the water came from a sewer backup or a Category 3 (grossly contaminated) sou
 
 Small, visible patches of mold on a hard, non-porous surface can often be cleaned by the property owner without a separate inspection, while larger areas usually call for a professional assessment first. The EPA draws the line at roughly 10 square feet, about a 3-foot by 3-foot patch, as the point where a DIY wipe-down is no longer the right approach (see the [EPA's mold cleanup guidance](https://www.epa.gov/mold/brief-guide-mold-moisture-and-your-home)).
 
-Above that size, or if the mold followed a flood, a slow leak you can't locate, or a smell with no visible source, a [mold inspection](/services/mold-inspection/) visit comes first. An inspector uses a moisture meter to map how far the problem has traveled behind walls or under flooring before anyone starts demolition. That scope becomes the basis for the remediation plan and for any insurance claim.
+Above that size, or if the mold followed a flood, a [mold inspection](/services/mold-inspection/) visit comes first. An inspector uses a moisture meter to map how far the problem has traveled behind walls or under flooring before anyone starts demolition. That scope becomes the basis for the remediation plan and for any insurance claim. If you only smell it, or suspect it behind a wall from a leak you can't locate, start with an independent mold tester; Dry 1 Out's free visual visit covers mold that's visible or already confirmed by that independent test.
 
 If you've already looked and you're not sure what you're seeing counts as mold at all, our guide to [signs of hidden mold](/blog/signs-of-hidden-mold/) walks through what to look and sniff for before you make either call.
 
