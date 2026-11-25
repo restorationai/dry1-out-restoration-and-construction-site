@@ -56,7 +56,7 @@ Other factors that move the price:
 
 Surface mildew wipes off with cleaner and doesn't come back if the moisture source is fixed; mold that's actually growing in drywall paper or wood keeps returning and often smells musty even after cleaning. The color and texture alone won't tell you which one you have.
 
-A quick test: clean the visible staining with a diluted bleach or EPA-recommended cleaner. If it's gone in one pass and doesn't reappear within a week or two with the fan running, it was likely surface mildew. If it comes back, darkens, or the drywall feels soft or bubbled when you press on it near the stain, the growth is probably inside the material, not on top of it. Our guide on [black mold vs. regular mold](/blog/black-mold-vs-regular-mold/) covers how to tell the difference by appearance, though color is never a reliable way to judge how deep the problem goes. A moisture meter reading behind the tile is the only way to know for sure.
+A quick test: clean the visible staining with a diluted bleach or EPA-recommended cleaner. If it's gone in one pass and doesn't reappear within a week or two with the fan running, it was likely surface mildew. If it comes back, darkens, or the drywall feels soft or bubbled when you press on it near the stain, the growth is probably inside the material, not on top of it. Our guide on [black mold vs. regular mold](/blog/black-mold-vs-regular-mold/) explains why color and appearance can't tell you what kind of mold you have or how deep the problem goes. A moisture meter reading behind the tile is the only way to know for sure.
 
 ## Will Homeowners Insurance Cover Bathroom Mold Removal?
 
