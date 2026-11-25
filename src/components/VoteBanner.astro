@@ -1,0 +1,14 @@
+---
+// Vote banner (awards traffic plan, Santino 11-09). Data: src/data/vote-banner.json,
+// written and removed by scripts/ai_answers.py from the client's live contest.
+const found = import.meta.glob("../data/vote-banner.json", { eager: true }) as Record<string, any>;
+const vb: any = (Object.values(found)[0] as any)?.default ?? null;
+---
+{vb && vb.url && vb.text && (
+  <>
+    <div id="vote-banner" data-expires={vb.expires_at} class="bg-cta text-cta-fg text-sm font-bold text-center py-2 px-4">
+      <a href={vb.url} target="_blank" rel="noopener" class="underline underline-offset-2">{vb.text}</a>
+    </div>
+    <script is:inline>{`(function(){var b=document.getElementById("vote-banner");if(!b)return;var e=Date.parse(b.getAttribute("data-expires")||"");if(e&&Date.now()>e)b.remove();})();`}</script>
+  </>
+)}

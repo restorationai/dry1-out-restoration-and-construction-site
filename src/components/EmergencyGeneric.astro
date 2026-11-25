@@ -1,0 +1,158 @@
+---
+// /emergency/ for a NON-restoration trade (Santino 2026-11-21). The water
+// damage page (src/pages/emergency.astro) is restoration only. A trade keeps
+// /emergency/ only when the 24/7 law allows it (scripts/emergency_policy.py):
+// a 24/7 plumber, or a client with an emergency-named service ("Emergency
+// Garage Door Repair"). This version is built from brand.tradeNoun and those
+// services: no water, drying or insurance content. 24/7 wording only when
+// brand.hours says 24/7 (same gate as the Header). Light-starter copy.
+import { getCollection } from "astro:content";
+import BaseLayout from "~/layouts/BaseLayout.astro";
+import CtaBanner from "~/components/CtaBanner.astro";
+import FAQSection from "~/components/FAQSection.astro";
+import Hero from "~/components/ui/Hero.astro";
+import TrustStrip from "~/components/ui/TrustStrip.astro";
+import ReviewsStrip from "~/components/ui/ReviewsStrip.astro";
+import FreeEstimateForm from "~/components/FreeEstimateForm.astro";
+import { brand } from "~/lib/brand";
+import { Phone, MapPin } from "@lucide/astro";
+import { serviceRegion, areaName, areaPlace } from "~/lib/region";
+
+const is247 = /24\s*[\/x-]?\s*7|24 ?hours/i.test(String(brand.hours || ""));
+const shortLabel = brand.shortName || brand.displayName;
+const trade = String((brand as any).tradeNoun || "").trim() || "service";
+const titleCase = (s: string) => s.replace(/\b\w/g, (c) => c.toUpperCase());
+
+const respMin = parseInt(String((brand as unknown as Record<string, unknown>).responseMinutes ?? ""), 10);
+const hasResp = respMin > 0;
+const responseClaim = hasResp
+  ? `on-site response in about ${respMin} minutes${is247 ? ", day or night" : ""}`
+  : is247
+    ? "24/7 emergency dispatch, day or night"
+    : "fast response during business hours";
+const dispatchLine = hasResp
+  ? `is typically on-site within ${respMin} minutes`
+  : "sends a technician as soon as you call";
+
+// The client's own emergency-named services. Without 24/7 the round-the-clock
+// modifiers are stripped from the names (the exception never carries 24/7).
+const strip247 = (s: string) =>
+  s.replace(/\b24\s*[\/x-]?\s*7\b|\b24[\s-]*(?:hours?|hrs?)\b/gi, " ").replace(/\s{2,}/g, " ").trim();
+const emergencyServices = (await getCollection("services"))
+  .filter((s) => /\bemergenc(?:y|ies)\b/i.test(`${s.data.service_display} ${s.data.service_slug}`))
+  .sort((a, b) => (b.data.priority || 0) - (a.data.priority || 0));
+const serviceName = (s: (typeof emergencyServices)[number]) =>
+  is247 ? s.data.service_display : strip247(s.data.service_display);
+
+const label = emergencyServices.length && !is247
+  ? serviceName(emergencyServices[0])
+  : `${is247 ? "24/7 " : ""}Emergency ${titleCase(trade)}`;
+
+const areas = (await getCollection("serviceAreas")).sort(
+  (a, b) =>
+    Number(b.data.primary) - Number(a.data.primary) ||
+    (b.data.priority || 0) - (a.data.priority || 0)
+);
+const cityPreview = areas.slice(0, 5).map((a) => a.data.city).join(", ");
+
+const h1 = `${label} in ${areaName}`;
+const metaDescription = `Need ${label.toLowerCase()} in ${areaPlace}? ${shortLabel} ${dispatchLine}${is247 ? ", 24/7" : " during business hours"}. Call ${brand.phone}.`;
+const answerCapsule = `${brand.displayName} provides ${label.toLowerCase()} ${serviceRegion ? `across ${serviceRegion}, including` : `in ${brand.primaryCity}, ${brand.primaryState} and nearby cities including`} ${cityPreview}. We provide ${responseClaim}. Call ${brand.phone} to get help on the way.`;
+
+const faq = [
+  is247
+    ? {
+        question: `Is ${shortLabel} really available 24/7?`,
+        answer: `Yes. ${brand.displayName} answers emergency calls 24 hours a day, 7 days a week, including weekends and holidays. Call ${brand.phone} any time and we will send a technician.`,
+      }
+    : {
+        question: `When can I reach ${shortLabel}?`,
+        answer: `${brand.displayName} answers during business hours${brand.hours ? ` (${brand.hours})` : ""}. Call ${brand.phone} and we will get a technician to you as quickly as possible.`,
+      },
+  {
+    question: "How quickly can you be on-site?",
+    answer: hasResp
+      ? `Technicians are typically on-site within ${respMin} minutes of your call anywhere in the ${brand.primaryCity} area${is247 ? ", 24/7" : ""}. Call ${brand.phone} and we will give you a real ETA for your address.`
+      : `We send the nearest available technician as soon as you call${is247 ? ", 24/7" : ` during business hours${brand.hours ? ` (${brand.hours})` : ""}`}. Call ${brand.phone} and we will give you a real ETA for your address.`,
+  },
+  {
+    question: "What should I do while I wait?",
+    answer: `Keep everyone clear of the problem area and do not attempt a repair that could hurt you. If it is safe, take a few photos so the technician knows what to expect, then call ${brand.phone}.`,
+  },
+];
+---
+
+<BaseLayout
+  title={`${h1} | ${shortLabel}`}
+  meta_description={metaDescription}
+  schema_stubs={["local-business", "service", "faq", "breadcrumb-list"]}
+  schema_ctx={{
+    archetype: "emergency-landing",
+    service_display: label,
+  }}
+  breadcrumb={[{ name: "Home", url: "/" }, { name: "Emergency" }]}
+  faq={faq}
+>
+  <Hero title={h1} subtitle={metaDescription} backgroundImage="/images/hero-bg.webp" />
+
+  <section class="section-tight bg-white">
+    <div class="container-wide">
+      <div class="max-w-content mx-auto text-center">
+        <p class="text-xl md:text-2xl text-dark-800 leading-relaxed font-medium mb-8">{answerCapsule}</p>
+        <a href={`tel:${brand.phoneRaw}`} class="btn-accent text-base">
+          <Phone size={18} /> Call {brand.phone} Now
+        </a>
+        {emergencyServices.length > 0 && (
+          <ul class="mt-6 mb-0 space-y-2 list-none p-0 text-base text-dark-700">
+            {emergencyServices.map((s) => (
+              <li>
+                <a href={`/services/${s.data.service_slug || s.slug}/`} class="font-bold text-primary-700">
+                  {serviceName(s)} in {areaName}
+                </a>
+              </li>
+            ))}
+          </ul>
+        )}
+      </div>
+    </div>
+  </section>
+
+  <TrustStrip />
+
+  <ReviewsStrip />
+
+  <FreeEstimateForm compact />
+
+  <section class="section bg-white">
+    <div class="container-wide">
+      <div class="max-w-content mx-auto">
+        <div class="eyebrow">Response Time</div>
+        <h2>How fast can {shortLabel} get here?</h2>
+        <p class="text-lg text-dark-800">
+          {is247
+            ? `${shortLabel} answers the phone 24/7 and ${hasResp ? `technicians are typically on-site within ${respMin} minutes of your call` : "sends the nearest available technician the moment you call"}, day or night, weekends and holidays.`
+            : `${shortLabel} sends the nearest available technician as quickly as possible during business hours${brand.hours ? ` (${brand.hours})` : ""}.`}
+        </p>
+        <p>We respond throughout {serviceRegion || `the ${brand.primaryCity} area`}, including:</p>
+      </div>
+      <div class="grid gap-3 sm:grid-cols-2 lg:grid-cols-3 max-w-4xl mx-auto mt-8">
+        {areas.map((a) => (
+          <a
+            href={`/service-areas/${a.data.area_slug}/`}
+            class="flex items-center gap-3 p-4 rounded-lg border border-dark/10 bg-dark/5 hover:bg-dark/10 hover:border-primary/40 transition-all no-underline text-dark-900 font-bold"
+          >
+            <MapPin size={16} class="text-primary-600 shrink-0" />
+            {a.data.city}, {a.data.state}
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <FAQSection faq={faq} eyebrow="Emergency" heading="Emergency FAQs" />
+
+  <CtaBanner
+    heading={is247 ? "Need help now? We're awake." : "Need help fast? Call us first."}
+    subheading={`One call gets a technician moving. ${brand.phone}.`}
+  />
+</BaseLayout>

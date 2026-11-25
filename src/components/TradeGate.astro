@@ -1,0 +1,11 @@
+---
+// TradeGate (Santino 2026-11-21): renders its children only when `when` is
+// true, else the optional slot="else" content. Wrapping markup in this
+// component (instead of a {cond && (...)} expression) keeps the wrapped
+// HTML byte-identical: Astro trims whitespace inside expressions but not in
+// component children. Used to keep restoration-only copy off other trades
+// while restoration sites render exactly what they did before.
+type Props = { when: boolean };
+const { when } = Astro.props;
+---
+{when ? <slot /> : <slot name="else" />}

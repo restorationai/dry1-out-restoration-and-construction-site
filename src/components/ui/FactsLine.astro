@@ -1,0 +1,38 @@
+---
+// rankai:facts-line (Santino 2026-11-18, AI SEARCH test). AI answer engines
+// quote plain text near the top of a page; ours buried the rating below the
+// body and printed no license or years at all. One line of facts, in plain
+// text, directly under the H1. Every claim is gated on brand data, the same
+// gates as TrustStrip: 24/7 only with 24/7 hours, "Licensed" only with a
+// license number on file, the rating only from the GBP sync (brand.ts
+// gbpRatingValue/gbpReviewCount, scripts/sync_brand_reviews.py), never typed.
+import { brand } from "~/lib/brand";
+import { awards, awardBadge } from "~/lib/awards";
+
+interface Props { phone?: string; phoneRaw?: string; dark?: boolean; showRating?: boolean }
+// an office page passes showRating={false}: its own Google profile has its own
+// reviews, never the main profile's
+const { phone = brand.phone, phoneRaw = brand.phoneRaw, dark = true, showRating = true } = Astro.props;
+const b = brand as Record<string, unknown>;
+const is247 = /24\s*[\/x-]?\s*7|24 ?hours/i.test(String(b.hours || ""));
+const lic = Array.isArray(b.licenseNumbers) && b.licenseNumbers.length ? String(b.licenseNumbers[0]) : "";
+const st = String(b.addressState || b.primaryState || "");
+const rating = String(b.gbpRatingValue || "");
+const count = String(b.gbpReviewCount || "");
+const hideCount = (b as { hideReviewCount?: boolean }).hideReviewCount === true;
+const founded = parseInt(String(b.foundedYear || ""), 10);
+const since = Number.isFinite(founded) && founded > 1900 && founded <= new Date().getFullYear() ? founded : null;
+const top = awards()[0];
+const facts: string[] = [];
+if (showRating && rating && count && count !== "0") facts.push(hideCount ? `Rated ${rating} on Google` : `Rated ${rating} from ${count} Google reviews`);
+if (is247) facts.push("24/7 emergency response");
+if (lic) facts.push(`Licensed${st ? ` in ${st}` : ""} (#${lic})`);
+if (since) facts.push(`In business since ${since}`);
+if (top) facts.push(awardBadge(top));
+---
+{facts.length > 0 && (
+  <p class={`rankai-facts text-sm md:text-base font-semibold mb-6 ${dark ? "text-white/90 drop-shadow-md" : "text-dark-700"}`}>
+    {phone && <a href={`tel:${phoneRaw}`} class="underline decoration-dotted underline-offset-4">Call {phone}</a>}
+    {facts.map((f) => <span><span aria-hidden="true"> · </span>{f}</span>)}
+  </p>
+)}
