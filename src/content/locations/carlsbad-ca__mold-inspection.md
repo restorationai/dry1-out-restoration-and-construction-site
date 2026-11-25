@@ -28,7 +28,7 @@ Carlsbad's building stock spans decades of very different construction. Carlsbad
 
 ## What Our Free Mold Inspection Covers
 
-When you call about visible mold, our inspection is a visual assessment, not a lab test. We walk the affected area, check moisture readings on walls, flooring, and framing with a moisture meter, and document what we find with photos. If mold is already visible, or if an independent mold tester has already confirmed a problem through air sampling or surface testing, we can scope remediation based on that. We don't run the testing ourselves. California homeowners are often surprised to learn that keeping inspection, testing, and remediation separate is standard practice, and it's one we follow strictly so the person assessing the problem isn't also billing to fix it.
+When you call about visible mold, our inspection is a visual assessment, not a lab test. We walk the affected area, check moisture readings on walls, flooring, and framing with a moisture meter, and document what we find with photos. If mold is already visible, or if an independent mold tester has already confirmed a problem through air sampling or surface testing, we can scope remediation based on that. We don't run the testing ourselves. California homeowners are often surprised to learn that keeping lab testing separate from remediation is standard practice, and it's one we follow strictly so the party testing the problem isn't also billing to fix it.
 
 ## Carlsbad HOA Coordination
 
