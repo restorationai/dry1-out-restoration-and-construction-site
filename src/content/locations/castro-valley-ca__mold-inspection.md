@@ -34,7 +34,7 @@ We walk the property and document what's visible: discoloration on drywall or ce
 
 ## Reaching Castro Valley from Our Hayward Office
 
-Castro Valley is served out of our [Hayward office](/locations/hayward-ca/) at 2536 Barrington Ct, a short run east on I-580 through the Castro Valley interchange. That proximity means we're not routing a crew across the Bay to get to a hillside property near the Five Canyons area or a ranch home off one of the valley's older residential streets. We schedule inspection visits around your availability, since this is a free visual service, not an emergency response.
+Castro Valley is served out of our [Hayward office](/locations/hayward-ca/), a short run east on I-580 through the Castro Valley interchange. That proximity means we're not routing a crew across the Bay to get to a hillside property near the Five Canyons area or a ranch home off one of the valley's older residential streets. We schedule inspection visits around your availability, since this is a free visual service, not an emergency response.
 
 ## Local note
 
