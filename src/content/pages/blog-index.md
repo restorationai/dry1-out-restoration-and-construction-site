@@ -10,7 +10,7 @@ priority: 3.0
 plan_hash: "e7e6d509dfcf3c71"
 generated_at: "2026-10-08T19:25:23.062359+00:00"
 manual_override: true
-internal_links: ["/", "/blog/burst-pipe-emergency-checklist/", "/blog/what-to-do-first-24-hours-water-damage/", "/blog/choosing-a-restoration-company/", "/blog/does-homeowners-insurance-cover-water-damage/", "/blog/fire-damage-restoration-process/", "/blog/how-to-test-for-mold/", "/blog/signs-of-hidden-mold/", "/blog/black-mold-vs-regular-mold/", "/blog/how-long-does-water-damage-restoration-take/", "/blog/mold-after-water-damage/", "/blog/storm-damage-insurance-claim-checklist/", "/blog/smoke-odor-removal-techniques/"]
+internal_links: ["/", "/blog/burst-pipe-emergency-checklist/", "/blog/what-to-do-first-24-hours-water-damage/", "/blog/choosing-a-restoration-company/", "/blog/does-homeowners-insurance-cover-water-damage/", "/blog/fire-damage-restoration-process/", "/blog/signs-of-hidden-mold/", "/blog/black-mold-vs-regular-mold/", "/blog/how-long-does-water-damage-restoration-take/", "/blog/mold-after-water-damage/", "/blog/storm-damage-insurance-claim-checklist/", "/blog/smoke-odor-removal-techniques/"]
 breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Blog"}]
 faq: []
 rendered: true

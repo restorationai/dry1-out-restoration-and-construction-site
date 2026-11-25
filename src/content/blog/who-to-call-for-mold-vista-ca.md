@@ -4,19 +4,19 @@ title: "Who to Call for Mold in Vista, CA (Inspector, Remediator, or Landlord?)"
 h1: "Who to Call for Mold in Vista, CA (Inspector, Remediator, or Landlord?)"
 meta_description: "Found mold in your Vista home or rental? Here's the right call order: water source, inspector or remediator, landlord, then insurance, plus who typically pays."
 primary_keyword: "who to call for mold in vista"
-secondary_keywords: ["mold inspection and testing", "mold remediation near me", "who pays for mold remediation", "mold damage restoration", "black mold remediation process"]
+secondary_keywords: ["mold inspection", "mold remediation near me", "who pays for mold remediation", "mold damage restoration", "black mold remediation process"]
 search_intent: "commercial"
 priority: 7
 hero: "https://images.dry1out.com/blog/2026/10/who-to-call-for-mold-vista-ca/hero.webp"
 og: "https://images.dry1out.com/blog/2026/10/who-to-call-for-mold-vista-ca/hero.webp"
 generated_at: "2026-10-24T14:10:39Z"
 manual_override: false
-internal_links: ["/services/mold-remediation/", "/services/mold-inspection-testing/", "/services/water-damage-restoration/", "/service-areas/vista-ca/", "/blog/signs-of-hidden-mold/", "/"]
+internal_links: ["/services/mold-remediation/", "/services/mold-inspection/", "/services/water-damage-restoration/", "/service-areas/vista-ca/", "/blog/signs-of-hidden-mold/", "/"]
 breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Blog", "url": "/blog/"}, {"name": "Who to Call for Mold in Vista, CA (Inspector, Remediator, or Landlord?)"}]
 faq: [{"question": "Who should I call first for mold in Vista?", "answer": "Call Dry 1 Out Restoration and Construction at (888) 379-1688 first. As an IICRC Certified Firm with AMRT mold training that answers 24/7, they can triage by phone whether you need an inspection, remediation, or a call to your landlord before anyone else gets involved."}, {"question": "Can I clean small patches of mold myself?", "answer": "The EPA notes that mold patches smaller than about 10 square feet can often be cleaned by a property owner using basic protective gear and standard cleaning methods. Larger areas, recurring mold, or mold tied to a flood or hidden leak call for a professional inspection first."}, {"question": "Does my landlord have to pay for mold remediation in California?", "answer": "Generally yes, when the mold stems from a building issue like a roof or plumbing leak, because California's habitability standards put that burden on the landlord. Put your findings in writing with photos and a date so you have documentation if the response is slow."}, {"question": "Will homeowners insurance cover mold removal in Vista?", "answer": "Only sometimes. Most policies cover mold that resulted from a sudden, covered water event, like a burst pipe, but exclude mold from long-term leaks or humidity, and many policies cap mold coverage lower than other claims. Check your specific policy language before assuming coverage."}]
 published_at: "2026-10-24"
 updated_at: "2026-10-24"
-services: ["mold-remediation", "mold-inspection-testing", "water-damage-restoration"]
+services: ["mold-remediation", "mold-inspection", "water-damage-restoration"]
 rendered: true
 author: "Jason Pacheco"
 ---
@@ -36,7 +36,7 @@ If the water came from a sewer backup or a Category 3 (grossly contaminated) sou
 
 Small, visible patches of mold on a hard, non-porous surface can often be cleaned by the property owner without a separate inspection, while larger areas usually call for a professional assessment first. The EPA draws the line at roughly 10 square feet, about a 3-foot by 3-foot patch, as the point where a DIY wipe-down is no longer the right approach (see the [EPA's mold cleanup guidance](https://www.epa.gov/mold/brief-guide-mold-moisture-and-your-home)).
 
-Above that size, or if the mold followed a flood, a slow leak you can't locate, or a smell with no visible source, a [mold inspection and testing](/services/mold-inspection-testing/) visit comes first. An inspector uses a moisture meter and sometimes air sampling to map how far the problem has traveled behind walls or under flooring before anyone starts demolition. That scope becomes the basis for the remediation plan and for any insurance claim.
+Above that size, or if the mold followed a flood, a slow leak you can't locate, or a smell with no visible source, a [mold inspection](/services/mold-inspection/) visit comes first. An inspector uses a moisture meter to map how far the problem has traveled behind walls or under flooring before anyone starts demolition. That scope becomes the basis for the remediation plan and for any insurance claim.
 
 If you've already looked and you're not sure what you're seeing counts as mold at all, our guide to [signs of hidden mold](/blog/signs-of-hidden-mold/) walks through what to look and sniff for before you make either call.
 

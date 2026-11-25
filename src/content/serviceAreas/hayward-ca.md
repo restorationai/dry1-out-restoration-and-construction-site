@@ -31,7 +31,7 @@ Water damage in Hayward often starts as a slow leak under a slab or behind a sho
 
 Fire and smoke damage calls in Hayward frequently involve both structural char and the lingering smoke odor that settles into insulation and HVAC ductwork, especially in homes near wildfire-smoke corridors during late summer. We handle soot removal, odor treatment, and content cleaning alongside the structural repairs.
 
-Mold remediation becomes necessary in Hayward most often after a slow plumbing leak or poor crawlspace ventilation lets moisture sit for days, which is common in homes near the shoreline flats where humidity stays higher year-round. We contain the affected area, remove compromised materials, and treat surfaces before clearance testing.
+Mold remediation becomes necessary in Hayward most often after a slow plumbing leak or poor crawlspace ventilation lets moisture sit for days, which is common in homes near the shoreline flats where humidity stays higher year-round. We contain the affected area, remove compromised materials, and treat surfaces before a final check.
 
 Biohazard and trauma cleanup, including sewage backups common in older cast-iron drain lines around Downtown Hayward, is handled with the same documentation and disposal protocols used for any contaminated-site job.
 

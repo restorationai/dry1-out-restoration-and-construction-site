@@ -52,7 +52,7 @@ These `{{TOKEN}}` strings are substituted by `build_site.py scaffold` from `plan
 - [Emergency Water Cleanup](https://dry1out.com/services/water-cleanup/)
 - [Fire Damage Restoration](https://dry1out.com/services/fire-damage-restoration/)
 - [Mold Remediation](https://dry1out.com/services/mold-remediation/)
-- [Mold Inspection and Testing](https://dry1out.com/services/mold-inspection-testing/)
+- [Mold Inspection](https://dry1out.com/services/mold-inspection/)
 - [Renovations, Remodels and General Contracting](https://dry1out.com/services/general-contracting/)
 - [Crime Scene Cleanup](https://dry1out.com/services/crime-scene-cleanup/)
 - [Storm Damage Restoration](https://dry1out.com/services/storm-damage-restoration/)

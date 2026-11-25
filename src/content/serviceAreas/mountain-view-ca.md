@@ -29,7 +29,7 @@ Mountain View sits low and close to the bay, which shapes the kind of damage we 
 
 Water damage restoration and emergency water removal are core to our Mountain View work, especially where a pipe break or appliance failure has pushed water under flooring or into a shared wall between units. Burst pipe cleanup and water leak detection matter here because older plumbing runs are often buried behind finished walls, so we find the source before drying begins rather than guessing at it.
 
-Basement and ceiling water damage repair cover the two directions water travels in this housing stock: down through a roof or upper-floor leak, or up from grade against a low foundation. Mold inspection, testing, and remediation follow naturally from the bay-adjacent humidity, since drywall and insulation that stay damp for more than a day or two start supporting growth.
+Basement and ceiling water damage repair cover the two directions water travels in this housing stock: down through a roof or upper-floor leak, or up from grade against a low foundation. Mold inspection and remediation follow naturally from the bay-adjacent humidity, since drywall and insulation that stay damp for more than a day or two start supporting growth.
 
 Fire damage restoration, smoke damage restoration, and odor removal address the aftermath of kitchen fires and electrical incidents, including the soot that works into HVAC systems and soft materials well beyond the room of origin. Storm damage restoration, sewage cleanup, biohazard and trauma scene cleanup, and vandalism repair round out the emergency side, with reconstruction services and general contracting available to put the property back together once drying and cleanup are complete.
 

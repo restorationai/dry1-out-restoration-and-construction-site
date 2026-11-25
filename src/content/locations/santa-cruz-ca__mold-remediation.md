@@ -20,7 +20,7 @@ state: "CA"
 service_display: "Mold Remediation"
 rendered: true
 ---
-Santa Cruz's marine layer rolls in most mornings and doesn't always burn off before noon, which means crawlspaces and north-facing walls in older Westside bungalows stay damp longer than homeowners realize. Mold remediation here has to account for that lingering moisture, not just the leak or flood that triggered the call. Dry 1 Out Restoration and Construction handles the testing, containment, and removal with IICRC AMRT-trained technicians who understand how coastal humidity behaves differently than inland growth patterns.
+Santa Cruz's marine layer rolls in most mornings and doesn't always burn off before noon, which means crawlspaces and north-facing walls in older Westside bungalows stay damp longer than homeowners realize. Mold remediation here has to account for that lingering moisture, not just the leak or flood that triggered the call. Dry 1 Out Restoration and Construction handles the inspection, containment, and removal with IICRC AMRT-trained technicians who understand how coastal humidity behaves differently than inland growth patterns.
 
 ## Why Santa Cruz Properties See Mold Issues
 

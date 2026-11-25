@@ -31,7 +31,7 @@ Water damage restoration and emergency water removal are frequent calls here, es
 
 Sewage cleanup and sanitization matters in a city where flat grades and older sewer laterals make backups more likely during heavy rain events. We also handle basement and crawlspace flooding cleanup for the commercial buildings and office parks along Newark's industrial corridors near the Dumbarton approach, where flat-roof drainage and at-grade loading docks are common failure points.
 
-Fire damage restoration and smoke damage restoration cover both structure fires and the lingering smoke infiltration that follows regional wildfire smoke events. Mold inspection, testing, and remediation address the moisture problems that follow any of the above once drywall and framing stay damp too long. For larger commercial and industrial sites, our large loss and catastrophic response team coordinates multi-trade jobs, and our reconstruction and general contracting crews can rebuild what the damage took out.
+Fire damage restoration and smoke damage restoration cover both structure fires and the lingering smoke infiltration that follows regional wildfire smoke events. Mold inspection and remediation address the moisture problems that follow any of the above once drywall and framing stay damp too long. For larger commercial and industrial sites, our large loss and catastrophic response team coordinates multi-trade jobs, and our reconstruction and general contracting crews can rebuild what the damage took out.
 
 ## Coverage and how fast we can get there
 

@@ -55,7 +55,7 @@ This file is intended for AI assistants and language models to efficiently inges
 - [Emergency Water Cleanup](https://dry1out.com/services/emergency-water-removal/)
 - [Fire Damage Restoration](https://dry1out.com/services/fire-damage-restoration/)
 - [Mold Remediation](https://dry1out.com/services/mold-remediation/)
-- [Mold Inspection and Testing](https://dry1out.com/services/mold-inspection-testing/)
+- [Mold Inspection](https://dry1out.com/services/mold-inspection/)
 - [Renovations, Remodels and General Contracting](https://dry1out.com/services/general-contracting/)
 - [Crime Scene Cleanup](https://dry1out.com/services/crime-scene-cleanup/)
 - [Storm Damage Restoration](https://dry1out.com/services/storm-damage-restoration/)

@@ -33,7 +33,7 @@ Burst pipe cleanup and repair and ceiling water damage repair cover the two most
 
 Sewage cleanup and sanitization responds to backups tied to aging municipal lines or storm surcharging during heavy rain events, work we handle under the IICRC S500 water damage standard with full PPE and containment.
 
-Mold inspection and testing, along with mold remediation, matters here because any water intrusion in a slab-foundation home that goes unaddressed for more than a day or two gives mold a foothold in wall cavities and under cabinetry where it's hard to see.
+Mold inspection, along with mold remediation, matters here because any water intrusion in a slab-foundation home that goes unaddressed for more than a day or two gives mold a foothold in wall cavities and under cabinetry where it's hard to see.
 
 Fire damage restoration and smoke damage restoration cover both structure fires and the lingering smoke odor that travels through HVAC ductwork during regional wildfire smoke events.
 

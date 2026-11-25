@@ -29,7 +29,7 @@ Alameda sits on a low, flat island built largely on fill and reclaimed marshland
 
 Water damage restoration and emergency water removal are the most frequent calls, often tied to failed supply lines or roof leaks in older homes where the original plumbing was never fully upgraded. Burst pipe cleanup and basement or crawlspace flooding follow a similar pattern, especially in homes near the island's lower-lying streets where standing water has nowhere to drain quickly.
 
-Sewage cleanup and sanitization come up when backups push wastewater into finished living space, which calls for containment and disposal handled to IICRC standards, not just a wet-vac and a fan. Mold inspection, testing, and remediation address the humidity and moisture-retention issues common to older wood-frame construction here.
+Sewage cleanup and sanitization come up when backups push wastewater into finished living space, which calls for containment and disposal handled to IICRC standards, not just a wet-vac and a fan. Mold inspection and remediation address the humidity and moisture-retention issues common to older wood-frame construction here.
 
 Fire damage, smoke damage, and odor removal round out the emergency side, while reconstruction services and general contracting handle the rebuild once drying, demolition, or remediation is complete, so an Alameda owner isn't managing two separate contractors for one loss.
 

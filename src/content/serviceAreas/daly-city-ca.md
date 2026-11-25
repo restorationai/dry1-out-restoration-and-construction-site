@@ -31,7 +31,7 @@ Water damage in Daly City often starts small, a slow roof leak during fog season
 
 Burst pipe cleanup and repair is a frequent call here given how much of the city's plumbing dates to the mid-20th century. We isolate the source, extract water, and coordinate repair alongside drying so the same failure doesn't recur behind a freshly dried wall.
 
-Mold remediation and mold inspection and testing matter in a city where fog and limited cross-ventilation in older homes create ideal conditions for mold colonization after any undetected leak. We identify the moisture source first, since treating visible growth without fixing the underlying intrusion just buys time before it returns.
+Mold remediation and mold inspection matter in a city where fog and limited cross-ventilation in older homes create ideal conditions for mold colonization after any undetected leak. We identify the moisture source first, since treating visible growth without fixing the underlying intrusion just buys time before it returns.
 
 Fire damage restoration and smoke damage restoration address both structural fire loss and the smoke and odor that travels through older homes with less sealed wall and attic assemblies than newer builds. Basement flooding cleanup, sewage cleanup and sanitization, and storm damage restoration round out our response to the wind-driven rain and drainage failures the city sees most winters. For larger residential or commercial losses, our large loss and catastrophic response and reconstruction teams scope and rebuild once the structure is dry and safe.
 

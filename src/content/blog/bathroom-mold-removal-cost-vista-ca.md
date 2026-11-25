@@ -35,7 +35,6 @@ Most Vista homeowners pay between $350 and $7,500 for bathroom mold removal, wit
 | Mold in subfloor from a failed shower pan | $2,500 to $5,000 |
 | Full bathroom remediation (drywall, insulation, vanity demo) | $3,500 to $7,500 |
 | Remediation plus full rebuild (tile, drywall, vanity, flooring) | $6,000 to $12,000+ |
-| Mold testing / post-remediation clearance sampling | $300 to $600 |
 
 These are typical industry ranges for San Diego County, not a quote. Every bathroom is different once the walls come open, which is why [Dry 1 Out Restoration and Construction](/) provides a written scope and price before any demolition starts.
 
@@ -49,7 +48,7 @@ Other factors that move the price:
 - **What's behind the tile.** Cement board holds up better than drywall behind a shower. If the original builder used standard drywall (common in older Vista homes near Downtown Vista and Buena Creek built before current code), it usually has to come out rather than be dried in place.
 - **The water source and how long it ran.** A fast-caught supply line leak is a smaller job than mold that's been growing behind a shower pan for months, which the [EPA notes can begin within 24 to 48 hours of sustained moisture](https://www.epa.gov/mold/brief-guide-mold-moisture-and-your-home) and only gets worse the longer it's sealed behind tile.
 - **Rebuild scope.** Removing moldy drywall or a subfloor is one invoice; replacing tile, a vanity, flooring, and paint is another. Because Dry 1 Out also handles [reconstruction](/services/reconstruction/), the demo-to-rebuild handoff happens under one scope instead of two separate contractors.
-- **Testing.** Third-party clearance testing isn't required by California law, but it's worth the cost if you're selling the home or need documentation for an insurance claim.
+- **Testing.** Clearance testing is done by an independent third party, not the company doing the cleanup, and it's worth the cost if you're selling the home or need documentation for an insurance claim.
 
 ![What Drives Bathroom Mold Removal Costs Up or Down: bathroom mold removal cost in vista](https://images.dry1out.com/blog/2026/10/bathroom-mold-removal-cost-vista-ca/section.webp)
 

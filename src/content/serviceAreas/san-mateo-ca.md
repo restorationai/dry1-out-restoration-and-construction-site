@@ -31,7 +31,7 @@ Water damage restoration and emergency water removal are the calls we're built t
 
 Burst pipe cleanup and repair, ceiling water damage repair, and appliance leak cleanup cover the more targeted jobs: a supply line that fails inside a wall, a water heater that lets go in a garage, or a ceiling stain that shows up after a storm. Basement flooding cleanup applies to the lower-level and below-grade spaces found in some of San Mateo's older properties, where bay-adjacent groundwater can push moisture in through foundation walls during wet months.
 
-Fire damage restoration, smoke damage restoration, and odor removal address the aftermath of a kitchen fire or an electrical event, including the soot and smoke odor that settles into drywall, insulation, and fabric long after the flames are out. Mold inspection, testing, and remediation follow naturally from the moisture patterns common here, since mold can begin colonizing damp framing within 24 to 48 hours.
+Fire damage restoration, smoke damage restoration, and odor removal address the aftermath of a kitchen fire or an electrical event, including the soot and smoke odor that settles into drywall, insulation, and fabric long after the flames are out. Mold inspection and remediation follow naturally from the moisture patterns common here, since mold can begin colonizing damp framing within 24 to 48 hours.
 
 Sewage cleanup and sanitization, biohazard and trauma scene cleanup, and storm damage restoration round out our emergency response work, while reconstruction services and general contracting bring the property back to pre-loss condition once drying and remediation are complete.
 

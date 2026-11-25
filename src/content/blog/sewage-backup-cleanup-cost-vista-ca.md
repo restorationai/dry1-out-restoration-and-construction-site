@@ -28,7 +28,7 @@ If sewage just came up through a floor drain, a toilet, or a shower in your Shad
 
 Most Vista homeowners pay between $500 and $20,000 for sewage backup cleanup, and the single biggest factor is how much contaminated water spread and how many porous materials it touched. A contained toilet overflow in one bathroom costs far less than a main line backup that pushes Category 3 (black) water into a finished basement or crawlspace.
 
-Sewage is classified as Category 3 water under the [ANSI/IICRC S500 standard](https://iicrc.org/s500/), the industry's governing document for water damage restoration. That classification drives the cost: Category 3 jobs require removal of affected carpet, pad, drywall, and insulation rather than drying them in place, plus antimicrobial treatment and, often, post-remediation testing to confirm the space is clean. A toilet overflow with urine but no solid waste is typically Category 2; anything from a sewer line, a floor drain, or a toilet overflow with feces is Category 3, no exceptions.
+Sewage is classified as Category 3 water under the [ANSI/IICRC S500 standard](https://iicrc.org/s500/), the industry's governing document for water damage restoration. That classification drives the cost: Category 3 jobs require removal of affected carpet, pad, drywall, and insulation rather than drying them in place, plus antimicrobial treatment and, often, independent post-remediation testing to confirm the space is clean. A toilet overflow with urine but no solid waste is typically Category 2; anything from a sewer line, a floor drain, or a toilet overflow with feces is Category 3, no exceptions.
 
 | Scenario | Typical Cost Range |
 |---|---|
@@ -48,7 +48,7 @@ Square footage and depth matter most. A puddle in a powder room is a few hours o
 
 Material removal is the next biggest cost driver. Carpet, pad, and any drywall that wicked contaminated water are removed, bagged, and disposed of per [IICRC S500](https://iicrc.org/s500/) protocols rather than dried, because porous materials that touched black water can't be reliably decontaminated. Hard surfaces like tile, concrete, and sealed wood are cleaned and disinfected instead of removed, which keeps costs down.
 
-Finally, antimicrobial application and air quality testing add a few hundred dollars but confirm the space is safe to rebuild. Skipping that step to save money is how homeowners end up with a mold problem on top of the original backup, which you can read about in our post on [how quickly mold grows after water damage](/blog/mold-after-water-damage/).
+Finally, antimicrobial application and independent air quality testing add a few hundred dollars but confirm the space is safe to rebuild. Skipping that step to save money is how homeowners end up with a mold problem on top of the original backup, which you can read about in our post on [how quickly mold grows after water damage](/blog/mold-after-water-damage/).
 
 ![What actually drives the price up or down: sewage backup cleanup cost in vista](https://images.dry1out.com/blog/2026/11/sewage-backup-cleanup-cost-vista-ca/section.webp)
 
