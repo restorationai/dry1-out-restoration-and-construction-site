@@ -62,7 +62,7 @@ const reviewsUrl = brand.googleCid
               “{r.text}”
             </blockquote>
             <figcaption class="text-dark-500 text-xs font-bold uppercase tracking-widest mt-auto">
-              — {r.author}{r.when ? ` · ${r.when}` : ""}
+              {r.author}{r.when ? ` · ${r.when}` : ""}
             </figcaption>
           </figure>
         ))}

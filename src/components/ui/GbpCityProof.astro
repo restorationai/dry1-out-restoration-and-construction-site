@@ -17,10 +17,10 @@ const hasRating = rating !== "" && count !== "";
 const reviews = brand.gbpReviews || [];
 const review = hasRating && reviews.length > 0 ? reviews[cityHash(city) % reviews.length] : undefined;
 const heading = isHqCity(city)
-  ? `Headquartered right here in ${city} — ★ ${rating} · ${count} Google reviews`
+  ? `Headquartered right here in ${city}: ★ ${rating} · ${count} Google reviews`
   : isOfficeCity(city)
-    ? `Our ${city} location — ★ ${rating} · ${count} Google reviews`
-    : `Serving ${city} from our ${officeLabelFor(city)} — ★ ${rating} · ${count} Google reviews`;
+    ? `Our ${city} location: ★ ${rating} · ${count} Google reviews`
+    : `Serving ${city} from our ${officeLabelFor(city)}: ★ ${rating} · ${count} Google reviews`;
 const reviewsUrl = brand.placeId
   ? `https://search.google.com/local/reviews?placeid=${brand.placeId}`
   : brand.googleCid
@@ -41,7 +41,7 @@ const reviewsUrl = brand.placeId
         {review && (
           <blockquote class="m-0 mt-4 p-0 border-0 text-dark-700 text-sm leading-relaxed">
             “{review.text}”
-            <span class="text-dark-700/70 font-bold"> — {review.author}{review.when ? `, ${review.when}` : ""}</span>
+            <span class="text-dark-700/70 font-bold">{review.author}{review.when ? `, ${review.when}` : ""}</span>
           </blockquote>
         )}
         {reviewsUrl && (
