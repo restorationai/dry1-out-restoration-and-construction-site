@@ -17,7 +17,7 @@ published_at: "2026-11-13"
 services: ["sewage-cleanup"]
 rendered: true
 ---
-Sewage backup isn't a mess you clean up with gloves and a mop, and it's not just about the smell. Raw sewage carries bacteria, viruses, and parasites that can cause serious illness through skin contact, inhalation, or contamination of surfaces you touch every day. The CDC and EPA both classify sewage as Category 3 water, the most contaminated class of water damage, meaning it's treated as a biohazard from the moment it hits your floor. Without the right protective equipment, containment, and disposal process, DIY cleanup can spread contamination into HVAC systems, subflooring, and porous materials, turning a bad afternoon into a long-term health and structural problem.
+Sewage backup isn't a mess you clean up with gloves and a mop, and it's not just about the smell. Raw sewage carries bacteria, viruses, and parasites that can cause serious illness through skin contact, inhalation, or contamination of surfaces you touch every day. The water damage restoration industry classifies sewage as Category 3 water under IICRC S500 standards, the most contaminated class of water damage, meaning it's treated as a biohazard from the moment it hits your floor. Without the right protective equipment, containment, and disposal process, DIY cleanup can spread contamination into HVAC systems, subflooring, and porous materials, turning a bad afternoon into a long-term health and structural problem.
 
 ## Why Sewage Backup Is a Different Category of Problem
 
