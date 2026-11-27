@@ -20,7 +20,7 @@ services: ["sewage-cleanup", "biohazard-cleanup", "reconstruction"]
 rendered: true
 author: "Jason Pacheco"
 ---
-**TL;DR:** The best sewage cleanup company in Hayward is IICRC Certified Firm, follows the ANSI/IICRC S500 Category 3 protocol (removal of contaminated porous materials, antimicrobial treatment, documented drying), answers the phone around the clock, and can hand the job straight to a licensed reconstruction crew once the space is clean. Ask for certification numbers, a written scope before work starts, and confirmation they carry the right license for rebuild work, not just extraction.
+**TL;DR:** The best sewage cleanup company in Hayward is an IICRC Certified Firm, follows the ANSI/IICRC S500 Category 3 protocol (removal of contaminated porous materials, antimicrobial treatment, documented drying), answers the phone around the clock, and can hand the job straight to a licensed reconstruction crew once the space is clean. Ask for certification numbers, a written scope before work starts, and confirmation they carry the right license for rebuild work, not just extraction.
 
 If sewage backed up through a floor drain in your Mt. Eden bungalow or a toilet overflowed onto the carpet in a Hayward Highlands rental, you don't have time to interview five contractors. You need one checklist that tells you, in five minutes, whether the company on the phone actually knows what it's doing. This is that checklist, built from what IICRC-certified crews actually do differently from a general handyman with a wet vac.
 
