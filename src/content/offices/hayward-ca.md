@@ -2,7 +2,7 @@
 archetype: "office"
 title: "Water, Fire & Mold Damage Restoration in Hayward, CA | Dry 1 Out"
 h1: "Dry 1 Out Restoration and Construction"
-meta_description: "Water, fire & mold damage restoration in Hayward, CA from Dry 1 Out's Hayward office, 2536 Barrington Ct. Call (888) 379-1688, open 24/7."
+meta_description: "Water, fire & mold damage restoration in Hayward, CA from Dry 1 Out's Hayward office, 2536 Barrington Ct. Call (510) 398-4486, open 24/7."
 primary_keyword: "water damage restoration hayward ca"
 secondary_keywords: ["restoration company hayward ca", "dry 1 out restoration and construction hayward"]
 search_intent: "local_commercial"
@@ -16,8 +16,8 @@ street: "2536 Barrington Ct"
 city: "Hayward"
 state: "CA"
 zip: "94545"
-phone: "+18883791688"
-phone_display: "(888) 379-1688"
+phone: "+15103984486"
+phone_display: "(510) 398-4486"
 lat: 37.654419
 lng: -122.141173
 gbp_url: "https://maps.google.com/?cid=12120676356691499205"
@@ -37,7 +37,7 @@ generated_at: "2026-10-20T19:36:20.559731+00:00"
 ---
 ## Water, Fire & Mold Damage Restoration in Hayward, CA
 
-This is the Hayward, CA office of Dry 1 Out Restoration and Construction. You can find us at 2536 Barrington Ct, Hayward, CA 94545, and the office's direct line is [(888) 379-1688](tel:+18883791688).
+This is the Hayward, CA office of Dry 1 Out Restoration and Construction. You can find us at 2536 Barrington Ct, Hayward, CA 94545, and the office's direct line is [(510) 398-4486](tel:+15103984486).
 
 The Hayward line is answered 24 hours a day, 7 days a week, so a call about water, fire, mold or storm damage reaches our team at any hour.
 
@@ -47,4 +47,4 @@ See our [Hayward, CA service area page](/service-areas/hayward-ca/) for the work
 
 Nearby communities we serve include [Oakland, CA](/service-areas/oakland-ca/), [Fremont, CA](/service-areas/fremont-ca/), [Berkeley, CA](/service-areas/berkeley-ca/), [Sunnyvale, CA](/service-areas/sunnyvale-ca/), [Santa Clara, CA](/service-areas/santa-clara-ca/), and [Concord, CA](/service-areas/concord-ca/).
 
-Dry 1 Out Restoration and Construction's main office is in Vista, CA. For anything in and around Hayward, call this office at [(888) 379-1688](tel:+18883791688).
+Dry 1 Out Restoration and Construction's main office is in Vista, CA. For anything in and around Hayward, call this office at [(510) 398-4486](tel:+15103984486).

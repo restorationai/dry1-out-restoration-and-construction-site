@@ -93,6 +93,14 @@ This file is intended for AI assistants and language models to efficiently inges
 (profiles listed in page schema)
 - [Emergency](https://dry1out.com/emergency/): 24/7 emergency water damage response
 
+<!-- rankai:offices:begin -->
+
+## Offices
+
+- [Dry 1 Out Restoration and Construction, Hayward, CA office](https://dry1out.com/locations/hayward-ca/): 2536 Barrington Ct, Hayward, CA 94545. Phone (510) 398-4486.
+
+<!-- rankai:offices:end -->
+
 ## Key facts
 
 - Rated 4.9/5 from 30 Google reviews
